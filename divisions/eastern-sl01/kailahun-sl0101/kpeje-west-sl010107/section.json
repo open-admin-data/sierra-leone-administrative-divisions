@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01010701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bunumbu",
+      "en": "Bunumbu",
+      "slug": "bunumbu"
+    },
+    "code": {
+      "id": "SL01010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010107",
+      "level": 3,
+      "name": {
+        "local": "Kpeje West",
+        "en": "Kpeje West",
+        "slug": "kpeje-west-sl010107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010107",
+        "level": 3,
+        "name": {
+          "local": "Kpeje West",
+          "en": "Kpeje West",
+          "slug": "kpeje-west-sl010107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.168",
+      "lon": "-10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Golama",
+      "en": "Golama",
+      "slug": "golama"
+    },
+    "code": {
+      "id": "SL01010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010107",
+      "level": 3,
+      "name": {
+        "local": "Kpeje West",
+        "en": "Kpeje West",
+        "slug": "kpeje-west-sl010107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010107",
+        "level": 3,
+        "name": {
+          "local": "Kpeje West",
+          "en": "Kpeje West",
+          "slug": "kpeje-west-sl010107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.229",
+      "lon": "-10.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpaewa",
+      "en": "Kpaewa",
+      "slug": "kpaewa"
+    },
+    "code": {
+      "id": "SL01010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010107",
+      "level": 3,
+      "name": {
+        "local": "Kpeje West",
+        "en": "Kpeje West",
+        "slug": "kpeje-west-sl010107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010107",
+        "level": 3,
+        "name": {
+          "local": "Kpeje West",
+          "en": "Kpeje West",
+          "slug": "kpeje-west-sl010107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.22",
+      "lon": "-10.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpindima",
+      "en": "Kpindima",
+      "slug": "kpindima"
+    },
+    "code": {
+      "id": "SL01010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010107",
+      "level": 3,
+      "name": {
+        "local": "Kpeje West",
+        "en": "Kpeje West",
+        "slug": "kpeje-west-sl010107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010107",
+        "level": 3,
+        "name": {
+          "local": "Kpeje West",
+          "en": "Kpeje West",
+          "slug": "kpeje-west-sl010107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.138",
+      "lon": "-10.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL02051001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maboboh Koray",
+      "en": "Maboboh Koray",
+      "slug": "maboboh-koray"
+    },
+    "code": {
+      "id": "SL02051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.716",
+      "lon": "-11.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makrugbeh",
+      "en": "Makrugbeh",
+      "slug": "makrugbeh"
+    },
+    "code": {
+      "id": "SL02051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.608",
+      "lon": "-11.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mange-bana",
+      "en": "Mange-bana",
+      "slug": "mange-bana"
+    },
+    "code": {
+      "id": "SL02051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.585",
+      "lon": "-11.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapakie",
+      "en": "Mapakie",
+      "slug": "mapakie"
+    },
+    "code": {
+      "id": "SL02051004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.617",
+      "lon": "-11.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mathunkara",
+      "en": "Mathunkara",
+      "slug": "mathunkara"
+    },
+    "code": {
+      "id": "SL02051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.764",
+      "lon": "-11.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051006",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matotoka",
+      "en": "Matotoka",
+      "slug": "matotoka"
+    },
+    "code": {
+      "id": "SL02051006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020510",
+      "level": 3,
+      "name": {
+        "local": "Tane",
+        "en": "Tane",
+        "slug": "tane-sl020510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020510",
+        "level": 3,
+        "name": {
+          "local": "Tane",
+          "en": "Tane",
+          "slug": "tane-sl020510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.66",
+      "lon": "-11.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

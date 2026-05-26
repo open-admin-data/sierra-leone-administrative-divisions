@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL02050501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bo Road",
+      "en": "Bo Road",
+      "slug": "bo-road"
+    },
+    "code": {
+      "id": "SL02050501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.719",
+      "lon": "-11.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lal-Lenken",
+      "en": "Lal-Lenken",
+      "slug": "lal-lenken"
+    },
+    "code": {
+      "id": "SL02050502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.76",
+      "lon": "-11.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makump",
+      "en": "Makump",
+      "slug": "makump"
+    },
+    "code": {
+      "id": "SL02050503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.683",
+      "lon": "-11.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamuntha",
+      "en": "Mamuntha",
+      "slug": "mamuntha"
+    },
+    "code": {
+      "id": "SL02050504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.646",
+      "lon": "-12.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayatha",
+      "en": "Mayatha",
+      "slug": "mayatha"
+    },
+    "code": {
+      "id": "SL02050505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.665",
+      "lon": "-11.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayossoh",
+      "en": "Mayossoh",
+      "slug": "mayossoh"
+    },
+    "code": {
+      "id": "SL02050506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.563",
+      "lon": "-12.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Old Magburaka",
+      "en": "Old Magburaka",
+      "slug": "old-magburaka"
+    },
+    "code": {
+      "id": "SL02050507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020505",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Rowala",
+        "en": "Kholifa Rowala",
+        "slug": "kholifa-rowala-sl020505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020505",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Rowala",
+          "en": "Kholifa Rowala",
+          "slug": "kholifa-rowala-sl020505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.72",
+      "lon": "-11.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

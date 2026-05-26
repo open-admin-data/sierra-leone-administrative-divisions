@@ -1,0 +1,56 @@
+{
+  "id": "SL020604",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Neya",
+    "en": "Neya",
+    "slug": "neya-sl020604"
+  },
+  "code": {
+    "id": "SL020604",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0206",
+    "level": 2,
+    "name": {
+      "local": "Fabala",
+      "en": "Fabala",
+      "slug": "fabala-sl0206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.125",
+    "lon": "-10.913"
+  },
+  "metadata": {},
+  "source": {}
+}

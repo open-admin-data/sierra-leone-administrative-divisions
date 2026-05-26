@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL02030801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bendugu",
+      "en": "Bendugu",
+      "slug": "bendugu"
+    },
+    "code": {
+      "id": "SL02030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020308",
+      "level": 3,
+      "name": {
+        "local": "Sengbe",
+        "en": "Sengbe",
+        "slug": "sengbe-sl020308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020308",
+        "level": 3,
+        "name": {
+          "local": "Sengbe",
+          "en": "Sengbe",
+          "slug": "sengbe-sl020308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.579",
+      "lon": "-11.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bilimaia",
+      "en": "Bilimaia",
+      "slug": "bilimaia"
+    },
+    "code": {
+      "id": "SL02030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020308",
+      "level": 3,
+      "name": {
+        "local": "Sengbe",
+        "en": "Sengbe",
+        "slug": "sengbe-sl020308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020308",
+        "level": 3,
+        "name": {
+          "local": "Sengbe",
+          "en": "Sengbe",
+          "slug": "sengbe-sl020308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.596",
+      "lon": "-11.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Heremakono",
+      "en": "Heremakono",
+      "slug": "heremakono"
+    },
+    "code": {
+      "id": "SL02030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020308",
+      "level": 3,
+      "name": {
+        "local": "Sengbe",
+        "en": "Sengbe",
+        "slug": "sengbe-sl020308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020308",
+        "level": 3,
+        "name": {
+          "local": "Sengbe",
+          "en": "Sengbe",
+          "slug": "sengbe-sl020308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.607",
+      "lon": "-11.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koinadugu",
+      "en": "Koinadugu",
+      "slug": "koinadugu"
+    },
+    "code": {
+      "id": "SL02030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020308",
+      "level": 3,
+      "name": {
+        "local": "Sengbe",
+        "en": "Sengbe",
+        "slug": "sengbe-sl020308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020308",
+        "level": 3,
+        "name": {
+          "local": "Sengbe",
+          "en": "Sengbe",
+          "slug": "sengbe-sl020308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.528",
+      "lon": "-11.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yogomaia",
+      "en": "Yogomaia",
+      "slug": "yogomaia"
+    },
+    "code": {
+      "id": "SL02030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020308",
+      "level": 3,
+      "name": {
+        "local": "Sengbe",
+        "en": "Sengbe",
+        "slug": "sengbe-sl020308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020308",
+        "level": 3,
+        "name": {
+          "local": "Sengbe",
+          "en": "Sengbe",
+          "slug": "sengbe-sl020308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.594",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

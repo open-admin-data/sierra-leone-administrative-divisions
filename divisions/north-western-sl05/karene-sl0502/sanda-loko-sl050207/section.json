@@ -1,0 +1,947 @@
+[
+  {
+    "id": "SL05020701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Banka",
+      "en": "Banka",
+      "slug": "banka"
+    },
+    "code": {
+      "id": "SL05020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.425",
+      "lon": "-12.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benia",
+      "en": "Benia",
+      "slug": "benia"
+    },
+    "code": {
+      "id": "SL05020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.421",
+      "lon": "-12.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaindema",
+      "en": "Kaindema",
+      "slug": "kaindema"
+    },
+    "code": {
+      "id": "SL05020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.398",
+      "lon": "-12.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamalu",
+      "en": "Kamalu",
+      "slug": "kamalu"
+    },
+    "code": {
+      "id": "SL05020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.402",
+      "lon": "-12.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kania",
+      "en": "Kania",
+      "slug": "kania"
+    },
+    "code": {
+      "id": "SL05020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.365",
+      "lon": "-12.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kindia",
+      "en": "Kindia",
+      "slug": "kindia"
+    },
+    "code": {
+      "id": "SL05020706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.467",
+      "lon": "-12.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Laminaya",
+      "en": "Laminaya",
+      "slug": "laminaya"
+    },
+    "code": {
+      "id": "SL05020707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.404",
+      "lon": "-12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina"
+    },
+    "code": {
+      "id": "SL05020708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.458",
+      "lon": "-12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020709",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maharibo",
+      "en": "Maharibo",
+      "slug": "maharibo"
+    },
+    "code": {
+      "id": "SL05020709",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.384",
+      "lon": "-12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020710",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makapa",
+      "en": "Makapa",
+      "slug": "makapa"
+    },
+    "code": {
+      "id": "SL05020710",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.378",
+      "lon": "-12.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020711",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makwie Loko",
+      "en": "Makwie Loko",
+      "slug": "makwie-loko"
+    },
+    "code": {
+      "id": "SL05020711",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.518",
+      "lon": "-12.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020712",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manathi",
+      "en": "Manathi",
+      "slug": "manathi"
+    },
+    "code": {
+      "id": "SL05020712",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "-12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020713",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maparay",
+      "en": "Maparay",
+      "slug": "maparay"
+    },
+    "code": {
+      "id": "SL05020713",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.374",
+      "lon": "-12.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020714",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rothatha",
+      "en": "Rothatha",
+      "slug": "rothatha"
+    },
+    "code": {
+      "id": "SL05020714",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.421",
+      "lon": "-12.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020715",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Timbo",
+      "en": "Timbo",
+      "slug": "timbo"
+    },
+    "code": {
+      "id": "SL05020715",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050207",
+      "level": 3,
+      "name": {
+        "local": "Sanda Loko",
+        "en": "Sanda Loko",
+        "slug": "sanda-loko-sl050207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050207",
+        "level": 3,
+        "name": {
+          "local": "Sanda Loko",
+          "en": "Sanda Loko",
+          "slug": "sanda-loko-sl050207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.367",
+      "lon": "-12.276"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

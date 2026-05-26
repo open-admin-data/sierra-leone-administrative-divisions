@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01020801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bonya",
+      "en": "Bonya",
+      "slug": "bonya"
+    },
+    "code": {
+      "id": "SL01020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.271",
+      "lon": "-11.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fallay",
+      "en": "Fallay",
+      "slug": "fallay"
+    },
+    "code": {
+      "id": "SL01020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.171",
+      "lon": "-11.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gboro",
+      "en": "Gboro",
+      "slug": "gboro"
+    },
+    "code": {
+      "id": "SL01020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.108",
+      "lon": "-11.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korjei Buima",
+      "en": "Korjei Buima",
+      "slug": "korjei-buima"
+    },
+    "code": {
+      "id": "SL01020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.107",
+      "lon": "-11.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korjei Ngieya",
+      "en": "Korjei Ngieya",
+      "slug": "korjei-ngieya"
+    },
+    "code": {
+      "id": "SL01020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.116",
+      "lon": "-11.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyawa",
+      "en": "Nyawa",
+      "slug": "nyawa"
+    },
+    "code": {
+      "id": "SL01020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.231",
+      "lon": "-11.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sei",
+      "en": "Sei",
+      "slug": "sei"
+    },
+    "code": {
+      "id": "SL01020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010208",
+      "level": 3,
+      "name": {
+        "local": "Lower Bambara",
+        "en": "Lower Bambara",
+        "slug": "lower-bambara-sl010208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010208",
+        "level": 3,
+        "name": {
+          "local": "Lower Bambara",
+          "en": "Lower Bambara",
+          "slug": "lower-bambara-sl010208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.236",
+      "lon": "-10.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

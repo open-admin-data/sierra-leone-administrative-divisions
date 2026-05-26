@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL01031201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foidu Mongor",
+      "en": "Foidu Mongor",
+      "slug": "foidu-mongor"
+    },
+    "code": {
+      "id": "SL01031201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.539",
+      "lon": "-10.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kokongokuma",
+      "en": "Kokongokuma",
+      "slug": "kokongokuma"
+    },
+    "code": {
+      "id": "SL01031202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.652",
+      "lon": "-10.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maindu",
+      "en": "Maindu",
+      "slug": "maindu"
+    },
+    "code": {
+      "id": "SL01031203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.55",
+      "lon": "-10.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mofinkor",
+      "en": "Mofinkor",
+      "slug": "mofinkor"
+    },
+    "code": {
+      "id": "SL01031204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.665",
+      "lon": "-10.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sawa Buma",
+      "en": "Sawa Buma",
+      "slug": "sawa-buma"
+    },
+    "code": {
+      "id": "SL01031205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.508",
+      "lon": "-10.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sawa Fiama",
+      "en": "Sawa Fiama",
+      "slug": "sawa-fiama"
+    },
+    "code": {
+      "id": "SL01031206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.496",
+      "lon": "-10.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tensekor",
+      "en": "Tensekor",
+      "slug": "tensekor"
+    },
+    "code": {
+      "id": "SL01031207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.592",
+      "lon": "-10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tensendakor",
+      "en": "Tensendakor",
+      "slug": "tensendakor"
+    },
+    "code": {
+      "id": "SL01031208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010312",
+      "level": 3,
+      "name": {
+        "local": "Soa",
+        "en": "Soa",
+        "slug": "soa-sl010312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010312",
+        "level": 3,
+        "name": {
+          "local": "Soa",
+          "en": "Soa",
+          "slug": "soa-sl010312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.561",
+      "lon": "-10.625"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

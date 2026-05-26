@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL03030801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gibina",
+      "en": "Gibina",
+      "slug": "gibina"
+    },
+    "code": {
+      "id": "SL03030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.186",
+      "lon": "-12.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gondama",
+      "en": "Gondama",
+      "slug": "gondama"
+    },
+    "code": {
+      "id": "SL03030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.133",
+      "lon": "-12.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mobonor",
+      "en": "Mobonor",
+      "slug": "mobonor"
+    },
+    "code": {
+      "id": "SL03030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.074",
+      "lon": "-12.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokorewo",
+      "en": "Mokorewo",
+      "slug": "mokorewo"
+    },
+    "code": {
+      "id": "SL03030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.235",
+      "lon": "-12.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mongere",
+      "en": "Mongere",
+      "slug": "mongere"
+    },
+    "code": {
+      "id": "SL03030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.247",
+      "lon": "-12.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mosongla",
+      "en": "Mosongla",
+      "slug": "mosongla"
+    },
+    "code": {
+      "id": "SL03030806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.075",
+      "lon": "-12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mowoto",
+      "en": "Mowoto",
+      "slug": "mowoto"
+    },
+    "code": {
+      "id": "SL03030807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.162",
+      "lon": "-12.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Senehun",
+      "en": "Senehun",
+      "slug": "senehun"
+    },
+    "code": {
+      "id": "SL03030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.144",
+      "lon": "-12.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030809",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taninihun",
+      "en": "Taninihun",
+      "slug": "taninihun"
+    },
+    "code": {
+      "id": "SL03030809",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.116",
+      "lon": "-12.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030810",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tongieh",
+      "en": "Tongieh",
+      "slug": "tongieh"
+    },
+    "code": {
+      "id": "SL03030810",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030308",
+      "level": 3,
+      "name": {
+        "local": "Kongbora",
+        "en": "Kongbora",
+        "slug": "kongbora-sl030308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030308",
+        "level": 3,
+        "name": {
+          "local": "Kongbora",
+          "en": "Kongbora",
+          "slug": "kongbora-sl030308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.235",
+      "lon": "-12.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

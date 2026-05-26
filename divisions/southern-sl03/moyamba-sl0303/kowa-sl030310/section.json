@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03031001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpandobu",
+      "en": "Kpandobu",
+      "slug": "kpandobu"
+    },
+    "code": {
+      "id": "SL03031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.033",
+      "lon": "-11.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moforay",
+      "en": "Moforay",
+      "slug": "moforay"
+    },
+    "code": {
+      "id": "SL03031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.018",
+      "lon": "-12.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mosumana",
+      "en": "Mosumana",
+      "slug": "mosumana"
+    },
+    "code": {
+      "id": "SL03031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.076",
+      "lon": "-12.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngiyeiya",
+      "en": "Ngiyeiya",
+      "slug": "ngiyeiya"
+    },
+    "code": {
+      "id": "SL03031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.052",
+      "lon": "-11.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbahun",
+      "en": "Njagbahun",
+      "slug": "njagbahun"
+    },
+    "code": {
+      "id": "SL03031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.134",
+      "lon": "-11.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031006",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njama",
+      "en": "Njama",
+      "slug": "njama"
+    },
+    "code": {
+      "id": "SL03031006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.088",
+      "lon": "-11.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031007",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tabe",
+      "en": "Tabe",
+      "slug": "tabe"
+    },
+    "code": {
+      "id": "SL03031007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.02",
+      "lon": "-11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031008",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tawoveihun",
+      "en": "Tawoveihun",
+      "slug": "tawoveihun"
+    },
+    "code": {
+      "id": "SL03031008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030310",
+      "level": 3,
+      "name": {
+        "local": "Kowa",
+        "en": "Kowa",
+        "slug": "kowa-sl030310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030310",
+        "level": 3,
+        "name": {
+          "local": "Kowa",
+          "en": "Kowa",
+          "slug": "kowa-sl030310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.077",
+      "lon": "-11.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

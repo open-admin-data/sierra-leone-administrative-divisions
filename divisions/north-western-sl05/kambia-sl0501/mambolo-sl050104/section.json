@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL05010401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalenkay",
+      "en": "Kalenkay",
+      "slug": "kalenkay"
+    },
+    "code": {
+      "id": "SL05010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.896",
+      "lon": "-13.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mambolo",
+      "en": "Mambolo",
+      "slug": "mambolo"
+    },
+    "code": {
+      "id": "SL05010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.905",
+      "lon": "-13.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matetie",
+      "en": "Matetie",
+      "slug": "matetie"
+    },
+    "code": {
+      "id": "SL05010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.902",
+      "lon": "-13.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayakie",
+      "en": "Mayakie",
+      "slug": "mayakie"
+    },
+    "code": {
+      "id": "SL05010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.884",
+      "lon": "-12.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robis",
+      "en": "Robis",
+      "slug": "robis"
+    },
+    "code": {
+      "id": "SL05010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.885",
+      "lon": "-12.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rowollon",
+      "en": "Rowollon",
+      "slug": "rowollon"
+    },
+    "code": {
+      "id": "SL05010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.925",
+      "lon": "-13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tombo-Wallah",
+      "en": "Tombo-Wallah",
+      "slug": "tombo-wallah"
+    },
+    "code": {
+      "id": "SL05010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050104",
+      "level": 3,
+      "name": {
+        "local": "Mambolo",
+        "en": "Mambolo",
+        "slug": "mambolo-sl050104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050104",
+        "level": 3,
+        "name": {
+          "local": "Mambolo",
+          "en": "Mambolo",
+          "slug": "mambolo-sl050104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.864",
+      "lon": "-13.085"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

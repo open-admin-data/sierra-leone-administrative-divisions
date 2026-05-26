@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "SL05030501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Batpolon",
+      "en": "Batpolon",
+      "slug": "batpolon"
+    },
+    "code": {
+      "id": "SL05030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "-12.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Falaba",
+      "en": "Falaba",
+      "slug": "falaba"
+    },
+    "code": {
+      "id": "SL05030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.771",
+      "lon": "-12.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fenka",
+      "en": "Fenka",
+      "slug": "fenka"
+    },
+    "code": {
+      "id": "SL05030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "-12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberray Bana",
+      "en": "Gberray Bana",
+      "slug": "gberray-bana"
+    },
+    "code": {
+      "id": "SL05030504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.588",
+      "lon": "-12.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberray Morie",
+      "en": "Gberray Morie",
+      "slug": "gberray-morie"
+    },
+    "code": {
+      "id": "SL05030505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.786",
+      "lon": "-12.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberray Thunkara",
+      "en": "Gberray Thunkara",
+      "slug": "gberray-thunkara"
+    },
+    "code": {
+      "id": "SL05030506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.707",
+      "lon": "-12.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbonko Mayira",
+      "en": "Gbonko Mayira",
+      "slug": "gbonko-mayira"
+    },
+    "code": {
+      "id": "SL05030507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.645",
+      "lon": "-12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabata",
+      "en": "Kabata",
+      "slug": "kabata"
+    },
+    "code": {
+      "id": "SL05030508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.833",
+      "lon": "-12.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030509",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Komrabai-Waterloo",
+      "en": "Komrabai-Waterloo",
+      "slug": "komrabai-waterloo"
+    },
+    "code": {
+      "id": "SL05030509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.714",
+      "lon": "-12.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030510",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kondato",
+      "en": "Kondato",
+      "slug": "kondato"
+    },
+    "code": {
+      "id": "SL05030510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.76",
+      "lon": "-12.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030511",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maboni",
+      "en": "Maboni",
+      "slug": "maboni"
+    },
+    "code": {
+      "id": "SL05030511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.638",
+      "lon": "-12.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030512",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maforay",
+      "en": "Maforay",
+      "slug": "maforay"
+    },
+    "code": {
+      "id": "SL05030512",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.701",
+      "lon": "-12.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030513",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbankitha",
+      "en": "Magbankitha",
+      "slug": "magbankitha"
+    },
+    "code": {
+      "id": "SL05030513",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.743",
+      "lon": "-12.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030514",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbengbeh",
+      "en": "Magbengbeh",
+      "slug": "magbengbeh"
+    },
+    "code": {
+      "id": "SL05030514",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.675",
+      "lon": "-12.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030515",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbeni",
+      "en": "Magbeni",
+      "slug": "magbeni"
+    },
+    "code": {
+      "id": "SL05030515",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.804",
+      "lon": "-12.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030516",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makorobolai",
+      "en": "Makorobolai",
+      "slug": "makorobolai"
+    },
+    "code": {
+      "id": "SL05030516",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.586",
+      "lon": "-12.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030517",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malal",
+      "en": "Malal",
+      "slug": "malal"
+    },
+    "code": {
+      "id": "SL05030517",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.855",
+      "lon": "-12.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030518",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamanso",
+      "en": "Mamanso",
+      "slug": "mamanso"
+    },
+    "code": {
+      "id": "SL05030518",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "-12.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030519",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapolie",
+      "en": "Mapolie",
+      "slug": "mapolie"
+    },
+    "code": {
+      "id": "SL05030519",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.629",
+      "lon": "-12.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030520",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maronko",
+      "en": "Maronko",
+      "slug": "maronko"
+    },
+    "code": {
+      "id": "SL05030520",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.731",
+      "lon": "-12.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030521",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marunia",
+      "en": "Marunia",
+      "slug": "marunia"
+    },
+    "code": {
+      "id": "SL05030521",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.643",
+      "lon": "-12.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030522",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Massebay",
+      "en": "Massebay",
+      "slug": "massebay"
+    },
+    "code": {
+      "id": "SL05030522",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.583",
+      "lon": "-12.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030523",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mathera",
+      "en": "Mathera",
+      "slug": "mathera"
+    },
+    "code": {
+      "id": "SL05030523",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.679",
+      "lon": "-12.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030524",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moria",
+      "en": "Moria",
+      "slug": "moria"
+    },
+    "code": {
+      "id": "SL05030524",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.725",
+      "lon": "-12.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030525",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Old Port Loko",
+      "en": "Old Port Loko",
+      "slug": "old-port-loko"
+    },
+    "code": {
+      "id": "SL05030525",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.751",
+      "lon": "-12.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030526",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Romaka",
+      "en": "Romaka",
+      "slug": "romaka"
+    },
+    "code": {
+      "id": "SL05030526",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.783",
+      "lon": "-12.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030527",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosarr",
+      "en": "Rosarr",
+      "slug": "rosarr"
+    },
+    "code": {
+      "id": "SL05030527",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.733",
+      "lon": "-12.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030528",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "SL05030528",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.762",
+      "lon": "-12.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030529",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendugu",
+      "en": "Sendugu",
+      "slug": "sendugu"
+    },
+    "code": {
+      "id": "SL05030529",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.774",
+      "lon": "-12.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030530",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tauya",
+      "en": "Tauya",
+      "slug": "tauya"
+    },
+    "code": {
+      "id": "SL05030530",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050305",
+      "level": 3,
+      "name": {
+        "local": "Maforki",
+        "en": "Maforki",
+        "slug": "maforki-sl050305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050305",
+        "level": 3,
+        "name": {
+          "local": "Maforki",
+          "en": "Maforki",
+          "slug": "maforki-sl050305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.825",
+      "lon": "-12.813"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

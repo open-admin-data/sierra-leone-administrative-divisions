@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL03010301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jongo",
+      "en": "Jongo",
+      "slug": "jongo"
+    },
+    "code": {
+      "id": "SL03010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030103",
+      "level": 3,
+      "name": {
+        "local": "Bagbwe(Bagbe)",
+        "en": "Bagbwe(Bagbe)",
+        "slug": "bagbwebagbe-sl030103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030103",
+        "level": 3,
+        "name": {
+          "local": "Bagbwe(Bagbe)",
+          "en": "Bagbwe(Bagbe)",
+          "slug": "bagbwebagbe-sl030103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.063",
+      "lon": "-11.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL03010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030103",
+      "level": 3,
+      "name": {
+        "local": "Bagbwe(Bagbe)",
+        "en": "Bagbwe(Bagbe)",
+        "slug": "bagbwebagbe-sl030103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030103",
+        "level": 3,
+        "name": {
+          "local": "Bagbwe(Bagbe)",
+          "en": "Bagbwe(Bagbe)",
+          "slug": "bagbwebagbe-sl030103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.021",
+      "lon": "-11.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Niawa",
+      "en": "Niawa",
+      "slug": "niawa"
+    },
+    "code": {
+      "id": "SL03010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030103",
+      "level": 3,
+      "name": {
+        "local": "Bagbwe(Bagbe)",
+        "en": "Bagbwe(Bagbe)",
+        "slug": "bagbwebagbe-sl030103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030103",
+        "level": 3,
+        "name": {
+          "local": "Bagbwe(Bagbe)",
+          "en": "Bagbwe(Bagbe)",
+          "slug": "bagbwebagbe-sl030103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.031",
+      "lon": "-11.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyallay",
+      "en": "Nyallay",
+      "slug": "nyallay"
+    },
+    "code": {
+      "id": "SL03010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030103",
+      "level": 3,
+      "name": {
+        "local": "Bagbwe(Bagbe)",
+        "en": "Bagbwe(Bagbe)",
+        "slug": "bagbwebagbe-sl030103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030103",
+        "level": 3,
+        "name": {
+          "local": "Bagbwe(Bagbe)",
+          "en": "Bagbwe(Bagbe)",
+          "slug": "bagbwebagbe-sl030103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.098",
+      "lon": "-11.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samawa",
+      "en": "Samawa",
+      "slug": "samawa"
+    },
+    "code": {
+      "id": "SL03010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030103",
+      "level": 3,
+      "name": {
+        "local": "Bagbwe(Bagbe)",
+        "en": "Bagbwe(Bagbe)",
+        "slug": "bagbwebagbe-sl030103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030103",
+        "level": 3,
+        "name": {
+          "local": "Bagbwe(Bagbe)",
+          "en": "Bagbwe(Bagbe)",
+          "slug": "bagbwebagbe-sl030103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.134",
+      "lon": "-11.508"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

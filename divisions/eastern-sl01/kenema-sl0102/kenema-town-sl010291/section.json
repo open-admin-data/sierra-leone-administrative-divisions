@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "SL01029101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Airfield",
+      "en": "Airfield",
+      "slug": "airfield"
+    },
+    "code": {
+      "id": "SL01029101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.899",
+      "lon": "-11.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Bur",
+      "en": "Gbo Kakajama A-Bur",
+      "slug": "gbo-kakajama-a-bur"
+    },
+    "code": {
+      "id": "SL01029102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.893",
+      "lon": "-11.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Kis",
+      "en": "Gbo Kakajama A-Kis",
+      "slug": "gbo-kakajama-a-kis"
+    },
+    "code": {
+      "id": "SL01029109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "-11.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Kpa",
+      "en": "Gbo Kakajama A-Kpa",
+      "slug": "gbo-kakajama-a-kpa"
+    },
+    "code": {
+      "id": "SL01029108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.871",
+      "lon": "-11.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029114",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Lam",
+      "en": "Gbo Kakajama A-Lam",
+      "slug": "gbo-kakajama-a-lam"
+    },
+    "code": {
+      "id": "SL01029114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.854",
+      "lon": "-11.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Lum",
+      "en": "Gbo Kakajama A-Lum",
+      "slug": "gbo-kakajama-a-lum"
+    },
+    "code": {
+      "id": "SL01029103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.883",
+      "lon": "-11.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Nja",
+      "en": "Gbo Kakajama A-Nja",
+      "slug": "gbo-kakajama-a-nja"
+    },
+    "code": {
+      "id": "SL01029107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.873",
+      "lon": "-11.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Shi",
+      "en": "Gbo Kakajama A-Shi",
+      "slug": "gbo-kakajama-a-shi"
+    },
+    "code": {
+      "id": "SL01029110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "-11.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama A-Tec",
+      "en": "Gbo Kakajama A-Tec",
+      "slug": "gbo-kakajama-a-tec"
+    },
+    "code": {
+      "id": "SL01029106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.88",
+      "lon": "-11.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029113",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Fo",
+      "en": "Gbo Lambayama A-Fo",
+      "slug": "gbo-lambayama-a-fo"
+    },
+    "code": {
+      "id": "SL01029113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "-11.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029115",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Go",
+      "en": "Gbo Lambayama A-Go",
+      "slug": "gbo-lambayama-a-go"
+    },
+    "code": {
+      "id": "SL01029115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.908",
+      "lon": "-11.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029117",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Ko",
+      "en": "Gbo Lambayama A-Ko",
+      "slug": "gbo-lambayama-a-ko"
+    },
+    "code": {
+      "id": "SL01029117",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.899",
+      "lon": "-11.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Le",
+      "en": "Gbo Lambayama A-Le",
+      "slug": "gbo-lambayama-a-le"
+    },
+    "code": {
+      "id": "SL01029104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.892",
+      "lon": "-11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Nd",
+      "en": "Gbo Lambayama A-Nd",
+      "slug": "gbo-lambayama-a-nd"
+    },
+    "code": {
+      "id": "SL01029112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.867",
+      "lon": "-11.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Ny",
+      "en": "Gbo Lambayama A-Ny",
+      "slug": "gbo-lambayama-a-ny"
+    },
+    "code": {
+      "id": "SL01029111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.871",
+      "lon": "-11.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-Re",
+      "en": "Gbo Lambayama A-Re",
+      "slug": "gbo-lambayama-a-re"
+    },
+    "code": {
+      "id": "SL01029105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.884",
+      "lon": "-11.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01029116",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama A-RT",
+      "en": "Gbo Lambayama A-RT",
+      "slug": "gbo-lambayama-a-rt"
+    },
+    "code": {
+      "id": "SL01029116",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010291",
+      "level": 3,
+      "name": {
+        "local": "Kenema Town",
+        "en": "Kenema Town",
+        "slug": "kenema-town-sl010291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010291",
+        "level": 3,
+        "name": {
+          "local": "Kenema Town",
+          "en": "Kenema Town",
+          "slug": "kenema-town-sl010291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.913",
+      "lon": "-11.171"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

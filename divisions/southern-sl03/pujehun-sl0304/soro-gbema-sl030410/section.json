@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL03041001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemokai",
+      "en": "Kemokai",
+      "slug": "kemokai"
+    },
+    "code": {
+      "id": "SL03041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "-11.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kengo",
+      "en": "Kengo",
+      "slug": "kengo"
+    },
+    "code": {
+      "id": "SL03041002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.174",
+      "lon": "-11.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kiazombo",
+      "en": "Kiazombo",
+      "slug": "kiazombo"
+    },
+    "code": {
+      "id": "SL03041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.158",
+      "lon": "-11.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mano - River",
+      "en": "Mano - River",
+      "slug": "mano---river"
+    },
+    "code": {
+      "id": "SL03041004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.974",
+      "lon": "-11.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Massaquoi I",
+      "en": "Massaquoi I",
+      "slug": "massaquoi-i"
+    },
+    "code": {
+      "id": "SL03041005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.122",
+      "lon": "-11.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041006",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Massaquoi II",
+      "en": "Massaquoi II",
+      "slug": "massaquoi-ii"
+    },
+    "code": {
+      "id": "SL03041006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "-11.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041007",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moiwebu",
+      "en": "Moiwebu",
+      "slug": "moiwebu"
+    },
+    "code": {
+      "id": "SL03041007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.07",
+      "lon": "-11.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041008",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zoker I",
+      "en": "Zoker I",
+      "slug": "zoker-i"
+    },
+    "code": {
+      "id": "SL03041008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.141",
+      "lon": "-11.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041009",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zoker II",
+      "en": "Zoker II",
+      "slug": "zoker-ii"
+    },
+    "code": {
+      "id": "SL03041009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.224",
+      "lon": "-11.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041010",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zombo",
+      "en": "Zombo",
+      "slug": "zombo"
+    },
+    "code": {
+      "id": "SL03041010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030410",
+      "level": 3,
+      "name": {
+        "local": "Soro Gbema",
+        "en": "Soro Gbema",
+        "slug": "soro-gbema-sl030410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030410",
+        "level": 3,
+        "name": {
+          "local": "Soro Gbema",
+          "en": "Soro Gbema",
+          "slug": "soro-gbema-sl030410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "-11.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

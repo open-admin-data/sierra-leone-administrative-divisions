@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01011401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bendu",
+      "en": "Bendu",
+      "slug": "bendu"
+    },
+    "code": {
+      "id": "SL01011401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010114",
+      "level": 3,
+      "name": {
+        "local": "Yawei",
+        "en": "Yawei",
+        "slug": "yawei-sl010114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010114",
+        "level": 3,
+        "name": {
+          "local": "Yawei",
+          "en": "Yawei",
+          "slug": "yawei-sl010114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.324",
+      "lon": "-10.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kuiva Buima",
+      "en": "Kuiva Buima",
+      "slug": "kuiva-buima"
+    },
+    "code": {
+      "id": "SL01011402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010114",
+      "level": 3,
+      "name": {
+        "local": "Yawei",
+        "en": "Yawei",
+        "slug": "yawei-sl010114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010114",
+        "level": 3,
+        "name": {
+          "local": "Yawei",
+          "en": "Yawei",
+          "slug": "yawei-sl010114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.263",
+      "lon": "-10.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kuiva Jagor",
+      "en": "Kuiva Jagor",
+      "slug": "kuiva-jagor"
+    },
+    "code": {
+      "id": "SL01011403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010114",
+      "level": 3,
+      "name": {
+        "local": "Yawei",
+        "en": "Yawei",
+        "slug": "yawei-sl010114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010114",
+        "level": 3,
+        "name": {
+          "local": "Yawei",
+          "en": "Yawei",
+          "slug": "yawei-sl010114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.358",
+      "lon": "-10.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kuivawa",
+      "en": "Kuivawa",
+      "slug": "kuivawa"
+    },
+    "code": {
+      "id": "SL01011404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010114",
+      "level": 3,
+      "name": {
+        "local": "Yawei",
+        "en": "Yawei",
+        "slug": "yawei-sl010114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010114",
+        "level": 3,
+        "name": {
+          "local": "Yawei",
+          "en": "Yawei",
+          "slug": "yawei-sl010114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.327",
+      "lon": "-10.854"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

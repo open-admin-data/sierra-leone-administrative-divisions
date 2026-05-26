@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL05020101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foredugu",
+      "en": "Foredugu",
+      "slug": "foredugu"
+    },
+    "code": {
+      "id": "SL05020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.791",
+      "lon": "-12.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbaran Kamba",
+      "en": "Gbaran Kamba",
+      "slug": "gbaran-kamba"
+    },
+    "code": {
+      "id": "SL05020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.834",
+      "lon": "-12.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamasundu",
+      "en": "Kamasundu",
+      "slug": "kamasundu"
+    },
+    "code": {
+      "id": "SL05020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.875",
+      "lon": "-12.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabureh Buya",
+      "en": "Mabureh Buya",
+      "slug": "mabureh-buya"
+    },
+    "code": {
+      "id": "SL05020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.875",
+      "lon": "-12.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabureh Mende",
+      "en": "Mabureh Mende",
+      "slug": "mabureh-mende"
+    },
+    "code": {
+      "id": "SL05020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.793",
+      "lon": "-12.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbengbe",
+      "en": "Magbengbe",
+      "slug": "magbengbe"
+    },
+    "code": {
+      "id": "SL05020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.83",
+      "lon": "-12.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manungbu",
+      "en": "Manungbu",
+      "slug": "manungbu"
+    },
+    "code": {
+      "id": "SL05020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.886",
+      "lon": "-12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Bana",
+      "en": "Petifu Bana",
+      "slug": "petifu-bana"
+    },
+    "code": {
+      "id": "SL05020108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.727",
+      "lon": "-12.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robis",
+      "en": "Robis",
+      "slug": "robis"
+    },
+    "code": {
+      "id": "SL05020109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.753",
+      "lon": "-12.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokel",
+      "en": "Rokel",
+      "slug": "rokel"
+    },
+    "code": {
+      "id": "SL05020110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "-12.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosint",
+      "en": "Rosint",
+      "slug": "rosint"
+    },
+    "code": {
+      "id": "SL05020111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.827",
+      "lon": "-12.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Worreh Mapoteh",
+      "en": "Worreh Mapoteh",
+      "slug": "worreh-mapoteh"
+    },
+    "code": {
+      "id": "SL05020112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050201",
+      "level": 3,
+      "name": {
+        "local": "Buya Romende",
+        "en": "Buya Romende",
+        "slug": "buya-romende-sl050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050201",
+        "level": 3,
+        "name": {
+          "local": "Buya Romende",
+          "en": "Buya Romende",
+          "slug": "buya-romende-sl050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.883",
+      "lon": "-12.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

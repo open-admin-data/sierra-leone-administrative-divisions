@@ -1,0 +1,56 @@
+{
+  "id": "SL010211",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Nomo",
+    "en": "Nomo",
+    "slug": "nomo-sl010211"
+  },
+  "code": {
+    "id": "SL010211",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0102",
+    "level": 2,
+    "name": {
+      "local": "Kenema",
+      "en": "Kenema",
+      "slug": "kenema-sl0102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.554",
+    "lon": "-10.944"
+  },
+  "metadata": {},
+  "source": {}
+}

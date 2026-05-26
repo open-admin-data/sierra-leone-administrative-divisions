@@ -1,0 +1,21 @@
+# Sierra Leone Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Eastern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/blob/main/docs/llms-full/eastern-sl01.txt) — 3 districts, 46 chiefdoms, 265 sections
+- [North Western](https://github.com/open-admin-data/sierra-leone-administrative-divisions/blob/main/docs/llms-full/north-western-sl05.txt) — 3 districts, 23 chiefdoms, 284 sections
+- [Northern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/blob/main/docs/llms-full/northern-sl02.txt) — 4 districts, 31 chiefdoms, 258 sections
+- [Southern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/blob/main/docs/llms-full/southern-sl03.txt) — 4 districts, 54 chiefdoms, 422 sections
+- [Western](https://github.com/open-admin-data/sierra-leone-administrative-divisions/blob/main/docs/llms-full/western-sl04.txt) — 2 districts, 13 chiefdoms, 87 sections
+
+## Summary
+
+| Province | Districts | Chiefdoms | Sections | 
+|---|---|---|---|
+| Eastern | 3 | 46 | 265 | 
+| North Western | 3 | 23 | 284 | 
+| Northern | 4 | 31 | 258 | 
+| Southern | 4 | 54 | 422 | 
+| Western | 2 | 13 | 87 | 

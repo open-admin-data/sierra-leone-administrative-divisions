@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL03031401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bei-Kelleh",
+      "en": "Bei-Kelleh",
+      "slug": "bei-kelleh"
+    },
+    "code": {
+      "id": "SL03031401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030314",
+      "level": 3,
+      "name": {
+        "local": "Upper Banta",
+        "en": "Upper Banta",
+        "slug": "upper-banta-sl030314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030314",
+        "level": 3,
+        "name": {
+          "local": "Upper Banta",
+          "en": "Upper Banta",
+          "slug": "upper-banta-sl030314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.738",
+      "lon": "-12.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kenafallay",
+      "en": "Kenafallay",
+      "slug": "kenafallay"
+    },
+    "code": {
+      "id": "SL03031402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030314",
+      "level": 3,
+      "name": {
+        "local": "Upper Banta",
+        "en": "Upper Banta",
+        "slug": "upper-banta-sl030314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030314",
+        "level": 3,
+        "name": {
+          "local": "Upper Banta",
+          "en": "Upper Banta",
+          "slug": "upper-banta-sl030314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.755",
+      "lon": "-12.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kepay",
+      "en": "Kepay",
+      "slug": "kepay"
+    },
+    "code": {
+      "id": "SL03031403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030314",
+      "level": 3,
+      "name": {
+        "local": "Upper Banta",
+        "en": "Upper Banta",
+        "slug": "upper-banta-sl030314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030314",
+        "level": 3,
+        "name": {
+          "local": "Upper Banta",
+          "en": "Upper Banta",
+          "slug": "upper-banta-sl030314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.775",
+      "lon": "-12.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mogongbe",
+      "en": "Mogongbe",
+      "slug": "mogongbe"
+    },
+    "code": {
+      "id": "SL03031404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030314",
+      "level": 3,
+      "name": {
+        "local": "Upper Banta",
+        "en": "Upper Banta",
+        "slug": "upper-banta-sl030314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030314",
+        "level": 3,
+        "name": {
+          "local": "Upper Banta",
+          "en": "Upper Banta",
+          "slug": "upper-banta-sl030314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.698",
+      "lon": "-12.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Songbo",
+      "en": "Songbo",
+      "slug": "songbo"
+    },
+    "code": {
+      "id": "SL03031405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030314",
+      "level": 3,
+      "name": {
+        "local": "Upper Banta",
+        "en": "Upper Banta",
+        "slug": "upper-banta-sl030314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030314",
+        "level": 3,
+        "name": {
+          "local": "Upper Banta",
+          "en": "Upper Banta",
+          "slug": "upper-banta-sl030314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.701",
+      "lon": "-12.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

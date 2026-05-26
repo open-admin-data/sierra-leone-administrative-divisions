@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL01021201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dagbanya",
+      "en": "Dagbanya",
+      "slug": "dagbanya"
+    },
+    "code": {
+      "id": "SL01021201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.922",
+      "lon": "-11.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dakpana",
+      "en": "Dakpana",
+      "slug": "dakpana"
+    },
+    "code": {
+      "id": "SL01021202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.032",
+      "lon": "-11.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Kakajama B",
+      "en": "Gbo Kakajama B",
+      "slug": "gbo-kakajama-b"
+    },
+    "code": {
+      "id": "SL01021203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.859",
+      "lon": "-11.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo Lambayama B",
+      "en": "Gbo Lambayama B",
+      "slug": "gbo-lambayama-b"
+    },
+    "code": {
+      "id": "SL01021204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.909",
+      "lon": "-11.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbado Kamboima",
+      "en": "Kagbado Kamboima",
+      "slug": "kagbado-kamboima"
+    },
+    "code": {
+      "id": "SL01021205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "-11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbado Njeigbla",
+      "en": "Kagbado Njeigbla",
+      "slug": "kagbado-njeigbla"
+    },
+    "code": {
+      "id": "SL01021206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.9",
+      "lon": "-11.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kona Foiya",
+      "en": "Kona Foiya",
+      "slug": "kona-foiya"
+    },
+    "code": {
+      "id": "SL01021207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.993",
+      "lon": "-11.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kona Kpindibu",
+      "en": "Kona Kpindibu",
+      "slug": "kona-kpindibu"
+    },
+    "code": {
+      "id": "SL01021208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010212",
+      "level": 3,
+      "name": {
+        "local": "Nongowa",
+        "en": "Nongowa",
+        "slug": "nongowa-sl010212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010212",
+        "level": 3,
+        "name": {
+          "local": "Nongowa",
+          "en": "Nongowa",
+          "slug": "nongowa-sl010212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.03",
+      "lon": "-11.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

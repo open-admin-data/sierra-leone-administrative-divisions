@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "SL02010401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Garanganwa",
+      "en": "Garanganwa",
+      "slug": "garanganwa"
+    },
+    "code": {
+      "id": "SL02010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.966",
+      "lon": "-12.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbendembu",
+      "en": "Gbendembu",
+      "slug": "gbendembu"
+    },
+    "code": {
+      "id": "SL02010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.082",
+      "lon": "-12.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalangba",
+      "en": "Kalangba",
+      "slug": "kalangba"
+    },
+    "code": {
+      "id": "SL02010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9",
+      "lon": "-12.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kania",
+      "en": "Kania",
+      "slug": "kania"
+    },
+    "code": {
+      "id": "SL02010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.074",
+      "lon": "-12.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lobanga",
+      "en": "Lobanga",
+      "slug": "lobanga"
+    },
+    "code": {
+      "id": "SL02010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.2",
+      "lon": "-12.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lohindie",
+      "en": "Lohindie",
+      "slug": "lohindie"
+    },
+    "code": {
+      "id": "SL02010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.142",
+      "lon": "-12.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Loko-Madina",
+      "en": "Loko-Madina",
+      "slug": "loko-madina"
+    },
+    "code": {
+      "id": "SL02010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.116",
+      "lon": "-12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makai",
+      "en": "Makai",
+      "slug": "makai"
+    },
+    "code": {
+      "id": "SL02010408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.137",
+      "lon": "-12.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010409",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makarihiteh",
+      "en": "Makarihiteh",
+      "slug": "makarihiteh"
+    },
+    "code": {
+      "id": "SL02010409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.027",
+      "lon": "-12.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010410",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makeregbohun",
+      "en": "Makeregbohun",
+      "slug": "makeregbohun"
+    },
+    "code": {
+      "id": "SL02010410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.998",
+      "lon": "-12.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010411",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makump",
+      "en": "Makump",
+      "slug": "makump"
+    },
+    "code": {
+      "id": "SL02010411",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.051",
+      "lon": "-12.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010412",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamaka",
+      "en": "Mamaka",
+      "slug": "mamaka"
+    },
+    "code": {
+      "id": "SL02010412",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.046",
+      "lon": "-12.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010413",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamukay",
+      "en": "Mamukay",
+      "slug": "mamukay"
+    },
+    "code": {
+      "id": "SL02010413",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.019",
+      "lon": "-12.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010414",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masongbo",
+      "en": "Masongbo",
+      "slug": "masongbo"
+    },
+    "code": {
+      "id": "SL02010414",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.955",
+      "lon": "-12.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010415",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matehun",
+      "en": "Matehun",
+      "slug": "matehun"
+    },
+    "code": {
+      "id": "SL02010415",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.054",
+      "lon": "-12.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010416",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayorthan",
+      "en": "Mayorthan",
+      "slug": "mayorthan"
+    },
+    "code": {
+      "id": "SL02010416",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.106",
+      "lon": "-12.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010417",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sahun",
+      "en": "Sahun",
+      "slug": "sahun"
+    },
+    "code": {
+      "id": "SL02010417",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.11",
+      "lon": "-12.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010418",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tambiama",
+      "en": "Tambiama",
+      "slug": "tambiama"
+    },
+    "code": {
+      "id": "SL02010418",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.985",
+      "lon": "-12.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010419",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tanyehun",
+      "en": "Tanyehun",
+      "slug": "tanyehun"
+    },
+    "code": {
+      "id": "SL02010419",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020104",
+      "level": 3,
+      "name": {
+        "local": "Gbendembu Ngowa",
+        "en": "Gbendembu Ngowa",
+        "slug": "gbendembu-ngowa-sl020104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020104",
+        "level": 3,
+        "name": {
+          "local": "Gbendembu Ngowa",
+          "en": "Gbendembu Ngowa",
+          "slug": "gbendembu-ngowa-sl020104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.199",
+      "lon": "-12.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

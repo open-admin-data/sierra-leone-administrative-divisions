@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "SL05010101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Banguraia",
+      "en": "Banguraia",
+      "slug": "banguraia"
+    },
+    "code": {
+      "id": "SL05010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "-12.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bassia",
+      "en": "Bassia",
+      "slug": "bassia"
+    },
+    "code": {
+      "id": "SL05010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.272",
+      "lon": "-12.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bugami",
+      "en": "Bugami",
+      "slug": "bugami"
+    },
+    "code": {
+      "id": "SL05010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.488",
+      "lon": "-12.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Duramania",
+      "en": "Duramania",
+      "slug": "duramania"
+    },
+    "code": {
+      "id": "SL05010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.435",
+      "lon": "-12.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Filligungee",
+      "en": "Filligungee",
+      "slug": "filligungee"
+    },
+    "code": {
+      "id": "SL05010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.392",
+      "lon": "-12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fortumboyie",
+      "en": "Fortumboyie",
+      "slug": "fortumboyie"
+    },
+    "code": {
+      "id": "SL05010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.373",
+      "lon": "-12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberekhuray",
+      "en": "Gberekhuray",
+      "slug": "gberekhuray"
+    },
+    "code": {
+      "id": "SL05010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.469",
+      "lon": "-12.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbolon",
+      "en": "Gbolon",
+      "slug": "gbolon"
+    },
+    "code": {
+      "id": "SL05010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.34",
+      "lon": "-12.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabaya",
+      "en": "Kabaya",
+      "slug": "kabaya"
+    },
+    "code": {
+      "id": "SL05010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.432",
+      "lon": "-12.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kanku Bramaia",
+      "en": "Kanku Bramaia",
+      "slug": "kanku-bramaia"
+    },
+    "code": {
+      "id": "SL05010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.259",
+      "lon": "-12.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konta",
+      "en": "Konta",
+      "slug": "konta"
+    },
+    "code": {
+      "id": "SL05010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.554",
+      "lon": "-12.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kua Bramaia",
+      "en": "Kua Bramaia",
+      "slug": "kua-bramaia"
+    },
+    "code": {
+      "id": "SL05010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.32",
+      "lon": "-12.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010113",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kufuru",
+      "en": "Kufuru",
+      "slug": "kufuru"
+    },
+    "code": {
+      "id": "SL05010113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.512",
+      "lon": "-12.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010114",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kukuna",
+      "en": "Kukuna",
+      "slug": "kukuna"
+    },
+    "code": {
+      "id": "SL05010114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.408",
+      "lon": "-12.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010115",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Laminaia",
+      "en": "Laminaia",
+      "slug": "laminaia"
+    },
+    "code": {
+      "id": "SL05010115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.234",
+      "lon": "-12.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010116",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sansangie",
+      "en": "Sansangie",
+      "slug": "sansangie"
+    },
+    "code": {
+      "id": "SL05010116",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.271",
+      "lon": "-12.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010117",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seduya",
+      "en": "Seduya",
+      "slug": "seduya"
+    },
+    "code": {
+      "id": "SL05010117",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.433",
+      "lon": "-12.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010118",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Shekaia",
+      "en": "Shekaia",
+      "slug": "shekaia"
+    },
+    "code": {
+      "id": "SL05010118",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.291",
+      "lon": "-12.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010119",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sulaimania",
+      "en": "Sulaimania",
+      "slug": "sulaimania"
+    },
+    "code": {
+      "id": "SL05010119",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.288",
+      "lon": "-12.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010120",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Teneba Bramaia",
+      "en": "Teneba Bramaia",
+      "slug": "teneba-bramaia"
+    },
+    "code": {
+      "id": "SL05010120",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "-12.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010121",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Turaya",
+      "en": "Turaya",
+      "slug": "turaya"
+    },
+    "code": {
+      "id": "SL05010121",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050101",
+      "level": 3,
+      "name": {
+        "local": "Bramaia",
+        "en": "Bramaia",
+        "slug": "bramaia-sl050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050101",
+        "level": 3,
+        "name": {
+          "local": "Bramaia",
+          "en": "Bramaia",
+          "slug": "bramaia-sl050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.481",
+      "lon": "-12.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

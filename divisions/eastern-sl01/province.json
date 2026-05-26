@@ -1,0 +1,31 @@
+{
+  "id": "SL01",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Eastern",
+    "en": "Eastern",
+    "slug": "eastern-sl01"
+  },
+  "code": {
+    "id": "SL01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "section": 265,
+    "chiefdom": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.209",
+    "lon": "-10.845"
+  },
+  "metadata": {},
+  "source": {}
+}

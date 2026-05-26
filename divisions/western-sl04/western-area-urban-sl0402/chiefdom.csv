@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.section,geo.lat,geo.lon
+SL040201,Central I,Central I,central-i-sl040201,SL040201,5,8.48,-13.231
+SL040202,Central II,Central II,central-ii-sl040202,SL040202,2,8.485,-13.238
+SL040203,East I,East I,east-i-sl040203,SL040203,3,8.488,-13.215
+SL040204,East II,East II,east-ii-sl040204,SL040204,8,8.48,-13.216
+SL040205,East III,East III,east-iii-sl040205,SL040205,25,8.442,-13.172
+SL040209,Tasso Island,Tasso Island,tasso-island-sl040209,SL040209,1,8.553,-13.074
+SL040206,West I,West I,west-i-sl040206,SL040206,4,8.482,-13.246
+SL040207,West II,West II,west-ii-sl040207,SL040207,7,8.471,-13.244
+SL040208,West III,West III,west-iii-sl040208,SL040208,10,8.469,-13.266

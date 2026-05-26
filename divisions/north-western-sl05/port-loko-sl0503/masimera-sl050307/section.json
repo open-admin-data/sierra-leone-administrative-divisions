@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL05030701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Biki",
+      "en": "Biki",
+      "slug": "biki"
+    },
+    "code": {
+      "id": "SL05030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-12.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Biss-Manika",
+      "en": "Biss-Manika",
+      "slug": "biss-manika"
+    },
+    "code": {
+      "id": "SL05030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.532",
+      "lon": "-12.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Katick",
+      "en": "Katick",
+      "slug": "katick"
+    },
+    "code": {
+      "id": "SL05030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.55",
+      "lon": "-12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maconteh",
+      "en": "Maconteh",
+      "slug": "maconteh"
+    },
+    "code": {
+      "id": "SL05030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.565",
+      "lon": "-12.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamalikie",
+      "en": "Mamalikie",
+      "slug": "mamalikie"
+    },
+    "code": {
+      "id": "SL05030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masimera",
+      "en": "Masimera",
+      "slug": "masimera"
+    },
+    "code": {
+      "id": "SL05030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.632",
+      "lon": "-12.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matuku",
+      "en": "Matuku",
+      "slug": "matuku"
+    },
+    "code": {
+      "id": "SL05030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.552",
+      "lon": "-12.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayola-Thatha",
+      "en": "Mayola-Thatha",
+      "slug": "mayola-thatha"
+    },
+    "code": {
+      "id": "SL05030708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.603",
+      "lon": "-12.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030709",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nonkoba",
+      "en": "Nonkoba",
+      "slug": "nonkoba"
+    },
+    "code": {
+      "id": "SL05030709",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.62",
+      "lon": "-12.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030710",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokel",
+      "en": "Rokel",
+      "slug": "rokel"
+    },
+    "code": {
+      "id": "SL05030710",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.565",
+      "lon": "-12.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030711",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokon/Komboya",
+      "en": "Rokon/Komboya",
+      "slug": "rokonkomboya"
+    },
+    "code": {
+      "id": "SL05030711",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.579",
+      "lon": "-12.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030712",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yoni-Pet",
+      "en": "Yoni-Pet",
+      "slug": "yoni-pet"
+    },
+    "code": {
+      "id": "SL05030712",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050307",
+      "level": 3,
+      "name": {
+        "local": "Masimera",
+        "en": "Masimera",
+        "slug": "masimera-sl050307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050307",
+        "level": 3,
+        "name": {
+          "local": "Masimera",
+          "en": "Masimera",
+          "slug": "masimera-sl050307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.587",
+      "lon": "-12.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL01011301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bambara",
+      "en": "Bambara",
+      "slug": "bambara"
+    },
+    "code": {
+      "id": "SL01011301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.058",
+      "lon": "-10.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bomaru-guma",
+      "en": "Bomaru-guma",
+      "slug": "bomaru-guma"
+    },
+    "code": {
+      "id": "SL01011302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.023",
+      "lon": "-10.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Goleiwoma",
+      "en": "Goleiwoma",
+      "slug": "goleiwoma"
+    },
+    "code": {
+      "id": "SL01011303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "-10.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Golu",
+      "en": "Golu",
+      "slug": "golu"
+    },
+    "code": {
+      "id": "SL01011304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.108",
+      "lon": "-10.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korbu",
+      "en": "Korbu",
+      "slug": "korbu"
+    },
+    "code": {
+      "id": "SL01011305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.079",
+      "lon": "-10.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Naiahun",
+      "en": "Naiahun",
+      "slug": "naiahun"
+    },
+    "code": {
+      "id": "SL01011306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010113",
+      "level": 3,
+      "name": {
+        "local": "Upper Bambara",
+        "en": "Upper Bambara",
+        "slug": "upper-bambara-sl010113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010113",
+        "level": 3,
+        "name": {
+          "local": "Upper Bambara",
+          "en": "Upper Bambara",
+          "slug": "upper-bambara-sl010113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.13",
+      "lon": "-10.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

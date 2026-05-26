@@ -1,0 +1,56 @@
+{
+  "id": "SL030412",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Yakemu Kpukumu",
+    "en": "Yakemu Kpukumu",
+    "slug": "yakemu-kpukumu-sl030412"
+  },
+  "code": {
+    "id": "SL030412",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0304",
+    "level": 2,
+    "name": {
+      "local": "Pujehun",
+      "en": "Pujehun",
+      "slug": "pujehun-sl0304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.232",
+    "lon": "-11.809"
+  },
+  "metadata": {},
+  "source": {}
+}

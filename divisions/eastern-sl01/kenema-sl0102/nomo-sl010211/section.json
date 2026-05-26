@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01021101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Faama",
+      "en": "Faama",
+      "slug": "faama"
+    },
+    "code": {
+      "id": "SL01021101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010211",
+      "level": 3,
+      "name": {
+        "local": "Nomo",
+        "en": "Nomo",
+        "slug": "nomo-sl010211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010211",
+        "level": 3,
+        "name": {
+          "local": "Nomo",
+          "en": "Nomo",
+          "slug": "nomo-sl010211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.505",
+      "lon": "-10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngiebu",
+      "en": "Ngiebu",
+      "slug": "ngiebu"
+    },
+    "code": {
+      "id": "SL01021102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010211",
+      "level": 3,
+      "name": {
+        "local": "Nomo",
+        "en": "Nomo",
+        "slug": "nomo-sl010211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010211",
+        "level": 3,
+        "name": {
+          "local": "Nomo",
+          "en": "Nomo",
+          "slug": "nomo-sl010211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.589",
+      "lon": "-10.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngiewoma-Njeigor",
+      "en": "Ngiewoma-Njeigor",
+      "slug": "ngiewoma-njeigor"
+    },
+    "code": {
+      "id": "SL01021103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010211",
+      "level": 3,
+      "name": {
+        "local": "Nomo",
+        "en": "Nomo",
+        "slug": "nomo-sl010211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010211",
+        "level": 3,
+        "name": {
+          "local": "Nomo",
+          "en": "Nomo",
+          "slug": "nomo-sl010211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.571",
+      "lon": "-10.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

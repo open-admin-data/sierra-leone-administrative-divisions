@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL04010101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fabaina Area",
+      "en": "Fabaina Area",
+      "slug": "fabaina-area"
+    },
+    "code": {
+      "id": "SL04010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.306",
+      "lon": "-12.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Madonkeh",
+      "en": "Madonkeh",
+      "slug": "madonkeh"
+    },
+    "code": {
+      "id": "SL04010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.365",
+      "lon": "-13.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbafti",
+      "en": "Magbafti",
+      "slug": "magbafti"
+    },
+    "code": {
+      "id": "SL04010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.28",
+      "lon": "-12.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malambay",
+      "en": "Malambay",
+      "slug": "malambay"
+    },
+    "code": {
+      "id": "SL04010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.306",
+      "lon": "-13.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Newton",
+      "en": "Newton",
+      "slug": "newton"
+    },
+    "code": {
+      "id": "SL04010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.336",
+      "lon": "-12.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Songo",
+      "en": "Songo",
+      "slug": "songo"
+    },
+    "code": {
+      "id": "SL04010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040101",
+      "level": 3,
+      "name": {
+        "local": "Koya Rural",
+        "en": "Koya Rural",
+        "slug": "koya-rural-sl040101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040101",
+        "level": 3,
+        "name": {
+          "local": "Koya Rural",
+          "en": "Koya Rural",
+          "slug": "koya-rural-sl040101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.347",
+      "lon": "-12.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

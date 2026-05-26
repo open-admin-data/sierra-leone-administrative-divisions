@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03040301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jassende Kpeima",
+      "en": "Jassende Kpeima",
+      "slug": "jassende-kpeima"
+    },
+    "code": {
+      "id": "SL03040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.042",
+      "lon": "-11.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jassende Masaoma",
+      "en": "Jassende Masaoma",
+      "slug": "jassende-masaoma"
+    },
+    "code": {
+      "id": "SL03040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.215",
+      "lon": "-11.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jassende Ngoleima",
+      "en": "Jassende Ngoleima",
+      "slug": "jassende-ngoleima"
+    },
+    "code": {
+      "id": "SL03040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.321",
+      "lon": "-11.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jassende Ngoleima",
+      "en": "Jassende Ngoleima",
+      "slug": "jassende-ngoleima"
+    },
+    "code": {
+      "id": "SL03040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.418",
+      "lon": "-11.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyango - Njeigbla",
+      "en": "Nyango - Njeigbla",
+      "slug": "nyango---njeigbla"
+    },
+    "code": {
+      "id": "SL03040305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.178",
+      "lon": "-11.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyango-Ngoleihun",
+      "en": "Nyango-Ngoleihun",
+      "slug": "nyango-ngoleihun"
+    },
+    "code": {
+      "id": "SL03040306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.279",
+      "lon": "-11.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Parvu",
+      "en": "Parvu",
+      "slug": "parvu"
+    },
+    "code": {
+      "id": "SL03040307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.016",
+      "lon": "-11.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sarbah",
+      "en": "Sarbah",
+      "slug": "sarbah"
+    },
+    "code": {
+      "id": "SL03040308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030403",
+      "level": 3,
+      "name": {
+        "local": "Kpaka",
+        "en": "Kpaka",
+        "slug": "kpaka-sl030403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030403",
+        "level": 3,
+        "name": {
+          "local": "Kpaka",
+          "en": "Kpaka",
+          "slug": "kpaka-sl030403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.103",
+      "lon": "-11.647"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

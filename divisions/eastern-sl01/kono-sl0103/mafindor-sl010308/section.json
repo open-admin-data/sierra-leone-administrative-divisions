@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01030801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamiendor",
+      "en": "Kamiendor",
+      "slug": "kamiendor"
+    },
+    "code": {
+      "id": "SL01030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010308",
+      "level": 3,
+      "name": {
+        "local": "Mafindor",
+        "en": "Mafindor",
+        "slug": "mafindor-sl010308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010308",
+        "level": 3,
+        "name": {
+          "local": "Mafindor",
+          "en": "Mafindor",
+          "slug": "mafindor-sl010308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.674",
+      "lon": "-10.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kutey",
+      "en": "Kutey",
+      "slug": "kutey"
+    },
+    "code": {
+      "id": "SL01030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010308",
+      "level": 3,
+      "name": {
+        "local": "Mafindor",
+        "en": "Mafindor",
+        "slug": "mafindor-sl010308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010308",
+        "level": 3,
+        "name": {
+          "local": "Mafindor",
+          "en": "Mafindor",
+          "slug": "mafindor-sl010308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.655",
+      "lon": "-10.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafindor",
+      "en": "Mafindor",
+      "slug": "mafindor"
+    },
+    "code": {
+      "id": "SL01030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010308",
+      "level": 3,
+      "name": {
+        "local": "Mafindor",
+        "en": "Mafindor",
+        "slug": "mafindor-sl010308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010308",
+        "level": 3,
+        "name": {
+          "local": "Mafindor",
+          "en": "Mafindor",
+          "slug": "mafindor-sl010308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.723",
+      "lon": "-10.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "id": "SL0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kailahun",
+      "en": "Kailahun",
+      "slug": "kailahun-sl0101"
+    },
+    "code": {
+      "id": "SL0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 14,
+      "section": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.059",
+      "lon": "-10.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kenema",
+      "en": "Kenema",
+      "slug": "kenema-sl0102"
+    },
+    "code": {
+      "id": "SL0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 17,
+      "section": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.946",
+      "lon": "-11.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kono",
+      "en": "Kono",
+      "slug": "kono-sl0103"
+    },
+    "code": {
+      "id": "SL0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 15,
+      "section": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.706",
+      "lon": "-10.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bombali",
+      "en": "Bombali",
+      "slug": "bombali-sl0201"
+    },
+    "code": {
+      "id": "SL0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 9,
+      "section": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "-12.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koinadugu",
+      "en": "Koinadugu",
+      "slug": "koinadugu-sl0203"
+    },
+    "code": {
+      "id": "SL0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 6,
+      "section": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.33",
+      "lon": "-11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tonkolili",
+      "en": "Tonkolili",
+      "slug": "tonkolili-sl0205"
+    },
+    "code": {
+      "id": "SL0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 11,
+      "section": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.762",
+      "lon": "-11.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fabala",
+      "en": "Fabala",
+      "slug": "fabala-sl0206"
+    },
+    "code": {
+      "id": "SL0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 5,
+      "section": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.466",
+      "lon": "-11.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bo",
+      "en": "Bo",
+      "slug": "bo-sl0301"
+    },
+    "code": {
+      "id": "SL0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 16,
+      "section": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.984",
+      "lon": "-11.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonthe",
+      "en": "Bonthe",
+      "slug": "bonthe-sl0302"
+    },
+    "code": {
+      "id": "SL0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 12,
+      "section": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.5",
+      "lon": "-12.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyamba",
+      "en": "Moyamba",
+      "slug": "moyamba-sl0303"
+    },
+    "code": {
+      "id": "SL0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 14,
+      "section": 142
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.03",
+      "lon": "-12.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pujehun",
+      "en": "Pujehun",
+      "slug": "pujehun-sl0304"
+    },
+    "code": {
+      "id": "SL0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 12,
+      "section": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.301",
+      "lon": "-11.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Area Rural",
+      "en": "Western Area Rural",
+      "slug": "western-area-rural-sl0401"
+    },
+    "code": {
+      "id": "SL0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 4,
+      "section": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.326",
+      "lon": "-13.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Area Urban",
+      "en": "Western Area Urban",
+      "slug": "western-area-urban-sl0402"
+    },
+    "code": {
+      "id": "SL0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 9,
+      "section": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.449",
+      "lon": "-13.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia-sl0501"
+    },
+    "code": {
+      "id": "SL0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 7,
+      "section": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.22",
+      "lon": "-12.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karene",
+      "en": "Karene",
+      "slug": "karene-sl0502"
+    },
+    "code": {
+      "id": "SL0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 8,
+      "section": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.634",
+      "lon": "-12.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Port Loko",
+      "en": "Port Loko",
+      "slug": "port-loko-sl0503"
+    },
+    "code": {
+      "id": "SL0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 8,
+      "section": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.646",
+      "lon": "-12.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

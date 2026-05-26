@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01030501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bunabu",
+      "en": "Bunabu",
+      "slug": "bunabu"
+    },
+    "code": {
+      "id": "SL01030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010305",
+      "level": 3,
+      "name": {
+        "local": "Gorama Kono",
+        "en": "Gorama Kono",
+        "slug": "gorama-kono-sl010305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010305",
+        "level": 3,
+        "name": {
+          "local": "Gorama Kono",
+          "en": "Gorama Kono",
+          "slug": "gorama-kono-sl010305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.394",
+      "lon": "-11.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kangama",
+      "en": "Kangama",
+      "slug": "kangama"
+    },
+    "code": {
+      "id": "SL01030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010305",
+      "level": 3,
+      "name": {
+        "local": "Gorama Kono",
+        "en": "Gorama Kono",
+        "slug": "gorama-kono-sl010305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010305",
+        "level": 3,
+        "name": {
+          "local": "Gorama Kono",
+          "en": "Gorama Kono",
+          "slug": "gorama-kono-sl010305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.386",
+      "lon": "-11.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Selokoma",
+      "en": "Selokoma",
+      "slug": "selokoma"
+    },
+    "code": {
+      "id": "SL01030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010305",
+      "level": 3,
+      "name": {
+        "local": "Gorama Kono",
+        "en": "Gorama Kono",
+        "slug": "gorama-kono-sl010305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010305",
+        "level": 3,
+        "name": {
+          "local": "Gorama Kono",
+          "en": "Gorama Kono",
+          "slug": "gorama-kono-sl010305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.402",
+      "lon": "-10.96"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03020501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Basiaka",
+      "en": "Basiaka",
+      "slug": "basiaka"
+    },
+    "code": {
+      "id": "SL03020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.49",
+      "lon": "-12.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bayengbe",
+      "en": "Bayengbe",
+      "slug": "bayengbe"
+    },
+    "code": {
+      "id": "SL03020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.607",
+      "lon": "-12.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Beyinga",
+      "en": "Beyinga",
+      "slug": "beyinga"
+    },
+    "code": {
+      "id": "SL03020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "-12.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Falewuja",
+      "en": "Falewuja",
+      "slug": "falewuja"
+    },
+    "code": {
+      "id": "SL03020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.629",
+      "lon": "-12.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kumabeh-Kwe",
+      "en": "Kumabeh-Kwe",
+      "slug": "kumabeh-kwe"
+    },
+    "code": {
+      "id": "SL03020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.639",
+      "lon": "-12.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Landi-Ngere",
+      "en": "Landi-Ngere",
+      "slug": "landi-ngere"
+    },
+    "code": {
+      "id": "SL03020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.629",
+      "lon": "-12.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sopan-Cleveland",
+      "en": "Sopan-Cleveland",
+      "slug": "sopan-cleveland"
+    },
+    "code": {
+      "id": "SL03020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.567",
+      "lon": "-12.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tucker-Nyambe",
+      "en": "Tucker-Nyambe",
+      "slug": "tucker-nyambe"
+    },
+    "code": {
+      "id": "SL03020508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030205",
+      "level": 3,
+      "name": {
+        "local": "Jong",
+        "en": "Jong",
+        "slug": "jong-sl030205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030205",
+        "level": 3,
+        "name": {
+          "local": "Jong",
+          "en": "Jong",
+          "slug": "jong-sl030205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.529",
+      "lon": "-12.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

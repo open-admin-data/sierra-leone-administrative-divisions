@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01030601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dangbaidu",
+      "en": "Dangbaidu",
+      "slug": "dangbaidu"
+    },
+    "code": {
+      "id": "SL01030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010306",
+      "level": 3,
+      "name": {
+        "local": "Kamara",
+        "en": "Kamara",
+        "slug": "kamara-sl010306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010306",
+        "level": 3,
+        "name": {
+          "local": "Kamara",
+          "en": "Kamara",
+          "slug": "kamara-sl010306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.723",
+      "lon": "-10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbondu",
+      "en": "Gbondu",
+      "slug": "gbondu"
+    },
+    "code": {
+      "id": "SL01030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010306",
+      "level": 3,
+      "name": {
+        "local": "Kamara",
+        "en": "Kamara",
+        "slug": "kamara-sl010306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010306",
+        "level": 3,
+        "name": {
+          "local": "Kamara",
+          "en": "Kamara",
+          "slug": "kamara-sl010306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.739",
+      "lon": "-11.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kongofinja",
+      "en": "Kongofinja",
+      "slug": "kongofinja"
+    },
+    "code": {
+      "id": "SL01030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010306",
+      "level": 3,
+      "name": {
+        "local": "Kamara",
+        "en": "Kamara",
+        "slug": "kamara-sl010306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010306",
+        "level": 3,
+        "name": {
+          "local": "Kamara",
+          "en": "Kamara",
+          "slug": "kamara-sl010306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.685",
+      "lon": "-11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sukudu",
+      "en": "Sukudu",
+      "slug": "sukudu"
+    },
+    "code": {
+      "id": "SL01030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010306",
+      "level": 3,
+      "name": {
+        "local": "Kamara",
+        "en": "Kamara",
+        "slug": "kamara-sl010306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010306",
+        "level": 3,
+        "name": {
+          "local": "Kamara",
+          "en": "Kamara",
+          "slug": "kamara-sl010306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.743",
+      "lon": "-11.013"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL03010601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbo",
+      "en": "Gbo",
+      "slug": "gbo"
+    },
+    "code": {
+      "id": "SL03010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030106",
+      "level": 3,
+      "name": {
+        "local": "Gbo",
+        "en": "Gbo",
+        "slug": "gbo-sl030106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030106",
+        "level": 3,
+        "name": {
+          "local": "Gbo",
+          "en": "Gbo",
+          "slug": "gbo-sl030106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.076",
+      "lon": "-11.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maryu",
+      "en": "Maryu",
+      "slug": "maryu"
+    },
+    "code": {
+      "id": "SL03010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030106",
+      "level": 3,
+      "name": {
+        "local": "Gbo",
+        "en": "Gbo",
+        "slug": "gbo-sl030106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030106",
+        "level": 3,
+        "name": {
+          "local": "Gbo",
+          "en": "Gbo",
+          "slug": "gbo-sl030106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.053",
+      "lon": "-11.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyawa",
+      "en": "Nyawa",
+      "slug": "nyawa"
+    },
+    "code": {
+      "id": "SL03010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030106",
+      "level": 3,
+      "name": {
+        "local": "Gbo",
+        "en": "Gbo",
+        "slug": "gbo-sl030106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030106",
+        "level": 3,
+        "name": {
+          "local": "Gbo",
+          "en": "Gbo",
+          "slug": "gbo-sl030106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "-11.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

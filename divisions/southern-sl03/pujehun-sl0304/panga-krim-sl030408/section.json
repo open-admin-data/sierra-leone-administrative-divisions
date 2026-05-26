@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03040801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fassei",
+      "en": "Fassei",
+      "slug": "fassei"
+    },
+    "code": {
+      "id": "SL03040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030408",
+      "level": 3,
+      "name": {
+        "local": "Panga krim",
+        "en": "Panga krim",
+        "slug": "panga-krim-sl030408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030408",
+        "level": 3,
+        "name": {
+          "local": "Panga krim",
+          "en": "Panga krim",
+          "slug": "panga-krim-sl030408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.283",
+      "lon": "-11.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pemagbie",
+      "en": "Pemagbie",
+      "slug": "pemagbie"
+    },
+    "code": {
+      "id": "SL03040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030408",
+      "level": 3,
+      "name": {
+        "local": "Panga krim",
+        "en": "Panga krim",
+        "slug": "panga-krim-sl030408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030408",
+        "level": 3,
+        "name": {
+          "local": "Panga krim",
+          "en": "Panga krim",
+          "slug": "panga-krim-sl030408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.382",
+      "lon": "-11.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samba",
+      "en": "Samba",
+      "slug": "samba"
+    },
+    "code": {
+      "id": "SL03040803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030408",
+      "level": 3,
+      "name": {
+        "local": "Panga krim",
+        "en": "Panga krim",
+        "slug": "panga-krim-sl030408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030408",
+        "level": 3,
+        "name": {
+          "local": "Panga krim",
+          "en": "Panga krim",
+          "slug": "panga-krim-sl030408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.391",
+      "lon": "-11.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Somasa",
+      "en": "Somasa",
+      "slug": "somasa"
+    },
+    "code": {
+      "id": "SL03040804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030408",
+      "level": 3,
+      "name": {
+        "local": "Panga krim",
+        "en": "Panga krim",
+        "slug": "panga-krim-sl030408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030408",
+        "level": 3,
+        "name": {
+          "local": "Panga krim",
+          "en": "Panga krim",
+          "slug": "panga-krim-sl030408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.286",
+      "lon": "-11.806"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

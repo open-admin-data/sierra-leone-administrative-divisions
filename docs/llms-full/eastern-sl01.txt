@@ -1,0 +1,565 @@
+# Eastern — Sierra Leone Administrative Divisions
+
+> 3 districts, 46 chiefdoms, 265 sections
+> Code: SL01
+> Coordinates: 8.209, -10.845
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Kailahun
+
+Code: SL0101, Coordinates: 8.059, -10.765
+Chiefdoms: 14, Sections: 81
+
+#### Dea
+
+Code: SL010101, Coordinates: 7.953, -10.649
+
+Sections:
+- Baiwalla [SL01010101]
+- Dodo [SL01010102]
+- Sakiema [SL01010103]
+- Sienga [SL01010104]
+
+#### Jawie
+
+Code: SL010102, Coordinates: 7.894, -10.895
+
+Sections:
+- Bobor [SL01010201]
+- Kaio [SL01010202]
+- Lower Giebu [SL01010203]
+- Lower Luyengeh [SL01010204]
+- Mano [SL01010205]
+- Sowa [SL01010206]
+- Upper Giebu [SL01010207]
+- Upper Luyengeh [SL01010208]
+
+#### Kissi Kama
+
+Code: SL010103, Coordinates: 8.411, -10.403
+
+Sections:
+- Dakaleley [SL01010301]
+- Kama Teng [SL01010302]
+- Kama Toh [SL01010303]
+
+#### Kissi Teng
+
+Code: SL010104, Coordinates: 8.388, -10.353
+
+Sections:
+- Bumasadu [SL01010401]
+- Konio [SL01010402]
+- Kundu [SL01010403]
+- Lela [SL01010404]
+- Torli [SL01010405]
+
+#### Kissi Tongi
+
+Code: SL010105, Coordinates: 8.307, -10.338
+
+Sections:
+- Bende Bengu [SL01010501]
+- Konio [SL01010502]
+- Pokorli [SL01010503]
+- Tongi Tingi [SL01010504]
+
+#### Kpeje Bongre
+
+Code: SL010106, Coordinates: 8.145, -10.779
+
+Sections:
+- Bongre [SL01010601]
+- Borkou [SL01010602]
+- Falloh [SL01010603]
+- Jorwu [SL01010604]
+- Manowa [SL01010605]
+- Marwei [SL01010606]
+- Seimaya [SL01010607]
+
+#### Kpeje West
+
+Code: SL010107, Coordinates: 8.192, -10.838
+
+Sections:
+- Bunumbu [SL01010701]
+- Golama [SL01010702]
+- Kpaewa [SL01010703]
+- Kpindima [SL01010704]
+
+#### Luawa
+
+Code: SL010108, Coordinates: 8.207, -10.56
+
+Sections:
+- Baoma [SL01010801]
+- Gao [SL01010802]
+- Gbela [SL01010803]
+- Giehun [SL01010804]
+- Lower Kpombali [SL01010805]
+- Luawa Foguiya [SL01010806]
+- Mano-Sewallu [SL01010807]
+- Mende Buima [SL01010808]
+- Mofindor [SL01010809]
+- Upper Kpombali [SL01010810]
+
+#### Malema
+
+Code: SL010109, Coordinates: 7.777, -10.752
+
+Sections:
+- Bamburu [SL01010901]
+- Lower Sami [SL01010902]
+- Njagbla [SL01010903]
+- Pelegbambeima [SL01010904]
+- Upper Sami [SL01010905]
+
+#### Mandu
+
+Code: SL010110, Coordinates: 7.986, -10.748
+
+Sections:
+- Gbongre [SL01011001]
+- Levuma Jeigbla [SL01011002]
+- Lower Kuiva [SL01011003]
+- Upper Kuiva [SL01011004]
+
+#### Njaluahun
+
+Code: SL010111, Coordinates: 8.008, -10.907
+
+Sections:
+- Bombowa [SL01011101]
+- Dan Sei [SL01011102]
+- Falley [SL01011103]
+- Fauya [SL01011104]
+- Gboo [SL01011105]
+- Jonga [SL01011106]
+- Kargbu [SL01011107]
+- Keimaya [SL01011108]
+- Lower Nyawa [SL01011109]
+- Sei I [SL01011110]
+- Sei II [SL01011111]
+- Upper Nyawa [SL01011112]
+
+#### Penguia
+
+Code: SL010112, Coordinates: 8.358, -10.729
+
+Sections:
+- Bulima [SL01011201]
+- Jagor [SL01011202]
+- Kumatandu [SL01011203]
+- Lombama [SL01011204]
+- Nimima [SL01011205]
+
+#### Upper Bambara
+
+Code: SL010113, Coordinates: 8.073, -10.674
+
+Sections:
+- Bambara [SL01011301]
+- Bomaru-guma [SL01011302]
+- Goleiwoma [SL01011303]
+- Golu [SL01011304]
+- Korbu [SL01011305]
+- Naiahun [SL01011306]
+
+#### Yawei
+
+Code: SL010114, Coordinates: 8.327, -10.821
+
+Sections:
+- Bendu [SL01011401]
+- Kuiva Buima [SL01011402]
+- Kuiva Jagor [SL01011403]
+- Kuivawa [SL01011404]
+
+### Kenema
+
+Code: SL0102, Coordinates: 7.946, -11.191
+Chiefdoms: 17, Sections: 104
+
+#### Dama
+
+Code: SL010201, Coordinates: 7.757, -11.146
+
+Sections:
+- Dakowa [SL01020101]
+- Danyadejo [SL01020102]
+- Dassama [SL01020103]
+- Fowai [SL01020104]
+- Klajie [SL01020105]
+- Lower Dabor [SL01020106]
+- Upper Dabor [SL01020107]
+
+#### Dodo
+
+Code: SL010202, Coordinates: 8.205, -11.209
+
+Sections:
+- Bambara [SL01020201]
+- Bonya [SL01020202]
+- Bundoryama [SL01020203]
+- Gorama [SL01020204]
+- Karteh [SL01020205]
+- Korgay [SL01020206]
+- Seiwor [SL01020207]
+
+#### Gaura
+
+Code: SL010203, Coordinates: 7.71, -10.999
+
+Sections:
+- Giebu [SL01020301]
+- Joru [SL01020302]
+- Kokoru [SL01020303]
+- Mendekelema [SL01020304]
+- Sandaru [SL01020305]
+- Sembehun [SL01020306]
+
+#### Gorama Mende
+
+Code: SL010204, Coordinates: 8.44, -11.4
+
+Sections:
+- Biatong [SL01020401]
+- Famanjo [SL01020402]
+- Kaklawa [SL01020403]
+- Kualley [SL01020404]
+
+#### Kandu Leppiama
+
+Code: SL010205, Coordinates: 8.039, -11.274
+
+Sections:
+- Borley [SL01020501]
+- Gboro-Lokoma [SL01020502]
+- Karga [SL01020503]
+- Sonnie [SL01020504]
+
+#### Kenema Town
+
+Code: SL010291, Coordinates: 7.881, -11.185
+
+Sections:
+- Airfield [SL01029101]
+- Gbo Kakajama A-Bur [SL01029102]
+- Gbo Kakajama A-Kis [SL01029109]
+- Gbo Kakajama A-Kpa [SL01029108]
+- Gbo Kakajama A-Lam [SL01029114]
+- Gbo Kakajama A-Lum [SL01029103]
+- Gbo Kakajama A-Nja [SL01029107]
+- Gbo Kakajama A-Shi [SL01029110]
+- Gbo Kakajama A-Tec [SL01029106]
+- Gbo Lambayama A-Fo [SL01029113]
+- Gbo Lambayama A-Go [SL01029115]
+- Gbo Lambayama A-Ko [SL01029117]
+- Gbo Lambayama A-Le [SL01029104]
+- Gbo Lambayama A-Nd [SL01029112]
+- Gbo Lambayama A-Ny [SL01029111]
+- Gbo Lambayama A-Re [SL01029105]
+- Gbo Lambayama A-RT [SL01029116]
+
+#### Koya
+
+Code: SL010206, Coordinates: 7.632, -11.292
+
+Sections:
+- Joi [SL01020601]
+- Koya Gbundohun [SL01020602]
+- Menima [SL01020603]
+- Serabu [SL01020604]
+- Upper Koya [SL01020605]
+
+#### Langrama
+
+Code: SL010207, Coordinates: 7.667, -11.477
+
+Sections:
+- Korjei [SL01020701]
+- Njeiwoma [SL01020702]
+
+#### Lower Bambara
+
+Code: SL010208, Coordinates: 8.222, -11.043
+
+Sections:
+- Bonya [SL01020801]
+- Fallay [SL01020802]
+- Gboro [SL01020803]
+- Korjei Buima [SL01020804]
+- Korjei Ngieya [SL01020805]
+- Nyawa [SL01020806]
+- Sei [SL01020807]
+
+#### Malegohun
+
+Code: SL010209, Coordinates: 8.232, -10.901
+
+Sections:
+- Hulorhun Njagbudor [SL01020901]
+- Hulorhun Njeigor [SL01020902]
+- Konjo Buiima [SL01020903]
+- Konjo Njeigor [SL01020904]
+- Konjo Yematanga [SL01020905]
+- Lower Torgboma [SL01020906]
+- Upper Torgboma [SL01020907]
+
+#### Niawa
+
+Code: SL010210, Coordinates: 7.667, -11.401
+
+Sections:
+- Bandawor [SL01021001]
+- Kpatawa [SL01021002]
+- Mabondor [SL01021003]
+- Niawa [SL01021004]
+- Vaama [SL01021005]
+
+#### Nomo
+
+Code: SL010211, Coordinates: 7.554, -10.944
+
+Sections:
+- Faama [SL01021101]
+- Ngiebu [SL01021102]
+- Ngiewoma-Njeigor [SL01021103]
+
+#### Nongowa
+
+Code: SL010212, Coordinates: 7.94, -11.141
+
+Sections:
+- Dagbanya [SL01021201]
+- Dakpana [SL01021202]
+- Gbo Kakajama B [SL01021203]
+- Gbo Lambayama B [SL01021204]
+- Kagbado Kamboima [SL01021205]
+- Kagbado Njeigbla [SL01021206]
+- Kona Foiya [SL01021207]
+- Kona Kpindibu [SL01021208]
+
+#### Simbaru
+
+Code: SL010213, Coordinates: 8.2, -11.32
+
+Sections:
+- Bundoryama [SL01021301]
+- Fallay [SL01021302]
+- Fonde [SL01021303]
+- Yalenga [SL01021304]
+
+#### Small Bo
+
+Code: SL010214, Coordinates: 7.86, -11.349
+
+Sections:
+- Fallay [SL01021401]
+- Gorama [SL01021402]
+- Kamboma [SL01021403]
+- Niawa [SL01021404]
+- Sowa [SL01021405]
+
+#### Tunkia
+
+Code: SL010215, Coordinates: 7.498, -11.161
+
+Sections:
+- Daru [SL01021501]
+- Gegbwema [SL01021502]
+- Giewoma [SL01021503]
+- Gorahun [SL01021504]
+- Jewahun [SL01021505]
+- Kuawuma [SL01021506]
+- Taninahun [SL01021507]
+
+#### Wandor
+
+Code: SL010216, Coordinates: 8.305, -11.357
+
+Sections:
+- Boryongor [SL01021601]
+- Gbogbeima [SL01021602]
+- Kemoh [SL01021603]
+- Niawa [SL01021604]
+- Songhai [SL01021605]
+- Tongorwa [SL01021606]
+
+### Kono
+
+Code: SL0103, Coordinates: 8.706, -10.922
+Chiefdoms: 15, Sections: 80
+
+#### Fiama
+
+Code: SL010301, Coordinates: 8.656, -10.825
+
+Sections:
+- Dumbia [SL01030101]
+- Fiama [SL01030102]
+- Kokar [SL01030103]
+- Kooma [SL01030104]
+- Yorkor [SL01030105]
+
+#### Gbane
+
+Code: SL010302, Coordinates: 8.475, -10.854
+
+Sections:
+- Gbane Yemao [SL01030201]
+- Gbikidakor [SL01030202]
+- Kamara [SL01030203]
+- Maikandor [SL01030204]
+- Mongo [SL01030205]
+
+#### Gbane Kandor
+
+Code: SL010303, Coordinates: 8.64, -10.566
+
+Sections:
+- Gbane Kandor [SL01030301]
+- Gbane Kour [SL01030302]
+- Gbane Tetema [SL01030303]
+- Gbendekor [SL01030304]
+- Yanbidu [SL01030305]
+
+#### Gbense
+
+Code: SL010304, Coordinates: 8.722, -10.917
+
+Sections:
+- Banfinfeh [SL01030401]
+- Banyafeh [SL01030402]
+- Banyakor [SL01030403]
+- Moindefeh [SL01030404]
+- Moindekor [SL01030405]
+
+#### Gorama Kono
+
+Code: SL010305, Coordinates: 8.394, -11.087
+
+Sections:
+- Bunabu [SL01030501]
+- Kangama [SL01030502]
+- Selokoma [SL01030503]
+
+#### Kamara
+
+Code: SL010306, Coordinates: 8.714, -11.034
+
+Sections:
+- Dangbaidu [SL01030601]
+- Gbondu [SL01030602]
+- Kongofinja [SL01030603]
+- Sukudu [SL01030604]
+
+#### Koidu Town
+
+Code: SL010391, Coordinates: 8.636, -10.981
+
+Sections:
+- Gbense-Moindefeh [SL01039103]
+- Gbense-Moindekor [SL01039102]
+- Gbense-Sina Town [SL01039101]
+- Tankoro-Kinsey [SL01039104]
+- Tankoro-Kwaquima [SL01039107]
+- Tankoro-Lebanon [SL01039106]
+- Tankoro-New Sembeh [SL01039105]
+
+#### Lei
+
+Code: SL010307, Coordinates: 8.833, -10.687
+
+Sections:
+- Dia [SL01030701]
+- Kamara [SL01030702]
+- Kensay [SL01030703]
+- Koaro [SL01030704]
+- Lei [SL01030705]
+- Sangbada [SL01030706]
+- Tankoro [SL01030707]
+- Tingi-Kor [SL01030708]
+- Yawai [SL01030709]
+
+#### Mafindor
+
+Code: SL010308, Coordinates: 8.687, -10.51
+
+Sections:
+- Kamiendor [SL01030801]
+- Kutey [SL01030802]
+- Mafindor [SL01030803]
+
+#### Nimikoro
+
+Code: SL010309, Coordinates: 8.581, -11.101
+
+Sections:
+- Bafinfeh [SL01030901]
+- Bandafafeh [SL01030902]
+- Gbogboafeh [SL01030903]
+- Jaiama [SL01030904]
+- Masayiefeh [SL01030905]
+
+#### Nimiyama
+
+Code: SL010310, Coordinates: 8.576, -11.272
+
+Sections:
+- Bafinfeh [SL01031001]
+- Njagbakahun [SL01031002]
+- Njaifeh [SL01031003]
+- Peyifeh [SL01031004]
+- Tama [SL01031005]
+
+#### Sandor
+
+Code: SL010311, Coordinates: 8.87, -11.035
+
+Sections:
+- Bafinfeh [SL01031101]
+- Dangbaidu [SL01031102]
+- Fakongofeh [SL01031103]
+- Kawafeh [SL01031104]
+- Njeikor [SL01031105]
+- Samgbafeh [SL01031106]
+- Sinkongofeh [SL01031107]
+- Sumunjifeh [SL01031108]
+- Tharma Forest [SL01031109]
+- Yawatanda [SL01031110]
+
+#### Soa
+
+Code: SL010312, Coordinates: 8.591, -10.692
+
+Sections:
+- Foidu Mongor [SL01031201]
+- Kokongokuma [SL01031202]
+- Maindu [SL01031203]
+- Mofinkor [SL01031204]
+- Sawa Buma [SL01031205]
+- Sawa Fiama [SL01031206]
+- Tensekor [SL01031207]
+- Tensendakor [SL01031208]
+
+#### Tankoro
+
+Code: SL010313, Coordinates: 8.54, -10.961
+
+Sections:
+- Njama [SL01031301]
+- Tankoro [SL01031302]
+- Woafeh [SL01031303]
+
+#### Toli
+
+Code: SL010314, Coordinates: 8.994, -10.636
+
+Sections:
+- Bawadu [SL01031401]
+- Komadu [SL01031402]
+- Kwidu [SL01031403]
+

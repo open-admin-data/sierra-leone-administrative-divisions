@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL02060601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Biribaia",
+      "en": "Biribaia",
+      "slug": "biribaia"
+    },
+    "code": {
+      "id": "SL02060601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.796",
+      "lon": "-11.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dara",
+      "en": "Dara",
+      "slug": "dara"
+    },
+    "code": {
+      "id": "SL02060602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.856",
+      "lon": "-11.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Falaba",
+      "en": "Falaba",
+      "slug": "falaba"
+    },
+    "code": {
+      "id": "SL02060603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.835",
+      "lon": "-11.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fudea",
+      "en": "Fudea",
+      "slug": "fudea"
+    },
+    "code": {
+      "id": "SL02060604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.687",
+      "lon": "-11.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ganya",
+      "en": "Ganya",
+      "slug": "ganya"
+    },
+    "code": {
+      "id": "SL02060605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.935",
+      "lon": "-11.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberia Fotombu",
+      "en": "Gberia Fotombu",
+      "slug": "gberia-fotombu"
+    },
+    "code": {
+      "id": "SL02060606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.883",
+      "lon": "-11.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gberia-Timbako",
+      "en": "Gberia-Timbako",
+      "slug": "gberia-timbako"
+    },
+    "code": {
+      "id": "SL02060607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.747",
+      "lon": "-11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaliyereh",
+      "en": "Kaliyereh",
+      "slug": "kaliyereh"
+    },
+    "code": {
+      "id": "SL02060608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.948",
+      "lon": "-11.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambaia",
+      "en": "Kambaia",
+      "slug": "kambaia"
+    },
+    "code": {
+      "id": "SL02060609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.783",
+      "lon": "-11.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060610",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koindu-Kura",
+      "en": "Koindu-Kura",
+      "slug": "koindu-kura"
+    },
+    "code": {
+      "id": "SL02060610",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.883",
+      "lon": "-11.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060611",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Laylay",
+      "en": "Laylay",
+      "slug": "laylay"
+    },
+    "code": {
+      "id": "SL02060611",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.857",
+      "lon": "-11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060612",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nomokoya",
+      "en": "Nomokoya",
+      "slug": "nomokoya"
+    },
+    "code": {
+      "id": "SL02060612",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.953",
+      "lon": "-11.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060613",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sonkoya",
+      "en": "Sonkoya",
+      "slug": "sonkoya"
+    },
+    "code": {
+      "id": "SL02060613",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020606",
+      "level": 3,
+      "name": {
+        "local": "Sulima",
+        "en": "Sulima",
+        "slug": "sulima-sl020606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020606",
+        "level": 3,
+        "name": {
+          "local": "Sulima",
+          "en": "Sulima",
+          "slug": "sulima-sl020606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.768",
+      "lon": "-11.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

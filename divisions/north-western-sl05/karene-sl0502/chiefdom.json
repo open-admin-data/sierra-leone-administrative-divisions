@@ -1,0 +1,450 @@
+[
+  {
+    "id": "SL050201",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Buya Romende",
+      "en": "Buya Romende",
+      "slug": "buya-romende-sl050201"
+    },
+    "code": {
+      "id": "SL050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "-12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050202",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dibia",
+      "en": "Dibia",
+      "slug": "dibia-sl050202"
+    },
+    "code": {
+      "id": "SL050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.938",
+      "lon": "-12.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050206",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Libeisaygahun",
+      "en": "Libeisaygahun",
+      "slug": "libeisaygahun-sl050206"
+    },
+    "code": {
+      "id": "SL050206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.999",
+      "lon": "-12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050207",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Loko",
+      "en": "Sanda Loko",
+      "slug": "sanda-loko-sl050207"
+    },
+    "code": {
+      "id": "SL050207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.437",
+      "lon": "-12.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050203",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Magbolont",
+      "en": "Sanda Magbolont",
+      "slug": "sanda-magbolont-sl050203"
+    },
+    "code": {
+      "id": "SL050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.135",
+      "lon": "-12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050208",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Tendaran",
+      "en": "Sanda Tendaran",
+      "slug": "sanda-tendaran-sl050208"
+    },
+    "code": {
+      "id": "SL050208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.158",
+      "lon": "-12.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050209",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sella Limba",
+      "en": "Sella Limba",
+      "slug": "sella-limba-sl050209"
+    },
+    "code": {
+      "id": "SL050209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.5",
+      "lon": "-12.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050210",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tambakha",
+      "en": "Tambakha",
+      "slug": "tambakha-sl050210"
+    },
+    "code": {
+      "id": "SL050210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.708",
+      "lon": "-12.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

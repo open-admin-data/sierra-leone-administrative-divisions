@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL02050101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Massakong",
+      "en": "Lower Massakong",
+      "slug": "lower-massakong"
+    },
+    "code": {
+      "id": "SL02050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.451",
+      "lon": "-12.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Polie",
+      "en": "Lower Polie",
+      "slug": "lower-polie"
+    },
+    "code": {
+      "id": "SL02050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.527",
+      "lon": "-11.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayeppoh",
+      "en": "Mayeppoh",
+      "slug": "mayeppoh"
+    },
+    "code": {
+      "id": "SL02050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.528",
+      "lon": "-11.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Mayawa A",
+      "en": "Petifu Mayawa A",
+      "slug": "petifu-mayawa-a"
+    },
+    "code": {
+      "id": "SL02050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.432",
+      "lon": "-11.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Mayawa B",
+      "en": "Petifu Mayawa B",
+      "slug": "petifu-mayawa-b"
+    },
+    "code": {
+      "id": "SL02050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "-11.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Mayeppoh",
+      "en": "Petifu Mayeppoh",
+      "slug": "petifu-mayeppoh"
+    },
+    "code": {
+      "id": "SL02050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.542",
+      "lon": "-11.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Massakong",
+      "en": "Upper Massakong",
+      "slug": "upper-massakong"
+    },
+    "code": {
+      "id": "SL02050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.451",
+      "lon": "-11.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Polie",
+      "en": "Upper Polie",
+      "slug": "upper-polie"
+    },
+    "code": {
+      "id": "SL02050108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.523",
+      "lon": "-11.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yele Manowo",
+      "en": "Yele Manowo",
+      "slug": "yele-manowo"
+    },
+    "code": {
+      "id": "SL02050109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.407",
+      "lon": "-11.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yiben",
+      "en": "Yiben",
+      "slug": "yiben"
+    },
+    "code": {
+      "id": "SL02050110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020501",
+      "level": 3,
+      "name": {
+        "local": "Gbonkolenken",
+        "en": "Gbonkolenken",
+        "slug": "gbonkolenken-sl020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020501",
+        "level": 3,
+        "name": {
+          "local": "Gbonkolenken",
+          "en": "Gbonkolenken",
+          "slug": "gbonkolenken-sl020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.392",
+      "lon": "-11.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

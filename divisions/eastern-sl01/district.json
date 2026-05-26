@@ -1,0 +1,146 @@
+[
+  {
+    "id": "SL0101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kailahun",
+      "en": "Kailahun",
+      "slug": "kailahun-sl0101"
+    },
+    "code": {
+      "id": "SL0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 14,
+      "section": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.059",
+      "lon": "-10.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kenema",
+      "en": "Kenema",
+      "slug": "kenema-sl0102"
+    },
+    "code": {
+      "id": "SL0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 17,
+      "section": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.946",
+      "lon": "-11.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kono",
+      "en": "Kono",
+      "slug": "kono-sl0103"
+    },
+    "code": {
+      "id": "SL0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 15,
+      "section": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.706",
+      "lon": "-10.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

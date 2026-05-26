@@ -1,0 +1,775 @@
+# Southern — Sierra Leone Administrative Divisions
+
+> 4 districts, 54 chiefdoms, 422 sections
+> Code: SL03
+> Coordinates: 7.706, -12
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Bo
+
+Code: SL0301, Coordinates: 7.984, -11.702
+Chiefdoms: 16, Sections: 108
+
+#### Badjia
+
+Code: SL030101, Coordinates: 8.092, -11.4
+
+Sections:
+- Damai [SL03010101]
+- Fallay [SL03010102]
+- Kpallay [SL03010103]
+- Njargbahun [SL03010104]
+- Sei [SL03010105]
+
+#### Bagbo
+
+Code: SL030102, Coordinates: 7.598, -11.866
+
+Sections:
+- Bum [SL03010201]
+- Gorapon [SL03010202]
+- Jimmi [SL03010203]
+- Kpangbalia [SL03010204]
+- Mano [SL03010205]
+- Niagorehun [SL03010206]
+- Tissana [SL03010207]
+
+#### Bagbwe(Bagbe)
+
+Code: SL030103, Coordinates: 8.085, -11.539
+
+Sections:
+- Jongo [SL03010301]
+- Kemoh [SL03010302]
+- Niawa [SL03010303]
+- Nyallay [SL03010304]
+- Samawa [SL03010305]
+
+#### Bo Town
+
+Code: SL030191, Coordinates: 7.96, -11.733
+
+Sections:
+- East Ward-Batiema [SL03019101]
+- East Ward-Bumpeh-W [SL03019102]
+- East Ward-Gbondo T [SL03019103]
+- East Ward-Kindia T [SL03019104]
+- East Ward-Lower Sa [SL03019105]
+- East Ward-Manjama [SL03019106]
+- East Ward-Messima [SL03019107]
+- East Ward-Moriba T [SL03019109]
+- North Ward-Bo Numb [SL03019111]
+- North Ward-Kissy Town [SL03019112]
+- North Ward-Njai To [SL03019114]
+- North Ward-Reservation [SL03019115]
+- West Ward-Kandeh T [SL03019118]
+- West Ward-Lewabu - [SL03019119]
+- West Ward-Moriba T [SL03019120]
+- West Ward-Nikibu - [SL03019121]
+- West Ward-Njagboim [SL03019122]
+
+#### Boama
+
+Code: SL030104, Coordinates: 7.939, -11.479
+
+Sections:
+- Bambawo [SL03010401]
+- Fallay [SL03010402]
+- Kimaya [SL03010403]
+- Lower Pataloo [SL03010404]
+- Mawojeh [SL03010405]
+- Njeima [SL03010406]
+- Sonnah [SL03010407]
+- Upper Pataloo [SL03010408]
+
+#### Bumpe Ngao
+
+Code: SL030105, Coordinates: 7.832, -12.008
+
+Sections:
+- Bongo [SL03010501]
+- Bumpe [SL03010502]
+- Foya [SL03010503]
+- Kpetema [SL03010504]
+- Sahn [SL03010505]
+- Serabu [SL03010506]
+- Sewama [SL03010507]
+- Taninahun [SL03010508]
+- Walihun [SL03010509]
+- Yengema [SL03010510]
+
+#### Gbo
+
+Code: SL030106, Coordinates: 8.068, -11.847
+
+Sections:
+- Gbo [SL03010601]
+- Maryu [SL03010602]
+- Nyawa [SL03010603]
+
+#### Jaiama Bongor
+
+Code: SL030107, Coordinates: 7.759, -11.615
+
+Sections:
+- Lower Baimba [SL03010701]
+- Lower Kama [SL03010702]
+- Lower Niawa [SL03010703]
+- Nekpondo [SL03010704]
+- Tongowa [SL03010705]
+- Upper Baimba [SL03010706]
+- Upper Kama [SL03010707]
+- Upper Niawa [SL03010708]
+
+#### Kakua
+
+Code: SL030108, Coordinates: 7.965, -11.634
+
+Sections:
+- Korjeh [SL03010801]
+- Kpandobu [SL03010802]
+- Nguabu [SL03010803]
+- Nyallay [SL03010804]
+- Nyawa [SL03010805]
+- Samamie [SL03010806]
+- Sewa [SL03010807]
+- Sindeh [SL03010808]
+
+#### Komboya
+
+Code: SL030109, Coordinates: 8.254, -11.508
+
+Sections:
+- Keisua [SL03010901]
+- Kemoh [SL03010902]
+- Mangaru [SL03010903]
+- Sei [SL03010904]
+- Tongowa [SL03010905]
+
+#### Lugbu
+
+Code: SL030110, Coordinates: 7.69, -11.875
+
+Sections:
+- Gao [SL03011001]
+- Kamba [SL03011002]
+- Kargbevu [SL03011003]
+- Kemoh [SL03011004]
+- Magbao [SL03011005]
+- Yorma [SL03011006]
+
+#### Niawa Lenga
+
+Code: SL030111, Coordinates: 8.147, -11.614
+
+Sections:
+- Baimba [SL03011101]
+- Lower Niawa [SL03011102]
+- Upper Niawa [SL03011103]
+- Yalenga [SL03011104]
+
+#### Selenga
+
+Code: SL030112, Coordinates: 8.108, -11.723
+
+Sections:
+- Kaduawo [SL03011201]
+- Mokpendeh [SL03011202]
+- Old Town [SL03011203]
+
+#### Tikonko
+
+Code: SL030113, Coordinates: 7.857, -11.758
+
+Sections:
+- Bainyawa [SL03011301]
+- Mambawa [SL03011302]
+- Morku [SL03011303]
+- Ngolamajie [SL03011304]
+- Njagbla I [SL03011305]
+- Njagbla II [SL03011306]
+- Seiwa [SL03011307]
+- Sendeh [SL03011308]
+
+#### Valunia
+
+Code: SL030114, Coordinates: 8.313, -11.67
+
+Sections:
+- Deilenga [SL03011401]
+- Kendebu [SL03011402]
+- Lunia [SL03011403]
+- Ngovo [SL03011404]
+- Seilenga [SL03011405]
+- Vanjelu [SL03011406]
+- Yarlenga [SL03011407]
+
+#### Wonde
+
+Code: SL030115, Coordinates: 7.685, -11.549
+
+Sections:
+- Central Kargoi [SL03011501]
+- Lower Kargoi [SL03011502]
+- Manyeh [SL03011503]
+- Upper Kargoi [SL03011504]
+
+### Bonthe
+
+Code: SL0302, Coordinates: 7.5, -12.149
+Chiefdoms: 12, Sections: 78
+
+#### Bendu-Cha
+
+Code: SL030201, Coordinates: 7.47, -12.386
+
+Sections:
+- Gba-Cha [SL03020101]
+- Sokenteh [SL03020102]
+- Tissagbe [SL03020103]
+- Yallan-gbokie [SL03020104]
+
+#### Bonthe Urban
+
+Code: SL030291, Coordinates: 7.534, -12.519
+
+Sections:
+- Bonthe Town [SL03029101]
+
+#### Bum
+
+Code: SL030202, Coordinates: 7.432, -11.971
+
+Sections:
+- Fikie [SL03020201]
+- Gbengain [SL03020202]
+- Gbondubum [SL03020203]
+- Koimato [SL03020204]
+- Lanje [SL03020205]
+- Tamba [SL03020206]
+- Torma [SL03020207]
+- Yargbe [SL03020208]
+- Yawma [SL03020209]
+
+#### Dema
+
+Code: SL030203, Coordinates: 7.589, -12.863
+
+Sections:
+- Chepo [SL03020301]
+- Dema [SL03020302]
+- Turtle Islands [SL03020303]
+- Yoh [SL03020304]
+
+#### Imperri
+
+Code: SL030204, Coordinates: 7.667, -12.36
+
+Sections:
+- Babum [SL03020401]
+- Bapus [SL03020402]
+- Bigo [SL03020403]
+- Kahekay [SL03020404]
+- Moimaligie [SL03020405]
+- Sokrapan [SL03020406]
+
+#### Jong
+
+Code: SL030205, Coordinates: 7.573, -12.191
+
+Sections:
+- Basiaka [SL03020501]
+- Bayengbe [SL03020502]
+- Beyinga [SL03020503]
+- Falewuja [SL03020504]
+- Kumabeh-Kwe [SL03020505]
+- Landi-Ngere [SL03020506]
+- Sopan-Cleveland [SL03020507]
+- Tucker-Nyambe [SL03020508]
+
+#### Kpanda Kemo
+
+Code: SL030206, Coordinates: 7.597, -12.028
+
+Sections:
+- Ba-Kobotu [SL03020601]
+- Bewoni [SL03020602]
+- Gbonge [SL03020603]
+- Senjehun [SL03020604]
+- Sewama [SL03020605]
+- Taokunor [SL03020606]
+
+#### Kwamebai Krim
+
+Code: SL030207, Coordinates: 7.27, -11.987
+
+Sections:
+- Kpanga Koimato [SL03020701]
+- Kwako Lanten [SL03020702]
+- Massa Settie [SL03020703]
+- Mosenten Sahen II [SL03020704]
+- Tubla [SL03020705]
+- Tun-Tun Sullay [SL03020706]
+- Yikie Karbay [SL03020707]
+
+#### Nongoba Bullom
+
+Code: SL030208, Coordinates: 7.367, -12.262
+
+Sections:
+- Baoma [SL03020801]
+- Bohol [SL03020802]
+- Bullom [SL03020803]
+- Garinga [SL03020804]
+- Gbangbassa [SL03020805]
+- Gbap [SL03020806]
+- Hahun [SL03020807]
+- Kessie [SL03020808]
+- Manyime [SL03020809]
+- Pelewahun [SL03020810]
+- Salma [SL03020811]
+- Solon [SL03020812]
+- Torma Subu [SL03020813]
+
+#### Sittia
+
+Code: SL030209, Coordinates: 7.514, -12.616
+
+Sections:
+- Bamba [SL03020901]
+- Gonoh [SL03020902]
+- Kamai [SL03020903]
+- Kwalloh [SL03020904]
+- Moh [SL03020905]
+- Ngepay [SL03020906]
+- Saama [SL03020907]
+- Sahaya [SL03020908]
+- Sahn-Gbegu [SL03020909]
+- Sampoh [SL03020910]
+- Yoni [SL03020911]
+
+#### Sogbeni
+
+Code: SL030210, Coordinates: 7.54, -12.095
+
+Sections:
+- Bakumba [SL03021001]
+- Beyorgboh [SL03021002]
+- Ndopie [SL03021003]
+- Pengor [SL03021004]
+
+#### Yawbeko
+
+Code: SL030211, Coordinates: 7.445, -12.127
+
+Sections:
+- Baryegbe [SL03021101]
+- Hahun [SL03021102]
+- Ketaway [SL03021103]
+- Mobulie [SL03021104]
+- Yorma [SL03021105]
+
+### Moyamba
+
+Code: SL0303, Coordinates: 8.03, -12.391
+Chiefdoms: 14, Sections: 142
+
+#### Bagruwa
+
+Code: SL030301, Coordinates: 7.865, -12.518
+
+Sections:
+- Benduma [SL03030101]
+- Benkeh [SL03030102]
+- Kawaya [SL03030103]
+- Kigbai [SL03030104]
+- Mani [SL03030105]
+- Mokassi [SL03030106]
+- Moseilolo [SL03030107]
+- Palima [SL03030108]
+- Sembehun [SL03030109]
+
+#### Bumpeh
+
+Code: SL030302, Coordinates: 8.148, -12.734
+
+Sections:
+- Bellentin [SL03030201]
+- Bumpeh [SL03030202]
+- Greema [SL03030203]
+- Kassipoto [SL03030204]
+- Mamu [SL03030205]
+- Massah [SL03030206]
+- Moforay [SL03030207]
+- Mokebbie [SL03030208]
+- Motobon [SL03030209]
+- Moyemi [SL03030210]
+- Saiama [SL03030211]
+- Samu [SL03030212]
+- Yengessa [SL03030213]
+
+#### Dasse
+
+Code: SL030303, Coordinates: 8.004, -12.151
+
+Sections:
+- Bambuibu Tommy [SL03030301]
+- Bongoya [SL03030302]
+- Domboma [SL03030303]
+- Foya Tewei [SL03030304]
+- Jayahun [SL03030305]
+- Kenema [SL03030306]
+- Mano [SL03030307]
+- Niti Korley [SL03030308]
+- Semabu [SL03030309]
+- Taninahun Gomoh [SL03030310]
+- Taninahun Kapuima [SL03030311]
+- Timindi [SL03030312]
+- Wonkifore [SL03030313]
+
+#### Fakunya
+
+Code: SL030304, Coordinates: 8.235, -12.307
+
+Sections:
+- Fakoi [SL03030401]
+- Gandorhun Central [SL03030402]
+- Kovella [SL03030403]
+- Kpangulgo [SL03030404]
+- Kunyafoi [SL03030405]
+- Maninga [SL03030406]
+- Njawa [SL03030407]
+- Songo [SL03030408]
+- Tangbla [SL03030409]
+- To - Ndambalenga [SL03030410]
+- Tullu [SL03030411]
+
+#### Kagboro
+
+Code: SL030305, Coordinates: 7.916, -12.753
+
+Sections:
+- Bendu A [SL03030501]
+- Bendu B [SL03030502]
+- Bumpetoke [SL03030503]
+- Gbuallay [SL03030504]
+- Konolor [SL03030505]
+- Mambo [SL03030506]
+- Mano [SL03030507]
+- Mobeh [SL03030508]
+- Mofuss [SL03030509]
+- Mokandor [SL03030510]
+- Mokebe [SL03030511]
+- Mokobo [SL03030512]
+- Mopaileh [SL03030513]
+- Moyah [SL03030514]
+- Moyibo [SL03030515]
+- Ngiehun [SL03030516]
+- Rembe [SL03030517]
+- Tassoh [SL03030518]
+- Thumba A [SL03030519]
+- Thumba B [SL03030520]
+- Yondu [SL03030521]
+
+#### Kaiyamba
+
+Code: SL030306, Coordinates: 8.118, -12.368
+
+Sections:
+- Angigboya [SL03030601]
+- Koromboya [SL03030602]
+- Kpange [SL03030603]
+- Lungili [SL03030604]
+- Mendegelema [SL03030605]
+- Mosoe [SL03030606]
+- Waliwahun [SL03030607]
+
+#### Kamajei
+
+Code: SL030307, Coordinates: 8.215, -11.883
+
+Sections:
+- Kowama [SL03030701]
+- Mogbuama [SL03030702]
+- Ngiegombu [SL03030703]
+- Ngoahun [SL03030704]
+- Njagbema [SL03030705]
+- Tawovehun [SL03030706]
+- Yeima [SL03030707]
+
+#### Kongbora
+
+Code: SL030308, Coordinates: 8.161, -12.555
+
+Sections:
+- Gibina [SL03030801]
+- Gondama [SL03030802]
+- Mobonor [SL03030803]
+- Mokorewo [SL03030804]
+- Mongere [SL03030805]
+- Mosongla [SL03030806]
+- Mowoto [SL03030807]
+- Senehun [SL03030808]
+- Taninihun [SL03030809]
+- Tongieh [SL03030810]
+
+#### Kori
+
+Code: SL030309, Coordinates: 8.225, -12.088
+
+Sections:
+- Zone - 1 [SL03030901]
+- Zone - 2 [SL03030902]
+- Zone - 3 [SL03030903]
+- Zone - 4 [SL03030904]
+- Zone - 5 [SL03030905]
+- Zone - 6 [SL03030906]
+- Zone - 7 [SL03030907]
+
+#### Kowa
+
+Code: SL030310, Coordinates: 8.079, -11.974
+
+Sections:
+- Kpandobu [SL03031001]
+- Moforay [SL03031002]
+- Mosumana [SL03031003]
+- Ngiyeiya [SL03031004]
+- Njagbahun [SL03031005]
+- Njama [SL03031006]
+- Tabe [SL03031007]
+- Tawoveihun [SL03031008]
+
+#### Lower Banta
+
+Code: SL030311, Coordinates: 7.865, -12.28
+
+Sections:
+- Bengelloh [SL03031101]
+- Gbangbatoke [SL03031102]
+- Largoh [SL03031103]
+- Mofindoh [SL03031104]
+- Mokotawa [SL03031105]
+- Ndendemoya [SL03031106]
+- Ngolala [SL03031107]
+- Njagbahun [SL03031108]
+- Wulbange [SL03031109]
+
+#### Ribbi
+
+Code: SL030312, Coordinates: 8.244, -12.865
+
+Sections:
+- Kentineh [SL03031201]
+- Lower Ribbi [SL03031202]
+- Makera [SL03031203]
+- Masanka [SL03031204]
+- Masarakulay [SL03031205]
+- Mobureh [SL03031206]
+- Motoni [SL03031207]
+- Motonkoh [SL03031208]
+- Upper Ribbi [SL03031209]
+- Yoni [SL03031210]
+
+#### Timdale
+
+Code: SL030313, Coordinates: 7.803, -12.678
+
+Sections:
+- Bembellor [SL03031301]
+- Gambia [SL03031302]
+- Gbehan [SL03031303]
+- Kamasunu [SL03031304]
+- Kambotoke [SL03031305]
+- Kebail [SL03031306]
+- Mandu [SL03031307]
+- Mye [SL03031308]
+- Nonkoba [SL03031309]
+- Sahan [SL03031310]
+- Tombeh [SL03031311]
+- Yapoma [SL03031312]
+
+#### Upper Banta
+
+Code: SL030314, Coordinates: 7.737, -12.199
+
+Sections:
+- Bei-Kelleh [SL03031401]
+- Kenafallay [SL03031402]
+- Kepay [SL03031403]
+- Mogongbe [SL03031404]
+- Songbo [SL03031405]
+
+### Pujehun
+
+Code: SL0304, Coordinates: 7.301, -11.535
+Chiefdoms: 12, Sections: 94
+
+#### Barri
+
+Code: SL030401, Coordinates: 7.479, -11.439
+
+Sections:
+- Dakona [SL03040101]
+- Fallay [SL03040102]
+- Jougba [SL03040103]
+- Karjei [SL03040104]
+- Laimba [SL03040105]
+- Malla [SL03040106]
+- Sonjour I [SL03040107]
+- Sonjour II [SL03040108]
+- Tetima [SL03040109]
+
+#### Galliness Perri
+
+Code: SL030402, Coordinates: 7.267, -11.56
+
+Sections:
+- Bondor [SL03040201]
+- Dabeni [SL03040202]
+- Dakona [SL03040203]
+- Gendema I [SL03040204]
+- Gendema II [SL03040205]
+- Jakema I [SL03040206]
+- Jakema II [SL03040207]
+- Joya [SL03040208]
+- Kemokai [SL03040209]
+- Kortugbu [SL03040210]
+- Mallah [SL03040211]
+- Mewah [SL03040212]
+- Pelegbulor [SL03040213]
+
+#### Kpaka
+
+Code: SL030403, Coordinates: 7.187, -11.645
+
+Sections:
+- Jassende Kpeima [SL03040301]
+- Jassende Masaoma [SL03040302]
+- Jassende Ngoleima [SL03040303]
+- Jassende Ngoleima [SL03040304]
+- Nyango - Njeigbla [SL03040305]
+- Nyango-Ngoleihun [SL03040306]
+- Parvu [SL03040307]
+- Sarbah [SL03040308]
+
+#### Makpele
+
+Code: SL030405, Coordinates: 7.306, -11.285
+
+Sections:
+- Kengo [SL03040501]
+- Samagbe [SL03040502]
+- Seitua [SL03040503]
+- Selimeh [SL03040504]
+
+#### Malen
+
+Code: SL030406, Coordinates: 7.509, -11.808
+
+Sections:
+- Bahoin [SL03040601]
+- Kahaimoh [SL03040602]
+- Kakpanda [SL03040603]
+- Kemoh [SL03040604]
+- Korwa [SL03040605]
+- Lower Pemba [SL03040606]
+- Seijeila [SL03040607]
+- Taukunor [SL03040608]
+- Upper Pemba [SL03040609]
+
+#### Mono Sakrim
+
+Code: SL030407, Coordinates: 7.139, -11.774
+
+Sections:
+- Gbomotie [SL03040701]
+- Kemoh [SL03040702]
+- Makpondo [SL03040703]
+- Masanda Majagbe [SL03040704]
+- Pembaar [SL03040705]
+- Pullie [SL03040706]
+- Sitta [SL03040707]
+- Sowa [SL03040708]
+
+#### Panga Kabonde
+
+Code: SL030404, Coordinates: 7.402, -11.783
+
+Sections:
+- Bakoi [SL03040401]
+- Banyande [SL03040402]
+- Kabonde [SL03040403]
+- Kondogbe [SL03040404]
+- Lower Kayiemba [SL03040405]
+- Panga [SL03040406]
+- Pessekeh [SL03040407]
+- Samba [SL03040408]
+- Setti-Yakanday [SL03040409]
+- Upper Kayiemba [SL03040410]
+
+#### Panga krim
+
+Code: SL030408, Coordinates: 7.284, -11.801
+
+Sections:
+- Fassei [SL03040801]
+- Pemagbie [SL03040802]
+- Samba [SL03040803]
+- Somasa [SL03040804]
+
+#### Pejeh(Futa peje
+
+Code: SL030409, Coordinates: 7.553, -11.543
+
+Sections:
+- Koilenga [SL03040901]
+- Pejeh East [SL03040902]
+- Pejeh West [SL03040903]
+
+#### Soro Gbema
+
+Code: SL030410, Coordinates: 7.115, -11.434
+
+Sections:
+- Kemokai [SL03041001]
+- Kengo [SL03041002]
+- Kiazombo [SL03041003]
+- Mano - River [SL03041004]
+- Massaquoi I [SL03041005]
+- Massaquoi II [SL03041006]
+- Moiwebu [SL03041007]
+- Zoker I [SL03041008]
+- Zoker II [SL03041009]
+- Zombo [SL03041010]
+
+#### Sowa
+
+Code: SL030411, Coordinates: 7.575, -11.658
+
+Sections:
+- Lower Geoma [SL03041101]
+- Sabba I [SL03041102]
+- Sabba II [SL03041103]
+- Upper Geoma [SL03041104]
+
+#### Yakemu Kpukumu
+
+Code: SL030412, Coordinates: 7.232, -11.809
+
+Sections:
+- Bagollay [SL03041201]
+- Bapawa [SL03041202]
+- Batowa [SL03041203]
+- Bekowa [SL03041204]
+- Deyombo [SL03041205]
+- Fortune [SL03041206]
+- Kemo-Bo [SL03041207]
+- Kemo-wa [SL03041208]
+- Kpukumu [SL03041209]
+- Seiwoh [SL03041210]
+- Sowonde [SL03041211]
+- Yabai [SL03041212]
+

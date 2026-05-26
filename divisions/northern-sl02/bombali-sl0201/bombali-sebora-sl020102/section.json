@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL02010201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kafala",
+      "en": "Kafala",
+      "slug": "kafala"
+    },
+    "code": {
+      "id": "SL02010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020102",
+      "level": 3,
+      "name": {
+        "local": "Bombali Sebora",
+        "en": "Bombali Sebora",
+        "slug": "bombali-sebora-sl020102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020102",
+        "level": 3,
+        "name": {
+          "local": "Bombali Sebora",
+          "en": "Bombali Sebora",
+          "slug": "bombali-sebora-sl020102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.773",
+      "lon": "-12.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbaran Dokom B",
+      "en": "Kagbaran Dokom B",
+      "slug": "kagbaran-dokom-b"
+    },
+    "code": {
+      "id": "SL02010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020102",
+      "level": 3,
+      "name": {
+        "local": "Bombali Sebora",
+        "en": "Bombali Sebora",
+        "slug": "bombali-sebora-sl020102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020102",
+        "level": 3,
+        "name": {
+          "local": "Bombali Sebora",
+          "en": "Bombali Sebora",
+          "slug": "bombali-sebora-sl020102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.849",
+      "lon": "-12.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konta",
+      "en": "Konta",
+      "slug": "konta"
+    },
+    "code": {
+      "id": "SL02010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020102",
+      "level": 3,
+      "name": {
+        "local": "Bombali Sebora",
+        "en": "Bombali Sebora",
+        "slug": "bombali-sebora-sl020102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020102",
+        "level": 3,
+        "name": {
+          "local": "Bombali Sebora",
+          "en": "Bombali Sebora",
+          "slug": "bombali-sebora-sl020102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.755",
+      "lon": "-12.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matotoka",
+      "en": "Matotoka",
+      "slug": "matotoka"
+    },
+    "code": {
+      "id": "SL02010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020102",
+      "level": 3,
+      "name": {
+        "local": "Bombali Sebora",
+        "en": "Bombali Sebora",
+        "slug": "bombali-sebora-sl020102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020102",
+        "level": 3,
+        "name": {
+          "local": "Bombali Sebora",
+          "en": "Bombali Sebora",
+          "slug": "bombali-sebora-sl020102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.733",
+      "lon": "-12.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

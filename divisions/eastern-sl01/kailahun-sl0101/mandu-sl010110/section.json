@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01011001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbongre",
+      "en": "Gbongre",
+      "slug": "gbongre"
+    },
+    "code": {
+      "id": "SL01011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010110",
+      "level": 3,
+      "name": {
+        "local": "Mandu",
+        "en": "Mandu",
+        "slug": "mandu-sl010110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010110",
+        "level": 3,
+        "name": {
+          "local": "Mandu",
+          "en": "Mandu",
+          "slug": "mandu-sl010110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.044",
+      "lon": "-10.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Levuma Jeigbla",
+      "en": "Levuma Jeigbla",
+      "slug": "levuma-jeigbla"
+    },
+    "code": {
+      "id": "SL01011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010110",
+      "level": 3,
+      "name": {
+        "local": "Mandu",
+        "en": "Mandu",
+        "slug": "mandu-sl010110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010110",
+        "level": 3,
+        "name": {
+          "local": "Mandu",
+          "en": "Mandu",
+          "slug": "mandu-sl010110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.042",
+      "lon": "-10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kuiva",
+      "en": "Lower Kuiva",
+      "slug": "lower-kuiva"
+    },
+    "code": {
+      "id": "SL01011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010110",
+      "level": 3,
+      "name": {
+        "local": "Mandu",
+        "en": "Mandu",
+        "slug": "mandu-sl010110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010110",
+        "level": 3,
+        "name": {
+          "local": "Mandu",
+          "en": "Mandu",
+          "slug": "mandu-sl010110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.927",
+      "lon": "-10.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kuiva",
+      "en": "Upper Kuiva",
+      "slug": "upper-kuiva"
+    },
+    "code": {
+      "id": "SL01011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010110",
+      "level": 3,
+      "name": {
+        "local": "Mandu",
+        "en": "Mandu",
+        "slug": "mandu-sl010110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010110",
+        "level": 3,
+        "name": {
+          "local": "Mandu",
+          "en": "Mandu",
+          "slug": "mandu-sl010110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.948",
+      "lon": "-10.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

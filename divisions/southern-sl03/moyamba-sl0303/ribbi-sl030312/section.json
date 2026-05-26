@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL03031201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kentineh",
+      "en": "Kentineh",
+      "slug": "kentineh"
+    },
+    "code": {
+      "id": "SL03031201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.283",
+      "lon": "-12.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Ribbi",
+      "en": "Lower Ribbi",
+      "slug": "lower-ribbi"
+    },
+    "code": {
+      "id": "SL03031202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.22",
+      "lon": "-12.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makera",
+      "en": "Makera",
+      "slug": "makera"
+    },
+    "code": {
+      "id": "SL03031203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.363",
+      "lon": "-12.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masanka",
+      "en": "Masanka",
+      "slug": "masanka"
+    },
+    "code": {
+      "id": "SL03031204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.346",
+      "lon": "-12.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masarakulay",
+      "en": "Masarakulay",
+      "slug": "masarakulay"
+    },
+    "code": {
+      "id": "SL03031205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.325",
+      "lon": "-12.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mobureh",
+      "en": "Mobureh",
+      "slug": "mobureh"
+    },
+    "code": {
+      "id": "SL03031206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.152",
+      "lon": "-12.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Motoni",
+      "en": "Motoni",
+      "slug": "motoni"
+    },
+    "code": {
+      "id": "SL03031207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.298",
+      "lon": "-12.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Motonkoh",
+      "en": "Motonkoh",
+      "slug": "motonkoh"
+    },
+    "code": {
+      "id": "SL03031208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.254",
+      "lon": "-12.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Ribbi",
+      "en": "Upper Ribbi",
+      "slug": "upper-ribbi"
+    },
+    "code": {
+      "id": "SL03031209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.206",
+      "lon": "-12.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031210",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yoni",
+      "en": "Yoni",
+      "slug": "yoni"
+    },
+    "code": {
+      "id": "SL03031210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030312",
+      "level": 3,
+      "name": {
+        "local": "Ribbi",
+        "en": "Ribbi",
+        "slug": "ribbi-sl030312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030312",
+        "level": 3,
+        "name": {
+          "local": "Ribbi",
+          "en": "Ribbi",
+          "slug": "ribbi-sl030312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.227",
+      "lon": "-12.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

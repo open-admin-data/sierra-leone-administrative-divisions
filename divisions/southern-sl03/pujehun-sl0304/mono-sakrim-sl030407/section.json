@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03040701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbomotie",
+      "en": "Gbomotie",
+      "slug": "gbomotie"
+    },
+    "code": {
+      "id": "SL03040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.202",
+      "lon": "-11.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL03040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.161",
+      "lon": "-11.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makpondo",
+      "en": "Makpondo",
+      "slug": "makpondo"
+    },
+    "code": {
+      "id": "SL03040703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.145",
+      "lon": "-11.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masanda Majagbe",
+      "en": "Masanda Majagbe",
+      "slug": "masanda-majagbe"
+    },
+    "code": {
+      "id": "SL03040704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.112",
+      "lon": "-11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pembaar",
+      "en": "Pembaar",
+      "slug": "pembaar"
+    },
+    "code": {
+      "id": "SL03040705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.19",
+      "lon": "-11.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pullie",
+      "en": "Pullie",
+      "slug": "pullie"
+    },
+    "code": {
+      "id": "SL03040706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.179",
+      "lon": "-11.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sitta",
+      "en": "Sitta",
+      "slug": "sitta"
+    },
+    "code": {
+      "id": "SL03040707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.088",
+      "lon": "-11.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sowa",
+      "en": "Sowa",
+      "slug": "sowa"
+    },
+    "code": {
+      "id": "SL03040708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030407",
+      "level": 3,
+      "name": {
+        "local": "Mono Sakrim",
+        "en": "Mono Sakrim",
+        "slug": "mono-sakrim-sl030407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030407",
+        "level": 3,
+        "name": {
+          "local": "Mono Sakrim",
+          "en": "Mono Sakrim",
+          "slug": "mono-sakrim-sl030407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.156",
+      "lon": "-11.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

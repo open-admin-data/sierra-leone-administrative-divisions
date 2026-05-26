@@ -1,0 +1,884 @@
+[
+  {
+    "id": "SL05030401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benkia",
+      "en": "Benkia",
+      "slug": "benkia"
+    },
+    "code": {
+      "id": "SL05030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.759",
+      "lon": "-13.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbainty",
+      "en": "Gbainty",
+      "slug": "gbainty"
+    },
+    "code": {
+      "id": "SL05030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.799",
+      "lon": "-13.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamasondo",
+      "en": "Kamasondo",
+      "slug": "kamasondo"
+    },
+    "code": {
+      "id": "SL05030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.637",
+      "lon": "-12.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kantaya",
+      "en": "Kantaya",
+      "slug": "kantaya"
+    },
+    "code": {
+      "id": "SL05030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.702",
+      "lon": "-13.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Katonga",
+      "en": "Katonga",
+      "slug": "katonga"
+    },
+    "code": {
+      "id": "SL05030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.787",
+      "lon": "-12.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Komrabai",
+      "en": "Komrabai",
+      "slug": "komrabai"
+    },
+    "code": {
+      "id": "SL05030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.677",
+      "lon": "-13.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konta",
+      "en": "Konta",
+      "slug": "konta"
+    },
+    "code": {
+      "id": "SL05030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.823",
+      "lon": "-13.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbokorr",
+      "en": "Magbokorr",
+      "slug": "magbokorr"
+    },
+    "code": {
+      "id": "SL05030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.744",
+      "lon": "-12.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030409",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mannah",
+      "en": "Mannah",
+      "slug": "mannah"
+    },
+    "code": {
+      "id": "SL05030409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.714",
+      "lon": "-12.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030410",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapiterr",
+      "en": "Mapiterr",
+      "slug": "mapiterr"
+    },
+    "code": {
+      "id": "SL05030410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.657",
+      "lon": "-13.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030411",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matheng",
+      "en": "Matheng",
+      "slug": "matheng"
+    },
+    "code": {
+      "id": "SL05030411",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.72",
+      "lon": "-13.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030412",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu",
+      "en": "Petifu",
+      "slug": "petifu"
+    },
+    "code": {
+      "id": "SL05030412",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.687",
+      "lon": "-13.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030413",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Royema",
+      "en": "Royema",
+      "slug": "royema"
+    },
+    "code": {
+      "id": "SL05030413",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.733",
+      "lon": "-13.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030414",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yurika",
+      "en": "Yurika",
+      "slug": "yurika"
+    },
+    "code": {
+      "id": "SL05030414",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050304",
+      "level": 3,
+      "name": {
+        "local": "Lokomasama",
+        "en": "Lokomasama",
+        "slug": "lokomasama-sl050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050304",
+        "level": 3,
+        "name": {
+          "local": "Lokomasama",
+          "en": "Lokomasama",
+          "slug": "lokomasama-sl050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.78",
+      "lon": "-13.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

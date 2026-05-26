@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL01031101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bafinfeh",
+      "en": "Bafinfeh",
+      "slug": "bafinfeh"
+    },
+    "code": {
+      "id": "SL01031101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "-11.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dangbaidu",
+      "en": "Dangbaidu",
+      "slug": "dangbaidu"
+    },
+    "code": {
+      "id": "SL01031102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.733",
+      "lon": "-11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fakongofeh",
+      "en": "Fakongofeh",
+      "slug": "fakongofeh"
+    },
+    "code": {
+      "id": "SL01031103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.867",
+      "lon": "-10.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kawafeh",
+      "en": "Kawafeh",
+      "slug": "kawafeh"
+    },
+    "code": {
+      "id": "SL01031104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.976",
+      "lon": "-10.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njeikor",
+      "en": "Njeikor",
+      "slug": "njeikor"
+    },
+    "code": {
+      "id": "SL01031105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.851",
+      "lon": "-10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samgbafeh",
+      "en": "Samgbafeh",
+      "slug": "samgbafeh"
+    },
+    "code": {
+      "id": "SL01031106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.889",
+      "lon": "-10.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sinkongofeh",
+      "en": "Sinkongofeh",
+      "slug": "sinkongofeh"
+    },
+    "code": {
+      "id": "SL01031107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "-11.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sumunjifeh",
+      "en": "Sumunjifeh",
+      "slug": "sumunjifeh"
+    },
+    "code": {
+      "id": "SL01031108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.942",
+      "lon": "-11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tharma Forest",
+      "en": "Tharma Forest",
+      "slug": "tharma-forest"
+    },
+    "code": {
+      "id": "SL01031109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.773",
+      "lon": "-11.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yawatanda",
+      "en": "Yawatanda",
+      "slug": "yawatanda"
+    },
+    "code": {
+      "id": "SL01031110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010311",
+      "level": 3,
+      "name": {
+        "local": "Sandor",
+        "en": "Sandor",
+        "slug": "sandor-sl010311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010311",
+        "level": 3,
+        "name": {
+          "local": "Sandor",
+          "en": "Sandor",
+          "slug": "sandor-sl010311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.863",
+      "lon": "-11.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01021301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bundoryama",
+      "en": "Bundoryama",
+      "slug": "bundoryama"
+    },
+    "code": {
+      "id": "SL01021301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010213",
+      "level": 3,
+      "name": {
+        "local": "Simbaru",
+        "en": "Simbaru",
+        "slug": "simbaru-sl010213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010213",
+        "level": 3,
+        "name": {
+          "local": "Simbaru",
+          "en": "Simbaru",
+          "slug": "simbaru-sl010213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.154",
+      "lon": "-11.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fallay",
+      "en": "Fallay",
+      "slug": "fallay"
+    },
+    "code": {
+      "id": "SL01021302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010213",
+      "level": 3,
+      "name": {
+        "local": "Simbaru",
+        "en": "Simbaru",
+        "slug": "simbaru-sl010213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010213",
+        "level": 3,
+        "name": {
+          "local": "Simbaru",
+          "en": "Simbaru",
+          "slug": "simbaru-sl010213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.149",
+      "lon": "-11.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fonde",
+      "en": "Fonde",
+      "slug": "fonde"
+    },
+    "code": {
+      "id": "SL01021303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010213",
+      "level": 3,
+      "name": {
+        "local": "Simbaru",
+        "en": "Simbaru",
+        "slug": "simbaru-sl010213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010213",
+        "level": 3,
+        "name": {
+          "local": "Simbaru",
+          "en": "Simbaru",
+          "slug": "simbaru-sl010213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "-11.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yalenga",
+      "en": "Yalenga",
+      "slug": "yalenga"
+    },
+    "code": {
+      "id": "SL01021304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010213",
+      "level": 3,
+      "name": {
+        "local": "Simbaru",
+        "en": "Simbaru",
+        "slug": "simbaru-sl010213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010213",
+        "level": 3,
+        "name": {
+          "local": "Simbaru",
+          "en": "Simbaru",
+          "slug": "simbaru-sl010213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.195",
+      "lon": "-11.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

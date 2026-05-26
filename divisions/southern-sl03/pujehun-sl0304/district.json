@@ -1,0 +1,48 @@
+{
+  "id": "SL0304",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pujehun",
+    "en": "Pujehun",
+    "slug": "pujehun-sl0304"
+  },
+  "code": {
+    "id": "SL0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL03",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-sl03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 12,
+    "section": 94
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.301",
+    "lon": "-11.535"
+  },
+  "metadata": {},
+  "source": {}
+}

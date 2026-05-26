@@ -1,0 +1,56 @@
+{
+  "id": "SL020503",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Kalansogoia",
+    "en": "Kalansogoia",
+    "slug": "kalansogoia-sl020503"
+  },
+  "code": {
+    "id": "SL020503",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0205",
+    "level": 2,
+    "name": {
+      "local": "Tonkolili",
+      "en": "Tonkolili",
+      "slug": "tonkolili-sl0205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.103",
+    "lon": "-11.752"
+  },
+  "metadata": {},
+  "source": {}
+}

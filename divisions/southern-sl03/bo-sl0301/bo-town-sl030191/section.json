@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "SL03019101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Batiema",
+      "en": "East Ward-Batiema",
+      "slug": "east-ward-batiema"
+    },
+    "code": {
+      "id": "SL03019101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.965",
+      "lon": "-11.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Bumpeh-W",
+      "en": "East Ward-Bumpeh-W",
+      "slug": "east-ward-bumpeh-w"
+    },
+    "code": {
+      "id": "SL03019102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.954",
+      "lon": "-11.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Gbondo T",
+      "en": "East Ward-Gbondo T",
+      "slug": "east-ward-gbondo-t"
+    },
+    "code": {
+      "id": "SL03019103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.943",
+      "lon": "-11.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Kindia T",
+      "en": "East Ward-Kindia T",
+      "slug": "east-ward-kindia-t"
+    },
+    "code": {
+      "id": "SL03019104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.961",
+      "lon": "-11.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Lower Sa",
+      "en": "East Ward-Lower Sa",
+      "slug": "east-ward-lower-sa"
+    },
+    "code": {
+      "id": "SL03019105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.966",
+      "lon": "-11.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Manjama",
+      "en": "East Ward-Manjama",
+      "slug": "east-ward-manjama"
+    },
+    "code": {
+      "id": "SL03019106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.941",
+      "lon": "-11.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Messima",
+      "en": "East Ward-Messima",
+      "slug": "east-ward-messima"
+    },
+    "code": {
+      "id": "SL03019107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "-11.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "East Ward-Moriba T",
+      "en": "East Ward-Moriba T",
+      "slug": "east-ward-moriba-t"
+    },
+    "code": {
+      "id": "SL03019109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "-11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "North Ward-Bo Numb",
+      "en": "North Ward-Bo Numb",
+      "slug": "north-ward-bo-numb"
+    },
+    "code": {
+      "id": "SL03019111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.976",
+      "lon": "-11.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "North Ward-Kissy Town",
+      "en": "North Ward-Kissy Town",
+      "slug": "north-ward-kissy-town"
+    },
+    "code": {
+      "id": "SL03019112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.97",
+      "lon": "-11.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019114",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "North Ward-Njai To",
+      "en": "North Ward-Njai To",
+      "slug": "north-ward-njai-to"
+    },
+    "code": {
+      "id": "SL03019114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.979",
+      "lon": "-11.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019115",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "North Ward-Reservation",
+      "en": "North Ward-Reservation",
+      "slug": "north-ward-reservation"
+    },
+    "code": {
+      "id": "SL03019115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.973",
+      "lon": "-11.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019118",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "West Ward-Kandeh T",
+      "en": "West Ward-Kandeh T",
+      "slug": "west-ward-kandeh-t"
+    },
+    "code": {
+      "id": "SL03019118",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.945",
+      "lon": "-11.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019119",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "West Ward-Lewabu -",
+      "en": "West Ward-Lewabu -",
+      "slug": "west-ward-lewabu"
+    },
+    "code": {
+      "id": "SL03019119",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.941",
+      "lon": "-11.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019120",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "West Ward-Moriba T",
+      "en": "West Ward-Moriba T",
+      "slug": "west-ward-moriba-t"
+    },
+    "code": {
+      "id": "SL03019120",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "-11.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019121",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "West Ward-Nikibu -",
+      "en": "West Ward-Nikibu -",
+      "slug": "west-ward-nikibu"
+    },
+    "code": {
+      "id": "SL03019121",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "-11.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03019122",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "West Ward-Njagboim",
+      "en": "West Ward-Njagboim",
+      "slug": "west-ward-njagboim"
+    },
+    "code": {
+      "id": "SL03019122",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030191",
+      "level": 3,
+      "name": {
+        "local": "Bo Town",
+        "en": "Bo Town",
+        "slug": "bo-town-sl030191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030191",
+        "level": 3,
+        "name": {
+          "local": "Bo Town",
+          "en": "Bo Town",
+          "slug": "bo-town-sl030191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.954",
+      "lon": "-11.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

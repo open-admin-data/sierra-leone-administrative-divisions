@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL03041201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bagollay",
+      "en": "Bagollay",
+      "slug": "bagollay"
+    },
+    "code": {
+      "id": "SL03041201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.19",
+      "lon": "-11.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bapawa",
+      "en": "Bapawa",
+      "slug": "bapawa"
+    },
+    "code": {
+      "id": "SL03041202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.268",
+      "lon": "-11.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Batowa",
+      "en": "Batowa",
+      "slug": "batowa"
+    },
+    "code": {
+      "id": "SL03041203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.238",
+      "lon": "-11.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bekowa",
+      "en": "Bekowa",
+      "slug": "bekowa"
+    },
+    "code": {
+      "id": "SL03041204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.254",
+      "lon": "-11.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Deyombo",
+      "en": "Deyombo",
+      "slug": "deyombo"
+    },
+    "code": {
+      "id": "SL03041205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.232",
+      "lon": "-11.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fortune",
+      "en": "Fortune",
+      "slug": "fortune"
+    },
+    "code": {
+      "id": "SL03041206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.225",
+      "lon": "-11.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemo-Bo",
+      "en": "Kemo-Bo",
+      "slug": "kemo-bo"
+    },
+    "code": {
+      "id": "SL03041207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.188",
+      "lon": "-11.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemo-wa",
+      "en": "Kemo-wa",
+      "slug": "kemo-wa"
+    },
+    "code": {
+      "id": "SL03041208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.167",
+      "lon": "-11.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpukumu",
+      "en": "Kpukumu",
+      "slug": "kpukumu"
+    },
+    "code": {
+      "id": "SL03041209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.222",
+      "lon": "-11.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041210",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seiwoh",
+      "en": "Seiwoh",
+      "slug": "seiwoh"
+    },
+    "code": {
+      "id": "SL03041210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.198",
+      "lon": "-11.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041211",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sowonde",
+      "en": "Sowonde",
+      "slug": "sowonde"
+    },
+    "code": {
+      "id": "SL03041211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.233",
+      "lon": "-11.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041212",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yabai",
+      "en": "Yabai",
+      "slug": "yabai"
+    },
+    "code": {
+      "id": "SL03041212",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030412",
+      "level": 3,
+      "name": {
+        "local": "Yakemu Kpukumu",
+        "en": "Yakemu Kpukumu",
+        "slug": "yakemu-kpukumu-sl030412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030412",
+        "level": 3,
+        "name": {
+          "local": "Yakemu Kpukumu",
+          "en": "Yakemu Kpukumu",
+          "slug": "yakemu-kpukumu-sl030412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.234",
+      "lon": "-11.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

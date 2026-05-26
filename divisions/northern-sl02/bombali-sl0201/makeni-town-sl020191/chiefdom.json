@@ -1,0 +1,56 @@
+{
+  "id": "SL020191",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Makeni Town",
+    "en": "Makeni Town",
+    "slug": "makeni-town-sl020191"
+  },
+  "code": {
+    "id": "SL020191",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0201",
+    "level": 2,
+    "name": {
+      "local": "Bombali",
+      "en": "Bombali",
+      "slug": "bombali-sl0201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.883",
+    "lon": "-12.046"
+  },
+  "metadata": {},
+  "source": {}
+}

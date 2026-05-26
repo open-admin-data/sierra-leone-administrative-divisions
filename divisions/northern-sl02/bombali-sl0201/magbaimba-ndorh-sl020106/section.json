@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL02010601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hunduwa",
+      "en": "Hunduwa",
+      "slug": "hunduwa"
+    },
+    "code": {
+      "id": "SL02010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.261",
+      "lon": "-12.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kababala",
+      "en": "Kababala",
+      "slug": "kababala"
+    },
+    "code": {
+      "id": "SL02010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.186",
+      "lon": "-12.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagberay",
+      "en": "Kagberay",
+      "slug": "kagberay"
+    },
+    "code": {
+      "id": "SL02010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.213",
+      "lon": "-12.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kawungulu",
+      "en": "Kawungulu",
+      "slug": "kawungulu"
+    },
+    "code": {
+      "id": "SL02010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.342",
+      "lon": "-11.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makendema",
+      "en": "Makendema",
+      "slug": "makendema"
+    },
+    "code": {
+      "id": "SL02010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.315",
+      "lon": "-12.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mambiama",
+      "en": "Mambiama",
+      "slug": "mambiama"
+    },
+    "code": {
+      "id": "SL02010606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.314",
+      "lon": "-12.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manjahagha",
+      "en": "Manjahagha",
+      "slug": "manjahagha"
+    },
+    "code": {
+      "id": "SL02010607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.246",
+      "lon": "-12.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sokudala",
+      "en": "Sokudala",
+      "slug": "sokudala"
+    },
+    "code": {
+      "id": "SL02010608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.37",
+      "lon": "-11.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yana",
+      "en": "Yana",
+      "slug": "yana"
+    },
+    "code": {
+      "id": "SL02010609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020106",
+      "level": 3,
+      "name": {
+        "local": "Magbaimba Ndorh",
+        "en": "Magbaimba Ndorh",
+        "slug": "magbaimba-ndorh-sl020106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020106",
+        "level": 3,
+        "name": {
+          "local": "Magbaimba Ndorh",
+          "en": "Magbaimba Ndorh",
+          "slug": "magbaimba-ndorh-sl020106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "-11.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

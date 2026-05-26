@@ -1,0 +1,48 @@
+{
+  "id": "SL0301",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bo",
+    "en": "Bo",
+    "slug": "bo-sl0301"
+  },
+  "code": {
+    "id": "SL0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL03",
+    "level": 1,
+    "name": {
+      "local": "Southern",
+      "en": "Southern",
+      "slug": "southern-sl03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 16,
+    "section": 108
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.984",
+    "lon": "-11.702"
+  },
+  "metadata": {},
+  "source": {}
+}

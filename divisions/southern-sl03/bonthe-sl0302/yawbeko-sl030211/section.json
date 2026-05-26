@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL03021101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Baryegbe",
+      "en": "Baryegbe",
+      "slug": "baryegbe"
+    },
+    "code": {
+      "id": "SL03021101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030211",
+      "level": 3,
+      "name": {
+        "local": "Yawbeko",
+        "en": "Yawbeko",
+        "slug": "yawbeko-sl030211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030211",
+        "level": 3,
+        "name": {
+          "local": "Yawbeko",
+          "en": "Yawbeko",
+          "slug": "yawbeko-sl030211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.427",
+      "lon": "-12.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hahun",
+      "en": "Hahun",
+      "slug": "hahun"
+    },
+    "code": {
+      "id": "SL03021102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030211",
+      "level": 3,
+      "name": {
+        "local": "Yawbeko",
+        "en": "Yawbeko",
+        "slug": "yawbeko-sl030211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030211",
+        "level": 3,
+        "name": {
+          "local": "Yawbeko",
+          "en": "Yawbeko",
+          "slug": "yawbeko-sl030211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.472",
+      "lon": "-12.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ketaway",
+      "en": "Ketaway",
+      "slug": "ketaway"
+    },
+    "code": {
+      "id": "SL03021103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030211",
+      "level": 3,
+      "name": {
+        "local": "Yawbeko",
+        "en": "Yawbeko",
+        "slug": "yawbeko-sl030211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030211",
+        "level": 3,
+        "name": {
+          "local": "Yawbeko",
+          "en": "Yawbeko",
+          "slug": "yawbeko-sl030211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.425",
+      "lon": "-12.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mobulie",
+      "en": "Mobulie",
+      "slug": "mobulie"
+    },
+    "code": {
+      "id": "SL03021104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030211",
+      "level": 3,
+      "name": {
+        "local": "Yawbeko",
+        "en": "Yawbeko",
+        "slug": "yawbeko-sl030211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030211",
+        "level": 3,
+        "name": {
+          "local": "Yawbeko",
+          "en": "Yawbeko",
+          "slug": "yawbeko-sl030211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.511",
+      "lon": "-12.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yorma",
+      "en": "Yorma",
+      "slug": "yorma"
+    },
+    "code": {
+      "id": "SL03021105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030211",
+      "level": 3,
+      "name": {
+        "local": "Yawbeko",
+        "en": "Yawbeko",
+        "slug": "yawbeko-sl030211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030211",
+        "level": 3,
+        "name": {
+          "local": "Yawbeko",
+          "en": "Yawbeko",
+          "slug": "yawbeko-sl030211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.394",
+      "lon": "-12.076"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

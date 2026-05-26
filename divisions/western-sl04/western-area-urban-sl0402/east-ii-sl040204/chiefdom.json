@@ -1,0 +1,56 @@
+{
+  "id": "SL040204",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "East II",
+    "en": "East II",
+    "slug": "east-ii-sl040204"
+  },
+  "code": {
+    "id": "SL040204",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0402",
+    "level": 2,
+    "name": {
+      "local": "Western Area Urban",
+      "en": "Western Area Urban",
+      "slug": "western-area-urban-sl0402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.48",
+    "lon": "-13.216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL03040401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bakoi",
+      "en": "Bakoi",
+      "slug": "bakoi"
+    },
+    "code": {
+      "id": "SL03040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.456",
+      "lon": "-11.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Banyande",
+      "en": "Banyande",
+      "slug": "banyande"
+    },
+    "code": {
+      "id": "SL03040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.361",
+      "lon": "-11.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabonde",
+      "en": "Kabonde",
+      "slug": "kabonde"
+    },
+    "code": {
+      "id": "SL03040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.538",
+      "lon": "-11.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kondogbe",
+      "en": "Kondogbe",
+      "slug": "kondogbe"
+    },
+    "code": {
+      "id": "SL03040404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.454",
+      "lon": "-11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kayiemba",
+      "en": "Lower Kayiemba",
+      "slug": "lower-kayiemba"
+    },
+    "code": {
+      "id": "SL03040405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.332",
+      "lon": "-11.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Panga",
+      "en": "Panga",
+      "slug": "panga"
+    },
+    "code": {
+      "id": "SL03040406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.31",
+      "lon": "-11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pessekeh",
+      "en": "Pessekeh",
+      "slug": "pessekeh"
+    },
+    "code": {
+      "id": "SL03040407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.396",
+      "lon": "-11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samba",
+      "en": "Samba",
+      "slug": "samba"
+    },
+    "code": {
+      "id": "SL03040408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.458",
+      "lon": "-11.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040409",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Setti-Yakanday",
+      "en": "Setti-Yakanday",
+      "slug": "setti-yakanday"
+    },
+    "code": {
+      "id": "SL03040409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.302",
+      "lon": "-11.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040410",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kayiemba",
+      "en": "Upper Kayiemba",
+      "slug": "upper-kayiemba"
+    },
+    "code": {
+      "id": "SL03040410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030404",
+      "level": 3,
+      "name": {
+        "local": "Panga Kabonde",
+        "en": "Panga Kabonde",
+        "slug": "panga-kabonde-sl030404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030404",
+        "level": 3,
+        "name": {
+          "local": "Panga Kabonde",
+          "en": "Panga Kabonde",
+          "slug": "panga-kabonde-sl030404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.427",
+      "lon": "-11.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

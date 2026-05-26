@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01020201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bambara",
+      "en": "Bambara",
+      "slug": "bambara"
+    },
+    "code": {
+      "id": "SL01020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.224",
+      "lon": "-11.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bonya",
+      "en": "Bonya",
+      "slug": "bonya"
+    },
+    "code": {
+      "id": "SL01020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.168",
+      "lon": "-11.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bundoryama",
+      "en": "Bundoryama",
+      "slug": "bundoryama"
+    },
+    "code": {
+      "id": "SL01020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "-11.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gorama",
+      "en": "Gorama",
+      "slug": "gorama"
+    },
+    "code": {
+      "id": "SL01020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.312",
+      "lon": "-11.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Karteh",
+      "en": "Karteh",
+      "slug": "karteh"
+    },
+    "code": {
+      "id": "SL01020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.248",
+      "lon": "-11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korgay",
+      "en": "Korgay",
+      "slug": "korgay"
+    },
+    "code": {
+      "id": "SL01020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.094",
+      "lon": "-11.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seiwor",
+      "en": "Seiwor",
+      "slug": "seiwor"
+    },
+    "code": {
+      "id": "SL01020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010202",
+      "level": 3,
+      "name": {
+        "local": "Dodo",
+        "en": "Dodo",
+        "slug": "dodo-sl010202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010202",
+        "level": 3,
+        "name": {
+          "local": "Dodo",
+          "en": "Dodo",
+          "slug": "dodo-sl010202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.123",
+      "lon": "-11.19"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL02050301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fuladugu",
+      "en": "Fuladugu",
+      "slug": "fuladugu"
+    },
+    "code": {
+      "id": "SL02050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.215",
+      "lon": "-11.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kakallain",
+      "en": "Kakallain",
+      "slug": "kakallain"
+    },
+    "code": {
+      "id": "SL02050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.201",
+      "lon": "-11.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamakathie",
+      "en": "Kamakathie",
+      "slug": "kamakathie"
+    },
+    "code": {
+      "id": "SL02050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.097",
+      "lon": "-11.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamakilla",
+      "en": "Kamakilla",
+      "slug": "kamakilla"
+    },
+    "code": {
+      "id": "SL02050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.12",
+      "lon": "-11.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kasokira",
+      "en": "Kasokira",
+      "slug": "kasokira"
+    },
+    "code": {
+      "id": "SL02050305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.112",
+      "lon": "-11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Section",
+      "en": "Lower Section",
+      "slug": "lower-section"
+    },
+    "code": {
+      "id": "SL02050306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.984",
+      "lon": "-11.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Section",
+      "en": "Upper Section",
+      "slug": "upper-section"
+    },
+    "code": {
+      "id": "SL02050307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020503",
+      "level": 3,
+      "name": {
+        "local": "Kalansogoia",
+        "en": "Kalansogoia",
+        "slug": "kalansogoia-sl020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020503",
+        "level": 3,
+        "name": {
+          "local": "Kalansogoia",
+          "en": "Kalansogoia",
+          "slug": "kalansogoia-sl020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.017",
+      "lon": "-11.686"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

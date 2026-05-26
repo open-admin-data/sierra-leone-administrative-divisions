@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL03010501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo"
+    },
+    "code": {
+      "id": "SL03010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.768",
+      "lon": "-11.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bumpe",
+      "en": "Bumpe",
+      "slug": "bumpe"
+    },
+    "code": {
+      "id": "SL03010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.909",
+      "lon": "-11.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foya",
+      "en": "Foya",
+      "slug": "foya"
+    },
+    "code": {
+      "id": "SL03010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.961",
+      "lon": "-11.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpetema",
+      "en": "Kpetema",
+      "slug": "kpetema"
+    },
+    "code": {
+      "id": "SL03010504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.856",
+      "lon": "-11.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sahn",
+      "en": "Sahn",
+      "slug": "sahn"
+    },
+    "code": {
+      "id": "SL03010505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.716",
+      "lon": "-12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Serabu",
+      "en": "Serabu",
+      "slug": "serabu"
+    },
+    "code": {
+      "id": "SL03010506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.817",
+      "lon": "-12.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sewama",
+      "en": "Sewama",
+      "slug": "sewama"
+    },
+    "code": {
+      "id": "SL03010507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.713",
+      "lon": "-11.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taninahun",
+      "en": "Taninahun",
+      "slug": "taninahun"
+    },
+    "code": {
+      "id": "SL03010508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.898",
+      "lon": "-12.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010509",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Walihun",
+      "en": "Walihun",
+      "slug": "walihun"
+    },
+    "code": {
+      "id": "SL03010509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.767",
+      "lon": "-12.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010510",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yengema",
+      "en": "Yengema",
+      "slug": "yengema"
+    },
+    "code": {
+      "id": "SL03010510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030105",
+      "level": 3,
+      "name": {
+        "local": "Bumpe Ngao",
+        "en": "Bumpe Ngao",
+        "slug": "bumpe-ngao-sl030105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030105",
+        "level": 3,
+        "name": {
+          "local": "Bumpe Ngao",
+          "en": "Bumpe Ngao",
+          "slug": "bumpe-ngao-sl030105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.85",
+      "lon": "-12.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

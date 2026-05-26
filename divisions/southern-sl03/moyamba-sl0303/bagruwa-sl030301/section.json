@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL03030101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benduma",
+      "en": "Benduma",
+      "slug": "benduma"
+    },
+    "code": {
+      "id": "SL03030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.914",
+      "lon": "-12.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benkeh",
+      "en": "Benkeh",
+      "slug": "benkeh"
+    },
+    "code": {
+      "id": "SL03030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "-12.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kawaya",
+      "en": "Kawaya",
+      "slug": "kawaya"
+    },
+    "code": {
+      "id": "SL03030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "-12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kigbai",
+      "en": "Kigbai",
+      "slug": "kigbai"
+    },
+    "code": {
+      "id": "SL03030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.9",
+      "lon": "-12.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mani",
+      "en": "Mani",
+      "slug": "mani"
+    },
+    "code": {
+      "id": "SL03030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.99",
+      "lon": "-12.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokassi",
+      "en": "Mokassi",
+      "slug": "mokassi"
+    },
+    "code": {
+      "id": "SL03030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.992",
+      "lon": "-12.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moseilolo",
+      "en": "Moseilolo",
+      "slug": "moseilolo"
+    },
+    "code": {
+      "id": "SL03030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.845",
+      "lon": "-12.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Palima",
+      "en": "Palima",
+      "slug": "palima"
+    },
+    "code": {
+      "id": "SL03030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.912",
+      "lon": "-12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sembehun",
+      "en": "Sembehun",
+      "slug": "sembehun"
+    },
+    "code": {
+      "id": "SL03030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030301",
+      "level": 3,
+      "name": {
+        "local": "Bagruwa",
+        "en": "Bagruwa",
+        "slug": "bagruwa-sl030301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030301",
+        "level": 3,
+        "name": {
+          "local": "Bagruwa",
+          "en": "Bagruwa",
+          "slug": "bagruwa-sl030301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.972",
+      "lon": "-12.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

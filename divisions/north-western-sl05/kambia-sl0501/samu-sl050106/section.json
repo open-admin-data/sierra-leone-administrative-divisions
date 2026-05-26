@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL05010601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bubuya",
+      "en": "Bubuya",
+      "slug": "bubuya"
+    },
+    "code": {
+      "id": "SL05010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.031",
+      "lon": "-13.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kassiri",
+      "en": "Kassiri",
+      "slug": "kassiri"
+    },
+    "code": {
+      "id": "SL05010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.957",
+      "lon": "-13.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koya",
+      "en": "Koya",
+      "slug": "koya"
+    },
+    "code": {
+      "id": "SL05010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.962",
+      "lon": "-13.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kychom",
+      "en": "Kychom",
+      "slug": "kychom"
+    },
+    "code": {
+      "id": "SL05010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.966",
+      "lon": "-13.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lusenia",
+      "en": "Lusenia",
+      "slug": "lusenia"
+    },
+    "code": {
+      "id": "SL05010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.015",
+      "lon": "-13.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafufuneh",
+      "en": "Mafufuneh",
+      "slug": "mafufuneh"
+    },
+    "code": {
+      "id": "SL05010606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.001",
+      "lon": "-13.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makuma",
+      "en": "Makuma",
+      "slug": "makuma"
+    },
+    "code": {
+      "id": "SL05010607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.002",
+      "lon": "-13.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mange",
+      "en": "Mange",
+      "slug": "mange"
+    },
+    "code": {
+      "id": "SL05010608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.033",
+      "lon": "-13.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapotolon",
+      "en": "Mapotolon",
+      "slug": "mapotolon"
+    },
+    "code": {
+      "id": "SL05010609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.046",
+      "lon": "-13.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010610",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moribaia",
+      "en": "Moribaia",
+      "slug": "moribaia"
+    },
+    "code": {
+      "id": "SL05010610",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.04",
+      "lon": "-13.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010611",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokon",
+      "en": "Rokon",
+      "slug": "rokon"
+    },
+    "code": {
+      "id": "SL05010611",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "-12.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010612",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosinor",
+      "en": "Rosinor",
+      "slug": "rosinor"
+    },
+    "code": {
+      "id": "SL05010612",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050106",
+      "level": 3,
+      "name": {
+        "local": "Samu",
+        "en": "Samu",
+        "slug": "samu-sl050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050106",
+        "level": 3,
+        "name": {
+          "local": "Samu",
+          "en": "Samu",
+          "slug": "samu-sl050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.972",
+      "lon": "-13.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

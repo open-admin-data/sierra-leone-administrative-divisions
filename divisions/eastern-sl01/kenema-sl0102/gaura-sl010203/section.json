@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL01020301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Giebu",
+      "en": "Giebu",
+      "slug": "giebu"
+    },
+    "code": {
+      "id": "SL01020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.666",
+      "lon": "-11.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Joru",
+      "en": "Joru",
+      "slug": "joru"
+    },
+    "code": {
+      "id": "SL01020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.675",
+      "lon": "-11.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kokoru",
+      "en": "Kokoru",
+      "slug": "kokoru"
+    },
+    "code": {
+      "id": "SL01020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.64",
+      "lon": "-11.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mendekelema",
+      "en": "Mendekelema",
+      "slug": "mendekelema"
+    },
+    "code": {
+      "id": "SL01020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.779",
+      "lon": "-10.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sandaru",
+      "en": "Sandaru",
+      "slug": "sandaru"
+    },
+    "code": {
+      "id": "SL01020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.754",
+      "lon": "-11.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sembehun",
+      "en": "Sembehun",
+      "slug": "sembehun"
+    },
+    "code": {
+      "id": "SL01020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010203",
+      "level": 3,
+      "name": {
+        "local": "Gaura",
+        "en": "Gaura",
+        "slug": "gaura-sl010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010203",
+        "level": 3,
+        "name": {
+          "local": "Gaura",
+          "en": "Gaura",
+          "slug": "gaura-sl010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "-10.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL03040901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koilenga",
+      "en": "Koilenga",
+      "slug": "koilenga"
+    },
+    "code": {
+      "id": "SL03040901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030409",
+      "level": 3,
+      "name": {
+        "local": "Pejeh(Futa peje",
+        "en": "Pejeh(Futa peje",
+        "slug": "pejehfuta-peje-sl030409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030409",
+        "level": 3,
+        "name": {
+          "local": "Pejeh(Futa peje",
+          "en": "Pejeh(Futa peje",
+          "slug": "pejehfuta-peje-sl030409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.606",
+      "lon": "-11.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pejeh East",
+      "en": "Pejeh East",
+      "slug": "pejeh-east"
+    },
+    "code": {
+      "id": "SL03040902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030409",
+      "level": 3,
+      "name": {
+        "local": "Pejeh(Futa peje",
+        "en": "Pejeh(Futa peje",
+        "slug": "pejehfuta-peje-sl030409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030409",
+        "level": 3,
+        "name": {
+          "local": "Pejeh(Futa peje",
+          "en": "Pejeh(Futa peje",
+          "slug": "pejehfuta-peje-sl030409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.562",
+      "lon": "-11.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pejeh West",
+      "en": "Pejeh West",
+      "slug": "pejeh-west"
+    },
+    "code": {
+      "id": "SL03040903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030409",
+      "level": 3,
+      "name": {
+        "local": "Pejeh(Futa peje",
+        "en": "Pejeh(Futa peje",
+        "slug": "pejehfuta-peje-sl030409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030409",
+        "level": 3,
+        "name": {
+          "local": "Pejeh(Futa peje",
+          "en": "Pejeh(Futa peje",
+          "slug": "pejehfuta-peje-sl030409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.518",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

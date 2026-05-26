@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL02010901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Binkolo",
+      "en": "Binkolo",
+      "slug": "binkolo"
+    },
+    "code": {
+      "id": "SL02010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.94",
+      "lon": "-11.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Bana",
+      "en": "Bombali Bana",
+      "slug": "bombali-bana"
+    },
+    "code": {
+      "id": "SL02010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.007",
+      "lon": "-12.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabonka",
+      "en": "Kabonka",
+      "slug": "kabonka"
+    },
+    "code": {
+      "id": "SL02010903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.007",
+      "lon": "-11.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kasengbeh",
+      "en": "Kasengbeh",
+      "slug": "kasengbeh"
+    },
+    "code": {
+      "id": "SL02010904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "-11.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayassi",
+      "en": "Kayassi",
+      "slug": "kayassi"
+    },
+    "code": {
+      "id": "SL02010905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.027",
+      "lon": "-11.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010906",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabamba",
+      "en": "Mabamba",
+      "slug": "mabamba"
+    },
+    "code": {
+      "id": "SL02010906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.955",
+      "lon": "-11.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010907",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masapi",
+      "en": "Masapi",
+      "slug": "masapi"
+    },
+    "code": {
+      "id": "SL02010907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020109",
+      "level": 3,
+      "name": {
+        "local": "Safroko Limba",
+        "en": "Safroko Limba",
+        "slug": "safroko-limba-sl020109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020109",
+        "level": 3,
+        "name": {
+          "local": "Safroko Limba",
+          "en": "Safroko Limba",
+          "slug": "safroko-limba-sl020109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.046",
+      "lon": "-11.786"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03011101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Baimba",
+      "en": "Baimba",
+      "slug": "baimba"
+    },
+    "code": {
+      "id": "SL03011101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030111",
+      "level": 3,
+      "name": {
+        "local": "Niawa Lenga",
+        "en": "Niawa Lenga",
+        "slug": "niawa-lenga-sl030111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030111",
+        "level": 3,
+        "name": {
+          "local": "Niawa Lenga",
+          "en": "Niawa Lenga",
+          "slug": "niawa-lenga-sl030111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.071",
+      "lon": "-11.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Niawa",
+      "en": "Lower Niawa",
+      "slug": "lower-niawa"
+    },
+    "code": {
+      "id": "SL03011102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030111",
+      "level": 3,
+      "name": {
+        "local": "Niawa Lenga",
+        "en": "Niawa Lenga",
+        "slug": "niawa-lenga-sl030111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030111",
+        "level": 3,
+        "name": {
+          "local": "Niawa Lenga",
+          "en": "Niawa Lenga",
+          "slug": "niawa-lenga-sl030111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.114",
+      "lon": "-11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Niawa",
+      "en": "Upper Niawa",
+      "slug": "upper-niawa"
+    },
+    "code": {
+      "id": "SL03011103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030111",
+      "level": 3,
+      "name": {
+        "local": "Niawa Lenga",
+        "en": "Niawa Lenga",
+        "slug": "niawa-lenga-sl030111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030111",
+        "level": 3,
+        "name": {
+          "local": "Niawa Lenga",
+          "en": "Niawa Lenga",
+          "slug": "niawa-lenga-sl030111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "-11.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yalenga",
+      "en": "Yalenga",
+      "slug": "yalenga"
+    },
+    "code": {
+      "id": "SL03011104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030111",
+      "level": 3,
+      "name": {
+        "local": "Niawa Lenga",
+        "en": "Niawa Lenga",
+        "slug": "niawa-lenga-sl030111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030111",
+        "level": 3,
+        "name": {
+          "local": "Niawa Lenga",
+          "en": "Niawa Lenga",
+          "slug": "niawa-lenga-sl030111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.17",
+      "lon": "-11.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

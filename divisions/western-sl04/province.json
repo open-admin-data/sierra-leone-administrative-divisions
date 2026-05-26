@@ -1,0 +1,31 @@
+{
+  "id": "SL04",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Western",
+    "en": "Western",
+    "slug": "western-sl04"
+  },
+  "code": {
+    "id": "SL04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "section": 87,
+    "chiefdom": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.335",
+    "lon": "-13.066"
+  },
+  "metadata": {},
+  "source": {}
+}

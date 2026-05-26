@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL03040201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bondor",
+      "en": "Bondor",
+      "slug": "bondor"
+    },
+    "code": {
+      "id": "SL03040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.31",
+      "lon": "-11.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dabeni",
+      "en": "Dabeni",
+      "slug": "dabeni"
+    },
+    "code": {
+      "id": "SL03040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.262",
+      "lon": "-11.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dakona",
+      "en": "Dakona",
+      "slug": "dakona"
+    },
+    "code": {
+      "id": "SL03040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.273",
+      "lon": "-11.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gendema I",
+      "en": "Gendema I",
+      "slug": "gendema-i"
+    },
+    "code": {
+      "id": "SL03040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.128",
+      "lon": "-11.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gendema II",
+      "en": "Gendema II",
+      "slug": "gendema-ii"
+    },
+    "code": {
+      "id": "SL03040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.212",
+      "lon": "-11.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jakema I",
+      "en": "Jakema I",
+      "slug": "jakema-i"
+    },
+    "code": {
+      "id": "SL03040206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.333",
+      "lon": "-11.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jakema II",
+      "en": "Jakema II",
+      "slug": "jakema-ii"
+    },
+    "code": {
+      "id": "SL03040207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.206",
+      "lon": "-11.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Joya",
+      "en": "Joya",
+      "slug": "joya"
+    },
+    "code": {
+      "id": "SL03040208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.431",
+      "lon": "-11.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemokai",
+      "en": "Kemokai",
+      "slug": "kemokai"
+    },
+    "code": {
+      "id": "SL03040209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.237",
+      "lon": "-11.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040210",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kortugbu",
+      "en": "Kortugbu",
+      "slug": "kortugbu"
+    },
+    "code": {
+      "id": "SL03040210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.39",
+      "lon": "-11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040211",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mallah",
+      "en": "Mallah",
+      "slug": "mallah"
+    },
+    "code": {
+      "id": "SL03040211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.351",
+      "lon": "-11.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040212",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mewah",
+      "en": "Mewah",
+      "slug": "mewah"
+    },
+    "code": {
+      "id": "SL03040212",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.344",
+      "lon": "-11.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040213",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pelegbulor",
+      "en": "Pelegbulor",
+      "slug": "pelegbulor"
+    },
+    "code": {
+      "id": "SL03040213",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030402",
+      "level": 3,
+      "name": {
+        "local": "Galliness Perri",
+        "en": "Galliness Perri",
+        "slug": "galliness-perri-sl030402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030402",
+        "level": 3,
+        "name": {
+          "local": "Galliness Perri",
+          "en": "Galliness Perri",
+          "slug": "galliness-perri-sl030402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.332",
+      "lon": "-11.563"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

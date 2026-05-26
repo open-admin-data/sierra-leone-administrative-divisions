@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL05010201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbinle",
+      "en": "Gbinle",
+      "slug": "gbinle"
+    },
+    "code": {
+      "id": "SL05010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.148",
+      "lon": "-12.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalangba",
+      "en": "Kalangba",
+      "slug": "kalangba"
+    },
+    "code": {
+      "id": "SL05010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.186",
+      "lon": "-12.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Katalan",
+      "en": "Katalan",
+      "slug": "katalan"
+    },
+    "code": {
+      "id": "SL05010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.074",
+      "lon": "-12.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafaray",
+      "en": "Mafaray",
+      "slug": "mafaray"
+    },
+    "code": {
+      "id": "SL05010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.217",
+      "lon": "-12.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maton",
+      "en": "Maton",
+      "slug": "maton"
+    },
+    "code": {
+      "id": "SL05010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.267",
+      "lon": "-12.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogberay",
+      "en": "Rogberay",
+      "slug": "rogberay"
+    },
+    "code": {
+      "id": "SL05010206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.145",
+      "lon": "-12.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "SL05010207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.077",
+      "lon": "-13.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tawuya",
+      "en": "Tawuya",
+      "slug": "tawuya"
+    },
+    "code": {
+      "id": "SL05010208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050102",
+      "level": 3,
+      "name": {
+        "local": "Gbinle Dixing",
+        "en": "Gbinle Dixing",
+        "slug": "gbinle-dixing-sl050102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050102",
+        "level": 3,
+        "name": {
+          "local": "Gbinle Dixing",
+          "en": "Gbinle Dixing",
+          "slug": "gbinle-dixing-sl050102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.12",
+      "lon": "-12.973"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

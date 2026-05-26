@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01010101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Baiwalla",
+      "en": "Baiwalla",
+      "slug": "baiwalla"
+    },
+    "code": {
+      "id": "SL01010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010101",
+      "level": 3,
+      "name": {
+        "local": "Dea",
+        "en": "Dea",
+        "slug": "dea-sl010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010101",
+        "level": 3,
+        "name": {
+          "local": "Dea",
+          "en": "Dea",
+          "slug": "dea-sl010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.98",
+      "lon": "-10.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dodo",
+      "en": "Dodo",
+      "slug": "dodo"
+    },
+    "code": {
+      "id": "SL01010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010101",
+      "level": 3,
+      "name": {
+        "local": "Dea",
+        "en": "Dea",
+        "slug": "dea-sl010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010101",
+        "level": 3,
+        "name": {
+          "local": "Dea",
+          "en": "Dea",
+          "slug": "dea-sl010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.949",
+      "lon": "-10.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sakiema",
+      "en": "Sakiema",
+      "slug": "sakiema"
+    },
+    "code": {
+      "id": "SL01010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010101",
+      "level": 3,
+      "name": {
+        "local": "Dea",
+        "en": "Dea",
+        "slug": "dea-sl010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010101",
+        "level": 3,
+        "name": {
+          "local": "Dea",
+          "en": "Dea",
+          "slug": "dea-sl010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.008",
+      "lon": "-10.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sienga",
+      "en": "Sienga",
+      "slug": "sienga"
+    },
+    "code": {
+      "id": "SL01010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010101",
+      "level": 3,
+      "name": {
+        "local": "Dea",
+        "en": "Dea",
+        "slug": "dea-sl010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010101",
+        "level": 3,
+        "name": {
+          "local": "Dea",
+          "en": "Dea",
+          "slug": "dea-sl010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "-10.639"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

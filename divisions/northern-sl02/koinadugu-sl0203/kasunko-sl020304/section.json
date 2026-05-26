@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL02030401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbonkobor",
+      "en": "Gbonkobor",
+      "slug": "gbonkobor"
+    },
+    "code": {
+      "id": "SL02030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.514",
+      "lon": "-11.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kakallain",
+      "en": "Kakallain",
+      "slug": "kakallain"
+    },
+    "code": {
+      "id": "SL02030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.305",
+      "lon": "-11.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kasunko",
+      "en": "Kasunko",
+      "slug": "kasunko"
+    },
+    "code": {
+      "id": "SL02030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.335",
+      "lon": "-11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayaka",
+      "en": "Kayaka",
+      "slug": "kayaka"
+    },
+    "code": {
+      "id": "SL02030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.484",
+      "lon": "-11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tamiso I",
+      "en": "Tamiso I",
+      "slug": "tamiso-i"
+    },
+    "code": {
+      "id": "SL02030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.604",
+      "lon": "-12.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tamiso II",
+      "en": "Tamiso II",
+      "slug": "tamiso-ii"
+    },
+    "code": {
+      "id": "SL02030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020304",
+      "level": 3,
+      "name": {
+        "local": "Kasunko",
+        "en": "Kasunko",
+        "slug": "kasunko-sl020304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020304",
+        "level": 3,
+        "name": {
+          "local": "Kasunko",
+          "en": "Kasunko",
+          "slug": "kasunko-sl020304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.592",
+      "lon": "-11.925"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

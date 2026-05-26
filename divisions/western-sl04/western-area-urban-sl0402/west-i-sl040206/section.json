@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL04020601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ascension Town",
+      "en": "Ascension Town",
+      "slug": "ascension-town"
+    },
+    "code": {
+      "id": "SL04020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040206",
+      "level": 3,
+      "name": {
+        "local": "West I",
+        "en": "West I",
+        "slug": "west-i-sl040206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040206",
+        "level": 3,
+        "name": {
+          "local": "West I",
+          "en": "West I",
+          "slug": "west-i-sl040206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-13.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Brookfields",
+      "en": "Brookfields",
+      "slug": "brookfields"
+    },
+    "code": {
+      "id": "SL04020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040206",
+      "level": 3,
+      "name": {
+        "local": "West I",
+        "en": "West I",
+        "slug": "west-i-sl040206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040206",
+        "level": 3,
+        "name": {
+          "local": "West I",
+          "en": "West I",
+          "slug": "west-i-sl040206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.476",
+      "lon": "-13.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kingtom",
+      "en": "Kingtom",
+      "slug": "kingtom"
+    },
+    "code": {
+      "id": "SL04020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040206",
+      "level": 3,
+      "name": {
+        "local": "West I",
+        "en": "West I",
+        "slug": "west-i-sl040206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040206",
+        "level": 3,
+        "name": {
+          "local": "West I",
+          "en": "West I",
+          "slug": "west-i-sl040206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kroo Town",
+      "en": "Kroo Town",
+      "slug": "kroo-town"
+    },
+    "code": {
+      "id": "SL04020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040206",
+      "level": 3,
+      "name": {
+        "local": "West I",
+        "en": "West I",
+        "slug": "west-i-sl040206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040206",
+        "level": 3,
+        "name": {
+          "local": "West I",
+          "en": "West I",
+          "slug": "west-i-sl040206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.483",
+      "lon": "-13.242"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

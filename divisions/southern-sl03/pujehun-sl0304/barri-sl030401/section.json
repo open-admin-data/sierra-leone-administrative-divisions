@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL03040101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dakona",
+      "en": "Dakona",
+      "slug": "dakona"
+    },
+    "code": {
+      "id": "SL03040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.409",
+      "lon": "-11.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fallay",
+      "en": "Fallay",
+      "slug": "fallay"
+    },
+    "code": {
+      "id": "SL03040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "-11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jougba",
+      "en": "Jougba",
+      "slug": "jougba"
+    },
+    "code": {
+      "id": "SL03040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.59",
+      "lon": "-11.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Karjei",
+      "en": "Karjei",
+      "slug": "karjei"
+    },
+    "code": {
+      "id": "SL03040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.511",
+      "lon": "-11.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Laimba",
+      "en": "Laimba",
+      "slug": "laimba"
+    },
+    "code": {
+      "id": "SL03040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.435",
+      "lon": "-11.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malla",
+      "en": "Malla",
+      "slug": "malla"
+    },
+    "code": {
+      "id": "SL03040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.335",
+      "lon": "-11.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sonjour I",
+      "en": "Sonjour I",
+      "slug": "sonjour-i"
+    },
+    "code": {
+      "id": "SL03040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.4",
+      "lon": "-11.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sonjour II",
+      "en": "Sonjour II",
+      "slug": "sonjour-ii"
+    },
+    "code": {
+      "id": "SL03040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.344",
+      "lon": "-11.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tetima",
+      "en": "Tetima",
+      "slug": "tetima"
+    },
+    "code": {
+      "id": "SL03040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030401",
+      "level": 3,
+      "name": {
+        "local": "Barri",
+        "en": "Barri",
+        "slug": "barri-sl030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030401",
+        "level": 3,
+        "name": {
+          "local": "Barri",
+          "en": "Barri",
+          "slug": "barri-sl030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.492",
+      "lon": "-11.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

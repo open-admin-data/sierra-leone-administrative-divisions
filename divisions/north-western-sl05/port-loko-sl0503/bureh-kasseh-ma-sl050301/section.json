@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "SL05030101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Barmoi",
+      "en": "Barmoi",
+      "slug": "barmoi"
+    },
+    "code": {
+      "id": "SL05030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.988",
+      "lon": "-12.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbanthama",
+      "en": "Kagbanthama",
+      "slug": "kagbanthama"
+    },
+    "code": {
+      "id": "SL05030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.951",
+      "lon": "-12.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaiyeabor",
+      "en": "Kaiyeabor",
+      "slug": "kaiyeabor"
+    },
+    "code": {
+      "id": "SL05030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.929",
+      "lon": "-12.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalangba",
+      "en": "Kalangba",
+      "slug": "kalangba"
+    },
+    "code": {
+      "id": "SL05030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.89",
+      "lon": "-12.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambia Morie",
+      "en": "Kambia Morie",
+      "slug": "kambia-morie"
+    },
+    "code": {
+      "id": "SL05030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.939",
+      "lon": "-12.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konta Ferry",
+      "en": "Konta Ferry",
+      "slug": "konta-ferry"
+    },
+    "code": {
+      "id": "SL05030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.916",
+      "lon": "-12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabombo",
+      "en": "Mabombo",
+      "slug": "mabombo"
+    },
+    "code": {
+      "id": "SL05030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.973",
+      "lon": "-12.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makana",
+      "en": "Makana",
+      "slug": "makana"
+    },
+    "code": {
+      "id": "SL05030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.875",
+      "lon": "-12.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamanka",
+      "en": "Mamanka",
+      "slug": "mamanka"
+    },
+    "code": {
+      "id": "SL05030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.867",
+      "lon": "-12.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mange Morie",
+      "en": "Mange Morie",
+      "slug": "mange-morie"
+    },
+    "code": {
+      "id": "SL05030110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.932",
+      "lon": "-12.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marenka",
+      "en": "Marenka",
+      "slug": "marenka"
+    },
+    "code": {
+      "id": "SL05030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.989",
+      "lon": "-12.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Minthormore",
+      "en": "Minthormore",
+      "slug": "minthormore"
+    },
+    "code": {
+      "id": "SL05030112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.996",
+      "lon": "-12.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030113",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogbla",
+      "en": "Rogbla",
+      "slug": "rogbla"
+    },
+    "code": {
+      "id": "SL05030113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "-12.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030114",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Romeni",
+      "en": "Romeni",
+      "slug": "romeni"
+    },
+    "code": {
+      "id": "SL05030114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.911",
+      "lon": "-12.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030115",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rotifunk",
+      "en": "Rotifunk",
+      "slug": "rotifunk"
+    },
+    "code": {
+      "id": "SL05030115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.936",
+      "lon": "-12.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030116",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yali-Sanda",
+      "en": "Yali-Sanda",
+      "slug": "yali-sanda"
+    },
+    "code": {
+      "id": "SL05030116",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050301",
+      "level": 3,
+      "name": {
+        "local": "Bureh Kasseh Ma",
+        "en": "Bureh Kasseh Ma",
+        "slug": "bureh-kasseh-ma-sl050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050301",
+        "level": 3,
+        "name": {
+          "local": "Bureh Kasseh Ma",
+          "en": "Bureh Kasseh Ma",
+          "slug": "bureh-kasseh-ma-sl050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.89",
+      "lon": "-12.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

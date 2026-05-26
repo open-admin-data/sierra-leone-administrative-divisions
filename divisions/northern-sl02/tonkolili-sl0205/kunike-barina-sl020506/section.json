@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL02050601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makali",
+      "en": "Makali",
+      "slug": "makali"
+    },
+    "code": {
+      "id": "SL02050601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.648",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makong",
+      "en": "Makong",
+      "slug": "makong"
+    },
+    "code": {
+      "id": "SL02050602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.535",
+      "lon": "-11.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamurie",
+      "en": "Mamurie",
+      "slug": "mamurie"
+    },
+    "code": {
+      "id": "SL02050603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.641",
+      "lon": "-11.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masaba",
+      "en": "Masaba",
+      "slug": "masaba"
+    },
+    "code": {
+      "id": "SL02050604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.528",
+      "lon": "-11.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mathonkara",
+      "en": "Mathonkara",
+      "slug": "mathonkara"
+    },
+    "code": {
+      "id": "SL02050605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.615",
+      "lon": "-11.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Wonkibor",
+      "en": "Wonkibor",
+      "slug": "wonkibor"
+    },
+    "code": {
+      "id": "SL02050606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020506",
+      "level": 3,
+      "name": {
+        "local": "Kunike Barina",
+        "en": "Kunike Barina",
+        "slug": "kunike-barina-sl020506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020506",
+        "level": 3,
+        "name": {
+          "local": "Kunike Barina",
+          "en": "Kunike Barina",
+          "slug": "kunike-barina-sl020506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.564",
+      "lon": "-11.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

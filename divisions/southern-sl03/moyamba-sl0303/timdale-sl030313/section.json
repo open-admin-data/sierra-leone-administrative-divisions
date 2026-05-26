@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL03031301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bembellor",
+      "en": "Bembellor",
+      "slug": "bembellor"
+    },
+    "code": {
+      "id": "SL03031301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.736",
+      "lon": "-12.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gambia",
+      "en": "Gambia",
+      "slug": "gambia"
+    },
+    "code": {
+      "id": "SL03031302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.792",
+      "lon": "-12.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbehan",
+      "en": "Gbehan",
+      "slug": "gbehan"
+    },
+    "code": {
+      "id": "SL03031303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.767",
+      "lon": "-12.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamasunu",
+      "en": "Kamasunu",
+      "slug": "kamasunu"
+    },
+    "code": {
+      "id": "SL03031304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.772",
+      "lon": "-12.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambotoke",
+      "en": "Kambotoke",
+      "slug": "kambotoke"
+    },
+    "code": {
+      "id": "SL03031305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.817",
+      "lon": "-12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kebail",
+      "en": "Kebail",
+      "slug": "kebail"
+    },
+    "code": {
+      "id": "SL03031306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.75",
+      "lon": "-12.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mandu",
+      "en": "Mandu",
+      "slug": "mandu"
+    },
+    "code": {
+      "id": "SL03031307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.781",
+      "lon": "-12.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mye",
+      "en": "Mye",
+      "slug": "mye"
+    },
+    "code": {
+      "id": "SL03031308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.773",
+      "lon": "-12.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nonkoba",
+      "en": "Nonkoba",
+      "slug": "nonkoba"
+    },
+    "code": {
+      "id": "SL03031309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.725",
+      "lon": "-12.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031310",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sahan",
+      "en": "Sahan",
+      "slug": "sahan"
+    },
+    "code": {
+      "id": "SL03031310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.732",
+      "lon": "-12.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031311",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tombeh",
+      "en": "Tombeh",
+      "slug": "tombeh"
+    },
+    "code": {
+      "id": "SL03031311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.806",
+      "lon": "-12.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031312",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yapoma",
+      "en": "Yapoma",
+      "slug": "yapoma"
+    },
+    "code": {
+      "id": "SL03031312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030313",
+      "level": 3,
+      "name": {
+        "local": "Timdale",
+        "en": "Timdale",
+        "slug": "timdale-sl030313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030313",
+        "level": 3,
+        "name": {
+          "local": "Timdale",
+          "en": "Timdale",
+          "slug": "timdale-sl030313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.88",
+      "lon": "-12.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

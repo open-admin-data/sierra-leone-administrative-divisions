@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL02060101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kunbulun 1",
+      "en": "Kunbulun 1",
+      "slug": "kunbulun-1"
+    },
+    "code": {
+      "id": "SL02060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.914",
+      "lon": "-11.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kunbulun 2",
+      "en": "Kunbulun 2",
+      "slug": "kunbulun-2"
+    },
+    "code": {
+      "id": "SL02060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.851",
+      "lon": "-11.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manan",
+      "en": "Manan",
+      "slug": "manan"
+    },
+    "code": {
+      "id": "SL02060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.749",
+      "lon": "-11.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mawundea",
+      "en": "Mawundea",
+      "slug": "mawundea"
+    },
+    "code": {
+      "id": "SL02060105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.953",
+      "lon": "-11.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Numula 1",
+      "en": "Numula 1",
+      "slug": "numula-1"
+    },
+    "code": {
+      "id": "SL02060106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.893",
+      "lon": "-11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Numula 2",
+      "en": "Numula 2",
+      "slug": "numula-2"
+    },
+    "code": {
+      "id": "SL02060107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.907",
+      "lon": "-11.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Numula 3",
+      "en": "Numula 3",
+      "slug": "numula-3"
+    },
+    "code": {
+      "id": "SL02060108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.807",
+      "lon": "-11.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Numula 4",
+      "en": "Numula 4",
+      "slug": "numula-4"
+    },
+    "code": {
+      "id": "SL02060109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.746",
+      "lon": "-11.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Numula 5",
+      "en": "Numula 5",
+      "slug": "numula-5"
+    },
+    "code": {
+      "id": "SL02060110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.763",
+      "lon": "-11.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sinkunia",
+      "en": "Sinkunia",
+      "slug": "sinkunia"
+    },
+    "code": {
+      "id": "SL02060111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020601",
+      "level": 3,
+      "name": {
+        "local": "Dembelia - Sink",
+        "en": "Dembelia - Sink",
+        "slug": "dembelia-sink-sl020601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020601",
+        "level": 3,
+        "name": {
+          "local": "Dembelia - Sink",
+          "en": "Dembelia - Sink",
+          "slug": "dembelia-sink-sl020601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.846",
+      "lon": "-11.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

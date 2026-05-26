@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01010601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bongre",
+      "en": "Bongre",
+      "slug": "bongre"
+    },
+    "code": {
+      "id": "SL01010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.065",
+      "lon": "-10.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Borkou",
+      "en": "Borkou",
+      "slug": "borkou"
+    },
+    "code": {
+      "id": "SL01010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.176",
+      "lon": "-10.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Falloh",
+      "en": "Falloh",
+      "slug": "falloh"
+    },
+    "code": {
+      "id": "SL01010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.176",
+      "lon": "-10.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jorwu",
+      "en": "Jorwu",
+      "slug": "jorwu"
+    },
+    "code": {
+      "id": "SL01010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "-10.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manowa",
+      "en": "Manowa",
+      "slug": "manowa"
+    },
+    "code": {
+      "id": "SL01010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.179",
+      "lon": "-10.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marwei",
+      "en": "Marwei",
+      "slug": "marwei"
+    },
+    "code": {
+      "id": "SL01010606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.119",
+      "lon": "-10.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seimaya",
+      "en": "Seimaya",
+      "slug": "seimaya"
+    },
+    "code": {
+      "id": "SL01010607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010106",
+      "level": 3,
+      "name": {
+        "local": "Kpeje Bongre",
+        "en": "Kpeje Bongre",
+        "slug": "kpeje-bongre-sl010106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010106",
+        "level": 3,
+        "name": {
+          "local": "Kpeje Bongre",
+          "en": "Kpeje Bongre",
+          "slug": "kpeje-bongre-sl010106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.228",
+      "lon": "-10.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

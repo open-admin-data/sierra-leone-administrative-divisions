@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL03020601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ba-Kobotu",
+      "en": "Ba-Kobotu",
+      "slug": "ba-kobotu"
+    },
+    "code": {
+      "id": "SL03020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.63",
+      "lon": "-12.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bewoni",
+      "en": "Bewoni",
+      "slug": "bewoni"
+    },
+    "code": {
+      "id": "SL03020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.565",
+      "lon": "-11.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbonge",
+      "en": "Gbonge",
+      "slug": "gbonge"
+    },
+    "code": {
+      "id": "SL03020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.651",
+      "lon": "-12.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Senjehun",
+      "en": "Senjehun",
+      "slug": "senjehun"
+    },
+    "code": {
+      "id": "SL03020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.536",
+      "lon": "-12.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sewama",
+      "en": "Sewama",
+      "slug": "sewama"
+    },
+    "code": {
+      "id": "SL03020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.626",
+      "lon": "-12.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taokunor",
+      "en": "Taokunor",
+      "slug": "taokunor"
+    },
+    "code": {
+      "id": "SL03020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030206",
+      "level": 3,
+      "name": {
+        "local": "Kpanda Kemo",
+        "en": "Kpanda Kemo",
+        "slug": "kpanda-kemo-sl030206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030206",
+        "level": 3,
+        "name": {
+          "local": "Kpanda Kemo",
+          "en": "Kpanda Kemo",
+          "slug": "kpanda-kemo-sl030206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.572",
+      "lon": "-12.04"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

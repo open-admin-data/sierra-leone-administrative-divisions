@@ -1,0 +1,48 @@
+{
+  "id": "SL0201",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bombali",
+    "en": "Bombali",
+    "slug": "bombali-sl0201"
+  },
+  "code": {
+    "id": "SL0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL02",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-sl02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 9,
+    "section": 89
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.103",
+    "lon": "-12.038"
+  },
+  "metadata": {},
+  "source": {}
+}

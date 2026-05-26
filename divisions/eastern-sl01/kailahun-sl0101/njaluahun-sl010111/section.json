@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL01011101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombowa",
+      "en": "Bombowa",
+      "slug": "bombowa"
+    },
+    "code": {
+      "id": "SL01011101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.114",
+      "lon": "-10.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dan Sei",
+      "en": "Dan Sei",
+      "slug": "dan-sei"
+    },
+    "code": {
+      "id": "SL01011102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "-10.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Falley",
+      "en": "Falley",
+      "slug": "falley"
+    },
+    "code": {
+      "id": "SL01011103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.061",
+      "lon": "-10.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fauya",
+      "en": "Fauya",
+      "slug": "fauya"
+    },
+    "code": {
+      "id": "SL01011104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.908",
+      "lon": "-11.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gboo",
+      "en": "Gboo",
+      "slug": "gboo"
+    },
+    "code": {
+      "id": "SL01011105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.037",
+      "lon": "-10.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jonga",
+      "en": "Jonga",
+      "slug": "jonga"
+    },
+    "code": {
+      "id": "SL01011106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.041",
+      "lon": "-10.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kargbu",
+      "en": "Kargbu",
+      "slug": "kargbu"
+    },
+    "code": {
+      "id": "SL01011107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.933",
+      "lon": "-10.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Keimaya",
+      "en": "Keimaya",
+      "slug": "keimaya"
+    },
+    "code": {
+      "id": "SL01011108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.968",
+      "lon": "-10.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Nyawa",
+      "en": "Lower Nyawa",
+      "slug": "lower-nyawa"
+    },
+    "code": {
+      "id": "SL01011109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.964",
+      "lon": "-10.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sei I",
+      "en": "Sei I",
+      "slug": "sei-i"
+    },
+    "code": {
+      "id": "SL01011110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.008",
+      "lon": "-10.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sei II",
+      "en": "Sei II",
+      "slug": "sei-ii"
+    },
+    "code": {
+      "id": "SL01011111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.069",
+      "lon": "-10.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Nyawa",
+      "en": "Upper Nyawa",
+      "slug": "upper-nyawa"
+    },
+    "code": {
+      "id": "SL01011112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010111",
+      "level": 3,
+      "name": {
+        "local": "Njaluahun",
+        "en": "Njaluahun",
+        "slug": "njaluahun-sl010111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010111",
+        "level": 3,
+        "name": {
+          "local": "Njaluahun",
+          "en": "Njaluahun",
+          "slug": "njaluahun-sl010111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "-10.868"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

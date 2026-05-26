@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL03011401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Deilenga",
+      "en": "Deilenga",
+      "slug": "deilenga"
+    },
+    "code": {
+      "id": "SL03011401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.394",
+      "lon": "-11.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kendebu",
+      "en": "Kendebu",
+      "slug": "kendebu"
+    },
+    "code": {
+      "id": "SL03011402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.245",
+      "lon": "-11.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunia",
+      "en": "Lunia",
+      "slug": "lunia"
+    },
+    "code": {
+      "id": "SL03011403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.351",
+      "lon": "-11.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngovo",
+      "en": "Ngovo",
+      "slug": "ngovo"
+    },
+    "code": {
+      "id": "SL03011404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.174",
+      "lon": "-11.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seilenga",
+      "en": "Seilenga",
+      "slug": "seilenga"
+    },
+    "code": {
+      "id": "SL03011405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.301",
+      "lon": "-11.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Vanjelu",
+      "en": "Vanjelu",
+      "slug": "vanjelu"
+    },
+    "code": {
+      "id": "SL03011406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.188",
+      "lon": "-11.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yarlenga",
+      "en": "Yarlenga",
+      "slug": "yarlenga"
+    },
+    "code": {
+      "id": "SL03011407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030114",
+      "level": 3,
+      "name": {
+        "local": "Valunia",
+        "en": "Valunia",
+        "slug": "valunia-sl030114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030114",
+        "level": 3,
+        "name": {
+          "local": "Valunia",
+          "en": "Valunia",
+          "slug": "valunia-sl030114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.229",
+      "lon": "-11.634"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL05030802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia"
+    },
+    "code": {
+      "id": "SL05030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "-12.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kanu",
+      "en": "Kanu",
+      "slug": "kanu"
+    },
+    "code": {
+      "id": "SL05030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.863",
+      "lon": "-12.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kargbo",
+      "en": "Kargbo",
+      "slug": "kargbo"
+    },
+    "code": {
+      "id": "SL05030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.864",
+      "lon": "-12.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konkorie",
+      "en": "Konkorie",
+      "slug": "konkorie"
+    },
+    "code": {
+      "id": "SL05030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.834",
+      "lon": "-12.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbapsa",
+      "en": "Magbapsa",
+      "slug": "magbapsa"
+    },
+    "code": {
+      "id": "SL05030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.78",
+      "lon": "-12.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030809",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malakuray",
+      "en": "Malakuray",
+      "slug": "malakuray"
+    },
+    "code": {
+      "id": "SL05030809",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050308",
+      "level": 3,
+      "name": {
+        "local": "TMS",
+        "en": "TMS",
+        "slug": "tms-sl050308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050308",
+        "level": 3,
+        "name": {
+          "local": "TMS",
+          "en": "TMS",
+          "slug": "tms-sl050308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.797",
+      "lon": "-12.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

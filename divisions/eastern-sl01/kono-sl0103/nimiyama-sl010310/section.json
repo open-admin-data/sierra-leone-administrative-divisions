@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01031001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bafinfeh",
+      "en": "Bafinfeh",
+      "slug": "bafinfeh"
+    },
+    "code": {
+      "id": "SL01031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010310",
+      "level": 3,
+      "name": {
+        "local": "Nimiyama",
+        "en": "Nimiyama",
+        "slug": "nimiyama-sl010310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010310",
+        "level": 3,
+        "name": {
+          "local": "Nimiyama",
+          "en": "Nimiyama",
+          "slug": "nimiyama-sl010310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.65",
+      "lon": "-11.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbakahun",
+      "en": "Njagbakahun",
+      "slug": "njagbakahun"
+    },
+    "code": {
+      "id": "SL01031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010310",
+      "level": 3,
+      "name": {
+        "local": "Nimiyama",
+        "en": "Nimiyama",
+        "slug": "nimiyama-sl010310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010310",
+        "level": 3,
+        "name": {
+          "local": "Nimiyama",
+          "en": "Nimiyama",
+          "slug": "nimiyama-sl010310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.567",
+      "lon": "-11.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njaifeh",
+      "en": "Njaifeh",
+      "slug": "njaifeh"
+    },
+    "code": {
+      "id": "SL01031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010310",
+      "level": 3,
+      "name": {
+        "local": "Nimiyama",
+        "en": "Nimiyama",
+        "slug": "nimiyama-sl010310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010310",
+        "level": 3,
+        "name": {
+          "local": "Nimiyama",
+          "en": "Nimiyama",
+          "slug": "nimiyama-sl010310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.562",
+      "lon": "-11.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Peyifeh",
+      "en": "Peyifeh",
+      "slug": "peyifeh"
+    },
+    "code": {
+      "id": "SL01031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010310",
+      "level": 3,
+      "name": {
+        "local": "Nimiyama",
+        "en": "Nimiyama",
+        "slug": "nimiyama-sl010310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010310",
+        "level": 3,
+        "name": {
+          "local": "Nimiyama",
+          "en": "Nimiyama",
+          "slug": "nimiyama-sl010310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.486",
+      "lon": "-11.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tama",
+      "en": "Tama",
+      "slug": "tama"
+    },
+    "code": {
+      "id": "SL01031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010310",
+      "level": 3,
+      "name": {
+        "local": "Nimiyama",
+        "en": "Nimiyama",
+        "slug": "nimiyama-sl010310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010310",
+        "level": 3,
+        "name": {
+          "local": "Nimiyama",
+          "en": "Nimiyama",
+          "slug": "nimiyama-sl010310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.644",
+      "lon": "-11.307"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

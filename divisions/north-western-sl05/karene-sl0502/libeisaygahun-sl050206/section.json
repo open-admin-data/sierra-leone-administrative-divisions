@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "SL05020601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Batkanu",
+      "en": "Batkanu",
+      "slug": "batkanu"
+    },
+    "code": {
+      "id": "SL05020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "-12.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbaray Bana",
+      "en": "Gbaray Bana",
+      "slug": "gbaray-bana"
+    },
+    "code": {
+      "id": "SL05020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.987",
+      "lon": "-12.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafonda",
+      "en": "Mafonda",
+      "slug": "mafonda"
+    },
+    "code": {
+      "id": "SL05020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "-12.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafonikay",
+      "en": "Mafonikay",
+      "slug": "mafonikay"
+    },
+    "code": {
+      "id": "SL05020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.906",
+      "lon": "-12.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbafth",
+      "en": "Magbafth",
+      "slug": "magbafth"
+    },
+    "code": {
+      "id": "SL05020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.893",
+      "lon": "-12.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbaingba",
+      "en": "Magbaingba",
+      "slug": "magbaingba"
+    },
+    "code": {
+      "id": "SL05020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.929",
+      "lon": "-12.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbanamba",
+      "en": "Magbanamba",
+      "slug": "magbanamba"
+    },
+    "code": {
+      "id": "SL05020607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.038",
+      "lon": "-12.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makaiba",
+      "en": "Makaiba",
+      "slug": "makaiba"
+    },
+    "code": {
+      "id": "SL05020608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.975",
+      "lon": "-12.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makayrembay",
+      "en": "Makayrembay",
+      "slug": "makayrembay"
+    },
+    "code": {
+      "id": "SL05020609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.052",
+      "lon": "-12.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020610",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mandawahun",
+      "en": "Mandawahun",
+      "slug": "mandawahun"
+    },
+    "code": {
+      "id": "SL05020610",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.998",
+      "lon": "-12.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020611",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manyakoi",
+      "en": "Manyakoi",
+      "slug": "manyakoi"
+    },
+    "code": {
+      "id": "SL05020611",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.943",
+      "lon": "-12.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020612",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maron",
+      "en": "Maron",
+      "slug": "maron"
+    },
+    "code": {
+      "id": "SL05020612",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.944",
+      "lon": "-12.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020613",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayankay",
+      "en": "Mayankay",
+      "slug": "mayankay"
+    },
+    "code": {
+      "id": "SL05020613",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.041",
+      "lon": "-12.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020614",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robaka",
+      "en": "Robaka",
+      "slug": "robaka"
+    },
+    "code": {
+      "id": "SL05020614",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.968",
+      "lon": "-12.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020615",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robombeh",
+      "en": "Robombeh",
+      "slug": "robombeh"
+    },
+    "code": {
+      "id": "SL05020615",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.921",
+      "lon": "-12.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020616",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rotha-Tha",
+      "en": "Rotha-Tha",
+      "slug": "rotha-tha"
+    },
+    "code": {
+      "id": "SL05020616",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.94",
+      "lon": "-12.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020617",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Simbaya",
+      "en": "Simbaya",
+      "slug": "simbaya"
+    },
+    "code": {
+      "id": "SL05020617",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050206",
+      "level": 3,
+      "name": {
+        "local": "Libeisaygahun",
+        "en": "Libeisaygahun",
+        "slug": "libeisaygahun-sl050206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050206",
+        "level": 3,
+        "name": {
+          "local": "Libeisaygahun",
+          "en": "Libeisaygahun",
+          "slug": "libeisaygahun-sl050206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9",
+      "lon": "-12.477"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

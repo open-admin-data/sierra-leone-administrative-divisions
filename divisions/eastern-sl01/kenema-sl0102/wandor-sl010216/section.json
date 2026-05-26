@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL01021601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Boryongor",
+      "en": "Boryongor",
+      "slug": "boryongor"
+    },
+    "code": {
+      "id": "SL01021601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.283",
+      "lon": "-11.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbogbeima",
+      "en": "Gbogbeima",
+      "slug": "gbogbeima"
+    },
+    "code": {
+      "id": "SL01021602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.334",
+      "lon": "-11.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL01021603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.355",
+      "lon": "-11.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Niawa",
+      "en": "Niawa",
+      "slug": "niawa"
+    },
+    "code": {
+      "id": "SL01021604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.284",
+      "lon": "-11.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Songhai",
+      "en": "Songhai",
+      "slug": "songhai"
+    },
+    "code": {
+      "id": "SL01021605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.274",
+      "lon": "-11.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tongorwa",
+      "en": "Tongorwa",
+      "slug": "tongorwa"
+    },
+    "code": {
+      "id": "SL01021606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010216",
+      "level": 3,
+      "name": {
+        "local": "Wandor",
+        "en": "Wandor",
+        "slug": "wandor-sl010216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010216",
+        "level": 3,
+        "name": {
+          "local": "Wandor",
+          "en": "Wandor",
+          "slug": "wandor-sl010216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.35",
+      "lon": "-11.411"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

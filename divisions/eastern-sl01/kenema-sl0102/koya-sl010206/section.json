@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01020601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Joi",
+      "en": "Joi",
+      "slug": "joi"
+    },
+    "code": {
+      "id": "SL01020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010206",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl010206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010206",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl010206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.711",
+      "lon": "-11.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koya Gbundohun",
+      "en": "Koya Gbundohun",
+      "slug": "koya-gbundohun"
+    },
+    "code": {
+      "id": "SL01020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010206",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl010206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010206",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl010206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.532",
+      "lon": "-11.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Menima",
+      "en": "Menima",
+      "slug": "menima"
+    },
+    "code": {
+      "id": "SL01020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010206",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl010206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010206",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl010206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.688",
+      "lon": "-11.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Serabu",
+      "en": "Serabu",
+      "slug": "serabu"
+    },
+    "code": {
+      "id": "SL01020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010206",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl010206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010206",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl010206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.627",
+      "lon": "-11.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Koya",
+      "en": "Upper Koya",
+      "slug": "upper-koya"
+    },
+    "code": {
+      "id": "SL01020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010206",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl010206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010206",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl010206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.606",
+      "lon": "-11.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

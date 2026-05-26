@@ -1,0 +1,695 @@
+[
+  {
+    "id": "SL03030401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fakoi",
+      "en": "Fakoi",
+      "slug": "fakoi"
+    },
+    "code": {
+      "id": "SL03030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.223",
+      "lon": "-12.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gandorhun Central",
+      "en": "Gandorhun Central",
+      "slug": "gandorhun-central"
+    },
+    "code": {
+      "id": "SL03030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.236",
+      "lon": "-12.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kovella",
+      "en": "Kovella",
+      "slug": "kovella"
+    },
+    "code": {
+      "id": "SL03030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.275",
+      "lon": "-12.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpangulgo",
+      "en": "Kpangulgo",
+      "slug": "kpangulgo"
+    },
+    "code": {
+      "id": "SL03030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.294",
+      "lon": "-12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kunyafoi",
+      "en": "Kunyafoi",
+      "slug": "kunyafoi"
+    },
+    "code": {
+      "id": "SL03030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.262",
+      "lon": "-12.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maninga",
+      "en": "Maninga",
+      "slug": "maninga"
+    },
+    "code": {
+      "id": "SL03030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.32",
+      "lon": "-12.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njawa",
+      "en": "Njawa",
+      "slug": "njawa"
+    },
+    "code": {
+      "id": "SL03030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.159",
+      "lon": "-12.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Songo",
+      "en": "Songo",
+      "slug": "songo"
+    },
+    "code": {
+      "id": "SL03030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.227",
+      "lon": "-12.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030409",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tangbla",
+      "en": "Tangbla",
+      "slug": "tangbla"
+    },
+    "code": {
+      "id": "SL03030409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.302",
+      "lon": "-12.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030410",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "To - Ndambalenga",
+      "en": "To - Ndambalenga",
+      "slug": "to---ndambalenga"
+    },
+    "code": {
+      "id": "SL03030410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.308",
+      "lon": "-12.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030411",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tullu",
+      "en": "Tullu",
+      "slug": "tullu"
+    },
+    "code": {
+      "id": "SL03030411",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030304",
+      "level": 3,
+      "name": {
+        "local": "Fakunya",
+        "en": "Fakunya",
+        "slug": "fakunya-sl030304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030304",
+        "level": 3,
+        "name": {
+          "local": "Fakunya",
+          "en": "Fakunya",
+          "slug": "fakunya-sl030304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.169",
+      "lon": "-12.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "SL0502",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karene",
+    "en": "Karene",
+    "slug": "karene-sl0502"
+  },
+  "code": {
+    "id": "SL0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL05",
+    "level": 1,
+    "name": {
+      "local": "North Western",
+      "en": "North Western",
+      "slug": "north-western-sl05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 8,
+    "section": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.634",
+    "lon": "-12.341"
+  },
+  "metadata": {},
+  "source": {}
+}

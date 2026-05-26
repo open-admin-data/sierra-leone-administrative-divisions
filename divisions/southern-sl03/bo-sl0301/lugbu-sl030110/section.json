@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL03011001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gao",
+      "en": "Gao",
+      "slug": "gao"
+    },
+    "code": {
+      "id": "SL03011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.687",
+      "lon": "-11.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamba",
+      "en": "Kamba",
+      "slug": "kamba"
+    },
+    "code": {
+      "id": "SL03011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.665",
+      "lon": "-11.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kargbevu",
+      "en": "Kargbevu",
+      "slug": "kargbevu"
+    },
+    "code": {
+      "id": "SL03011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.634",
+      "lon": "-11.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL03011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.692",
+      "lon": "-11.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbao",
+      "en": "Magbao",
+      "slug": "magbao"
+    },
+    "code": {
+      "id": "SL03011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.744",
+      "lon": "-11.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011006",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yorma",
+      "en": "Yorma",
+      "slug": "yorma"
+    },
+    "code": {
+      "id": "SL03011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030110",
+      "level": 3,
+      "name": {
+        "local": "Lugbu",
+        "en": "Lugbu",
+        "slug": "lugbu-sl030110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030110",
+        "level": 3,
+        "name": {
+          "local": "Lugbu",
+          "en": "Lugbu",
+          "slug": "lugbu-sl030110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.73",
+      "lon": "-11.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

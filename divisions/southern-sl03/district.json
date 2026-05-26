@@ -1,0 +1,194 @@
+[
+  {
+    "id": "SL0301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bo",
+      "en": "Bo",
+      "slug": "bo-sl0301"
+    },
+    "code": {
+      "id": "SL0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 16,
+      "section": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.984",
+      "lon": "-11.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonthe",
+      "en": "Bonthe",
+      "slug": "bonthe-sl0302"
+    },
+    "code": {
+      "id": "SL0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 12,
+      "section": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.5",
+      "lon": "-12.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyamba",
+      "en": "Moyamba",
+      "slug": "moyamba-sl0303"
+    },
+    "code": {
+      "id": "SL0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 14,
+      "section": 142
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.03",
+      "lon": "-12.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pujehun",
+      "en": "Pujehun",
+      "slug": "pujehun-sl0304"
+    },
+    "code": {
+      "id": "SL0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 12,
+      "section": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.301",
+      "lon": "-11.535"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

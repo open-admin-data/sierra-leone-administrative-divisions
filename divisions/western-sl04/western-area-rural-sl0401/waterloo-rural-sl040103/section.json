@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL04010301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benguema Village A",
+      "en": "Benguema Village A",
+      "slug": "benguema-village-a"
+    },
+    "code": {
+      "id": "SL04010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040103",
+      "level": 3,
+      "name": {
+        "local": "Waterloo Rural",
+        "en": "Waterloo Rural",
+        "slug": "waterloo-rural-sl040103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040103",
+        "level": 3,
+        "name": {
+          "local": "Waterloo Rural",
+          "en": "Waterloo Rural",
+          "slug": "waterloo-rural-sl040103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.298",
+      "lon": "-13.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Campbell Town Vill",
+      "en": "Campbell Town Vill",
+      "slug": "campbell-town-vill"
+    },
+    "code": {
+      "id": "SL04010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040103",
+      "level": 3,
+      "name": {
+        "local": "Waterloo Rural",
+        "en": "Waterloo Rural",
+        "slug": "waterloo-rural-sl040103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040103",
+        "level": 3,
+        "name": {
+          "local": "Waterloo Rural",
+          "en": "Waterloo Rural",
+          "slug": "waterloo-rural-sl040103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.292",
+      "lon": "-13.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hastings Village A",
+      "en": "Hastings Village A",
+      "slug": "hastings-village-a"
+    },
+    "code": {
+      "id": "SL04010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040103",
+      "level": 3,
+      "name": {
+        "local": "Waterloo Rural",
+        "en": "Waterloo Rural",
+        "slug": "waterloo-rural-sl040103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040103",
+        "level": 3,
+        "name": {
+          "local": "Waterloo Rural",
+          "en": "Waterloo Rural",
+          "slug": "waterloo-rural-sl040103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.354",
+      "lon": "-13.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Waterloo Village A",
+      "en": "Waterloo Village A",
+      "slug": "waterloo-village-a"
+    },
+    "code": {
+      "id": "SL04010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040103",
+      "level": 3,
+      "name": {
+        "local": "Waterloo Rural",
+        "en": "Waterloo Rural",
+        "slug": "waterloo-rural-sl040103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040103",
+        "level": 3,
+        "name": {
+          "local": "Waterloo Rural",
+          "en": "Waterloo Rural",
+          "slug": "waterloo-rural-sl040103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.347",
+      "lon": "-13.057"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

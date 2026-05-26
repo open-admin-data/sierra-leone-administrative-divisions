@@ -1,0 +1,31 @@
+{
+  "id": "SL05",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "North Western",
+    "en": "North Western",
+    "slug": "north-western-sl05"
+  },
+  "code": {
+    "id": "SL05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "section": 284,
+    "chiefdom": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.101",
+    "lon": "-12.64"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "SL03030501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bendu A",
+      "en": "Bendu A",
+      "slug": "bendu-a"
+    },
+    "code": {
+      "id": "SL03030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.874",
+      "lon": "-12.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bendu B",
+      "en": "Bendu B",
+      "slug": "bendu-b"
+    },
+    "code": {
+      "id": "SL03030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.846",
+      "lon": "-12.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bumpetoke",
+      "en": "Bumpetoke",
+      "slug": "bumpetoke"
+    },
+    "code": {
+      "id": "SL03030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.815",
+      "lon": "-12.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbuallay",
+      "en": "Gbuallay",
+      "slug": "gbuallay"
+    },
+    "code": {
+      "id": "SL03030504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "-12.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konolor",
+      "en": "Konolor",
+      "slug": "konolor"
+    },
+    "code": {
+      "id": "SL03030505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.919",
+      "lon": "-12.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mambo",
+      "en": "Mambo",
+      "slug": "mambo"
+    },
+    "code": {
+      "id": "SL03030506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.973",
+      "lon": "-12.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mano",
+      "en": "Mano",
+      "slug": "mano"
+    },
+    "code": {
+      "id": "SL03030507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.848",
+      "lon": "-12.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mobeh",
+      "en": "Mobeh",
+      "slug": "mobeh"
+    },
+    "code": {
+      "id": "SL03030508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.963",
+      "lon": "-12.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030509",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mofuss",
+      "en": "Mofuss",
+      "slug": "mofuss"
+    },
+    "code": {
+      "id": "SL03030509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.974",
+      "lon": "-12.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030510",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokandor",
+      "en": "Mokandor",
+      "slug": "mokandor"
+    },
+    "code": {
+      "id": "SL03030510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.88",
+      "lon": "-12.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030511",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokebe",
+      "en": "Mokebe",
+      "slug": "mokebe"
+    },
+    "code": {
+      "id": "SL03030511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.896",
+      "lon": "-12.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030512",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokobo",
+      "en": "Mokobo",
+      "slug": "mokobo"
+    },
+    "code": {
+      "id": "SL03030512",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.939",
+      "lon": "-12.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030513",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mopaileh",
+      "en": "Mopaileh",
+      "slug": "mopaileh"
+    },
+    "code": {
+      "id": "SL03030513",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.849",
+      "lon": "-12.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030514",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moyah",
+      "en": "Moyah",
+      "slug": "moyah"
+    },
+    "code": {
+      "id": "SL03030514",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.983",
+      "lon": "-12.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030515",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moyibo",
+      "en": "Moyibo",
+      "slug": "moyibo"
+    },
+    "code": {
+      "id": "SL03030515",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.979",
+      "lon": "-12.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030516",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngiehun",
+      "en": "Ngiehun",
+      "slug": "ngiehun"
+    },
+    "code": {
+      "id": "SL03030516",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.985",
+      "lon": "-12.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030517",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rembe",
+      "en": "Rembe",
+      "slug": "rembe"
+    },
+    "code": {
+      "id": "SL03030517",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.027",
+      "lon": "-12.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030518",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tassoh",
+      "en": "Tassoh",
+      "slug": "tassoh"
+    },
+    "code": {
+      "id": "SL03030518",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.909",
+      "lon": "-12.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030519",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thumba A",
+      "en": "Thumba A",
+      "slug": "thumba-a"
+    },
+    "code": {
+      "id": "SL03030519",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.87",
+      "lon": "-12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030520",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thumba B",
+      "en": "Thumba B",
+      "slug": "thumba-b"
+    },
+    "code": {
+      "id": "SL03030520",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.867",
+      "lon": "-12.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030521",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yondu",
+      "en": "Yondu",
+      "slug": "yondu"
+    },
+    "code": {
+      "id": "SL03030521",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030305",
+      "level": 3,
+      "name": {
+        "local": "Kagboro",
+        "en": "Kagboro",
+        "slug": "kagboro-sl030305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030305",
+        "level": 3,
+        "name": {
+          "local": "Kagboro",
+          "en": "Kagboro",
+          "slug": "kagboro-sl030305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.993",
+      "lon": "-12.865"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

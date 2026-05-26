@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL01010801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Baoma",
+      "en": "Baoma",
+      "slug": "baoma"
+    },
+    "code": {
+      "id": "SL01010801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "-10.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gao",
+      "en": "Gao",
+      "slug": "gao"
+    },
+    "code": {
+      "id": "SL01010802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.097",
+      "lon": "-10.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbela",
+      "en": "Gbela",
+      "slug": "gbela"
+    },
+    "code": {
+      "id": "SL01010803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.265",
+      "lon": "-10.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Giehun",
+      "en": "Giehun",
+      "slug": "giehun"
+    },
+    "code": {
+      "id": "SL01010804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.198",
+      "lon": "-10.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kpombali",
+      "en": "Lower Kpombali",
+      "slug": "lower-kpombali"
+    },
+    "code": {
+      "id": "SL01010805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.175",
+      "lon": "-10.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Luawa Foguiya",
+      "en": "Luawa Foguiya",
+      "slug": "luawa-foguiya"
+    },
+    "code": {
+      "id": "SL01010806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.247",
+      "lon": "-10.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mano-Sewallu",
+      "en": "Mano-Sewallu",
+      "slug": "mano-sewallu"
+    },
+    "code": {
+      "id": "SL01010807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.337",
+      "lon": "-10.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mende Buima",
+      "en": "Mende Buima",
+      "slug": "mende-buima"
+    },
+    "code": {
+      "id": "SL01010808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.2",
+      "lon": "-10.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010809",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mofindor",
+      "en": "Mofindor",
+      "slug": "mofindor"
+    },
+    "code": {
+      "id": "SL01010809",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.317",
+      "lon": "-10.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010810",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kpombali",
+      "en": "Upper Kpombali",
+      "slug": "upper-kpombali"
+    },
+    "code": {
+      "id": "SL01010810",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010108",
+      "level": 3,
+      "name": {
+        "local": "Luawa",
+        "en": "Luawa",
+        "slug": "luawa-sl010108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010108",
+        "level": 3,
+        "name": {
+          "local": "Luawa",
+          "en": "Luawa",
+          "slug": "luawa-sl010108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.198",
+      "lon": "-10.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

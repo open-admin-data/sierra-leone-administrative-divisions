@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL03010101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Damai",
+      "en": "Damai",
+      "slug": "damai"
+    },
+    "code": {
+      "id": "SL03010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030101",
+      "level": 3,
+      "name": {
+        "local": "Badjia",
+        "en": "Badjia",
+        "slug": "badjia-sl030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030101",
+        "level": 3,
+        "name": {
+          "local": "Badjia",
+          "en": "Badjia",
+          "slug": "badjia-sl030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.077",
+      "lon": "-11.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fallay",
+      "en": "Fallay",
+      "slug": "fallay"
+    },
+    "code": {
+      "id": "SL03010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030101",
+      "level": 3,
+      "name": {
+        "local": "Badjia",
+        "en": "Badjia",
+        "slug": "badjia-sl030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030101",
+        "level": 3,
+        "name": {
+          "local": "Badjia",
+          "en": "Badjia",
+          "slug": "badjia-sl030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.117",
+      "lon": "-11.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpallay",
+      "en": "Kpallay",
+      "slug": "kpallay"
+    },
+    "code": {
+      "id": "SL03010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030101",
+      "level": 3,
+      "name": {
+        "local": "Badjia",
+        "en": "Badjia",
+        "slug": "badjia-sl030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030101",
+        "level": 3,
+        "name": {
+          "local": "Badjia",
+          "en": "Badjia",
+          "slug": "badjia-sl030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.049",
+      "lon": "-11.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njargbahun",
+      "en": "Njargbahun",
+      "slug": "njargbahun"
+    },
+    "code": {
+      "id": "SL03010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030101",
+      "level": 3,
+      "name": {
+        "local": "Badjia",
+        "en": "Badjia",
+        "slug": "badjia-sl030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030101",
+        "level": 3,
+        "name": {
+          "local": "Badjia",
+          "en": "Badjia",
+          "slug": "badjia-sl030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.116",
+      "lon": "-11.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sei",
+      "en": "Sei",
+      "slug": "sei"
+    },
+    "code": {
+      "id": "SL03010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030101",
+      "level": 3,
+      "name": {
+        "local": "Badjia",
+        "en": "Badjia",
+        "slug": "badjia-sl030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030101",
+        "level": 3,
+        "name": {
+          "local": "Badjia",
+          "en": "Badjia",
+          "slug": "badjia-sl030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.072",
+      "lon": "-11.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

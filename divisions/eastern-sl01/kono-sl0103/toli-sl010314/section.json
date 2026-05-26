@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01031401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bawadu",
+      "en": "Bawadu",
+      "slug": "bawadu"
+    },
+    "code": {
+      "id": "SL01031401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010314",
+      "level": 3,
+      "name": {
+        "local": "Toli",
+        "en": "Toli",
+        "slug": "toli-sl010314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010314",
+        "level": 3,
+        "name": {
+          "local": "Toli",
+          "en": "Toli",
+          "slug": "toli-sl010314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.972",
+      "lon": "-10.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Komadu",
+      "en": "Komadu",
+      "slug": "komadu"
+    },
+    "code": {
+      "id": "SL01031402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010314",
+      "level": 3,
+      "name": {
+        "local": "Toli",
+        "en": "Toli",
+        "slug": "toli-sl010314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010314",
+        "level": 3,
+        "name": {
+          "local": "Toli",
+          "en": "Toli",
+          "slug": "toli-sl010314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.978",
+      "lon": "-10.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kwidu",
+      "en": "Kwidu",
+      "slug": "kwidu"
+    },
+    "code": {
+      "id": "SL01031403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010314",
+      "level": 3,
+      "name": {
+        "local": "Toli",
+        "en": "Toli",
+        "slug": "toli-sl010314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010314",
+        "level": 3,
+        "name": {
+          "local": "Toli",
+          "en": "Toli",
+          "slug": "toli-sl010314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.02",
+      "lon": "-10.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

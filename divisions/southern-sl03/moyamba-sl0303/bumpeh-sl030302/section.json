@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL03030201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bellentin",
+      "en": "Bellentin",
+      "slug": "bellentin"
+    },
+    "code": {
+      "id": "SL03030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.131",
+      "lon": "-12.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bumpeh",
+      "en": "Bumpeh",
+      "slug": "bumpeh"
+    },
+    "code": {
+      "id": "SL03030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.178",
+      "lon": "-12.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Greema",
+      "en": "Greema",
+      "slug": "greema"
+    },
+    "code": {
+      "id": "SL03030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "-12.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kassipoto",
+      "en": "Kassipoto",
+      "slug": "kassipoto"
+    },
+    "code": {
+      "id": "SL03030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.165",
+      "lon": "-12.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamu",
+      "en": "Mamu",
+      "slug": "mamu"
+    },
+    "code": {
+      "id": "SL03030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.05",
+      "lon": "-12.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Massah",
+      "en": "Massah",
+      "slug": "massah"
+    },
+    "code": {
+      "id": "SL03030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.066",
+      "lon": "-12.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moforay",
+      "en": "Moforay",
+      "slug": "moforay"
+    },
+    "code": {
+      "id": "SL03030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.078",
+      "lon": "-12.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokebbie",
+      "en": "Mokebbie",
+      "slug": "mokebbie"
+    },
+    "code": {
+      "id": "SL03030208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.209",
+      "lon": "-12.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Motobon",
+      "en": "Motobon",
+      "slug": "motobon"
+    },
+    "code": {
+      "id": "SL03030209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.12",
+      "lon": "-12.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030210",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moyemi",
+      "en": "Moyemi",
+      "slug": "moyemi"
+    },
+    "code": {
+      "id": "SL03030210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.028",
+      "lon": "-12.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030211",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Saiama",
+      "en": "Saiama",
+      "slug": "saiama"
+    },
+    "code": {
+      "id": "SL03030211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "-12.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030212",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samu",
+      "en": "Samu",
+      "slug": "samu"
+    },
+    "code": {
+      "id": "SL03030212",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.061",
+      "lon": "-12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030213",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yengessa",
+      "en": "Yengessa",
+      "slug": "yengessa"
+    },
+    "code": {
+      "id": "SL03030213",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030302",
+      "level": 3,
+      "name": {
+        "local": "Bumpeh",
+        "en": "Bumpeh",
+        "slug": "bumpeh-sl030302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030302",
+        "level": 3,
+        "name": {
+          "local": "Bumpeh",
+          "en": "Bumpeh",
+          "slug": "bumpeh-sl030302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.137",
+      "lon": "-12.642"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

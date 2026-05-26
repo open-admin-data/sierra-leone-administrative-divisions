@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03021001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bakumba",
+      "en": "Bakumba",
+      "slug": "bakumba"
+    },
+    "code": {
+      "id": "SL03021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030210",
+      "level": 3,
+      "name": {
+        "local": "Sogbeni",
+        "en": "Sogbeni",
+        "slug": "sogbeni-sl030210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030210",
+        "level": 3,
+        "name": {
+          "local": "Sogbeni",
+          "en": "Sogbeni",
+          "slug": "sogbeni-sl030210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.599",
+      "lon": "-12.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Beyorgboh",
+      "en": "Beyorgboh",
+      "slug": "beyorgboh"
+    },
+    "code": {
+      "id": "SL03021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030210",
+      "level": 3,
+      "name": {
+        "local": "Sogbeni",
+        "en": "Sogbeni",
+        "slug": "sogbeni-sl030210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030210",
+        "level": 3,
+        "name": {
+          "local": "Sogbeni",
+          "en": "Sogbeni",
+          "slug": "sogbeni-sl030210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.533",
+      "lon": "-12.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ndopie",
+      "en": "Ndopie",
+      "slug": "ndopie"
+    },
+    "code": {
+      "id": "SL03021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030210",
+      "level": 3,
+      "name": {
+        "local": "Sogbeni",
+        "en": "Sogbeni",
+        "slug": "sogbeni-sl030210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030210",
+        "level": 3,
+        "name": {
+          "local": "Sogbeni",
+          "en": "Sogbeni",
+          "slug": "sogbeni-sl030210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.481",
+      "lon": "-12.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03021004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pengor",
+      "en": "Pengor",
+      "slug": "pengor"
+    },
+    "code": {
+      "id": "SL03021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030210",
+      "level": 3,
+      "name": {
+        "local": "Sogbeni",
+        "en": "Sogbeni",
+        "slug": "sogbeni-sl030210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030210",
+        "level": 3,
+        "name": {
+          "local": "Sogbeni",
+          "en": "Sogbeni",
+          "slug": "sogbeni-sl030210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.56",
+      "lon": "-12.084"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

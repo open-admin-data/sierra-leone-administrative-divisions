@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL02060201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Balandugu",
+      "en": "Balandugu",
+      "slug": "balandugu"
+    },
+    "code": {
+      "id": "SL02060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.664",
+      "lon": "-11.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dogoloya",
+      "en": "Dogoloya",
+      "slug": "dogoloya"
+    },
+    "code": {
+      "id": "SL02060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.7",
+      "lon": "-11.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fissaya I",
+      "en": "Fissaya I",
+      "slug": "fissaya-i"
+    },
+    "code": {
+      "id": "SL02060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.974",
+      "lon": "-11.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fissaya II",
+      "en": "Fissaya II",
+      "slug": "fissaya-ii"
+    },
+    "code": {
+      "id": "SL02060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.973",
+      "lon": "-11.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbentu III",
+      "en": "Gbentu III",
+      "slug": "gbentu-iii"
+    },
+    "code": {
+      "id": "SL02060205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.925",
+      "lon": "-11.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Herekor",
+      "en": "Herekor",
+      "slug": "herekor"
+    },
+    "code": {
+      "id": "SL02060206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.805",
+      "lon": "-11.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalia",
+      "en": "Kalia",
+      "slug": "kalia"
+    },
+    "code": {
+      "id": "SL02060207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.931",
+      "lon": "-11.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamba",
+      "en": "Kamba",
+      "slug": "kamba"
+    },
+    "code": {
+      "id": "SL02060208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.83",
+      "lon": "-11.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lagor",
+      "en": "Lagor",
+      "slug": "lagor"
+    },
+    "code": {
+      "id": "SL02060209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.716",
+      "lon": "-11.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060210",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Musaia",
+      "en": "Musaia",
+      "slug": "musaia"
+    },
+    "code": {
+      "id": "SL02060210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.711",
+      "lon": "-11.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060211",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sankan I",
+      "en": "Sankan I",
+      "slug": "sankan-i"
+    },
+    "code": {
+      "id": "SL02060211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.845",
+      "lon": "-11.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060212",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sankan II",
+      "en": "Sankan II",
+      "slug": "sankan-ii"
+    },
+    "code": {
+      "id": "SL02060212",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020602",
+      "level": 3,
+      "name": {
+        "local": "Folosaba Dembel",
+        "en": "Folosaba Dembel",
+        "slug": "folosaba-dembel-sl020602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020602",
+        "level": 3,
+        "name": {
+          "local": "Folosaba Dembel",
+          "en": "Folosaba Dembel",
+          "slug": "folosaba-dembel-sl020602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "-11.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

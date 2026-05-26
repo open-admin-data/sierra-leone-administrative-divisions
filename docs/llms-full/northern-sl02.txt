@@ -1,0 +1,473 @@
+# Northern — Sierra Leone Administrative Divisions
+
+> 4 districts, 31 chiefdoms, 258 sections
+> Code: SL02
+> Coordinates: 9.118, -11.478
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Bombali
+
+Code: SL0201, Coordinates: 9.103, -12.038
+Chiefdoms: 9, Sections: 89
+
+#### Biriwa
+
+Code: SL020101, Coordinates: 9.271, -11.918
+
+Sections:
+- Bumban [SL02010101]
+- Bumbandain [SL02010102]
+- Kabakeh/Balandugu [SL02010103]
+- Kagbankuna [SL02010104]
+- Kamabai [SL02010105]
+- Karassa [SL02010106]
+- Karina [SL02010107]
+- Kayonkoro [SL02010108]
+
+#### Bombali Sebora
+
+Code: SL020102, Coordinates: 8.779, -12.062
+
+Sections:
+- Kafala [SL02010201]
+- Kagbaran Dokom B [SL02010202]
+- Konta [SL02010203]
+- Matotoka [SL02010204]
+
+#### Gbanti Kamarank
+
+Code: SL020103, Coordinates: 9.278, -12.293
+
+Sections:
+- Gbenkfay [SL02010301]
+- Gbonkobana [SL02010302]
+- Kamaranka [SL02010303]
+- Kambia [SL02010304]
+- Kayourgbor [SL02010305]
+- Laminaya [SL02010306]
+- Makulon [SL02010307]
+- Makumray A [SL02010308]
+- Makumray B [SL02010309]
+- Rogberay [SL02010310]
+- Romaneh [SL02010311]
+- Royeama A [SL02010312]
+- Royeama B [SL02010313]
+- Sakuma A [SL02010314]
+- Sakuma B [SL02010315]
+- Sendugu A [SL02010316]
+- Sendugu B [SL02010317]
+
+#### Gbendembu Ngowa
+
+Code: SL020104, Coordinates: 9.081, -12.2
+
+Sections:
+- Garanganwa [SL02010401]
+- Gbendembu [SL02010402]
+- Kalangba [SL02010403]
+- Kania [SL02010404]
+- Lobanga [SL02010405]
+- Lohindie [SL02010406]
+- Loko-Madina [SL02010407]
+- Makai [SL02010408]
+- Makarihiteh [SL02010409]
+- Makeregbohun [SL02010410]
+- Makump [SL02010411]
+- Mamaka [SL02010412]
+- Mamukay [SL02010413]
+- Masongbo [SL02010414]
+- Matehun [SL02010415]
+- Mayorthan [SL02010416]
+- Sahun [SL02010417]
+- Tambiama [SL02010418]
+- Tanyehun [SL02010419]
+
+#### Magbaimba Ndorh
+
+Code: SL020106, Coordinates: 9.274, -12.075
+
+Sections:
+- Hunduwa [SL02010601]
+- Kababala [SL02010602]
+- Kagberay [SL02010603]
+- Kawungulu [SL02010604]
+- Makendema [SL02010605]
+- Mambiama [SL02010606]
+- Manjahagha [SL02010607]
+- Sokudala [SL02010608]
+- Yana [SL02010609]
+
+#### Makari Gbanti
+
+Code: SL020107, Coordinates: 8.85, -12.206
+
+Sections:
+- Gborbana [SL02010701]
+- Mabanta [SL02010702]
+- Magbenteh [SL02010703]
+- Mangay [SL02010704]
+- Mankene [SL02010705]
+- Masongbo A [SL02010706]
+- Masongbo B [SL02010707]
+- Punthun [SL02010708]
+- Rosint [SL02010709]
+- Tonkoba [SL02010710]
+- Yainkassa [SL02010711]
+
+#### Makeni Town
+
+Code: SL020191, Coordinates: 8.883, -12.046
+
+Sections:
+- Bombali Sebora - B [SL02019101]
+- Bombali Sebora - K [SL02019102]
+- Bombali Sebora - Makeni [SL02019103]
+- Bombali Sebora - R [SL02019107]
+- Bombali Sebora - T [SL02019108]
+- Bombali Sebora - W [SL02019109]
+- Makari Gbanti - Mi [SL02019110]
+- Makari Gbanti -Mas [SL02019111]
+
+#### Paki Masabong
+
+Code: SL020108, Coordinates: 8.802, -11.943
+
+Sections:
+- Kathanthan [SL02010801]
+- Kathegeya [SL02010802]
+- Mapaki [SL02010803]
+- Masabong [SL02010804]
+- Mayagba [SL02010805]
+- Rosanda [SL02010806]
+
+#### Safroko Limba
+
+Code: SL020109, Coordinates: 9.011, -11.997
+
+Sections:
+- Binkolo [SL02010901]
+- Bombali Bana [SL02010902]
+- Kabonka [SL02010903]
+- Kasengbeh [SL02010904]
+- Kayassi [SL02010905]
+- Mabamba [SL02010906]
+- Masapi [SL02010907]
+
+### Fabala
+
+Code: SL0206, Coordinates: 9.466, -11.204
+Chiefdoms: 5, Sections: 49
+
+#### Dembelia - Sink
+
+Code: SL020601, Coordinates: 9.834, -11.448
+
+Sections:
+- Kunbulun 1 [SL02060101]
+- Kunbulun 2 [SL02060102]
+- Manan [SL02060104]
+- Mawundea [SL02060105]
+- Numula 1 [SL02060106]
+- Numula 2 [SL02060107]
+- Numula 3 [SL02060108]
+- Numula 4 [SL02060109]
+- Numula 5 [SL02060110]
+- Sinkunia [SL02060111]
+
+#### Folosaba Dembel
+
+Code: SL020602, Coordinates: 9.819, -11.609
+
+Sections:
+- Balandugu [SL02060201]
+- Dogoloya [SL02060202]
+- Fissaya I [SL02060203]
+- Fissaya II [SL02060204]
+- Gbentu III [SL02060205]
+- Herekor [SL02060206]
+- Kalia [SL02060207]
+- Kamba [SL02060208]
+- Lagor [SL02060209]
+- Musaia [SL02060210]
+- Sankan I [SL02060211]
+- Sankan II [SL02060212]
+
+#### Mongo
+
+Code: SL020603, Coordinates: 9.442, -11.062
+
+Sections:
+- Benadugu [SL02060301]
+- Deldugu [SL02060302]
+- Lower Kamadugu [SL02060303]
+- Mankalia [SL02060304]
+- Mongo I [SL02060305]
+- Mongo II [SL02060306]
+- Morifindugu [SL02060307]
+- Upper Kamadugu [SL02060308]
+- Yiraia [SL02060309]
+
+#### Neya
+
+Code: SL020604, Coordinates: 9.125, -10.913
+
+Sections:
+- Kulor [SL02060401]
+- Neya I [SL02060402]
+- Neya II [SL02060403]
+- Nyedu [SL02060404]
+- Saradu [SL02060405]
+
+#### Sulima
+
+Code: SL020606, Coordinates: 9.819, -11.22
+
+Sections:
+- Biribaia [SL02060601]
+- Dara [SL02060602]
+- Falaba [SL02060603]
+- Fudea [SL02060604]
+- Ganya [SL02060605]
+- Gberia Fotombu [SL02060606]
+- Gberia-Timbako [SL02060607]
+- Kaliyereh [SL02060608]
+- Kambaia [SL02060609]
+- Koindu-Kura [SL02060610]
+- Laylay [SL02060611]
+- Nomokoya [SL02060612]
+- Sonkoya [SL02060613]
+
+### Koinadugu
+
+Code: SL0203, Coordinates: 9.33, -11.533
+Chiefdoms: 6, Sections: 40
+
+#### Diang
+
+Code: SL020302, Coordinates: 9.271, -11.555
+
+Sections:
+- Darakuru [SL02030201]
+- Gbenekoro [SL02030202]
+- Kania [SL02030203]
+- Kondembaia [SL02030204]
+- Lengekoro [SL02030205]
+- Sokurala [SL02030206]
+
+#### Kasunko
+
+Code: SL020304, Coordinates: 9.465, -11.787
+
+Sections:
+- Gbonkobor [SL02030401]
+- Kakallain [SL02030402]
+- Kasunko [SL02030403]
+- Kayaka [SL02030404]
+- Tamiso I [SL02030405]
+- Tamiso II [SL02030406]
+
+#### Nieni
+
+Code: SL020307, Coordinates: 9.055, -11.299
+
+Sections:
+- Barawa [SL02030701]
+- Kalian [SL02030702]
+- Sumbaria [SL02030703]
+- Wollay [SL02030704]
+- Yiffin [SL02030705]
+
+#### Sengbe
+
+Code: SL020308, Coordinates: 9.564, -11.452
+
+Sections:
+- Bendugu [SL02030801]
+- Bilimaia [SL02030802]
+- Heremakono [SL02030803]
+- Koinadugu [SL02030804]
+- Yogomaia [SL02030808]
+
+#### Wara Wara Bafod
+
+Code: SL020310, Coordinates: 9.775, -11.779
+
+Sections:
+- Bafodia [SL02031001]
+- Kadanso [SL02031002]
+- Kakoya [SL02031003]
+- Kamanikie [SL02031004]
+- Kamayortortor [SL02031005]
+- Kambalia [SL02031006]
+- Kambia [SL02031007]
+- Kaponpon [SL02031008]
+- Pampakoh [SL02031009]
+- Semamaia [SL02031010]
+- Taelia [SL02031011]
+
+#### Wara Wara Yagal
+
+Code: SL020311, Coordinates: 9.55, -11.627
+
+Sections:
+- Zone 1 [SL02031101]
+- Zone 2 [SL02031102]
+- Zone 3 [SL02031103]
+- Zone 4 [SL02031104]
+- Zone 5 [SL02031105]
+- Zone 6 [SL02031106]
+- Zone 7 [SL02031107]
+
+### Tonkolili
+
+Code: SL0205, Coordinates: 8.762, -11.646
+Chiefdoms: 11, Sections: 80
+
+#### Gbonkolenken
+
+Code: SL020501, Coordinates: 8.482, -11.898
+
+Sections:
+- Lower Massakong [SL02050101]
+- Lower Polie [SL02050102]
+- Mayeppoh [SL02050103]
+- Petifu Mayawa A [SL02050104]
+- Petifu Mayawa B [SL02050105]
+- Petifu Mayeppoh [SL02050106]
+- Upper Massakong [SL02050107]
+- Upper Polie [SL02050108]
+- Yele Manowo [SL02050109]
+- Yiben [SL02050110]
+
+#### Kafe Simiria
+
+Code: SL020502, Coordinates: 8.87, -11.774
+
+Sections:
+- Kabaia [SL02050201]
+- Kamarugu [SL02050202]
+- Mabonto [SL02050203]
+- Makelfa [SL02050204]
+- Makontande [SL02050205]
+- Mayaso [SL02050206]
+- Simiria [SL02050207]
+
+#### Kalansogoia
+
+Code: SL020503, Coordinates: 9.103, -11.752
+
+Sections:
+- Fuladugu [SL02050301]
+- Kakallain [SL02050302]
+- Kamakathie [SL02050303]
+- Kamakilla [SL02050304]
+- Kasokira [SL02050305]
+- Lower Section [SL02050306]
+- Upper Section [SL02050307]
+
+#### Kholifa Mabang
+
+Code: SL020504, Coordinates: 8.534, -12.173
+
+Sections:
+- Kumrabai [SL02050401]
+- Mabang [SL02050402]
+- Marunia Koray [SL02050403]
+- Marunia Sakie [SL02050404]
+
+#### Kholifa Rowala
+
+Code: SL020505, Coordinates: 8.663, -12.014
+
+Sections:
+- Bo Road [SL02050501]
+- Lal-Lenken [SL02050502]
+- Makump [SL02050503]
+- Mamuntha [SL02050504]
+- Mayatha [SL02050505]
+- Mayossoh [SL02050506]
+- Old Magburaka [SL02050507]
+
+#### Kunike
+
+Code: SL020507, Coordinates: 8.696, -11.519
+
+Sections:
+- Masingbi [SL02050701]
+- Rolal [SL02050702]
+- Sanda [SL02050703]
+- Semorkanie [SL02050704]
+- Thamah [SL02050705]
+- Thambaya [SL02050706]
+- Wana [SL02050707]
+- Yenkeh [SL02050708]
+
+#### Kunike Barina
+
+Code: SL020506, Coordinates: 8.588, -11.642
+
+Sections:
+- Makali [SL02050601]
+- Makong [SL02050602]
+- Mamurie [SL02050603]
+- Masaba [SL02050604]
+- Mathonkara [SL02050605]
+- Wonkibor [SL02050606]
+
+#### Malal Mara
+
+Code: SL020508, Coordinates: 8.666, -12.258
+
+Sections:
+- Kiamp Kakolo [SL02050801]
+- Mabilafu [SL02050802]
+- Makoba [SL02050803]
+- Malal [SL02050804]
+- Manewa [SL02050805]
+- Mara [SL02050806]
+- Matanka [SL02050807]
+- Rochen [SL02050808]
+
+#### Sambaya
+
+Code: SL020509, Coordinates: 9.013, -11.544
+
+Sections:
+- Borowah [SL02050901]
+- Buyan [SL02050902]
+- Dayie [SL02050903]
+- Sambaya [SL02050904]
+
+#### Tane
+
+Code: SL020510, Coordinates: 8.672, -11.812
+
+Sections:
+- Maboboh Koray [SL02051001]
+- Makrugbeh [SL02051002]
+- Mange-bana [SL02051003]
+- Mapakie [SL02051004]
+- Mathunkara [SL02051005]
+- Matotoka [SL02051006]
+
+#### Yoni
+
+Code: SL020511, Coordinates: 8.406, -12.319
+
+Sections:
+- Foindu [SL02051101]
+- Gaindema [SL02051102]
+- Macrogba [SL02051103]
+- Makeni Rokefula [SL02051104]
+- Malanchor [SL02051105]
+- Malompor [SL02051106]
+- Mamaka [SL02051107]
+- Masengbe [SL02051108]
+- Mayira [SL02051109]
+- Petifu Upper [SL02051110]
+- Petifu-Lower [SL02051111]
+- Ronietta [SL02051112]
+- Yoni [SL02051113]
+

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL01030701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dia",
+      "en": "Dia",
+      "slug": "dia"
+    },
+    "code": {
+      "id": "SL01030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.908",
+      "lon": "-10.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamara",
+      "en": "Kamara",
+      "slug": "kamara"
+    },
+    "code": {
+      "id": "SL01030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.813",
+      "lon": "-10.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kensay",
+      "en": "Kensay",
+      "slug": "kensay"
+    },
+    "code": {
+      "id": "SL01030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.762",
+      "lon": "-10.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koaro",
+      "en": "Koaro",
+      "slug": "koaro"
+    },
+    "code": {
+      "id": "SL01030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.895",
+      "lon": "-10.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lei",
+      "en": "Lei",
+      "slug": "lei"
+    },
+    "code": {
+      "id": "SL01030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.809",
+      "lon": "-10.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sangbada",
+      "en": "Sangbada",
+      "slug": "sangbada"
+    },
+    "code": {
+      "id": "SL01030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "-10.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro",
+      "en": "Tankoro",
+      "slug": "tankoro"
+    },
+    "code": {
+      "id": "SL01030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.768",
+      "lon": "-10.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tingi-Kor",
+      "en": "Tingi-Kor",
+      "slug": "tingi-kor"
+    },
+    "code": {
+      "id": "SL01030708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.836",
+      "lon": "-10.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030709",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yawai",
+      "en": "Yawai",
+      "slug": "yawai"
+    },
+    "code": {
+      "id": "SL01030709",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010307",
+      "level": 3,
+      "name": {
+        "local": "Lei",
+        "en": "Lei",
+        "slug": "lei-sl010307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010307",
+        "level": 3,
+        "name": {
+          "local": "Lei",
+          "en": "Lei",
+          "slug": "lei-sl010307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.856",
+      "lon": "-10.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL05010701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bubuya",
+      "en": "Bubuya",
+      "slug": "bubuya"
+    },
+    "code": {
+      "id": "SL05010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.263",
+      "lon": "-12.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamassassa",
+      "en": "Kamassassa",
+      "slug": "kamassassa"
+    },
+    "code": {
+      "id": "SL05010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.408",
+      "lon": "-12.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kathanthineh",
+      "en": "Kathanthineh",
+      "slug": "kathanthineh"
+    },
+    "code": {
+      "id": "SL05010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.286",
+      "lon": "-12.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbonkoh",
+      "en": "Magbonkoh",
+      "slug": "magbonkoh"
+    },
+    "code": {
+      "id": "SL05010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.227",
+      "lon": "-12.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamankoh",
+      "en": "Mamankoh",
+      "slug": "mamankoh"
+    },
+    "code": {
+      "id": "SL05010705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.174",
+      "lon": "-12.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yebaya",
+      "en": "Yebaya",
+      "slug": "yebaya"
+    },
+    "code": {
+      "id": "SL05010706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050107",
+      "level": 3,
+      "name": {
+        "local": "Tonko Limba",
+        "en": "Tonko Limba",
+        "slug": "tonko-limba-sl050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050107",
+        "level": 3,
+        "name": {
+          "local": "Tonko Limba",
+          "en": "Tonko Limba",
+          "slug": "tonko-limba-sl050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.33",
+      "lon": "-12.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

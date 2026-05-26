@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03010801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korjeh",
+      "en": "Korjeh",
+      "slug": "korjeh"
+    },
+    "code": {
+      "id": "SL03010801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.937",
+      "lon": "-11.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpandobu",
+      "en": "Kpandobu",
+      "slug": "kpandobu"
+    },
+    "code": {
+      "id": "SL03010802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "-11.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nguabu",
+      "en": "Nguabu",
+      "slug": "nguabu"
+    },
+    "code": {
+      "id": "SL03010803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.024",
+      "lon": "-11.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyallay",
+      "en": "Nyallay",
+      "slug": "nyallay"
+    },
+    "code": {
+      "id": "SL03010804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.936",
+      "lon": "-11.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyawa",
+      "en": "Nyawa",
+      "slug": "nyawa"
+    },
+    "code": {
+      "id": "SL03010805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.98",
+      "lon": "-11.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samamie",
+      "en": "Samamie",
+      "slug": "samamie"
+    },
+    "code": {
+      "id": "SL03010806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.996",
+      "lon": "-11.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sewa",
+      "en": "Sewa",
+      "slug": "sewa"
+    },
+    "code": {
+      "id": "SL03010807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.921",
+      "lon": "-11.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sindeh",
+      "en": "Sindeh",
+      "slug": "sindeh"
+    },
+    "code": {
+      "id": "SL03010808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030108",
+      "level": 3,
+      "name": {
+        "local": "Kakua",
+        "en": "Kakua",
+        "slug": "kakua-sl030108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030108",
+        "level": 3,
+        "name": {
+          "local": "Kakua",
+          "en": "Kakua",
+          "slug": "kakua-sl030108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.005",
+      "lon": "-11.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

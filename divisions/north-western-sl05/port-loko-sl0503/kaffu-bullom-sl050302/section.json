@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL05030201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foronkoya",
+      "en": "Foronkoya",
+      "slug": "foronkoya"
+    },
+    "code": {
+      "id": "SL05030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.64",
+      "lon": "-13.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kasongha",
+      "en": "Kasongha",
+      "slug": "kasongha"
+    },
+    "code": {
+      "id": "SL05030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.618",
+      "lon": "-13.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lungi",
+      "en": "Lungi",
+      "slug": "lungi"
+    },
+    "code": {
+      "id": "SL05030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.677",
+      "lon": "-13.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mahera",
+      "en": "Mahera",
+      "slug": "mahera"
+    },
+    "code": {
+      "id": "SL05030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.609",
+      "lon": "-13.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamanki",
+      "en": "Mamanki",
+      "slug": "mamanki"
+    },
+    "code": {
+      "id": "SL05030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.575",
+      "lon": "-13.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayaya",
+      "en": "Mayaya",
+      "slug": "mayaya"
+    },
+    "code": {
+      "id": "SL05030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.678",
+      "lon": "-13.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosint",
+      "en": "Rosint",
+      "slug": "rosint"
+    },
+    "code": {
+      "id": "SL05030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.544",
+      "lon": "-13.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yongro",
+      "en": "Yongro",
+      "slug": "yongro"
+    },
+    "code": {
+      "id": "SL05030208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050302",
+      "level": 3,
+      "name": {
+        "local": "Kaffu Bullom",
+        "en": "Kaffu Bullom",
+        "slug": "kaffu-bullom-sl050302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050302",
+        "level": 3,
+        "name": {
+          "local": "Kaffu Bullom",
+          "en": "Kaffu Bullom",
+          "slug": "kaffu-bullom-sl050302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.58",
+      "lon": "-13.188"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

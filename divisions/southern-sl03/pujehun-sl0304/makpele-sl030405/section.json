@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03040501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kengo",
+      "en": "Kengo",
+      "slug": "kengo"
+    },
+    "code": {
+      "id": "SL03040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030405",
+      "level": 3,
+      "name": {
+        "local": "Makpele",
+        "en": "Makpele",
+        "slug": "makpele-sl030405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030405",
+        "level": 3,
+        "name": {
+          "local": "Makpele",
+          "en": "Makpele",
+          "slug": "makpele-sl030405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.25",
+      "lon": "-11.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samagbe",
+      "en": "Samagbe",
+      "slug": "samagbe"
+    },
+    "code": {
+      "id": "SL03040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030405",
+      "level": 3,
+      "name": {
+        "local": "Makpele",
+        "en": "Makpele",
+        "slug": "makpele-sl030405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030405",
+        "level": 3,
+        "name": {
+          "local": "Makpele",
+          "en": "Makpele",
+          "slug": "makpele-sl030405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.284",
+      "lon": "-11.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seitua",
+      "en": "Seitua",
+      "slug": "seitua"
+    },
+    "code": {
+      "id": "SL03040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030405",
+      "level": 3,
+      "name": {
+        "local": "Makpele",
+        "en": "Makpele",
+        "slug": "makpele-sl030405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030405",
+        "level": 3,
+        "name": {
+          "local": "Makpele",
+          "en": "Makpele",
+          "slug": "makpele-sl030405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.265",
+      "lon": "-11.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Selimeh",
+      "en": "Selimeh",
+      "slug": "selimeh"
+    },
+    "code": {
+      "id": "SL03040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030405",
+      "level": 3,
+      "name": {
+        "local": "Makpele",
+        "en": "Makpele",
+        "slug": "makpele-sl030405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030405",
+        "level": 3,
+        "name": {
+          "local": "Makpele",
+          "en": "Makpele",
+          "slug": "makpele-sl030405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.347",
+      "lon": "-11.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

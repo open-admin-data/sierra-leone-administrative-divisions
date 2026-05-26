@@ -1,0 +1,31 @@
+{
+  "id": "SL02",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Northern",
+    "en": "Northern",
+    "slug": "northern-sl02"
+  },
+  "code": {
+    "id": "SL02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "section": 258,
+    "chiefdom": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.118",
+    "lon": "-11.478"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL02060401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kulor",
+      "en": "Kulor",
+      "slug": "kulor"
+    },
+    "code": {
+      "id": "SL02060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020604",
+      "level": 3,
+      "name": {
+        "local": "Neya",
+        "en": "Neya",
+        "slug": "neya-sl020604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020604",
+        "level": 3,
+        "name": {
+          "local": "Neya",
+          "en": "Neya",
+          "slug": "neya-sl020604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.052",
+      "lon": "-10.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Neya I",
+      "en": "Neya I",
+      "slug": "neya-i"
+    },
+    "code": {
+      "id": "SL02060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020604",
+      "level": 3,
+      "name": {
+        "local": "Neya",
+        "en": "Neya",
+        "slug": "neya-sl020604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020604",
+        "level": 3,
+        "name": {
+          "local": "Neya",
+          "en": "Neya",
+          "slug": "neya-sl020604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.188",
+      "lon": "-10.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Neya II",
+      "en": "Neya II",
+      "slug": "neya-ii"
+    },
+    "code": {
+      "id": "SL02060403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020604",
+      "level": 3,
+      "name": {
+        "local": "Neya",
+        "en": "Neya",
+        "slug": "neya-sl020604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020604",
+        "level": 3,
+        "name": {
+          "local": "Neya",
+          "en": "Neya",
+          "slug": "neya-sl020604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.086",
+      "lon": "-10.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nyedu",
+      "en": "Nyedu",
+      "slug": "nyedu"
+    },
+    "code": {
+      "id": "SL02060404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020604",
+      "level": 3,
+      "name": {
+        "local": "Neya",
+        "en": "Neya",
+        "slug": "neya-sl020604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020604",
+        "level": 3,
+        "name": {
+          "local": "Neya",
+          "en": "Neya",
+          "slug": "neya-sl020604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.161",
+      "lon": "-11.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Saradu",
+      "en": "Saradu",
+      "slug": "saradu"
+    },
+    "code": {
+      "id": "SL02060405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020604",
+      "level": 3,
+      "name": {
+        "local": "Neya",
+        "en": "Neya",
+        "slug": "neya-sl020604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020604",
+        "level": 3,
+        "name": {
+          "local": "Neya",
+          "en": "Neya",
+          "slug": "neya-sl020604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.066",
+      "lon": "-10.755"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

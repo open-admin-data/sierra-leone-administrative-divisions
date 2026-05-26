@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01011201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bulima",
+      "en": "Bulima",
+      "slug": "bulima"
+    },
+    "code": {
+      "id": "SL01011201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010112",
+      "level": 3,
+      "name": {
+        "local": "Penguia",
+        "en": "Penguia",
+        "slug": "penguia-sl010112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010112",
+        "level": 3,
+        "name": {
+          "local": "Penguia",
+          "en": "Penguia",
+          "slug": "penguia-sl010112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.287",
+      "lon": "-10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jagor",
+      "en": "Jagor",
+      "slug": "jagor"
+    },
+    "code": {
+      "id": "SL01011202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010112",
+      "level": 3,
+      "name": {
+        "local": "Penguia",
+        "en": "Penguia",
+        "slug": "penguia-sl010112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010112",
+        "level": 3,
+        "name": {
+          "local": "Penguia",
+          "en": "Penguia",
+          "slug": "penguia-sl010112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.423",
+      "lon": "-10.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kumatandu",
+      "en": "Kumatandu",
+      "slug": "kumatandu"
+    },
+    "code": {
+      "id": "SL01011203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010112",
+      "level": 3,
+      "name": {
+        "local": "Penguia",
+        "en": "Penguia",
+        "slug": "penguia-sl010112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010112",
+        "level": 3,
+        "name": {
+          "local": "Penguia",
+          "en": "Penguia",
+          "slug": "penguia-sl010112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.355",
+      "lon": "-10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lombama",
+      "en": "Lombama",
+      "slug": "lombama"
+    },
+    "code": {
+      "id": "SL01011204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010112",
+      "level": 3,
+      "name": {
+        "local": "Penguia",
+        "en": "Penguia",
+        "slug": "penguia-sl010112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010112",
+        "level": 3,
+        "name": {
+          "local": "Penguia",
+          "en": "Penguia",
+          "slug": "penguia-sl010112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.42",
+      "lon": "-10.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01011205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nimima",
+      "en": "Nimima",
+      "slug": "nimima"
+    },
+    "code": {
+      "id": "SL01011205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010112",
+      "level": 3,
+      "name": {
+        "local": "Penguia",
+        "en": "Penguia",
+        "slug": "penguia-sl010112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010112",
+        "level": 3,
+        "name": {
+          "local": "Penguia",
+          "en": "Penguia",
+          "slug": "penguia-sl010112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.376",
+      "lon": "-10.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

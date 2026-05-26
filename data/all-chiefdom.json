@@ -1,0 +1,9354 @@
+[
+  {
+    "id": "SL010101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dea",
+      "en": "Dea",
+      "slug": "dea-sl010101"
+    },
+    "code": {
+      "id": "SL010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.953",
+      "lon": "-10.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Jawie",
+      "en": "Jawie",
+      "slug": "jawie-sl010102"
+    },
+    "code": {
+      "id": "SL010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.894",
+      "lon": "-10.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Kama",
+      "en": "Kissi Kama",
+      "slug": "kissi-kama-sl010103"
+    },
+    "code": {
+      "id": "SL010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "-10.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Teng",
+      "en": "Kissi Teng",
+      "slug": "kissi-teng-sl010104"
+    },
+    "code": {
+      "id": "SL010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.388",
+      "lon": "-10.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010105",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Tongi",
+      "en": "Kissi Tongi",
+      "slug": "kissi-tongi-sl010105"
+    },
+    "code": {
+      "id": "SL010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.307",
+      "lon": "-10.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpeje Bongre",
+      "en": "Kpeje Bongre",
+      "slug": "kpeje-bongre-sl010106"
+    },
+    "code": {
+      "id": "SL010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.145",
+      "lon": "-10.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpeje West",
+      "en": "Kpeje West",
+      "slug": "kpeje-west-sl010107"
+    },
+    "code": {
+      "id": "SL010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.192",
+      "lon": "-10.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010108",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Luawa",
+      "en": "Luawa",
+      "slug": "luawa-sl010108"
+    },
+    "code": {
+      "id": "SL010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.207",
+      "lon": "-10.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010109",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malema",
+      "en": "Malema",
+      "slug": "malema-sl010109"
+    },
+    "code": {
+      "id": "SL010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.777",
+      "lon": "-10.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010110",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mandu",
+      "en": "Mandu",
+      "slug": "mandu-sl010110"
+    },
+    "code": {
+      "id": "SL010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.986",
+      "lon": "-10.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010111",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Njaluahun",
+      "en": "Njaluahun",
+      "slug": "njaluahun-sl010111"
+    },
+    "code": {
+      "id": "SL010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.008",
+      "lon": "-10.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010112",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Penguia",
+      "en": "Penguia",
+      "slug": "penguia-sl010112"
+    },
+    "code": {
+      "id": "SL010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.358",
+      "lon": "-10.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010113",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Upper Bambara",
+      "en": "Upper Bambara",
+      "slug": "upper-bambara-sl010113"
+    },
+    "code": {
+      "id": "SL010113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.073",
+      "lon": "-10.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010114",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yawei",
+      "en": "Yawei",
+      "slug": "yawei-sl010114"
+    },
+    "code": {
+      "id": "SL010114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.327",
+      "lon": "-10.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010201",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dama",
+      "en": "Dama",
+      "slug": "dama-sl010201"
+    },
+    "code": {
+      "id": "SL010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.757",
+      "lon": "-11.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010202",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dodo",
+      "en": "Dodo",
+      "slug": "dodo-sl010202"
+    },
+    "code": {
+      "id": "SL010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "-11.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010203",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gaura",
+      "en": "Gaura",
+      "slug": "gaura-sl010203"
+    },
+    "code": {
+      "id": "SL010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.71",
+      "lon": "-10.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010204",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gorama Mende",
+      "en": "Gorama Mende",
+      "slug": "gorama-mende-sl010204"
+    },
+    "code": {
+      "id": "SL010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.44",
+      "lon": "-11.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010205",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kandu Leppiama",
+      "en": "Kandu Leppiama",
+      "slug": "kandu-leppiama-sl010205"
+    },
+    "code": {
+      "id": "SL010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.039",
+      "lon": "-11.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010206",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Koya",
+      "en": "Koya",
+      "slug": "koya-sl010206"
+    },
+    "code": {
+      "id": "SL010206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.632",
+      "lon": "-11.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010207",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Langrama",
+      "en": "Langrama",
+      "slug": "langrama-sl010207"
+    },
+    "code": {
+      "id": "SL010207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.667",
+      "lon": "-11.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010208",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Lower Bambara",
+      "en": "Lower Bambara",
+      "slug": "lower-bambara-sl010208"
+    },
+    "code": {
+      "id": "SL010208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.222",
+      "lon": "-11.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010209",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malegohun",
+      "en": "Malegohun",
+      "slug": "malegohun-sl010209"
+    },
+    "code": {
+      "id": "SL010209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.232",
+      "lon": "-10.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010210",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Niawa",
+      "en": "Niawa",
+      "slug": "niawa-sl010210"
+    },
+    "code": {
+      "id": "SL010210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.667",
+      "lon": "-11.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010211",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nomo",
+      "en": "Nomo",
+      "slug": "nomo-sl010211"
+    },
+    "code": {
+      "id": "SL010211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.554",
+      "lon": "-10.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010212",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nongowa",
+      "en": "Nongowa",
+      "slug": "nongowa-sl010212"
+    },
+    "code": {
+      "id": "SL010212",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.94",
+      "lon": "-11.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010213",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Simbaru",
+      "en": "Simbaru",
+      "slug": "simbaru-sl010213"
+    },
+    "code": {
+      "id": "SL010213",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.2",
+      "lon": "-11.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010214",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Small Bo",
+      "en": "Small Bo",
+      "slug": "small-bo-sl010214"
+    },
+    "code": {
+      "id": "SL010214",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.86",
+      "lon": "-11.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010215",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tunkia",
+      "en": "Tunkia",
+      "slug": "tunkia-sl010215"
+    },
+    "code": {
+      "id": "SL010215",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.498",
+      "lon": "-11.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010216",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Wandor",
+      "en": "Wandor",
+      "slug": "wandor-sl010216"
+    },
+    "code": {
+      "id": "SL010216",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.305",
+      "lon": "-11.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010291",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kenema Town",
+      "en": "Kenema Town",
+      "slug": "kenema-town-sl010291"
+    },
+    "code": {
+      "id": "SL010291",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0102",
+      "level": 2,
+      "name": {
+        "local": "Kenema",
+        "en": "Kenema",
+        "slug": "kenema-sl0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.881",
+      "lon": "-11.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010301",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Fiama",
+      "en": "Fiama",
+      "slug": "fiama-sl010301"
+    },
+    "code": {
+      "id": "SL010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.656",
+      "lon": "-10.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010302",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbane",
+      "en": "Gbane",
+      "slug": "gbane-sl010302"
+    },
+    "code": {
+      "id": "SL010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.475",
+      "lon": "-10.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010303",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbane Kandor",
+      "en": "Gbane Kandor",
+      "slug": "gbane-kandor-sl010303"
+    },
+    "code": {
+      "id": "SL010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.64",
+      "lon": "-10.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010304",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbense",
+      "en": "Gbense",
+      "slug": "gbense-sl010304"
+    },
+    "code": {
+      "id": "SL010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.722",
+      "lon": "-10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010305",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gorama Kono",
+      "en": "Gorama Kono",
+      "slug": "gorama-kono-sl010305"
+    },
+    "code": {
+      "id": "SL010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.394",
+      "lon": "-11.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010306",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kamara",
+      "en": "Kamara",
+      "slug": "kamara-sl010306"
+    },
+    "code": {
+      "id": "SL010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.714",
+      "lon": "-11.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010307",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Lei",
+      "en": "Lei",
+      "slug": "lei-sl010307"
+    },
+    "code": {
+      "id": "SL010307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.833",
+      "lon": "-10.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010308",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mafindor",
+      "en": "Mafindor",
+      "slug": "mafindor-sl010308"
+    },
+    "code": {
+      "id": "SL010308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.687",
+      "lon": "-10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010309",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nimikoro",
+      "en": "Nimikoro",
+      "slug": "nimikoro-sl010309"
+    },
+    "code": {
+      "id": "SL010309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.581",
+      "lon": "-11.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010310",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nimiyama",
+      "en": "Nimiyama",
+      "slug": "nimiyama-sl010310"
+    },
+    "code": {
+      "id": "SL010310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.576",
+      "lon": "-11.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010311",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sandor",
+      "en": "Sandor",
+      "slug": "sandor-sl010311"
+    },
+    "code": {
+      "id": "SL010311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.87",
+      "lon": "-11.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010312",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Soa",
+      "en": "Soa",
+      "slug": "soa-sl010312"
+    },
+    "code": {
+      "id": "SL010312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.591",
+      "lon": "-10.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010313",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tankoro",
+      "en": "Tankoro",
+      "slug": "tankoro-sl010313"
+    },
+    "code": {
+      "id": "SL010313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.54",
+      "lon": "-10.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010314",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Toli",
+      "en": "Toli",
+      "slug": "toli-sl010314"
+    },
+    "code": {
+      "id": "SL010314",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.994",
+      "lon": "-10.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010391",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Koidu Town",
+      "en": "Koidu Town",
+      "slug": "koidu-town-sl010391"
+    },
+    "code": {
+      "id": "SL010391",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0103",
+      "level": 2,
+      "name": {
+        "local": "Kono",
+        "en": "Kono",
+        "slug": "kono-sl0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.636",
+      "lon": "-10.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Biriwa",
+      "en": "Biriwa",
+      "slug": "biriwa-sl020101"
+    },
+    "code": {
+      "id": "SL020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.271",
+      "lon": "-11.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bombali Sebora",
+      "en": "Bombali Sebora",
+      "slug": "bombali-sebora-sl020102"
+    },
+    "code": {
+      "id": "SL020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.779",
+      "lon": "-12.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbanti Kamarank",
+      "en": "Gbanti Kamarank",
+      "slug": "gbanti-kamarank-sl020103"
+    },
+    "code": {
+      "id": "SL020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.278",
+      "lon": "-12.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbendembu Ngowa",
+      "en": "Gbendembu Ngowa",
+      "slug": "gbendembu-ngowa-sl020104"
+    },
+    "code": {
+      "id": "SL020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.081",
+      "lon": "-12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Magbaimba Ndorh",
+      "en": "Magbaimba Ndorh",
+      "slug": "magbaimba-ndorh-sl020106"
+    },
+    "code": {
+      "id": "SL020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.274",
+      "lon": "-12.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Makari Gbanti",
+      "en": "Makari Gbanti",
+      "slug": "makari-gbanti-sl020107"
+    },
+    "code": {
+      "id": "SL020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.85",
+      "lon": "-12.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020108",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Paki Masabong",
+      "en": "Paki Masabong",
+      "slug": "paki-masabong-sl020108"
+    },
+    "code": {
+      "id": "SL020108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.802",
+      "lon": "-11.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020109",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Safroko Limba",
+      "en": "Safroko Limba",
+      "slug": "safroko-limba-sl020109"
+    },
+    "code": {
+      "id": "SL020109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.011",
+      "lon": "-11.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020191",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Makeni Town",
+      "en": "Makeni Town",
+      "slug": "makeni-town-sl020191"
+    },
+    "code": {
+      "id": "SL020191",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0201",
+      "level": 2,
+      "name": {
+        "local": "Bombali",
+        "en": "Bombali",
+        "slug": "bombali-sl0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.883",
+      "lon": "-12.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020302",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Diang",
+      "en": "Diang",
+      "slug": "diang-sl020302"
+    },
+    "code": {
+      "id": "SL020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.271",
+      "lon": "-11.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020304",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kasunko",
+      "en": "Kasunko",
+      "slug": "kasunko-sl020304"
+    },
+    "code": {
+      "id": "SL020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.465",
+      "lon": "-11.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020307",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nieni",
+      "en": "Nieni",
+      "slug": "nieni-sl020307"
+    },
+    "code": {
+      "id": "SL020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.055",
+      "lon": "-11.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020308",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sengbe",
+      "en": "Sengbe",
+      "slug": "sengbe-sl020308"
+    },
+    "code": {
+      "id": "SL020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.564",
+      "lon": "-11.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020310",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Wara Wara Bafod",
+      "en": "Wara Wara Bafod",
+      "slug": "wara-wara-bafod-sl020310"
+    },
+    "code": {
+      "id": "SL020310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.775",
+      "lon": "-11.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020311",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Wara Wara Yagal",
+      "en": "Wara Wara Yagal",
+      "slug": "wara-wara-yagal-sl020311"
+    },
+    "code": {
+      "id": "SL020311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.55",
+      "lon": "-11.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020501",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbonkolenken",
+      "en": "Gbonkolenken",
+      "slug": "gbonkolenken-sl020501"
+    },
+    "code": {
+      "id": "SL020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-11.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020502",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kafe Simiria",
+      "en": "Kafe Simiria",
+      "slug": "kafe-simiria-sl020502"
+    },
+    "code": {
+      "id": "SL020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.87",
+      "lon": "-11.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020503",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kalansogoia",
+      "en": "Kalansogoia",
+      "slug": "kalansogoia-sl020503"
+    },
+    "code": {
+      "id": "SL020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "-11.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020504",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kholifa Mabang",
+      "en": "Kholifa Mabang",
+      "slug": "kholifa-mabang-sl020504"
+    },
+    "code": {
+      "id": "SL020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.534",
+      "lon": "-12.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020505",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kholifa Rowala",
+      "en": "Kholifa Rowala",
+      "slug": "kholifa-rowala-sl020505"
+    },
+    "code": {
+      "id": "SL020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.663",
+      "lon": "-12.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020506",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kunike Barina",
+      "en": "Kunike Barina",
+      "slug": "kunike-barina-sl020506"
+    },
+    "code": {
+      "id": "SL020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.588",
+      "lon": "-11.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020507",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kunike",
+      "en": "Kunike",
+      "slug": "kunike-sl020507"
+    },
+    "code": {
+      "id": "SL020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "-11.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020508",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malal Mara",
+      "en": "Malal Mara",
+      "slug": "malal-mara-sl020508"
+    },
+    "code": {
+      "id": "SL020508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.666",
+      "lon": "-12.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020509",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sambaya",
+      "en": "Sambaya",
+      "slug": "sambaya-sl020509"
+    },
+    "code": {
+      "id": "SL020509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.013",
+      "lon": "-11.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020510",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tane",
+      "en": "Tane",
+      "slug": "tane-sl020510"
+    },
+    "code": {
+      "id": "SL020510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.672",
+      "lon": "-11.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020511",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yoni",
+      "en": "Yoni",
+      "slug": "yoni-sl020511"
+    },
+    "code": {
+      "id": "SL020511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "-12.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020601",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dembelia - Sink",
+      "en": "Dembelia - Sink",
+      "slug": "dembelia-sink-sl020601"
+    },
+    "code": {
+      "id": "SL020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.834",
+      "lon": "-11.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020602",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Folosaba Dembel",
+      "en": "Folosaba Dembel",
+      "slug": "folosaba-dembel-sl020602"
+    },
+    "code": {
+      "id": "SL020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.819",
+      "lon": "-11.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020603",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mongo",
+      "en": "Mongo",
+      "slug": "mongo-sl020603"
+    },
+    "code": {
+      "id": "SL020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.442",
+      "lon": "-11.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020604",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Neya",
+      "en": "Neya",
+      "slug": "neya-sl020604"
+    },
+    "code": {
+      "id": "SL020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.125",
+      "lon": "-10.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020606",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sulima",
+      "en": "Sulima",
+      "slug": "sulima-sl020606"
+    },
+    "code": {
+      "id": "SL020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0206",
+      "level": 2,
+      "name": {
+        "local": "Fabala",
+        "en": "Fabala",
+        "slug": "fabala-sl0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.819",
+      "lon": "-11.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Badjia",
+      "en": "Badjia",
+      "slug": "badjia-sl030101"
+    },
+    "code": {
+      "id": "SL030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.092",
+      "lon": "-11.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bagbo",
+      "en": "Bagbo",
+      "slug": "bagbo-sl030102"
+    },
+    "code": {
+      "id": "SL030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.598",
+      "lon": "-11.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bagbwe(Bagbe)",
+      "en": "Bagbwe(Bagbe)",
+      "slug": "bagbwebagbe-sl030103"
+    },
+    "code": {
+      "id": "SL030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.085",
+      "lon": "-11.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Boama",
+      "en": "Boama",
+      "slug": "boama-sl030104"
+    },
+    "code": {
+      "id": "SL030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.939",
+      "lon": "-11.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030105",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bumpe Ngao",
+      "en": "Bumpe Ngao",
+      "slug": "bumpe-ngao-sl030105"
+    },
+    "code": {
+      "id": "SL030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "-12.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbo",
+      "en": "Gbo",
+      "slug": "gbo-sl030106"
+    },
+    "code": {
+      "id": "SL030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.068",
+      "lon": "-11.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Jaiama Bongor",
+      "en": "Jaiama Bongor",
+      "slug": "jaiama-bongor-sl030107"
+    },
+    "code": {
+      "id": "SL030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.759",
+      "lon": "-11.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030108",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kakua",
+      "en": "Kakua",
+      "slug": "kakua-sl030108"
+    },
+    "code": {
+      "id": "SL030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.965",
+      "lon": "-11.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030109",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Komboya",
+      "en": "Komboya",
+      "slug": "komboya-sl030109"
+    },
+    "code": {
+      "id": "SL030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.254",
+      "lon": "-11.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030110",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Lugbu",
+      "en": "Lugbu",
+      "slug": "lugbu-sl030110"
+    },
+    "code": {
+      "id": "SL030110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.69",
+      "lon": "-11.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030111",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Niawa Lenga",
+      "en": "Niawa Lenga",
+      "slug": "niawa-lenga-sl030111"
+    },
+    "code": {
+      "id": "SL030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.147",
+      "lon": "-11.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030112",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Selenga",
+      "en": "Selenga",
+      "slug": "selenga-sl030112"
+    },
+    "code": {
+      "id": "SL030112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.108",
+      "lon": "-11.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030113",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tikonko",
+      "en": "Tikonko",
+      "slug": "tikonko-sl030113"
+    },
+    "code": {
+      "id": "SL030113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.857",
+      "lon": "-11.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030114",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Valunia",
+      "en": "Valunia",
+      "slug": "valunia-sl030114"
+    },
+    "code": {
+      "id": "SL030114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.313",
+      "lon": "-11.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030115",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Wonde",
+      "en": "Wonde",
+      "slug": "wonde-sl030115"
+    },
+    "code": {
+      "id": "SL030115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.685",
+      "lon": "-11.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030191",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bo Town",
+      "en": "Bo Town",
+      "slug": "bo-town-sl030191"
+    },
+    "code": {
+      "id": "SL030191",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0301",
+      "level": 2,
+      "name": {
+        "local": "Bo",
+        "en": "Bo",
+        "slug": "bo-sl0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "-11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030201",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bendu-Cha",
+      "en": "Bendu-Cha",
+      "slug": "bendu-cha-sl030201"
+    },
+    "code": {
+      "id": "SL030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.47",
+      "lon": "-12.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030202",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bum",
+      "en": "Bum",
+      "slug": "bum-sl030202"
+    },
+    "code": {
+      "id": "SL030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.432",
+      "lon": "-11.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030203",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dema",
+      "en": "Dema",
+      "slug": "dema-sl030203"
+    },
+    "code": {
+      "id": "SL030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.589",
+      "lon": "-12.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030204",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Imperri",
+      "en": "Imperri",
+      "slug": "imperri-sl030204"
+    },
+    "code": {
+      "id": "SL030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.667",
+      "lon": "-12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030205",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Jong",
+      "en": "Jong",
+      "slug": "jong-sl030205"
+    },
+    "code": {
+      "id": "SL030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.573",
+      "lon": "-12.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030206",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpanda Kemo",
+      "en": "Kpanda Kemo",
+      "slug": "kpanda-kemo-sl030206"
+    },
+    "code": {
+      "id": "SL030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.597",
+      "lon": "-12.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030207",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kwamebai Krim",
+      "en": "Kwamebai Krim",
+      "slug": "kwamebai-krim-sl030207"
+    },
+    "code": {
+      "id": "SL030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.27",
+      "lon": "-11.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030208",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Nongoba Bullom",
+      "en": "Nongoba Bullom",
+      "slug": "nongoba-bullom-sl030208"
+    },
+    "code": {
+      "id": "SL030208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.367",
+      "lon": "-12.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030209",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sittia",
+      "en": "Sittia",
+      "slug": "sittia-sl030209"
+    },
+    "code": {
+      "id": "SL030209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.514",
+      "lon": "-12.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030210",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sogbeni",
+      "en": "Sogbeni",
+      "slug": "sogbeni-sl030210"
+    },
+    "code": {
+      "id": "SL030210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "-12.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030211",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yawbeko",
+      "en": "Yawbeko",
+      "slug": "yawbeko-sl030211"
+    },
+    "code": {
+      "id": "SL030211",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.445",
+      "lon": "-12.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030291",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bonthe Urban",
+      "en": "Bonthe Urban",
+      "slug": "bonthe-urban-sl030291"
+    },
+    "code": {
+      "id": "SL030291",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0302",
+      "level": 2,
+      "name": {
+        "local": "Bonthe",
+        "en": "Bonthe",
+        "slug": "bonthe-sl0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.534",
+      "lon": "-12.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030301",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bagruwa",
+      "en": "Bagruwa",
+      "slug": "bagruwa-sl030301"
+    },
+    "code": {
+      "id": "SL030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.865",
+      "lon": "-12.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030302",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bumpeh",
+      "en": "Bumpeh",
+      "slug": "bumpeh-sl030302"
+    },
+    "code": {
+      "id": "SL030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.148",
+      "lon": "-12.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030303",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dasse",
+      "en": "Dasse",
+      "slug": "dasse-sl030303"
+    },
+    "code": {
+      "id": "SL030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "-12.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030304",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Fakunya",
+      "en": "Fakunya",
+      "slug": "fakunya-sl030304"
+    },
+    "code": {
+      "id": "SL030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.235",
+      "lon": "-12.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030305",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kagboro",
+      "en": "Kagboro",
+      "slug": "kagboro-sl030305"
+    },
+    "code": {
+      "id": "SL030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.916",
+      "lon": "-12.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030306",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kaiyamba",
+      "en": "Kaiyamba",
+      "slug": "kaiyamba-sl030306"
+    },
+    "code": {
+      "id": "SL030306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.118",
+      "lon": "-12.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030307",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kamajei",
+      "en": "Kamajei",
+      "slug": "kamajei-sl030307"
+    },
+    "code": {
+      "id": "SL030307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.215",
+      "lon": "-11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030308",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kongbora",
+      "en": "Kongbora",
+      "slug": "kongbora-sl030308"
+    },
+    "code": {
+      "id": "SL030308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.161",
+      "lon": "-12.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030309",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kori",
+      "en": "Kori",
+      "slug": "kori-sl030309"
+    },
+    "code": {
+      "id": "SL030309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.225",
+      "lon": "-12.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030310",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kowa",
+      "en": "Kowa",
+      "slug": "kowa-sl030310"
+    },
+    "code": {
+      "id": "SL030310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.079",
+      "lon": "-11.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030311",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Lower Banta",
+      "en": "Lower Banta",
+      "slug": "lower-banta-sl030311"
+    },
+    "code": {
+      "id": "SL030311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.865",
+      "lon": "-12.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030312",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Ribbi",
+      "en": "Ribbi",
+      "slug": "ribbi-sl030312"
+    },
+    "code": {
+      "id": "SL030312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.244",
+      "lon": "-12.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030313",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Timdale",
+      "en": "Timdale",
+      "slug": "timdale-sl030313"
+    },
+    "code": {
+      "id": "SL030313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.803",
+      "lon": "-12.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030314",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Upper Banta",
+      "en": "Upper Banta",
+      "slug": "upper-banta-sl030314"
+    },
+    "code": {
+      "id": "SL030314",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.737",
+      "lon": "-12.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030401",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Barri",
+      "en": "Barri",
+      "slug": "barri-sl030401"
+    },
+    "code": {
+      "id": "SL030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.479",
+      "lon": "-11.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030402",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Galliness Perri",
+      "en": "Galliness Perri",
+      "slug": "galliness-perri-sl030402"
+    },
+    "code": {
+      "id": "SL030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.267",
+      "lon": "-11.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030403",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpaka",
+      "en": "Kpaka",
+      "slug": "kpaka-sl030403"
+    },
+    "code": {
+      "id": "SL030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.187",
+      "lon": "-11.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030404",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Panga Kabonde",
+      "en": "Panga Kabonde",
+      "slug": "panga-kabonde-sl030404"
+    },
+    "code": {
+      "id": "SL030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.402",
+      "lon": "-11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030405",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Makpele",
+      "en": "Makpele",
+      "slug": "makpele-sl030405"
+    },
+    "code": {
+      "id": "SL030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.306",
+      "lon": "-11.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030406",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malen",
+      "en": "Malen",
+      "slug": "malen-sl030406"
+    },
+    "code": {
+      "id": "SL030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "-11.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030407",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mono Sakrim",
+      "en": "Mono Sakrim",
+      "slug": "mono-sakrim-sl030407"
+    },
+    "code": {
+      "id": "SL030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.139",
+      "lon": "-11.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030408",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Panga krim",
+      "en": "Panga krim",
+      "slug": "panga-krim-sl030408"
+    },
+    "code": {
+      "id": "SL030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.284",
+      "lon": "-11.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030409",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Pejeh(Futa peje",
+      "en": "Pejeh(Futa peje",
+      "slug": "pejehfuta-peje-sl030409"
+    },
+    "code": {
+      "id": "SL030409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "-11.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030410",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Soro Gbema",
+      "en": "Soro Gbema",
+      "slug": "soro-gbema-sl030410"
+    },
+    "code": {
+      "id": "SL030410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.115",
+      "lon": "-11.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030411",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sowa",
+      "en": "Sowa",
+      "slug": "sowa-sl030411"
+    },
+    "code": {
+      "id": "SL030411",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.575",
+      "lon": "-11.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030412",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yakemu Kpukumu",
+      "en": "Yakemu Kpukumu",
+      "slug": "yakemu-kpukumu-sl030412"
+    },
+    "code": {
+      "id": "SL030412",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.232",
+      "lon": "-11.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Koya Rural",
+      "en": "Koya Rural",
+      "slug": "koya-rural-sl040101"
+    },
+    "code": {
+      "id": "SL040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.308",
+      "lon": "-12.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mountain Rural",
+      "en": "Mountain Rural",
+      "slug": "mountain-rural-sl040102"
+    },
+    "code": {
+      "id": "SL040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.434",
+      "lon": "-13.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Waterloo Rural",
+      "en": "Waterloo Rural",
+      "slug": "waterloo-rural-sl040103"
+    },
+    "code": {
+      "id": "SL040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.338",
+      "lon": "-13.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "York Rural",
+      "en": "York Rural",
+      "slug": "york-rural-sl040104"
+    },
+    "code": {
+      "id": "SL040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.306",
+      "lon": "-13.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040201",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Central I",
+      "en": "Central I",
+      "slug": "central-i-sl040201"
+    },
+    "code": {
+      "id": "SL040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.48",
+      "lon": "-13.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040202",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Central II",
+      "en": "Central II",
+      "slug": "central-ii-sl040202"
+    },
+    "code": {
+      "id": "SL040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.485",
+      "lon": "-13.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040203",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "East I",
+      "en": "East I",
+      "slug": "east-i-sl040203"
+    },
+    "code": {
+      "id": "SL040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.488",
+      "lon": "-13.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040204",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "East II",
+      "en": "East II",
+      "slug": "east-ii-sl040204"
+    },
+    "code": {
+      "id": "SL040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.48",
+      "lon": "-13.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040205",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "East III",
+      "en": "East III",
+      "slug": "east-iii-sl040205"
+    },
+    "code": {
+      "id": "SL040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.442",
+      "lon": "-13.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040206",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "West I",
+      "en": "West I",
+      "slug": "west-i-sl040206"
+    },
+    "code": {
+      "id": "SL040206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-13.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040207",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "West II",
+      "en": "West II",
+      "slug": "west-ii-sl040207"
+    },
+    "code": {
+      "id": "SL040207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.471",
+      "lon": "-13.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040208",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "West III",
+      "en": "West III",
+      "slug": "west-iii-sl040208"
+    },
+    "code": {
+      "id": "SL040208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.469",
+      "lon": "-13.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL040209",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tasso Island",
+      "en": "Tasso Island",
+      "slug": "tasso-island-sl040209"
+    },
+    "code": {
+      "id": "SL040209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0402",
+      "level": 2,
+      "name": {
+        "local": "Western Area Urban",
+        "en": "Western Area Urban",
+        "slug": "western-area-urban-sl0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.553",
+      "lon": "-13.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bramaia",
+      "en": "Bramaia",
+      "slug": "bramaia-sl050101"
+    },
+    "code": {
+      "id": "SL050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.41",
+      "lon": "-12.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbinle Dixing",
+      "en": "Gbinle Dixing",
+      "slug": "gbinle-dixing-sl050102"
+    },
+    "code": {
+      "id": "SL050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.172",
+      "lon": "-12.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Magbema",
+      "en": "Magbema",
+      "slug": "magbema-sl050103"
+    },
+    "code": {
+      "id": "SL050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "-12.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mambolo",
+      "en": "Mambolo",
+      "slug": "mambolo-sl050104"
+    },
+    "code": {
+      "id": "SL050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "-13.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050105",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Masungbala",
+      "en": "Masungbala",
+      "slug": "masungbala-sl050105"
+    },
+    "code": {
+      "id": "SL050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "-12.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Samu",
+      "en": "Samu",
+      "slug": "samu-sl050106"
+    },
+    "code": {
+      "id": "SL050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.009",
+      "lon": "-13.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tonko Limba",
+      "en": "Tonko Limba",
+      "slug": "tonko-limba-sl050107"
+    },
+    "code": {
+      "id": "SL050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.304",
+      "lon": "-12.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050201",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Buya Romende",
+      "en": "Buya Romende",
+      "slug": "buya-romende-sl050201"
+    },
+    "code": {
+      "id": "SL050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "-12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050202",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dibia",
+      "en": "Dibia",
+      "slug": "dibia-sl050202"
+    },
+    "code": {
+      "id": "SL050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.938",
+      "lon": "-12.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050203",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Magbolont",
+      "en": "Sanda Magbolont",
+      "slug": "sanda-magbolont-sl050203"
+    },
+    "code": {
+      "id": "SL050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.135",
+      "lon": "-12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050206",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Libeisaygahun",
+      "en": "Libeisaygahun",
+      "slug": "libeisaygahun-sl050206"
+    },
+    "code": {
+      "id": "SL050206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.999",
+      "lon": "-12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050207",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Loko",
+      "en": "Sanda Loko",
+      "slug": "sanda-loko-sl050207"
+    },
+    "code": {
+      "id": "SL050207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.437",
+      "lon": "-12.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050208",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sanda Tendaran",
+      "en": "Sanda Tendaran",
+      "slug": "sanda-tendaran-sl050208"
+    },
+    "code": {
+      "id": "SL050208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.158",
+      "lon": "-12.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050209",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sella Limba",
+      "en": "Sella Limba",
+      "slug": "sella-limba-sl050209"
+    },
+    "code": {
+      "id": "SL050209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.5",
+      "lon": "-12.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050210",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tambakha",
+      "en": "Tambakha",
+      "slug": "tambakha-sl050210"
+    },
+    "code": {
+      "id": "SL050210",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.708",
+      "lon": "-12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050301",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bureh Kasseh Ma",
+      "en": "Bureh Kasseh Ma",
+      "slug": "bureh-kasseh-ma-sl050301"
+    },
+    "code": {
+      "id": "SL050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.933",
+      "lon": "-12.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050302",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kaffu Bullom",
+      "en": "Kaffu Bullom",
+      "slug": "kaffu-bullom-sl050302"
+    },
+    "code": {
+      "id": "SL050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.617",
+      "lon": "-13.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050303",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Koya",
+      "en": "Koya",
+      "slug": "koya-sl050303"
+    },
+    "code": {
+      "id": "SL050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.43",
+      "lon": "-12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050304",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Lokomasama",
+      "en": "Lokomasama",
+      "slug": "lokomasama-sl050304"
+    },
+    "code": {
+      "id": "SL050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "-13.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050305",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Maforki",
+      "en": "Maforki",
+      "slug": "maforki-sl050305"
+    },
+    "code": {
+      "id": "SL050305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.725",
+      "lon": "-12.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050306",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Marampa",
+      "en": "Marampa",
+      "slug": "marampa-sl050306"
+    },
+    "code": {
+      "id": "SL050306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.676",
+      "lon": "-12.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050307",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Masimera",
+      "en": "Masimera",
+      "slug": "masimera-sl050307"
+    },
+    "code": {
+      "id": "SL050307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.553",
+      "lon": "-12.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050308",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "TMS",
+      "en": "TMS",
+      "slug": "tms-sl050308"
+    },
+    "code": {
+      "id": "SL050308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.825",
+      "lon": "-12.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01030101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dumbia",
+      "en": "Dumbia",
+      "slug": "dumbia"
+    },
+    "code": {
+      "id": "SL01030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010301",
+      "level": 3,
+      "name": {
+        "local": "Fiama",
+        "en": "Fiama",
+        "slug": "fiama-sl010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010301",
+        "level": 3,
+        "name": {
+          "local": "Fiama",
+          "en": "Fiama",
+          "slug": "fiama-sl010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.58",
+      "lon": "-10.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fiama",
+      "en": "Fiama",
+      "slug": "fiama"
+    },
+    "code": {
+      "id": "SL01030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010301",
+      "level": 3,
+      "name": {
+        "local": "Fiama",
+        "en": "Fiama",
+        "slug": "fiama-sl010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010301",
+        "level": 3,
+        "name": {
+          "local": "Fiama",
+          "en": "Fiama",
+          "slug": "fiama-sl010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.635",
+      "lon": "-10.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kokar",
+      "en": "Kokar",
+      "slug": "kokar"
+    },
+    "code": {
+      "id": "SL01030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010301",
+      "level": 3,
+      "name": {
+        "local": "Fiama",
+        "en": "Fiama",
+        "slug": "fiama-sl010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010301",
+        "level": 3,
+        "name": {
+          "local": "Fiama",
+          "en": "Fiama",
+          "slug": "fiama-sl010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "-10.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kooma",
+      "en": "Kooma",
+      "slug": "kooma"
+    },
+    "code": {
+      "id": "SL01030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010301",
+      "level": 3,
+      "name": {
+        "local": "Fiama",
+        "en": "Fiama",
+        "slug": "fiama-sl010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010301",
+        "level": 3,
+        "name": {
+          "local": "Fiama",
+          "en": "Fiama",
+          "slug": "fiama-sl010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.711",
+      "lon": "-10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yorkor",
+      "en": "Yorkor",
+      "slug": "yorkor"
+    },
+    "code": {
+      "id": "SL01030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010301",
+      "level": 3,
+      "name": {
+        "local": "Fiama",
+        "en": "Fiama",
+        "slug": "fiama-sl010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010301",
+        "level": 3,
+        "name": {
+          "local": "Fiama",
+          "en": "Fiama",
+          "slug": "fiama-sl010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.653",
+      "lon": "-10.888"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

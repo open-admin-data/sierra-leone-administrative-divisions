@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL05020201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Karine",
+      "en": "Karine",
+      "slug": "karine"
+    },
+    "code": {
+      "id": "SL05020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.927",
+      "lon": "-12.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayembor",
+      "en": "Kayembor",
+      "slug": "kayembor"
+    },
+    "code": {
+      "id": "SL05020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.941",
+      "lon": "-12.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konta Kargbo",
+      "en": "Konta Kargbo",
+      "slug": "konta-kargbo"
+    },
+    "code": {
+      "id": "SL05020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.891",
+      "lon": "-12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mafonda",
+      "en": "Mafonda",
+      "slug": "mafonda"
+    },
+    "code": {
+      "id": "SL05020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.98",
+      "lon": "-12.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makabari",
+      "en": "Makabari",
+      "slug": "makabari"
+    },
+    "code": {
+      "id": "SL05020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.919",
+      "lon": "-12.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makump",
+      "en": "Makump",
+      "slug": "makump"
+    },
+    "code": {
+      "id": "SL05020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.894",
+      "lon": "-12.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogbalan",
+      "en": "Rogbalan",
+      "slug": "rogbalan"
+    },
+    "code": {
+      "id": "SL05020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050202",
+      "level": 3,
+      "name": {
+        "local": "Dibia",
+        "en": "Dibia",
+        "slug": "dibia-sl050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050202",
+        "level": 3,
+        "name": {
+          "local": "Dibia",
+          "en": "Dibia",
+          "slug": "dibia-sl050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.902",
+      "lon": "-12.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

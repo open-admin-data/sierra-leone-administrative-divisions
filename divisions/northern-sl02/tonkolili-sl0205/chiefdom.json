@@ -1,0 +1,618 @@
+[
+  {
+    "id": "SL020501",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbonkolenken",
+      "en": "Gbonkolenken",
+      "slug": "gbonkolenken-sl020501"
+    },
+    "code": {
+      "id": "SL020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-11.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020502",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kafe Simiria",
+      "en": "Kafe Simiria",
+      "slug": "kafe-simiria-sl020502"
+    },
+    "code": {
+      "id": "SL020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.87",
+      "lon": "-11.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020503",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kalansogoia",
+      "en": "Kalansogoia",
+      "slug": "kalansogoia-sl020503"
+    },
+    "code": {
+      "id": "SL020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "-11.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020504",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kholifa Mabang",
+      "en": "Kholifa Mabang",
+      "slug": "kholifa-mabang-sl020504"
+    },
+    "code": {
+      "id": "SL020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.534",
+      "lon": "-12.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020505",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kholifa Rowala",
+      "en": "Kholifa Rowala",
+      "slug": "kholifa-rowala-sl020505"
+    },
+    "code": {
+      "id": "SL020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.663",
+      "lon": "-12.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020507",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kunike",
+      "en": "Kunike",
+      "slug": "kunike-sl020507"
+    },
+    "code": {
+      "id": "SL020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "-11.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020506",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kunike Barina",
+      "en": "Kunike Barina",
+      "slug": "kunike-barina-sl020506"
+    },
+    "code": {
+      "id": "SL020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.588",
+      "lon": "-11.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020508",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malal Mara",
+      "en": "Malal Mara",
+      "slug": "malal-mara-sl020508"
+    },
+    "code": {
+      "id": "SL020508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.666",
+      "lon": "-12.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020509",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sambaya",
+      "en": "Sambaya",
+      "slug": "sambaya-sl020509"
+    },
+    "code": {
+      "id": "SL020509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.013",
+      "lon": "-11.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020510",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tane",
+      "en": "Tane",
+      "slug": "tane-sl020510"
+    },
+    "code": {
+      "id": "SL020510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.672",
+      "lon": "-11.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL020511",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yoni",
+      "en": "Yoni",
+      "slug": "yoni-sl020511"
+    },
+    "code": {
+      "id": "SL020511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0205",
+      "level": 2,
+      "name": {
+        "local": "Tonkolili",
+        "en": "Tonkolili",
+        "slug": "tonkolili-sl0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "-12.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

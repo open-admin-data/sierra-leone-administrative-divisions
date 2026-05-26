@@ -1,0 +1,56 @@
+{
+  "id": "SL050303",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Koya",
+    "en": "Koya",
+    "slug": "koya-sl050303"
+  },
+  "code": {
+    "id": "SL050303",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0503",
+    "level": 2,
+    "name": {
+      "local": "Port Loko",
+      "en": "Port Loko",
+      "slug": "port-loko-sl0503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.43",
+    "lon": "-12.864"
+  },
+  "metadata": {},
+  "source": {}
+}

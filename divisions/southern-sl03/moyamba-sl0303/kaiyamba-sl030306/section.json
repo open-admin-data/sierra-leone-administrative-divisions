@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL03030601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Angigboya",
+      "en": "Angigboya",
+      "slug": "angigboya"
+    },
+    "code": {
+      "id": "SL03030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.042",
+      "lon": "-12.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koromboya",
+      "en": "Koromboya",
+      "slug": "koromboya"
+    },
+    "code": {
+      "id": "SL03030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.129",
+      "lon": "-12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpange",
+      "en": "Kpange",
+      "slug": "kpange"
+    },
+    "code": {
+      "id": "SL03030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.057",
+      "lon": "-12.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lungili",
+      "en": "Lungili",
+      "slug": "lungili"
+    },
+    "code": {
+      "id": "SL03030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.124",
+      "lon": "-12.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mendegelema",
+      "en": "Mendegelema",
+      "slug": "mendegelema"
+    },
+    "code": {
+      "id": "SL03030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.2",
+      "lon": "-12.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mosoe",
+      "en": "Mosoe",
+      "slug": "mosoe"
+    },
+    "code": {
+      "id": "SL03030606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.198",
+      "lon": "-12.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Waliwahun",
+      "en": "Waliwahun",
+      "slug": "waliwahun"
+    },
+    "code": {
+      "id": "SL03030607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030306",
+      "level": 3,
+      "name": {
+        "local": "Kaiyamba",
+        "en": "Kaiyamba",
+        "slug": "kaiyamba-sl030306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030306",
+        "level": 3,
+        "name": {
+          "local": "Kaiyamba",
+          "en": "Kaiyamba",
+          "slug": "kaiyamba-sl030306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.076",
+      "lon": "-12.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

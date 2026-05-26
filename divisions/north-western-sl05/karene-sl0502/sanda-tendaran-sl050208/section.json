@@ -1,0 +1,632 @@
+[
+  {
+    "id": "SL05020801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalangba",
+      "en": "Kalangba",
+      "slug": "kalangba"
+    },
+    "code": {
+      "id": "SL05020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.22",
+      "lon": "-12.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kukuna",
+      "en": "Kukuna",
+      "slug": "kukuna"
+    },
+    "code": {
+      "id": "SL05020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.175",
+      "lon": "-12.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marampa",
+      "en": "Marampa",
+      "slug": "marampa"
+    },
+    "code": {
+      "id": "SL05020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.181",
+      "lon": "-12.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masisan",
+      "en": "Masisan",
+      "slug": "masisan"
+    },
+    "code": {
+      "id": "SL05020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.127",
+      "lon": "-12.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mateboi",
+      "en": "Mateboi",
+      "slug": "mateboi"
+    },
+    "code": {
+      "id": "SL05020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.109",
+      "lon": "-12.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogbin",
+      "en": "Rogbin",
+      "slug": "rogbin"
+    },
+    "code": {
+      "id": "SL05020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.209",
+      "lon": "-12.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogboreh",
+      "en": "Rogboreh",
+      "slug": "rogboreh"
+    },
+    "code": {
+      "id": "SL05020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.179",
+      "lon": "-12.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosos",
+      "en": "Rosos",
+      "slug": "rosos"
+    },
+    "code": {
+      "id": "SL05020808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.141",
+      "lon": "-12.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020809",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendugu",
+      "en": "Sendugu",
+      "slug": "sendugu"
+    },
+    "code": {
+      "id": "SL05020809",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.18",
+      "lon": "-12.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020810",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yankabala",
+      "en": "Yankabala",
+      "slug": "yankabala"
+    },
+    "code": {
+      "id": "SL05020810",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050208",
+      "level": 3,
+      "name": {
+        "local": "Sanda Tendaran",
+        "en": "Sanda Tendaran",
+        "slug": "sanda-tendaran-sl050208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050208",
+        "level": 3,
+        "name": {
+          "local": "Sanda Tendaran",
+          "en": "Sanda Tendaran",
+          "slug": "sanda-tendaran-sl050208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.178",
+      "lon": "-12.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

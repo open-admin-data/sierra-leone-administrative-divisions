@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL04020701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Brookfields-Congo",
+      "en": "Brookfields-Congo",
+      "slug": "brookfields-congo"
+    },
+    "code": {
+      "id": "SL04020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.476",
+      "lon": "-13.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Brookfields-Red Pu",
+      "en": "Brookfields-Red Pu",
+      "slug": "brookfields-red-pu"
+    },
+    "code": {
+      "id": "SL04020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.469",
+      "lon": "-13.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Congo Town",
+      "en": "Congo Town",
+      "slug": "congo-town"
+    },
+    "code": {
+      "id": "SL04020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.481",
+      "lon": "-13.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "George Brook (Dwor",
+      "en": "George Brook (Dwor",
+      "slug": "george-brook-dwor"
+    },
+    "code": {
+      "id": "SL04020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.466",
+      "lon": "-13.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "New England-Hannes",
+      "en": "New England-Hannes",
+      "slug": "new-england-hannes"
+    },
+    "code": {
+      "id": "SL04020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.466",
+      "lon": "-13.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "New England-Hill C",
+      "en": "New England-Hill C",
+      "slug": "new-england-hill-c"
+    },
+    "code": {
+      "id": "SL04020706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.466",
+      "lon": "-13.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tengbeh Town",
+      "en": "Tengbeh Town",
+      "slug": "tengbeh-town"
+    },
+    "code": {
+      "id": "SL04020707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040207",
+      "level": 3,
+      "name": {
+        "local": "West II",
+        "en": "West II",
+        "slug": "west-ii-sl040207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040207",
+        "level": 3,
+        "name": {
+          "local": "West II",
+          "en": "West II",
+          "slug": "west-ii-sl040207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.471",
+      "lon": "-13.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "SL0203",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koinadugu",
+    "en": "Koinadugu",
+    "slug": "koinadugu-sl0203"
+  },
+  "code": {
+    "id": "SL0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL02",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-sl02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 6,
+    "section": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.33",
+    "lon": "-11.533"
+  },
+  "metadata": {},
+  "source": {}
+}

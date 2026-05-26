@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL03020401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Babum",
+      "en": "Babum",
+      "slug": "babum"
+    },
+    "code": {
+      "id": "SL03020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.771",
+      "lon": "-12.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bapus",
+      "en": "Bapus",
+      "slug": "bapus"
+    },
+    "code": {
+      "id": "SL03020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.694",
+      "lon": "-12.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bigo",
+      "en": "Bigo",
+      "slug": "bigo"
+    },
+    "code": {
+      "id": "SL03020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.698",
+      "lon": "-12.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kahekay",
+      "en": "Kahekay",
+      "slug": "kahekay"
+    },
+    "code": {
+      "id": "SL03020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.725",
+      "lon": "-12.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moimaligie",
+      "en": "Moimaligie",
+      "slug": "moimaligie"
+    },
+    "code": {
+      "id": "SL03020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.61",
+      "lon": "-12.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sokrapan",
+      "en": "Sokrapan",
+      "slug": "sokrapan"
+    },
+    "code": {
+      "id": "SL03020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030204",
+      "level": 3,
+      "name": {
+        "local": "Imperri",
+        "en": "Imperri",
+        "slug": "imperri-sl030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030204",
+        "level": 3,
+        "name": {
+          "local": "Imperri",
+          "en": "Imperri",
+          "slug": "imperri-sl030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.617",
+      "lon": "-12.438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

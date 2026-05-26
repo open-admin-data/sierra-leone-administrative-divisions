@@ -1,0 +1,56 @@
+{
+  "id": "SL050209",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Sella Limba",
+    "en": "Sella Limba",
+    "slug": "sella-limba-sl050209"
+  },
+  "code": {
+    "id": "SL050209",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0502",
+    "level": 2,
+    "name": {
+      "local": "Karene",
+      "en": "Karene",
+      "slug": "karene-sl0502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    {
+      "id": "SL0502",
+      "level": 2,
+      "name": {
+        "local": "Karene",
+        "en": "Karene",
+        "slug": "karene-sl0502"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.5",
+    "lon": "-12.286"
+  },
+  "metadata": {},
+  "source": {}
+}

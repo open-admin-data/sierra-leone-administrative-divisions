@@ -1,0 +1,394 @@
+[
+  {
+    "id": "SL050101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Bramaia",
+      "en": "Bramaia",
+      "slug": "bramaia-sl050101"
+    },
+    "code": {
+      "id": "SL050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.41",
+      "lon": "-12.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Gbinle Dixing",
+      "en": "Gbinle Dixing",
+      "slug": "gbinle-dixing-sl050102"
+    },
+    "code": {
+      "id": "SL050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.172",
+      "lon": "-12.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Magbema",
+      "en": "Magbema",
+      "slug": "magbema-sl050103"
+    },
+    "code": {
+      "id": "SL050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "-12.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mambolo",
+      "en": "Mambolo",
+      "slug": "mambolo-sl050104"
+    },
+    "code": {
+      "id": "SL050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "-13.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050105",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Masungbala",
+      "en": "Masungbala",
+      "slug": "masungbala-sl050105"
+    },
+    "code": {
+      "id": "SL050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "-12.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Samu",
+      "en": "Samu",
+      "slug": "samu-sl050106"
+    },
+    "code": {
+      "id": "SL050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.009",
+      "lon": "-13.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL050107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Tonko Limba",
+      "en": "Tonko Limba",
+      "slug": "tonko-limba-sl050107"
+    },
+    "code": {
+      "id": "SL050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.304",
+      "lon": "-12.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

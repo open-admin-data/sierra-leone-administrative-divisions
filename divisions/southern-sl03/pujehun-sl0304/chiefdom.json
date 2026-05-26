@@ -1,0 +1,674 @@
+[
+  {
+    "id": "SL030401",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Barri",
+      "en": "Barri",
+      "slug": "barri-sl030401"
+    },
+    "code": {
+      "id": "SL030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.479",
+      "lon": "-11.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030402",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Galliness Perri",
+      "en": "Galliness Perri",
+      "slug": "galliness-perri-sl030402"
+    },
+    "code": {
+      "id": "SL030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.267",
+      "lon": "-11.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030403",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpaka",
+      "en": "Kpaka",
+      "slug": "kpaka-sl030403"
+    },
+    "code": {
+      "id": "SL030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.187",
+      "lon": "-11.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030405",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Makpele",
+      "en": "Makpele",
+      "slug": "makpele-sl030405"
+    },
+    "code": {
+      "id": "SL030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.306",
+      "lon": "-11.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030406",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malen",
+      "en": "Malen",
+      "slug": "malen-sl030406"
+    },
+    "code": {
+      "id": "SL030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "-11.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030407",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mono Sakrim",
+      "en": "Mono Sakrim",
+      "slug": "mono-sakrim-sl030407"
+    },
+    "code": {
+      "id": "SL030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.139",
+      "lon": "-11.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030404",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Panga Kabonde",
+      "en": "Panga Kabonde",
+      "slug": "panga-kabonde-sl030404"
+    },
+    "code": {
+      "id": "SL030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.402",
+      "lon": "-11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030408",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Panga krim",
+      "en": "Panga krim",
+      "slug": "panga-krim-sl030408"
+    },
+    "code": {
+      "id": "SL030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.284",
+      "lon": "-11.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030409",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Pejeh(Futa peje",
+      "en": "Pejeh(Futa peje",
+      "slug": "pejehfuta-peje-sl030409"
+    },
+    "code": {
+      "id": "SL030409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "-11.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030410",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Soro Gbema",
+      "en": "Soro Gbema",
+      "slug": "soro-gbema-sl030410"
+    },
+    "code": {
+      "id": "SL030410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.115",
+      "lon": "-11.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030411",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Sowa",
+      "en": "Sowa",
+      "slug": "sowa-sl030411"
+    },
+    "code": {
+      "id": "SL030411",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.575",
+      "lon": "-11.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL030412",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yakemu Kpukumu",
+      "en": "Yakemu Kpukumu",
+      "slug": "yakemu-kpukumu-sl030412"
+    },
+    "code": {
+      "id": "SL030412",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0304",
+      "level": 2,
+      "name": {
+        "local": "Pujehun",
+        "en": "Pujehun",
+        "slug": "pujehun-sl0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.232",
+      "lon": "-11.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

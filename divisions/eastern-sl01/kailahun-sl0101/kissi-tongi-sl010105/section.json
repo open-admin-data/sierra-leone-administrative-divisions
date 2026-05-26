@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL01010501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bende Bengu",
+      "en": "Bende Bengu",
+      "slug": "bende-bengu"
+    },
+    "code": {
+      "id": "SL01010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010105",
+      "level": 3,
+      "name": {
+        "local": "Kissi Tongi",
+        "en": "Kissi Tongi",
+        "slug": "kissi-tongi-sl010105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010105",
+        "level": 3,
+        "name": {
+          "local": "Kissi Tongi",
+          "en": "Kissi Tongi",
+          "slug": "kissi-tongi-sl010105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.393",
+      "lon": "-10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konio",
+      "en": "Konio",
+      "slug": "konio"
+    },
+    "code": {
+      "id": "SL01010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010105",
+      "level": 3,
+      "name": {
+        "local": "Kissi Tongi",
+        "en": "Kissi Tongi",
+        "slug": "kissi-tongi-sl010105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010105",
+        "level": 3,
+        "name": {
+          "local": "Kissi Tongi",
+          "en": "Kissi Tongi",
+          "slug": "kissi-tongi-sl010105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.363",
+      "lon": "-10.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pokorli",
+      "en": "Pokorli",
+      "slug": "pokorli"
+    },
+    "code": {
+      "id": "SL01010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010105",
+      "level": 3,
+      "name": {
+        "local": "Kissi Tongi",
+        "en": "Kissi Tongi",
+        "slug": "kissi-tongi-sl010105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010105",
+        "level": 3,
+        "name": {
+          "local": "Kissi Tongi",
+          "en": "Kissi Tongi",
+          "slug": "kissi-tongi-sl010105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.326",
+      "lon": "-10.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tongi Tingi",
+      "en": "Tongi Tingi",
+      "slug": "tongi-tingi"
+    },
+    "code": {
+      "id": "SL01010504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010105",
+      "level": 3,
+      "name": {
+        "local": "Kissi Tongi",
+        "en": "Kissi Tongi",
+        "slug": "kissi-tongi-sl010105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010105",
+        "level": 3,
+        "name": {
+          "local": "Kissi Tongi",
+          "en": "Kissi Tongi",
+          "slug": "kissi-tongi-sl010105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.212",
+      "lon": "-10.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

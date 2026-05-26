@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL02050201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabaia",
+      "en": "Kabaia",
+      "slug": "kabaia"
+    },
+    "code": {
+      "id": "SL02050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.805",
+      "lon": "-11.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamarugu",
+      "en": "Kamarugu",
+      "slug": "kamarugu"
+    },
+    "code": {
+      "id": "SL02050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.795",
+      "lon": "-11.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabonto",
+      "en": "Mabonto",
+      "slug": "mabonto"
+    },
+    "code": {
+      "id": "SL02050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.862",
+      "lon": "-11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makelfa",
+      "en": "Makelfa",
+      "slug": "makelfa"
+    },
+    "code": {
+      "id": "SL02050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.873",
+      "lon": "-11.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makontande",
+      "en": "Makontande",
+      "slug": "makontande"
+    },
+    "code": {
+      "id": "SL02050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.958",
+      "lon": "-11.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayaso",
+      "en": "Mayaso",
+      "slug": "mayaso"
+    },
+    "code": {
+      "id": "SL02050206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.954",
+      "lon": "-11.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Simiria",
+      "en": "Simiria",
+      "slug": "simiria"
+    },
+    "code": {
+      "id": "SL02050207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020502",
+      "level": 3,
+      "name": {
+        "local": "Kafe Simiria",
+        "en": "Kafe Simiria",
+        "slug": "kafe-simiria-sl020502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020502",
+        "level": 3,
+        "name": {
+          "local": "Kafe Simiria",
+          "en": "Kafe Simiria",
+          "slug": "kafe-simiria-sl020502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.879",
+      "lon": "-11.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

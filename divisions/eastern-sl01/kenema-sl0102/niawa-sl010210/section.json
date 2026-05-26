@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01021001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bandawor",
+      "en": "Bandawor",
+      "slug": "bandawor"
+    },
+    "code": {
+      "id": "SL01021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010210",
+      "level": 3,
+      "name": {
+        "local": "Niawa",
+        "en": "Niawa",
+        "slug": "niawa-sl010210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010210",
+        "level": 3,
+        "name": {
+          "local": "Niawa",
+          "en": "Niawa",
+          "slug": "niawa-sl010210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.756",
+      "lon": "-11.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpatawa",
+      "en": "Kpatawa",
+      "slug": "kpatawa"
+    },
+    "code": {
+      "id": "SL01021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010210",
+      "level": 3,
+      "name": {
+        "local": "Niawa",
+        "en": "Niawa",
+        "slug": "niawa-sl010210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010210",
+        "level": 3,
+        "name": {
+          "local": "Niawa",
+          "en": "Niawa",
+          "slug": "niawa-sl010210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.568",
+      "lon": "-11.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabondor",
+      "en": "Mabondor",
+      "slug": "mabondor"
+    },
+    "code": {
+      "id": "SL01021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010210",
+      "level": 3,
+      "name": {
+        "local": "Niawa",
+        "en": "Niawa",
+        "slug": "niawa-sl010210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010210",
+        "level": 3,
+        "name": {
+          "local": "Niawa",
+          "en": "Niawa",
+          "slug": "niawa-sl010210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.614",
+      "lon": "-11.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Niawa",
+      "en": "Niawa",
+      "slug": "niawa"
+    },
+    "code": {
+      "id": "SL01021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010210",
+      "level": 3,
+      "name": {
+        "local": "Niawa",
+        "en": "Niawa",
+        "slug": "niawa-sl010210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010210",
+        "level": 3,
+        "name": {
+          "local": "Niawa",
+          "en": "Niawa",
+          "slug": "niawa-sl010210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.715",
+      "lon": "-11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Vaama",
+      "en": "Vaama",
+      "slug": "vaama"
+    },
+    "code": {
+      "id": "SL01021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010210",
+      "level": 3,
+      "name": {
+        "local": "Niawa",
+        "en": "Niawa",
+        "slug": "niawa-sl010210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010210",
+        "level": 3,
+        "name": {
+          "local": "Niawa",
+          "en": "Niawa",
+          "slug": "niawa-sl010210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.667",
+      "lon": "-11.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

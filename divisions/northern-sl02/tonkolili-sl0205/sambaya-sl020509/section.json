@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL02050901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Borowah",
+      "en": "Borowah",
+      "slug": "borowah"
+    },
+    "code": {
+      "id": "SL02050901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020509",
+      "level": 3,
+      "name": {
+        "local": "Sambaya",
+        "en": "Sambaya",
+        "slug": "sambaya-sl020509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020509",
+        "level": 3,
+        "name": {
+          "local": "Sambaya",
+          "en": "Sambaya",
+          "slug": "sambaya-sl020509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.139",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Buyan",
+      "en": "Buyan",
+      "slug": "buyan"
+    },
+    "code": {
+      "id": "SL02050902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020509",
+      "level": 3,
+      "name": {
+        "local": "Sambaya",
+        "en": "Sambaya",
+        "slug": "sambaya-sl020509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020509",
+        "level": 3,
+        "name": {
+          "local": "Sambaya",
+          "en": "Sambaya",
+          "slug": "sambaya-sl020509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.936",
+      "lon": "-11.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dayie",
+      "en": "Dayie",
+      "slug": "dayie"
+    },
+    "code": {
+      "id": "SL02050903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020509",
+      "level": 3,
+      "name": {
+        "local": "Sambaya",
+        "en": "Sambaya",
+        "slug": "sambaya-sl020509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020509",
+        "level": 3,
+        "name": {
+          "local": "Sambaya",
+          "en": "Sambaya",
+          "slug": "sambaya-sl020509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.001",
+      "lon": "-11.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sambaya",
+      "en": "Sambaya",
+      "slug": "sambaya"
+    },
+    "code": {
+      "id": "SL02050904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020509",
+      "level": 3,
+      "name": {
+        "local": "Sambaya",
+        "en": "Sambaya",
+        "slug": "sambaya-sl020509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020509",
+        "level": 3,
+        "name": {
+          "local": "Sambaya",
+          "en": "Sambaya",
+          "slug": "sambaya-sl020509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "-11.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

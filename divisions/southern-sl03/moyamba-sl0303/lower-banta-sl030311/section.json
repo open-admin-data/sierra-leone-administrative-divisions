@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL03031101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bengelloh",
+      "en": "Bengelloh",
+      "slug": "bengelloh"
+    },
+    "code": {
+      "id": "SL03031101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "-12.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbangbatoke",
+      "en": "Gbangbatoke",
+      "slug": "gbangbatoke"
+    },
+    "code": {
+      "id": "SL03031102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "-12.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Largoh",
+      "en": "Largoh",
+      "slug": "largoh"
+    },
+    "code": {
+      "id": "SL03031103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.84",
+      "lon": "-12.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mofindoh",
+      "en": "Mofindoh",
+      "slug": "mofindoh"
+    },
+    "code": {
+      "id": "SL03031104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.838",
+      "lon": "-12.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokotawa",
+      "en": "Mokotawa",
+      "slug": "mokotawa"
+    },
+    "code": {
+      "id": "SL03031105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.897",
+      "lon": "-12.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ndendemoya",
+      "en": "Ndendemoya",
+      "slug": "ndendemoya"
+    },
+    "code": {
+      "id": "SL03031106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.778",
+      "lon": "-12.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngolala",
+      "en": "Ngolala",
+      "slug": "ngolala"
+    },
+    "code": {
+      "id": "SL03031107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "-12.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbahun",
+      "en": "Njagbahun",
+      "slug": "njagbahun"
+    },
+    "code": {
+      "id": "SL03031108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.94",
+      "lon": "-12.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03031109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Wulbange",
+      "en": "Wulbange",
+      "slug": "wulbange"
+    },
+    "code": {
+      "id": "SL03031109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030311",
+      "level": 3,
+      "name": {
+        "local": "Lower Banta",
+        "en": "Lower Banta",
+        "slug": "lower-banta-sl030311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030311",
+        "level": 3,
+        "name": {
+          "local": "Lower Banta",
+          "en": "Lower Banta",
+          "slug": "lower-banta-sl030311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.85",
+      "lon": "-12.177"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

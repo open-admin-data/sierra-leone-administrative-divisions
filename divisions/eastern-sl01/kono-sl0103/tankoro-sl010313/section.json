@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01031301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njama",
+      "en": "Njama",
+      "slug": "njama"
+    },
+    "code": {
+      "id": "SL01031301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010313",
+      "level": 3,
+      "name": {
+        "local": "Tankoro",
+        "en": "Tankoro",
+        "slug": "tankoro-sl010313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010313",
+        "level": 3,
+        "name": {
+          "local": "Tankoro",
+          "en": "Tankoro",
+          "slug": "tankoro-sl010313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.492",
+      "lon": "-10.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro",
+      "en": "Tankoro",
+      "slug": "tankoro"
+    },
+    "code": {
+      "id": "SL01031302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010313",
+      "level": 3,
+      "name": {
+        "local": "Tankoro",
+        "en": "Tankoro",
+        "slug": "tankoro-sl010313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010313",
+        "level": 3,
+        "name": {
+          "local": "Tankoro",
+          "en": "Tankoro",
+          "slug": "tankoro-sl010313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.598",
+      "lon": "-10.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01031303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Woafeh",
+      "en": "Woafeh",
+      "slug": "woafeh"
+    },
+    "code": {
+      "id": "SL01031303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010313",
+      "level": 3,
+      "name": {
+        "local": "Tankoro",
+        "en": "Tankoro",
+        "slug": "tankoro-sl010313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010313",
+        "level": 3,
+        "name": {
+          "local": "Tankoro",
+          "en": "Tankoro",
+          "slug": "tankoro-sl010313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.579",
+      "lon": "-10.993"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

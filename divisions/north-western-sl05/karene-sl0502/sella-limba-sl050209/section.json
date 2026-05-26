@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL05020901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamakwie",
+      "en": "Kamakwie",
+      "slug": "kamakwie"
+    },
+    "code": {
+      "id": "SL05020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.51",
+      "lon": "-12.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamankoh",
+      "en": "Kamankoh",
+      "slug": "kamankoh"
+    },
+    "code": {
+      "id": "SL05020902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.49",
+      "lon": "-12.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayimbor",
+      "en": "Kayimbor",
+      "slug": "kayimbor"
+    },
+    "code": {
+      "id": "SL05020903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.547",
+      "lon": "-12.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbonkoni I",
+      "en": "Magbonkoni I",
+      "slug": "magbonkoni-i"
+    },
+    "code": {
+      "id": "SL05020904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.487",
+      "lon": "-12.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbonkoni II",
+      "en": "Magbonkoni II",
+      "slug": "magbonkoni-ii"
+    },
+    "code": {
+      "id": "SL05020905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.445",
+      "lon": "-12.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020906",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manonkoh",
+      "en": "Manonkoh",
+      "slug": "manonkoh"
+    },
+    "code": {
+      "id": "SL05020906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.454",
+      "lon": "-12.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020907",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samia",
+      "en": "Samia",
+      "slug": "samia"
+    },
+    "code": {
+      "id": "SL05020907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050209",
+      "level": 3,
+      "name": {
+        "local": "Sella Limba",
+        "en": "Sella Limba",
+        "slug": "sella-limba-sl050209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050209",
+        "level": 3,
+        "name": {
+          "local": "Sella Limba",
+          "en": "Sella Limba",
+          "slug": "sella-limba-sl050209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.561",
+      "lon": "-12.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

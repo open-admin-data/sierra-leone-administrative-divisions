@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL04020101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Albert Academy",
+      "en": "Albert Academy",
+      "slug": "albert-academy"
+    },
+    "code": {
+      "id": "SL04020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040201",
+      "level": 3,
+      "name": {
+        "local": "Central I",
+        "en": "Central I",
+        "slug": "central-i-sl040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040201",
+        "level": 3,
+        "name": {
+          "local": "Central I",
+          "en": "Central I",
+          "slug": "central-i-sl040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.477",
+      "lon": "-13.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mountain Regent",
+      "en": "Mountain Regent",
+      "slug": "mountain-regent"
+    },
+    "code": {
+      "id": "SL04020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040201",
+      "level": 3,
+      "name": {
+        "local": "Central I",
+        "en": "Central I",
+        "slug": "central-i-sl040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040201",
+        "level": 3,
+        "name": {
+          "local": "Central I",
+          "en": "Central I",
+          "slug": "central-i-sl040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-13.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sorie Town",
+      "en": "Sorie Town",
+      "slug": "sorie-town"
+    },
+    "code": {
+      "id": "SL04020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040201",
+      "level": 3,
+      "name": {
+        "local": "Central I",
+        "en": "Central I",
+        "slug": "central-i-sl040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040201",
+        "level": 3,
+        "name": {
+          "local": "Central I",
+          "en": "Central I",
+          "slug": "central-i-sl040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.473",
+      "lon": "-13.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Susan's Bay",
+      "en": "Susan's Bay",
+      "slug": "susans-bay"
+    },
+    "code": {
+      "id": "SL04020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040201",
+      "level": 3,
+      "name": {
+        "local": "Central I",
+        "en": "Central I",
+        "slug": "central-i-sl040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040201",
+        "level": 3,
+        "name": {
+          "local": "Central I",
+          "en": "Central I",
+          "slug": "central-i-sl040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tower Hill",
+      "en": "Tower Hill",
+      "slug": "tower-hill"
+    },
+    "code": {
+      "id": "SL04020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040201",
+      "level": 3,
+      "name": {
+        "local": "Central I",
+        "en": "Central I",
+        "slug": "central-i-sl040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040201",
+        "level": 3,
+        "name": {
+          "local": "Central I",
+          "en": "Central I",
+          "slug": "central-i-sl040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-13.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

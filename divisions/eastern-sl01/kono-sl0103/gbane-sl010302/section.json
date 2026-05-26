@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01030201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbane Yemao",
+      "en": "Gbane Yemao",
+      "slug": "gbane-yemao"
+    },
+    "code": {
+      "id": "SL01030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010302",
+      "level": 3,
+      "name": {
+        "local": "Gbane",
+        "en": "Gbane",
+        "slug": "gbane-sl010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010302",
+        "level": 3,
+        "name": {
+          "local": "Gbane",
+          "en": "Gbane",
+          "slug": "gbane-sl010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.457",
+      "lon": "-10.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbikidakor",
+      "en": "Gbikidakor",
+      "slug": "gbikidakor"
+    },
+    "code": {
+      "id": "SL01030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010302",
+      "level": 3,
+      "name": {
+        "local": "Gbane",
+        "en": "Gbane",
+        "slug": "gbane-sl010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010302",
+        "level": 3,
+        "name": {
+          "local": "Gbane",
+          "en": "Gbane",
+          "slug": "gbane-sl010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.515",
+      "lon": "-10.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamara",
+      "en": "Kamara",
+      "slug": "kamara"
+    },
+    "code": {
+      "id": "SL01030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010302",
+      "level": 3,
+      "name": {
+        "local": "Gbane",
+        "en": "Gbane",
+        "slug": "gbane-sl010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010302",
+        "level": 3,
+        "name": {
+          "local": "Gbane",
+          "en": "Gbane",
+          "slug": "gbane-sl010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.481",
+      "lon": "-10.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maikandor",
+      "en": "Maikandor",
+      "slug": "maikandor"
+    },
+    "code": {
+      "id": "SL01030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010302",
+      "level": 3,
+      "name": {
+        "local": "Gbane",
+        "en": "Gbane",
+        "slug": "gbane-sl010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010302",
+        "level": 3,
+        "name": {
+          "local": "Gbane",
+          "en": "Gbane",
+          "slug": "gbane-sl010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.542",
+      "lon": "-10.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mongo",
+      "en": "Mongo",
+      "slug": "mongo"
+    },
+    "code": {
+      "id": "SL01030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010302",
+      "level": 3,
+      "name": {
+        "local": "Gbane",
+        "en": "Gbane",
+        "slug": "gbane-sl010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010302",
+        "level": 3,
+        "name": {
+          "local": "Gbane",
+          "en": "Gbane",
+          "slug": "gbane-sl010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.446",
+      "lon": "-10.836"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

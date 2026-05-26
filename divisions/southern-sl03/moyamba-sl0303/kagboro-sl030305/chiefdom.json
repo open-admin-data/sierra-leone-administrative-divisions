@@ -1,0 +1,56 @@
+{
+  "id": "SL030305",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Kagboro",
+    "en": "Kagboro",
+    "slug": "kagboro-sl030305"
+  },
+  "code": {
+    "id": "SL030305",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0303",
+    "level": 2,
+    "name": {
+      "local": "Moyamba",
+      "en": "Moyamba",
+      "slug": "moyamba-sl0303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.916",
+    "lon": "-12.753"
+  },
+  "metadata": {},
+  "source": {}
+}

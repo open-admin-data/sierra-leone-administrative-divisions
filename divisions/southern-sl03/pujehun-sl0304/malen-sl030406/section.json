@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL03040601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bahoin",
+      "en": "Bahoin",
+      "slug": "bahoin"
+    },
+    "code": {
+      "id": "SL03040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.439",
+      "lon": "-11.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kahaimoh",
+      "en": "Kahaimoh",
+      "slug": "kahaimoh"
+    },
+    "code": {
+      "id": "SL03040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.6",
+      "lon": "-11.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kakpanda",
+      "en": "Kakpanda",
+      "slug": "kakpanda"
+    },
+    "code": {
+      "id": "SL03040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.562",
+      "lon": "-11.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL03040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.449",
+      "lon": "-11.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korwa",
+      "en": "Korwa",
+      "slug": "korwa"
+    },
+    "code": {
+      "id": "SL03040605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.454",
+      "lon": "-11.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Pemba",
+      "en": "Lower Pemba",
+      "slug": "lower-pemba"
+    },
+    "code": {
+      "id": "SL03040606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.52",
+      "lon": "-11.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seijeila",
+      "en": "Seijeila",
+      "slug": "seijeila"
+    },
+    "code": {
+      "id": "SL03040607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.384",
+      "lon": "-11.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taukunor",
+      "en": "Taukunor",
+      "slug": "taukunor"
+    },
+    "code": {
+      "id": "SL03040608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.482",
+      "lon": "-11.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03040609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Pemba",
+      "en": "Upper Pemba",
+      "slug": "upper-pemba"
+    },
+    "code": {
+      "id": "SL03040609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030406",
+      "level": 3,
+      "name": {
+        "local": "Malen",
+        "en": "Malen",
+        "slug": "malen-sl030406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030406",
+        "level": 3,
+        "name": {
+          "local": "Malen",
+          "en": "Malen",
+          "slug": "malen-sl030406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.525",
+      "lon": "-11.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "SL030314",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Upper Banta",
+    "en": "Upper Banta",
+    "slug": "upper-banta-sl030314"
+  },
+  "code": {
+    "id": "SL030314",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0303",
+    "level": 2,
+    "name": {
+      "local": "Moyamba",
+      "en": "Moyamba",
+      "slug": "moyamba-sl0303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL03",
+      "level": 1,
+      "name": {
+        "local": "Southern",
+        "en": "Southern",
+        "slug": "southern-sl03"
+      }
+    },
+    {
+      "id": "SL0303",
+      "level": 2,
+      "name": {
+        "local": "Moyamba",
+        "en": "Moyamba",
+        "slug": "moyamba-sl0303"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.737",
+    "lon": "-12.199"
+  },
+  "metadata": {},
+  "source": {}
+}

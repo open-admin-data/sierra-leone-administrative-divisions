@@ -1,0 +1,146 @@
+[
+  {
+    "id": "SL0501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia-sl0501"
+    },
+    "code": {
+      "id": "SL0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 7,
+      "section": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.22",
+      "lon": "-12.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karene",
+      "en": "Karene",
+      "slug": "karene-sl0502"
+    },
+    "code": {
+      "id": "SL0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 8,
+      "section": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.634",
+      "lon": "-12.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Port Loko",
+      "en": "Port Loko",
+      "slug": "port-loko-sl0503"
+    },
+    "code": {
+      "id": "SL0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 8,
+      "section": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.646",
+      "lon": "-12.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

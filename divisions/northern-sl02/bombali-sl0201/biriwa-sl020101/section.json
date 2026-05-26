@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL02010101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bumban",
+      "en": "Bumban",
+      "slug": "bumban"
+    },
+    "code": {
+      "id": "SL02010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.147",
+      "lon": "-11.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bumbandain",
+      "en": "Bumbandain",
+      "slug": "bumbandain"
+    },
+    "code": {
+      "id": "SL02010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.099",
+      "lon": "-11.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kabakeh/Balandugu",
+      "en": "Kabakeh/Balandugu",
+      "slug": "kabakehbalandugu"
+    },
+    "code": {
+      "id": "SL02010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.278",
+      "lon": "-11.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbankuna",
+      "en": "Kagbankuna",
+      "slug": "kagbankuna"
+    },
+    "code": {
+      "id": "SL02010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.445",
+      "lon": "-11.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamabai",
+      "en": "Kamabai",
+      "slug": "kamabai"
+    },
+    "code": {
+      "id": "SL02010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "-11.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Karassa",
+      "en": "Karassa",
+      "slug": "karassa"
+    },
+    "code": {
+      "id": "SL02010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.344",
+      "lon": "-11.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Karina",
+      "en": "Karina",
+      "slug": "karina"
+    },
+    "code": {
+      "id": "SL02010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "-11.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayonkoro",
+      "en": "Kayonkoro",
+      "slug": "kayonkoro"
+    },
+    "code": {
+      "id": "SL02010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020101",
+      "level": 3,
+      "name": {
+        "local": "Biriwa",
+        "en": "Biriwa",
+        "slug": "biriwa-sl020101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020101",
+        "level": 3,
+        "name": {
+          "local": "Biriwa",
+          "en": "Biriwa",
+          "slug": "biriwa-sl020101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.245",
+      "lon": "-11.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

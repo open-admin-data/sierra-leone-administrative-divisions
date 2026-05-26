@@ -1,0 +1,184 @@
+# Western — Sierra Leone Administrative Divisions
+
+> 2 districts, 13 chiefdoms, 87 sections
+> Code: SL04
+> Coordinates: 8.335, -13.066
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Western Area Rural
+
+Code: SL0401, Coordinates: 8.326, -13.061
+Chiefdoms: 4, Sections: 22
+
+#### Koya Rural
+
+Code: SL040101, Coordinates: 8.308, -12.981
+
+Sections:
+- Fabaina Area [SL04010101]
+- Madonkeh [SL04010102]
+- Magbafti [SL04010103]
+- Malambay [SL04010104]
+- Newton [SL04010105]
+- Songo [SL04010106]
+
+#### Mountain Rural
+
+Code: SL040102, Coordinates: 8.434, -13.21
+
+Sections:
+- Bathurst [SL04010201]
+- Charlotte [SL04010202]
+- Gloucester [SL04010203]
+- Leicester [SL04010204]
+- Regent [SL04010205]
+
+#### Waterloo Rural
+
+Code: SL040103, Coordinates: 8.338, -13.103
+
+Sections:
+- Benguema Village A [SL04010301]
+- Campbell Town Vill [SL04010302]
+- Hastings Village A [SL04010303]
+- Waterloo Village A [SL04010305]
+
+#### York Rural
+
+Code: SL040104, Coordinates: 8.306, -13.159
+
+Sections:
+- Gbendembu [SL04010401]
+- Goderich-Adonkia/M [SL04010402]
+- Goderich-Funkia [SL04010403]
+- Hamilton [SL04010404]
+- Kent [SL04010405]
+- Sattia/Tombo [SL04010406]
+- York [SL04010407]
+
+### Western Area Urban
+
+Code: SL0402, Coordinates: 8.449, -13.176
+Chiefdoms: 9, Sections: 65
+
+#### Central I
+
+Code: SL040201, Coordinates: 8.48, -13.231
+
+Sections:
+- Albert Academy [SL04020101]
+- Mountain Regent [SL04020102]
+- Sorie Town [SL04020103]
+- Susan&#39;s Bay [SL04020104]
+- Tower Hill [SL04020105]
+
+#### Central II
+
+Code: SL040202, Coordinates: 8.485, -13.238
+
+Sections:
+- Connaught Hospital [SL04020201]
+- Sanders Brook [SL04020202]
+
+#### East I
+
+Code: SL040203, Coordinates: 8.488, -13.215
+
+Sections:
+- Cline Town [SL04020301]
+- Fourah Bay [SL04020302]
+- Kossoh Town [SL04020303]
+
+#### East II
+
+Code: SL040204, Coordinates: 8.48, -13.216
+
+Sections:
+- Bombay [SL04020401]
+- Coconut Farm/ Asho [SL04020402]
+- Foulah Town [SL04020403]
+- Ginger Hall [SL04020404]
+- Kissy Brook [SL04020405]
+- Magazine [SL04020406]
+- Mount Aureol [SL04020407]
+- Quarry [SL04020408]
+
+#### East III
+
+Code: SL040205, Coordinates: 8.442, -13.172
+
+Sections:
+- Allen Town I [SL04020501]
+- Allen Town II [SL04020502]
+- Bottom Oku [SL04020503]
+- Congo Water I [SL04020504]
+- Congo Water II [SL04020505]
+- Grass Field [SL04020506]
+- Industrial Estate [SL04020507]
+- Jalloh Terrace [SL04020508]
+- Kissy Brook [SL04020509]
+- Kissy Bye Pass I [SL04020510]
+- Kissy Bye Pass II [SL04020511]
+- Kissy Mental [SL04020512]
+- Kissy Mess Mess [SL04020513]
+- Kuntolor [SL04020514]
+- Lowcost Housing [SL04020515]
+- Mamba Ridge I [SL04020516]
+- Mamba Ridge II [SL04020517]
+- Mayenkineh [SL04020518]
+- Old Warf [SL04020519]
+- Pamuronko [SL04020520]
+- Portee [SL04020521]
+- Robis [SL04020522]
+- Rokupa [SL04020523]
+- Shell [SL04020524]
+- Thunderhill [SL04020526]
+
+#### Tasso Island
+
+Code: SL040209, Coordinates: 8.553, -13.074
+
+Sections:
+- Tasso Island [SL04020901]
+
+#### West I
+
+Code: SL040206, Coordinates: 8.482, -13.246
+
+Sections:
+- Ascension Town [SL04020601]
+- Brookfields [SL04020602]
+- Kingtom [SL04020603]
+- Kroo Town [SL04020604]
+
+#### West II
+
+Code: SL040207, Coordinates: 8.471, -13.244
+
+Sections:
+- Brookfields-Congo [SL04020701]
+- Brookfields-Red Pu [SL04020702]
+- Congo Town [SL04020703]
+- George Brook (Dwor [SL04020704]
+- New England-Hannes [SL04020705]
+- New England-Hill C [SL04020706]
+- Tengbeh Town [SL04020707]
+
+#### West III
+
+Code: SL040208, Coordinates: 8.469, -13.266
+
+Sections:
+- Aberdeen [SL04020801]
+- Cockerill-Aberdeen [SL04020802]
+- Cockle-Bay /Colleg [SL04020803]
+- Hill Station [SL04020804]
+- Juba/Kaningo [SL04020805]
+- Lumley [SL04020806]
+- Malama/Kamayama [SL04020807]
+- Murray Town [SL04020808]
+- Pipeline/Wilkinson [SL04020809]
+- Wilberforce [SL04020810]
+

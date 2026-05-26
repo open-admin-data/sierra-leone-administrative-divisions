@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL04020301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Cline Town",
+      "en": "Cline Town",
+      "slug": "cline-town"
+    },
+    "code": {
+      "id": "SL04020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040203",
+      "level": 3,
+      "name": {
+        "local": "East I",
+        "en": "East I",
+        "slug": "east-i-sl040203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040203",
+        "level": 3,
+        "name": {
+          "local": "East I",
+          "en": "East I",
+          "slug": "east-i-sl040203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.487",
+      "lon": "-13.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fourah Bay",
+      "en": "Fourah Bay",
+      "slug": "fourah-bay"
+    },
+    "code": {
+      "id": "SL04020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040203",
+      "level": 3,
+      "name": {
+        "local": "East I",
+        "en": "East I",
+        "slug": "east-i-sl040203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040203",
+        "level": 3,
+        "name": {
+          "local": "East I",
+          "en": "East I",
+          "slug": "east-i-sl040203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kossoh Town",
+      "en": "Kossoh Town",
+      "slug": "kossoh-town"
+    },
+    "code": {
+      "id": "SL04020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040203",
+      "level": 3,
+      "name": {
+        "local": "East I",
+        "en": "East I",
+        "slug": "east-i-sl040203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040203",
+        "level": 3,
+        "name": {
+          "local": "East I",
+          "en": "East I",
+          "slug": "east-i-sl040203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

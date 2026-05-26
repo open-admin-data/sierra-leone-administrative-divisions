@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "SL04020501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Allen Town I",
+      "en": "Allen Town I",
+      "slug": "allen-town-i"
+    },
+    "code": {
+      "id": "SL04020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.424",
+      "lon": "-13.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Allen Town II",
+      "en": "Allen Town II",
+      "slug": "allen-town-ii"
+    },
+    "code": {
+      "id": "SL04020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.413",
+      "lon": "-13.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bottom Oku",
+      "en": "Bottom Oku",
+      "slug": "bottom-oku"
+    },
+    "code": {
+      "id": "SL04020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.451",
+      "lon": "-13.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Congo Water I",
+      "en": "Congo Water I",
+      "slug": "congo-water-i"
+    },
+    "code": {
+      "id": "SL04020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.454",
+      "lon": "-13.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Congo Water II",
+      "en": "Congo Water II",
+      "slug": "congo-water-ii"
+    },
+    "code": {
+      "id": "SL04020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.448",
+      "lon": "-13.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Grass Field",
+      "en": "Grass Field",
+      "slug": "grass-field"
+    },
+    "code": {
+      "id": "SL04020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.468",
+      "lon": "-13.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Industrial Estate",
+      "en": "Industrial Estate",
+      "slug": "industrial-estate"
+    },
+    "code": {
+      "id": "SL04020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.439",
+      "lon": "-13.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jalloh Terrace",
+      "en": "Jalloh Terrace",
+      "slug": "jalloh-terrace"
+    },
+    "code": {
+      "id": "SL04020508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.455",
+      "lon": "-13.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020509",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Brook",
+      "en": "Kissy Brook",
+      "slug": "kissy-brook"
+    },
+    "code": {
+      "id": "SL04020509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.469",
+      "lon": "-13.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020510",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Bye Pass I",
+      "en": "Kissy Bye Pass I",
+      "slug": "kissy-bye-pass-i"
+    },
+    "code": {
+      "id": "SL04020510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.479",
+      "lon": "-13.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020511",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Bye Pass II",
+      "en": "Kissy Bye Pass II",
+      "slug": "kissy-bye-pass-ii"
+    },
+    "code": {
+      "id": "SL04020511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.477",
+      "lon": "-13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020512",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Mental",
+      "en": "Kissy Mental",
+      "slug": "kissy-mental"
+    },
+    "code": {
+      "id": "SL04020512",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.466",
+      "lon": "-13.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020513",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Mess Mess",
+      "en": "Kissy Mess Mess",
+      "slug": "kissy-mess-mess"
+    },
+    "code": {
+      "id": "SL04020513",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.464",
+      "lon": "-13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020514",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kuntolor",
+      "en": "Kuntolor",
+      "slug": "kuntolor"
+    },
+    "code": {
+      "id": "SL04020514",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.454",
+      "lon": "-13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020515",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lowcost Housing",
+      "en": "Lowcost Housing",
+      "slug": "lowcost-housing"
+    },
+    "code": {
+      "id": "SL04020515",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.47",
+      "lon": "-13.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020516",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamba Ridge I",
+      "en": "Mamba Ridge I",
+      "slug": "mamba-ridge-i"
+    },
+    "code": {
+      "id": "SL04020516",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.469",
+      "lon": "-13.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020517",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamba Ridge II",
+      "en": "Mamba Ridge II",
+      "slug": "mamba-ridge-ii"
+    },
+    "code": {
+      "id": "SL04020517",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.466",
+      "lon": "-13.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020518",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayenkineh",
+      "en": "Mayenkineh",
+      "slug": "mayenkineh"
+    },
+    "code": {
+      "id": "SL04020518",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.431",
+      "lon": "-13.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020519",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Old Warf",
+      "en": "Old Warf",
+      "slug": "old-warf"
+    },
+    "code": {
+      "id": "SL04020519",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.446",
+      "lon": "-13.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020520",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pamuronko",
+      "en": "Pamuronko",
+      "slug": "pamuronko"
+    },
+    "code": {
+      "id": "SL04020520",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.435",
+      "lon": "-13.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020521",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Portee",
+      "en": "Portee",
+      "slug": "portee"
+    },
+    "code": {
+      "id": "SL04020521",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.465",
+      "lon": "-13.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020522",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robis",
+      "en": "Robis",
+      "slug": "robis"
+    },
+    "code": {
+      "id": "SL04020522",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.435",
+      "lon": "-13.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020523",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokupa",
+      "en": "Rokupa",
+      "slug": "rokupa"
+    },
+    "code": {
+      "id": "SL04020523",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.461",
+      "lon": "-13.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020524",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Shell",
+      "en": "Shell",
+      "slug": "shell"
+    },
+    "code": {
+      "id": "SL04020524",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.468",
+      "lon": "-13.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020526",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thunderhill",
+      "en": "Thunderhill",
+      "slug": "thunderhill"
+    },
+    "code": {
+      "id": "SL04020526",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040205",
+      "level": 3,
+      "name": {
+        "local": "East III",
+        "en": "East III",
+        "slug": "east-iii-sl040205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040205",
+        "level": 3,
+        "name": {
+          "local": "East III",
+          "en": "East III",
+          "slug": "east-iii-sl040205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.455",
+      "lon": "-13.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

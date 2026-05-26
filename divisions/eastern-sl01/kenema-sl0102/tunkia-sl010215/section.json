@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01021501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Daru",
+      "en": "Daru",
+      "slug": "daru"
+    },
+    "code": {
+      "id": "SL01021501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.454",
+      "lon": "-11.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gegbwema",
+      "en": "Gegbwema",
+      "slug": "gegbwema"
+    },
+    "code": {
+      "id": "SL01021502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.577",
+      "lon": "-11.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Giewoma",
+      "en": "Giewoma",
+      "slug": "giewoma"
+    },
+    "code": {
+      "id": "SL01021503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "-11.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gorahun",
+      "en": "Gorahun",
+      "slug": "gorahun"
+    },
+    "code": {
+      "id": "SL01021504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.442",
+      "lon": "-11.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jewahun",
+      "en": "Jewahun",
+      "slug": "jewahun"
+    },
+    "code": {
+      "id": "SL01021505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.6",
+      "lon": "-11.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kuawuma",
+      "en": "Kuawuma",
+      "slug": "kuawuma"
+    },
+    "code": {
+      "id": "SL01021506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.529",
+      "lon": "-11.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01021507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taninahun",
+      "en": "Taninahun",
+      "slug": "taninahun"
+    },
+    "code": {
+      "id": "SL01021507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010215",
+      "level": 3,
+      "name": {
+        "local": "Tunkia",
+        "en": "Tunkia",
+        "slug": "tunkia-sl010215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010215",
+        "level": 3,
+        "name": {
+          "local": "Tunkia",
+          "en": "Tunkia",
+          "slug": "tunkia-sl010215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.538",
+      "lon": "-11.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

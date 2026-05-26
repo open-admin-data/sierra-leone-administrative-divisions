@@ -1,0 +1,695 @@
+[
+  {
+    "id": "SL02031001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bafodia",
+      "en": "Bafodia",
+      "slug": "bafodia"
+    },
+    "code": {
+      "id": "SL02031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.724",
+      "lon": "-11.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kadanso",
+      "en": "Kadanso",
+      "slug": "kadanso"
+    },
+    "code": {
+      "id": "SL02031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.597",
+      "lon": "-11.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kakoya",
+      "en": "Kakoya",
+      "slug": "kakoya"
+    },
+    "code": {
+      "id": "SL02031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.695",
+      "lon": "-11.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamanikie",
+      "en": "Kamanikie",
+      "slug": "kamanikie"
+    },
+    "code": {
+      "id": "SL02031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.677",
+      "lon": "-11.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamayortortor",
+      "en": "Kamayortortor",
+      "slug": "kamayortortor"
+    },
+    "code": {
+      "id": "SL02031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.665",
+      "lon": "-11.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031006",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambalia",
+      "en": "Kambalia",
+      "slug": "kambalia"
+    },
+    "code": {
+      "id": "SL02031006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.855",
+      "lon": "-11.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031007",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia"
+    },
+    "code": {
+      "id": "SL02031007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.847",
+      "lon": "-11.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031008",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaponpon",
+      "en": "Kaponpon",
+      "slug": "kaponpon"
+    },
+    "code": {
+      "id": "SL02031008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.606",
+      "lon": "-11.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031009",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pampakoh",
+      "en": "Pampakoh",
+      "slug": "pampakoh"
+    },
+    "code": {
+      "id": "SL02031009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.766",
+      "lon": "-11.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031010",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Semamaia",
+      "en": "Semamaia",
+      "slug": "semamaia"
+    },
+    "code": {
+      "id": "SL02031010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.626",
+      "lon": "-11.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031011",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taelia",
+      "en": "Taelia",
+      "slug": "taelia"
+    },
+    "code": {
+      "id": "SL02031011",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020310",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Bafod",
+        "en": "Wara Wara Bafod",
+        "slug": "wara-wara-bafod-sl020310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020310",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Bafod",
+          "en": "Wara Wara Bafod",
+          "slug": "wara-wara-bafod-sl020310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.945",
+      "lon": "-11.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

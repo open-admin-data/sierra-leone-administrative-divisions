@@ -1,0 +1,128 @@
+[
+  {
+    "id": "SL04020201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Connaught Hospital",
+      "en": "Connaught Hospital",
+      "slug": "connaught-hospital"
+    },
+    "code": {
+      "id": "SL04020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040202",
+      "level": 3,
+      "name": {
+        "local": "Central II",
+        "en": "Central II",
+        "slug": "central-ii-sl040202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040202",
+        "level": 3,
+        "name": {
+          "local": "Central II",
+          "en": "Central II",
+          "slug": "central-ii-sl040202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sanders Brook",
+      "en": "Sanders Brook",
+      "slug": "sanders-brook"
+    },
+    "code": {
+      "id": "SL04020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040202",
+      "level": 3,
+      "name": {
+        "local": "Central II",
+        "en": "Central II",
+        "slug": "central-ii-sl040202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040202",
+        "level": 3,
+        "name": {
+          "local": "Central II",
+          "en": "Central II",
+          "slug": "central-ii-sl040202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-13.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

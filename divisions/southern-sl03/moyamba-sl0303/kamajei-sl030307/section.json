@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL03030701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kowama",
+      "en": "Kowama",
+      "slug": "kowama"
+    },
+    "code": {
+      "id": "SL03030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.305",
+      "lon": "-11.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mogbuama",
+      "en": "Mogbuama",
+      "slug": "mogbuama"
+    },
+    "code": {
+      "id": "SL03030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.227",
+      "lon": "-11.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngiegombu",
+      "en": "Ngiegombu",
+      "slug": "ngiegombu"
+    },
+    "code": {
+      "id": "SL03030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.115",
+      "lon": "-12.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngoahun",
+      "en": "Ngoahun",
+      "slug": "ngoahun"
+    },
+    "code": {
+      "id": "SL03030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.224",
+      "lon": "-11.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbema",
+      "en": "Njagbema",
+      "slug": "njagbema"
+    },
+    "code": {
+      "id": "SL03030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.343",
+      "lon": "-11.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tawovehun",
+      "en": "Tawovehun",
+      "slug": "tawovehun"
+    },
+    "code": {
+      "id": "SL03030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.16",
+      "lon": "-11.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yeima",
+      "en": "Yeima",
+      "slug": "yeima"
+    },
+    "code": {
+      "id": "SL03030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030307",
+      "level": 3,
+      "name": {
+        "local": "Kamajei",
+        "en": "Kamajei",
+        "slug": "kamajei-sl030307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030307",
+        "level": 3,
+        "name": {
+          "local": "Kamajei",
+          "en": "Kamajei",
+          "slug": "kamajei-sl030307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.322",
+      "lon": "-11.834"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

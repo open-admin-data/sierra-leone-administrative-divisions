@@ -1,0 +1,446 @@
+# North Western — Sierra Leone Administrative Divisions
+
+> 3 districts, 23 chiefdoms, 284 sections
+> Code: SL05
+> Coordinates: 9.101, -12.64
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Districts
+
+### Kambia
+
+Code: SL0501, Coordinates: 9.22, -12.79
+Chiefdoms: 7, Sections: 73
+
+#### Bramaia
+
+Code: SL050101, Coordinates: 9.41, -12.634
+
+Sections:
+- Banguraia [SL05010101]
+- Bassia [SL05010102]
+- Bugami [SL05010103]
+- Duramania [SL05010104]
+- Filligungee [SL05010105]
+- Fortumboyie [SL05010106]
+- Gberekhuray [SL05010107]
+- Gbolon [SL05010108]
+- Kabaya [SL05010109]
+- Kanku Bramaia [SL05010110]
+- Konta [SL05010111]
+- Kua Bramaia [SL05010112]
+- Kufuru [SL05010113]
+- Kukuna [SL05010114]
+- Laminaia [SL05010115]
+- Sansangie [SL05010116]
+- Seduya [SL05010117]
+- Shekaia [SL05010118]
+- Sulaimania [SL05010119]
+- Teneba Bramaia [SL05010120]
+- Turaya [SL05010121]
+
+#### Gbinle Dixing
+
+Code: SL050102, Coordinates: 9.172, -12.933
+
+Sections:
+- Gbinle [SL05010201]
+- Kalangba [SL05010202]
+- Katalan [SL05010203]
+- Mafaray [SL05010204]
+- Maton [SL05010205]
+- Rogberay [SL05010206]
+- Sanda [SL05010207]
+- Tawuya [SL05010208]
+
+#### Magbema
+
+Code: SL050103, Coordinates: 9.067, -12.896
+
+Sections:
+- Bombe [SL05010301]
+- Kamba [SL05010302]
+- Kambia [SL05010303]
+- Kargbulor [SL05010304]
+- Robat [SL05010305]
+- Rokupr [SL05010306]
+- Tormina [SL05010307]
+
+#### Mambolo
+
+Code: SL050104, Coordinates: 8.892, -13.031
+
+Sections:
+- Kalenkay [SL05010401]
+- Mambolo [SL05010402]
+- Matetie [SL05010403]
+- Mayakie [SL05010404]
+- Robis [SL05010405]
+- Rowollon [SL05010406]
+- Tombo-Wallah [SL05010407]
+
+#### Masungbala
+
+Code: SL050105, Coordinates: 9.096, -12.779
+
+Sections:
+- Bamoi [SL05010501]
+- Benna [SL05010502]
+- Kawula [SL05010503]
+- Kayenkassa [SL05010504]
+- Mapolon [SL05010505]
+- Maserie [SL05010506]
+- Matengha [SL05010507]
+- Matilba [SL05010508]
+- Nonko [SL05010509]
+- Samu [SL05010510]
+- Sumbuya [SL05010511]
+- Thalla [SL05010512]
+
+#### Samu
+
+Code: SL050106, Coordinates: 9.009, -13.138
+
+Sections:
+- Bubuya [SL05010601]
+- Kassiri [SL05010602]
+- Koya [SL05010603]
+- Kychom [SL05010604]
+- Lusenia [SL05010605]
+- Mafufuneh [SL05010606]
+- Makuma [SL05010607]
+- Mange [SL05010608]
+- Mapotolon [SL05010609]
+- Moribaia [SL05010610]
+- Rokon [SL05010611]
+- Rosinor [SL05010612]
+
+#### Tonko Limba
+
+Code: SL050107, Coordinates: 9.304, -12.59
+
+Sections:
+- Bubuya [SL05010701]
+- Kamassassa [SL05010702]
+- Kathanthineh [SL05010703]
+- Magbonkoh [SL05010704]
+- Mamankoh [SL05010705]
+- Yebaya [SL05010706]
+
+### Karene
+
+Code: SL0502, Coordinates: 9.634, -12.341
+Chiefdoms: 8, Sections: 87
+
+#### Buya Romende
+
+Code: SL050201, Coordinates: 8.819, -12.433
+
+Sections:
+- Foredugu [SL05020101]
+- Gbaran Kamba [SL05020102]
+- Kamasundu [SL05020103]
+- Mabureh Buya [SL05020104]
+- Mabureh Mende [SL05020105]
+- Magbengbe [SL05020106]
+- Manungbu [SL05020107]
+- Petifu Bana [SL05020108]
+- Robis [SL05020109]
+- Rokel [SL05020110]
+- Rosint [SL05020111]
+- Worreh Mapoteh [SL05020112]
+
+#### Dibia
+
+Code: SL050202, Coordinates: 8.938, -12.617
+
+Sections:
+- Karine [SL05020201]
+- Kayembor [SL05020202]
+- Konta Kargbo [SL05020203]
+- Mafonda [SL05020204]
+- Makabari [SL05020205]
+- Makump [SL05020206]
+- Rogbalan [SL05020207]
+
+#### Libeisaygahun
+
+Code: SL050206, Coordinates: 8.999, -12.443
+
+Sections:
+- Batkanu [SL05020601]
+- Gbaray Bana [SL05020602]
+- Mafonda [SL05020603]
+- Mafonikay [SL05020604]
+- Magbafth [SL05020605]
+- Magbaingba [SL05020606]
+- Magbanamba [SL05020607]
+- Makaiba [SL05020608]
+- Makayrembay [SL05020609]
+- Mandawahun [SL05020610]
+- Manyakoi [SL05020611]
+- Maron [SL05020612]
+- Mayankay [SL05020613]
+- Robaka [SL05020614]
+- Robombeh [SL05020615]
+- Rotha-Tha [SL05020616]
+- Simbaya [SL05020617]
+
+#### Sanda Loko
+
+Code: SL050207, Coordinates: 9.437, -12.116
+
+Sections:
+- Banka [SL05020701]
+- Benia [SL05020702]
+- Kaindema [SL05020703]
+- Kamalu [SL05020704]
+- Kania [SL05020705]
+- Kindia [SL05020706]
+- Laminaya [SL05020707]
+- Madina [SL05020708]
+- Maharibo [SL05020709]
+- Makapa [SL05020710]
+- Makwie Loko [SL05020711]
+- Manathi [SL05020712]
+- Maparay [SL05020713]
+- Rothatha [SL05020714]
+- Timbo [SL05020715]
+
+#### Sanda Magbolont
+
+Code: SL050203, Coordinates: 9.135, -12.569
+
+Sections:
+- Bankro [SL05020301]
+- Gbaneh-Loko [SL05020302]
+- Gbogbodo [SL05020303]
+- Gbonko [SL05020304]
+- Kantia [SL05020305]
+- Layamantmetank [SL05020306]
+- Magbolontor [SL05020307]
+- Malkiya [SL05020308]
+- Mankneh [SL05020309]
+- Masien [SL05020310]
+- Menthen [SL05020311]
+- Robis [SL05020312]
+- Rotigbonko [SL05020313]
+- Sendugu [SL05020314]
+
+#### Sanda Tendaran
+
+Code: SL050208, Coordinates: 9.158, -12.324
+
+Sections:
+- Kalangba [SL05020801]
+- Kukuna [SL05020802]
+- Marampa [SL05020803]
+- Masisan [SL05020804]
+- Mateboi [SL05020805]
+- Rogbin [SL05020806]
+- Rogboreh [SL05020807]
+- Rosos [SL05020808]
+- Sendugu [SL05020809]
+- Yankabala [SL05020810]
+
+#### Sella Limba
+
+Code: SL050209, Coordinates: 9.5, -12.286
+
+Sections:
+- Kamakwie [SL05020901]
+- Kamankoh [SL05020902]
+- Kayimbor [SL05020903]
+- Magbonkoni I [SL05020904]
+- Magbonkoni II [SL05020905]
+- Manonkoh [SL05020906]
+- Samia [SL05020907]
+
+#### Tambakha
+
+Code: SL050210, Coordinates: 9.708, -12.2
+
+Sections:
+- Dugutha [SL05021001]
+- Moria [SL05021002]
+- Paramount Chief Se [SL05021003]
+- Simibue [SL05021004]
+- Thalla [SL05021005]
+
+### Port Loko
+
+Code: SL0503, Coordinates: 8.646, -12.691
+Chiefdoms: 8, Sections: 124
+
+#### Bureh Kasseh Ma
+
+Code: SL050301, Coordinates: 8.933, -12.799
+
+Sections:
+- Barmoi [SL05030101]
+- Kagbanthama [SL05030102]
+- Kaiyeabor [SL05030103]
+- Kalangba [SL05030104]
+- Kambia Morie [SL05030105]
+- Konta Ferry [SL05030106]
+- Mabombo [SL05030107]
+- Makana [SL05030108]
+- Mamanka [SL05030109]
+- Mange Morie [SL05030110]
+- Marenka [SL05030111]
+- Minthormore [SL05030112]
+- Rogbla [SL05030113]
+- Romeni [SL05030114]
+- Rotifunk [SL05030115]
+- Yali-Sanda [SL05030116]
+
+#### Kaffu Bullom
+
+Code: SL050302, Coordinates: 8.617, -13.167
+
+Sections:
+- Foronkoya [SL05030201]
+- Kasongha [SL05030202]
+- Lungi [SL05030203]
+- Mahera [SL05030204]
+- Mamanki [SL05030205]
+- Mayaya [SL05030206]
+- Rosint [SL05030207]
+- Yongro [SL05030208]
+
+#### Koya
+
+Code: SL050303, Coordinates: 8.43, -12.864
+
+Sections:
+- Benkia [SL05030301]
+- Fondu [SL05030302]
+- Foredugu [SL05030303]
+- Futa [SL05030304]
+- Gbabai [SL05030305]
+- Kagbala A [SL05030306]
+- Kagbala B [SL05030307]
+- Magbandoma [SL05030308]
+- Magbeni [SL05030309]
+- Mahera [SL05030310]
+- Marefa [SL05030311]
+- Matene [SL05030312]
+- Mathirie [SL05030313]
+- Mawoma [SL05030314]
+- Robia [SL05030315]
+- Rokel [SL05030316]
+- Roponka [SL05030317]
+- Rosarr [SL05030318]
+- Sanda [SL05030319]
+- Tumba [SL05030320]
+
+#### Lokomasama
+
+Code: SL050304, Coordinates: 8.717, -13.036
+
+Sections:
+- Benkia [SL05030401]
+- Gbainty [SL05030402]
+- Kamasondo [SL05030403]
+- Kantaya [SL05030404]
+- Katonga [SL05030405]
+- Komrabai [SL05030406]
+- Konta [SL05030407]
+- Magbokorr [SL05030408]
+- Mannah [SL05030409]
+- Mapiterr [SL05030410]
+- Matheng [SL05030411]
+- Petifu [SL05030412]
+- Royema [SL05030413]
+- Yurika [SL05030414]
+
+#### Maforki
+
+Code: SL050305, Coordinates: 8.725, -12.719
+
+Sections:
+- Batpolon [SL05030501]
+- Falaba [SL05030502]
+- Fenka [SL05030503]
+- Gberray Bana [SL05030504]
+- Gberray Morie [SL05030505]
+- Gberray Thunkara [SL05030506]
+- Gbonko Mayira [SL05030507]
+- Kabata [SL05030508]
+- Komrabai-Waterloo [SL05030509]
+- Kondato [SL05030510]
+- Maboni [SL05030511]
+- Maforay [SL05030512]
+- Magbankitha [SL05030513]
+- Magbengbeh [SL05030514]
+- Magbeni [SL05030515]
+- Makorobolai [SL05030516]
+- Malal [SL05030517]
+- Mamanso [SL05030518]
+- Mapolie [SL05030519]
+- Maronko [SL05030520]
+- Marunia [SL05030521]
+- Massebay [SL05030522]
+- Mathera [SL05030523]
+- Moria [SL05030524]
+- Old Port Loko [SL05030525]
+- Romaka [SL05030526]
+- Rosarr [SL05030527]
+- Sanda [SL05030528]
+- Sendugu [SL05030529]
+- Tauya [SL05030530]
+
+#### Marampa
+
+Code: SL050306, Coordinates: 8.676, -12.564
+
+Sections:
+- Lunsar-Baipolon [SL05030601]
+- Lunsar-Four Road - [SL05030602]
+- Lunsar-Kenneday [SL05030603]
+- Lunsar-Mabai [SL05030604]
+- Lunsar-Madigbo [SL05030605]
+- Lunsar-Mamanso [SL05030606]
+- Lunsar-Mines [SL05030607]
+- Lunsar-Old Town [SL05030608]
+- Lunsar-Path Bana [SL05030609]
+- Lunsar-Robis [SL05030610]
+- Lunsar-Technical [SL05030611]
+- Magbele [SL05030612]
+- Mange [SL05030613]
+- Marampa [SL05030614]
+- Mawullay [SL05030615]
+- Petifu Madina [SL05030616]
+- Rogballan [SL05030617]
+- Rolankonoh [SL05030618]
+
+#### Masimera
+
+Code: SL050307, Coordinates: 8.553, -12.504
+
+Sections:
+- Biki [SL05030701]
+- Biss-Manika [SL05030702]
+- Katick [SL05030703]
+- Maconteh [SL05030704]
+- Mamalikie [SL05030705]
+- Masimera [SL05030706]
+- Matuku [SL05030707]
+- Mayola-Thatha [SL05030708]
+- Nonkoba [SL05030709]
+- Rokel [SL05030710]
+- Rokon/Komboya [SL05030711]
+- Yoni-Pet [SL05030712]
+
+#### TMS
+
+Code: SL050308, Coordinates: 8.825, -12.619
+
+Sections:
+- Kambia [SL05030802]
+- Kanu [SL05030803]
+- Kargbo [SL05030804]
+- Konkorie [SL05030805]
+- Magbapsa [SL05030808]
+- Malakuray [SL05030809]
+

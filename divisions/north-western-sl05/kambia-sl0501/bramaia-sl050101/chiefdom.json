@@ -1,0 +1,56 @@
+{
+  "id": "SL050101",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Bramaia",
+    "en": "Bramaia",
+    "slug": "bramaia-sl050101"
+  },
+  "code": {
+    "id": "SL050101",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0501",
+    "level": 2,
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia-sl0501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    {
+      "id": "SL0501",
+      "level": 2,
+      "name": {
+        "local": "Kambia",
+        "en": "Kambia",
+        "slug": "kambia-sl0501"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.41",
+    "lon": "-12.634"
+  },
+  "metadata": {},
+  "source": {}
+}

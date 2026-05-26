@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL03010901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Keisua",
+      "en": "Keisua",
+      "slug": "keisua"
+    },
+    "code": {
+      "id": "SL03010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030109",
+      "level": 3,
+      "name": {
+        "local": "Komboya",
+        "en": "Komboya",
+        "slug": "komboya-sl030109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030109",
+        "level": 3,
+        "name": {
+          "local": "Komboya",
+          "en": "Komboya",
+          "slug": "komboya-sl030109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kemoh",
+      "en": "Kemoh",
+      "slug": "kemoh"
+    },
+    "code": {
+      "id": "SL03010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030109",
+      "level": 3,
+      "name": {
+        "local": "Komboya",
+        "en": "Komboya",
+        "slug": "komboya-sl030109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030109",
+        "level": 3,
+        "name": {
+          "local": "Komboya",
+          "en": "Komboya",
+          "slug": "komboya-sl030109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.195",
+      "lon": "-11.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mangaru",
+      "en": "Mangaru",
+      "slug": "mangaru"
+    },
+    "code": {
+      "id": "SL03010903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030109",
+      "level": 3,
+      "name": {
+        "local": "Komboya",
+        "en": "Komboya",
+        "slug": "komboya-sl030109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030109",
+        "level": 3,
+        "name": {
+          "local": "Komboya",
+          "en": "Komboya",
+          "slug": "komboya-sl030109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.306",
+      "lon": "-11.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sei",
+      "en": "Sei",
+      "slug": "sei"
+    },
+    "code": {
+      "id": "SL03010904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030109",
+      "level": 3,
+      "name": {
+        "local": "Komboya",
+        "en": "Komboya",
+        "slug": "komboya-sl030109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030109",
+        "level": 3,
+        "name": {
+          "local": "Komboya",
+          "en": "Komboya",
+          "slug": "komboya-sl030109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.211",
+      "lon": "-11.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tongowa",
+      "en": "Tongowa",
+      "slug": "tongowa"
+    },
+    "code": {
+      "id": "SL03010905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030109",
+      "level": 3,
+      "name": {
+        "local": "Komboya",
+        "en": "Komboya",
+        "slug": "komboya-sl030109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030109",
+        "level": 3,
+        "name": {
+          "local": "Komboya",
+          "en": "Komboya",
+          "slug": "komboya-sl030109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.269",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

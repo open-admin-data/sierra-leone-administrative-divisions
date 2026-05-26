@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01020901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hulorhun Njagbudor",
+      "en": "Hulorhun Njagbudor",
+      "slug": "hulorhun-njagbudor"
+    },
+    "code": {
+      "id": "SL01020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.172",
+      "lon": "-10.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hulorhun Njeigor",
+      "en": "Hulorhun Njeigor",
+      "slug": "hulorhun-njeigor"
+    },
+    "code": {
+      "id": "SL01020902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.212",
+      "lon": "-10.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konjo Buiima",
+      "en": "Konjo Buiima",
+      "slug": "konjo-buiima"
+    },
+    "code": {
+      "id": "SL01020903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.262",
+      "lon": "-10.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konjo Njeigor",
+      "en": "Konjo Njeigor",
+      "slug": "konjo-njeigor"
+    },
+    "code": {
+      "id": "SL01020904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.367",
+      "lon": "-10.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Konjo Yematanga",
+      "en": "Konjo Yematanga",
+      "slug": "konjo-yematanga"
+    },
+    "code": {
+      "id": "SL01020905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.318",
+      "lon": "-10.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020906",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Torgboma",
+      "en": "Lower Torgboma",
+      "slug": "lower-torgboma"
+    },
+    "code": {
+      "id": "SL01020906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.101",
+      "lon": "-10.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020907",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Torgboma",
+      "en": "Upper Torgboma",
+      "slug": "upper-torgboma"
+    },
+    "code": {
+      "id": "SL01020907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010209",
+      "level": 3,
+      "name": {
+        "local": "Malegohun",
+        "en": "Malegohun",
+        "slug": "malegohun-sl010209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010209",
+        "level": 3,
+        "name": {
+          "local": "Malegohun",
+          "en": "Malegohun",
+          "slug": "malegohun-sl010209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.131",
+      "lon": "-10.95"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

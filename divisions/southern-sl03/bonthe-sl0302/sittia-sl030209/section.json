@@ -1,0 +1,695 @@
+[
+  {
+    "id": "SL03020901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bamba",
+      "en": "Bamba",
+      "slug": "bamba"
+    },
+    "code": {
+      "id": "SL03020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.415",
+      "lon": "-12.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gonoh",
+      "en": "Gonoh",
+      "slug": "gonoh"
+    },
+    "code": {
+      "id": "SL03020902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.579",
+      "lon": "-12.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamai",
+      "en": "Kamai",
+      "slug": "kamai"
+    },
+    "code": {
+      "id": "SL03020903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.595",
+      "lon": "-12.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kwalloh",
+      "en": "Kwalloh",
+      "slug": "kwalloh"
+    },
+    "code": {
+      "id": "SL03020904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.604",
+      "lon": "-12.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moh",
+      "en": "Moh",
+      "slug": "moh"
+    },
+    "code": {
+      "id": "SL03020905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.56",
+      "lon": "-12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020906",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngepay",
+      "en": "Ngepay",
+      "slug": "ngepay"
+    },
+    "code": {
+      "id": "SL03020906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.49",
+      "lon": "-12.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020907",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Saama",
+      "en": "Saama",
+      "slug": "saama"
+    },
+    "code": {
+      "id": "SL03020907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.615",
+      "lon": "-12.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020908",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sahaya",
+      "en": "Sahaya",
+      "slug": "sahaya"
+    },
+    "code": {
+      "id": "SL03020908",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.547",
+      "lon": "-12.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020909",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sahn-Gbegu",
+      "en": "Sahn-Gbegu",
+      "slug": "sahn-gbegu"
+    },
+    "code": {
+      "id": "SL03020909",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.469",
+      "lon": "-12.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020910",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sampoh",
+      "en": "Sampoh",
+      "slug": "sampoh"
+    },
+    "code": {
+      "id": "SL03020910",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.559",
+      "lon": "-12.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020911",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yoni",
+      "en": "Yoni",
+      "slug": "yoni"
+    },
+    "code": {
+      "id": "SL03020911",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030209",
+      "level": 3,
+      "name": {
+        "local": "Sittia",
+        "en": "Sittia",
+        "slug": "sittia-sl030209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030209",
+        "level": 3,
+        "name": {
+          "local": "Sittia",
+          "en": "Sittia",
+          "slug": "sittia-sl030209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.49",
+      "lon": "-12.534"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

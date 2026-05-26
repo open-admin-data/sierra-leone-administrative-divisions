@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SL02010801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kathanthan",
+      "en": "Kathanthan",
+      "slug": "kathanthan"
+    },
+    "code": {
+      "id": "SL02010801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.88",
+      "lon": "-11.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kathegeya",
+      "en": "Kathegeya",
+      "slug": "kathegeya"
+    },
+    "code": {
+      "id": "SL02010802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.867",
+      "lon": "-11.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapaki",
+      "en": "Mapaki",
+      "slug": "mapaki"
+    },
+    "code": {
+      "id": "SL02010803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.8",
+      "lon": "-11.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masabong",
+      "en": "Masabong",
+      "slug": "masabong"
+    },
+    "code": {
+      "id": "SL02010804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.721",
+      "lon": "-11.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayagba",
+      "en": "Mayagba",
+      "slug": "mayagba"
+    },
+    "code": {
+      "id": "SL02010805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.754",
+      "lon": "-11.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosanda",
+      "en": "Rosanda",
+      "slug": "rosanda"
+    },
+    "code": {
+      "id": "SL02010806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020108",
+      "level": 3,
+      "name": {
+        "local": "Paki Masabong",
+        "en": "Paki Masabong",
+        "slug": "paki-masabong-sl020108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020108",
+        "level": 3,
+        "name": {
+          "local": "Paki Masabong",
+          "en": "Paki Masabong",
+          "slug": "paki-masabong-sl020108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.828",
+      "lon": "-11.973"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

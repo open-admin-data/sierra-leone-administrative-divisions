@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL01010201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bobor",
+      "en": "Bobor",
+      "slug": "bobor"
+    },
+    "code": {
+      "id": "SL01010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.92",
+      "lon": "-10.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaio",
+      "en": "Kaio",
+      "slug": "kaio"
+    },
+    "code": {
+      "id": "SL01010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.945",
+      "lon": "-10.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Giebu",
+      "en": "Lower Giebu",
+      "slug": "lower-giebu"
+    },
+    "code": {
+      "id": "SL01010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.822",
+      "lon": "-10.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Luyengeh",
+      "en": "Lower Luyengeh",
+      "slug": "lower-luyengeh"
+    },
+    "code": {
+      "id": "SL01010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.847",
+      "lon": "-10.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mano",
+      "en": "Mano",
+      "slug": "mano"
+    },
+    "code": {
+      "id": "SL01010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "-10.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sowa",
+      "en": "Sowa",
+      "slug": "sowa"
+    },
+    "code": {
+      "id": "SL01010206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.983",
+      "lon": "-10.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Giebu",
+      "en": "Upper Giebu",
+      "slug": "upper-giebu"
+    },
+    "code": {
+      "id": "SL01010207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "-10.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Luyengeh",
+      "en": "Upper Luyengeh",
+      "slug": "upper-luyengeh"
+    },
+    "code": {
+      "id": "SL01010208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010102",
+      "level": 3,
+      "name": {
+        "local": "Jawie",
+        "en": "Jawie",
+        "slug": "jawie-sl010102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010102",
+        "level": 3,
+        "name": {
+          "local": "Jawie",
+          "en": "Jawie",
+          "slug": "jawie-sl010102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "-10.95"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

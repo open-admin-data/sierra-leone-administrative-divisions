@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SL04020901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tasso Island",
+      "en": "Tasso Island",
+      "slug": "tasso-island"
+    },
+    "code": {
+      "id": "SL04020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040209",
+      "level": 3,
+      "name": {
+        "local": "Tasso Island",
+        "en": "Tasso Island",
+        "slug": "tasso-island-sl040209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040209",
+        "level": 3,
+        "name": {
+          "local": "Tasso Island",
+          "en": "Tasso Island",
+          "slug": "tasso-island-sl040209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.553",
+      "lon": "-13.074"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL02060301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benadugu",
+      "en": "Benadugu",
+      "slug": "benadugu"
+    },
+    "code": {
+      "id": "SL02060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.337",
+      "lon": "-10.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Deldugu",
+      "en": "Deldugu",
+      "slug": "deldugu"
+    },
+    "code": {
+      "id": "SL02060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.272",
+      "lon": "-10.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kamadugu",
+      "en": "Lower Kamadugu",
+      "slug": "lower-kamadugu"
+    },
+    "code": {
+      "id": "SL02060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.456",
+      "lon": "-11.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mankalia",
+      "en": "Mankalia",
+      "slug": "mankalia"
+    },
+    "code": {
+      "id": "SL02060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.377",
+      "lon": "-10.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mongo I",
+      "en": "Mongo I",
+      "slug": "mongo-i"
+    },
+    "code": {
+      "id": "SL02060305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.481",
+      "lon": "-10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mongo II",
+      "en": "Mongo II",
+      "slug": "mongo-ii"
+    },
+    "code": {
+      "id": "SL02060306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.627",
+      "lon": "-10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Morifindugu",
+      "en": "Morifindugu",
+      "slug": "morifindugu"
+    },
+    "code": {
+      "id": "SL02060307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.517",
+      "lon": "-11.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kamadugu",
+      "en": "Upper Kamadugu",
+      "slug": "upper-kamadugu"
+    },
+    "code": {
+      "id": "SL02060308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.569",
+      "lon": "-11.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02060309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yiraia",
+      "en": "Yiraia",
+      "slug": "yiraia"
+    },
+    "code": {
+      "id": "SL02060309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020603",
+      "level": 3,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo-sl020603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0206",
+        "level": 2,
+        "name": {
+          "local": "Fabala",
+          "en": "Fabala",
+          "slug": "fabala-sl0206"
+        }
+      },
+      {
+        "id": "SL020603",
+        "level": 3,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo-sl020603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.408",
+      "lon": "-11.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

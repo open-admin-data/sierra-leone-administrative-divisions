@@ -1,0 +1,48 @@
+{
+  "id": "SL0206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fabala",
+    "en": "Fabala",
+    "slug": "fabala-sl0206"
+  },
+  "code": {
+    "id": "SL0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL02",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-sl02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 5,
+    "section": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.466",
+    "lon": "-11.204"
+  },
+  "metadata": {},
+  "source": {}
+}

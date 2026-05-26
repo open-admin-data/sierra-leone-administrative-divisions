@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL02030701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Barawa",
+      "en": "Barawa",
+      "slug": "barawa"
+    },
+    "code": {
+      "id": "SL02030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020307",
+      "level": 3,
+      "name": {
+        "local": "Nieni",
+        "en": "Nieni",
+        "slug": "nieni-sl020307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020307",
+        "level": 3,
+        "name": {
+          "local": "Nieni",
+          "en": "Nieni",
+          "slug": "nieni-sl020307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.314",
+      "lon": "-11.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kalian",
+      "en": "Kalian",
+      "slug": "kalian"
+    },
+    "code": {
+      "id": "SL02030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020307",
+      "level": 3,
+      "name": {
+        "local": "Nieni",
+        "en": "Nieni",
+        "slug": "nieni-sl020307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020307",
+        "level": 3,
+        "name": {
+          "local": "Nieni",
+          "en": "Nieni",
+          "slug": "nieni-sl020307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.014",
+      "lon": "-11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sumbaria",
+      "en": "Sumbaria",
+      "slug": "sumbaria"
+    },
+    "code": {
+      "id": "SL02030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020307",
+      "level": 3,
+      "name": {
+        "local": "Nieni",
+        "en": "Nieni",
+        "slug": "nieni-sl020307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020307",
+        "level": 3,
+        "name": {
+          "local": "Nieni",
+          "en": "Nieni",
+          "slug": "nieni-sl020307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.788",
+      "lon": "-11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Wollay",
+      "en": "Wollay",
+      "slug": "wollay"
+    },
+    "code": {
+      "id": "SL02030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020307",
+      "level": 3,
+      "name": {
+        "local": "Nieni",
+        "en": "Nieni",
+        "slug": "nieni-sl020307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020307",
+        "level": 3,
+        "name": {
+          "local": "Nieni",
+          "en": "Nieni",
+          "slug": "nieni-sl020307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.201",
+      "lon": "-11.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02030705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yiffin",
+      "en": "Yiffin",
+      "slug": "yiffin"
+    },
+    "code": {
+      "id": "SL02030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020307",
+      "level": 3,
+      "name": {
+        "local": "Nieni",
+        "en": "Nieni",
+        "slug": "nieni-sl020307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020307",
+        "level": 3,
+        "name": {
+          "local": "Nieni",
+          "en": "Nieni",
+          "slug": "nieni-sl020307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.062",
+      "lon": "-11.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

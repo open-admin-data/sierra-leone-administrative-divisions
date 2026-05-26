@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL02031101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 1",
+      "en": "Zone 1",
+      "slug": "zone-1"
+    },
+    "code": {
+      "id": "SL02031101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.631",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 2",
+      "en": "Zone 2",
+      "slug": "zone-2"
+    },
+    "code": {
+      "id": "SL02031102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.606",
+      "lon": "-11.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 3",
+      "en": "Zone 3",
+      "slug": "zone-3"
+    },
+    "code": {
+      "id": "SL02031103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.583",
+      "lon": "-11.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 4",
+      "en": "Zone 4",
+      "slug": "zone-4"
+    },
+    "code": {
+      "id": "SL02031104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.559",
+      "lon": "-11.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 5",
+      "en": "Zone 5",
+      "slug": "zone-5"
+    },
+    "code": {
+      "id": "SL02031105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.526",
+      "lon": "-11.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 6",
+      "en": "Zone 6",
+      "slug": "zone-6"
+    },
+    "code": {
+      "id": "SL02031106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.513",
+      "lon": "-11.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02031107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone 7",
+      "en": "Zone 7",
+      "slug": "zone-7"
+    },
+    "code": {
+      "id": "SL02031107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020311",
+      "level": 3,
+      "name": {
+        "local": "Wara Wara Yagal",
+        "en": "Wara Wara Yagal",
+        "slug": "wara-wara-yagal-sl020311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0203",
+        "level": 2,
+        "name": {
+          "local": "Koinadugu",
+          "en": "Koinadugu",
+          "slug": "koinadugu-sl0203"
+        }
+      },
+      {
+        "id": "SL020311",
+        "level": 3,
+        "name": {
+          "local": "Wara Wara Yagal",
+          "en": "Wara Wara Yagal",
+          "slug": "wara-wara-yagal-sl020311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.502",
+      "lon": "-11.613"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

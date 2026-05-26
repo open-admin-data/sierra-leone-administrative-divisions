@@ -1,0 +1,56 @@
+{
+  "id": "SL050302",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Kaffu Bullom",
+    "en": "Kaffu Bullom",
+    "slug": "kaffu-bullom-sl050302"
+  },
+  "code": {
+    "id": "SL050302",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0503",
+    "level": 2,
+    "name": {
+      "local": "Port Loko",
+      "en": "Port Loko",
+      "slug": "port-loko-sl0503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL05",
+      "level": 1,
+      "name": {
+        "local": "North Western",
+        "en": "North Western",
+        "slug": "north-western-sl05"
+      }
+    },
+    {
+      "id": "SL0503",
+      "level": 2,
+      "name": {
+        "local": "Port Loko",
+        "en": "Port Loko",
+        "slug": "port-loko-sl0503"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.617",
+    "lon": "-13.167"
+  },
+  "metadata": {},
+  "source": {}
+}

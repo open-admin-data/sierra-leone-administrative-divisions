@@ -1,0 +1,786 @@
+[
+  {
+    "id": "SL010101",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Dea",
+      "en": "Dea",
+      "slug": "dea-sl010101"
+    },
+    "code": {
+      "id": "SL010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.953",
+      "lon": "-10.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010102",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Jawie",
+      "en": "Jawie",
+      "slug": "jawie-sl010102"
+    },
+    "code": {
+      "id": "SL010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.894",
+      "lon": "-10.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010103",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Kama",
+      "en": "Kissi Kama",
+      "slug": "kissi-kama-sl010103"
+    },
+    "code": {
+      "id": "SL010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "-10.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010104",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Teng",
+      "en": "Kissi Teng",
+      "slug": "kissi-teng-sl010104"
+    },
+    "code": {
+      "id": "SL010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.388",
+      "lon": "-10.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010105",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kissi Tongi",
+      "en": "Kissi Tongi",
+      "slug": "kissi-tongi-sl010105"
+    },
+    "code": {
+      "id": "SL010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.307",
+      "lon": "-10.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010106",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpeje Bongre",
+      "en": "Kpeje Bongre",
+      "slug": "kpeje-bongre-sl010106"
+    },
+    "code": {
+      "id": "SL010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.145",
+      "lon": "-10.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010107",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Kpeje West",
+      "en": "Kpeje West",
+      "slug": "kpeje-west-sl010107"
+    },
+    "code": {
+      "id": "SL010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.192",
+      "lon": "-10.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010108",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Luawa",
+      "en": "Luawa",
+      "slug": "luawa-sl010108"
+    },
+    "code": {
+      "id": "SL010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.207",
+      "lon": "-10.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010109",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Malema",
+      "en": "Malema",
+      "slug": "malema-sl010109"
+    },
+    "code": {
+      "id": "SL010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.777",
+      "lon": "-10.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010110",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Mandu",
+      "en": "Mandu",
+      "slug": "mandu-sl010110"
+    },
+    "code": {
+      "id": "SL010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.986",
+      "lon": "-10.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010111",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Njaluahun",
+      "en": "Njaluahun",
+      "slug": "njaluahun-sl010111"
+    },
+    "code": {
+      "id": "SL010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.008",
+      "lon": "-10.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010112",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Penguia",
+      "en": "Penguia",
+      "slug": "penguia-sl010112"
+    },
+    "code": {
+      "id": "SL010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.358",
+      "lon": "-10.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010113",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Upper Bambara",
+      "en": "Upper Bambara",
+      "slug": "upper-bambara-sl010113"
+    },
+    "code": {
+      "id": "SL010113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.073",
+      "lon": "-10.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL010114",
+    "level": 3,
+    "level_name": {
+      "local": "Chiefdom",
+      "en": "Chiefdom"
+    },
+    "name": {
+      "local": "Yawei",
+      "en": "Yawei",
+      "slug": "yawei-sl010114"
+    },
+    "code": {
+      "id": "SL010114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      }
+    ],
+    "children_count": {
+      "section": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.327",
+      "lon": "-10.821"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

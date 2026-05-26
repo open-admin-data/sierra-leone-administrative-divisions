@@ -1,0 +1,48 @@
+{
+  "id": "SL0205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tonkolili",
+    "en": "Tonkolili",
+    "slug": "tonkolili-sl0205"
+  },
+  "code": {
+    "id": "SL0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL02",
+    "level": 1,
+    "name": {
+      "local": "Northern",
+      "en": "Northern",
+      "slug": "northern-sl02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 11,
+    "section": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.762",
+    "lon": "-11.646"
+  },
+  "metadata": {},
+  "source": {}
+}

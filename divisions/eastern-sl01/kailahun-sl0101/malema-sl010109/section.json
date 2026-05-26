@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01010901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bamburu",
+      "en": "Bamburu",
+      "slug": "bamburu"
+    },
+    "code": {
+      "id": "SL01010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010109",
+      "level": 3,
+      "name": {
+        "local": "Malema",
+        "en": "Malema",
+        "slug": "malema-sl010109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010109",
+        "level": 3,
+        "name": {
+          "local": "Malema",
+          "en": "Malema",
+          "slug": "malema-sl010109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.795",
+      "lon": "-10.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Sami",
+      "en": "Lower Sami",
+      "slug": "lower-sami"
+    },
+    "code": {
+      "id": "SL01010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010109",
+      "level": 3,
+      "name": {
+        "local": "Malema",
+        "en": "Malema",
+        "slug": "malema-sl010109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010109",
+        "level": 3,
+        "name": {
+          "local": "Malema",
+          "en": "Malema",
+          "slug": "malema-sl010109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.738",
+      "lon": "-10.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbla",
+      "en": "Njagbla",
+      "slug": "njagbla"
+    },
+    "code": {
+      "id": "SL01010903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010109",
+      "level": 3,
+      "name": {
+        "local": "Malema",
+        "en": "Malema",
+        "slug": "malema-sl010109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010109",
+        "level": 3,
+        "name": {
+          "local": "Malema",
+          "en": "Malema",
+          "slug": "malema-sl010109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.889",
+      "lon": "-10.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pelegbambeima",
+      "en": "Pelegbambeima",
+      "slug": "pelegbambeima"
+    },
+    "code": {
+      "id": "SL01010904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010109",
+      "level": 3,
+      "name": {
+        "local": "Malema",
+        "en": "Malema",
+        "slug": "malema-sl010109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010109",
+        "level": 3,
+        "name": {
+          "local": "Malema",
+          "en": "Malema",
+          "slug": "malema-sl010109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.745",
+      "lon": "-10.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Sami",
+      "en": "Upper Sami",
+      "slug": "upper-sami"
+    },
+    "code": {
+      "id": "SL01010905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010109",
+      "level": 3,
+      "name": {
+        "local": "Malema",
+        "en": "Malema",
+        "slug": "malema-sl010109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010109",
+        "level": 3,
+        "name": {
+          "local": "Malema",
+          "en": "Malema",
+          "slug": "malema-sl010109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.889",
+      "lon": "-10.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

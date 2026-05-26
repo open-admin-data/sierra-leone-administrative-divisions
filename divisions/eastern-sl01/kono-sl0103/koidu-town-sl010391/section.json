@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL01039103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbense-Moindefeh",
+      "en": "Gbense-Moindefeh",
+      "slug": "gbense-moindefeh"
+    },
+    "code": {
+      "id": "SL01039103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.649",
+      "lon": "-10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbense-Moindekor",
+      "en": "Gbense-Moindekor",
+      "slug": "gbense-moindekor"
+    },
+    "code": {
+      "id": "SL01039102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.65",
+      "lon": "-10.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbense-Sina Town",
+      "en": "Gbense-Sina Town",
+      "slug": "gbense-sina-town"
+    },
+    "code": {
+      "id": "SL01039101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.65",
+      "lon": "-10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro-Kinsey",
+      "en": "Tankoro-Kinsey",
+      "slug": "tankoro-kinsey"
+    },
+    "code": {
+      "id": "SL01039104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.646",
+      "lon": "-10.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro-Kwaquima",
+      "en": "Tankoro-Kwaquima",
+      "slug": "tankoro-kwaquima"
+    },
+    "code": {
+      "id": "SL01039107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.622",
+      "lon": "-10.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro-Lebanon",
+      "en": "Tankoro-Lebanon",
+      "slug": "tankoro-lebanon"
+    },
+    "code": {
+      "id": "SL01039106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.636",
+      "lon": "-10.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01039105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tankoro-New Sembeh",
+      "en": "Tankoro-New Sembeh",
+      "slug": "tankoro-new-sembeh"
+    },
+    "code": {
+      "id": "SL01039105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010391",
+      "level": 3,
+      "name": {
+        "local": "Koidu Town",
+        "en": "Koidu Town",
+        "slug": "koidu-town-sl010391"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010391",
+        "level": 3,
+        "name": {
+          "local": "Koidu Town",
+          "en": "Koidu Town",
+          "slug": "koidu-town-sl010391"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.638",
+      "lon": "-10.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL04010401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbendembu",
+      "en": "Gbendembu",
+      "slug": "gbendembu"
+    },
+    "code": {
+      "id": "SL04010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.431",
+      "lon": "-13.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Goderich-Adonkia/M",
+      "en": "Goderich-Adonkia/M",
+      "slug": "goderich-adonkiam"
+    },
+    "code": {
+      "id": "SL04010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.422",
+      "lon": "-13.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Goderich-Funkia",
+      "en": "Goderich-Funkia",
+      "slug": "goderich-funkia"
+    },
+    "code": {
+      "id": "SL04010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.436",
+      "lon": "-13.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hamilton",
+      "en": "Hamilton",
+      "slug": "hamilton"
+    },
+    "code": {
+      "id": "SL04010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.377",
+      "lon": "-13.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kent",
+      "en": "Kent",
+      "slug": "kent"
+    },
+    "code": {
+      "id": "SL04010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.195",
+      "lon": "-13.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sattia/Tombo",
+      "en": "Sattia/Tombo",
+      "slug": "sattiatombo"
+    },
+    "code": {
+      "id": "SL04010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.24",
+      "lon": "-13.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "York",
+      "en": "York",
+      "slug": "york"
+    },
+    "code": {
+      "id": "SL04010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040104",
+      "level": 3,
+      "name": {
+        "local": "York Rural",
+        "en": "York Rural",
+        "slug": "york-rural-sl040104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040104",
+        "level": 3,
+        "name": {
+          "local": "York Rural",
+          "en": "York Rural",
+          "slug": "york-rural-sl040104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.285",
+      "lon": "-13.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

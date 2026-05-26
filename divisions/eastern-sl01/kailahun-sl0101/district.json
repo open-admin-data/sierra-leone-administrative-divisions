@@ -1,0 +1,48 @@
+{
+  "id": "SL0101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kailahun",
+    "en": "Kailahun",
+    "slug": "kailahun-sl0101"
+  },
+  "code": {
+    "id": "SL0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL01",
+    "level": 1,
+    "name": {
+      "local": "Eastern",
+      "en": "Eastern",
+      "slug": "eastern-sl01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 14,
+    "section": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.059",
+    "lon": "-10.765"
+  },
+  "metadata": {},
+  "source": {}
+}

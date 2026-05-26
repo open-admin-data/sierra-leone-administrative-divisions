@@ -1,0 +1,128 @@
+[
+  {
+    "id": "SL01020701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Korjei",
+      "en": "Korjei",
+      "slug": "korjei"
+    },
+    "code": {
+      "id": "SL01020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010207",
+      "level": 3,
+      "name": {
+        "local": "Langrama",
+        "en": "Langrama",
+        "slug": "langrama-sl010207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010207",
+        "level": 3,
+        "name": {
+          "local": "Langrama",
+          "en": "Langrama",
+          "slug": "langrama-sl010207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.659",
+      "lon": "-11.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01020702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njeiwoma",
+      "en": "Njeiwoma",
+      "slug": "njeiwoma"
+    },
+    "code": {
+      "id": "SL01020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010207",
+      "level": 3,
+      "name": {
+        "local": "Langrama",
+        "en": "Langrama",
+        "slug": "langrama-sl010207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0102",
+        "level": 2,
+        "name": {
+          "local": "Kenema",
+          "en": "Kenema",
+          "slug": "kenema-sl0102"
+        }
+      },
+      {
+        "id": "SL010207",
+        "level": 3,
+        "name": {
+          "local": "Langrama",
+          "en": "Langrama",
+          "slug": "langrama-sl010207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.675",
+      "lon": "-11.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL01010301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dakaleley",
+      "en": "Dakaleley",
+      "slug": "dakaleley"
+    },
+    "code": {
+      "id": "SL01010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010103",
+      "level": 3,
+      "name": {
+        "local": "Kissi Kama",
+        "en": "Kissi Kama",
+        "slug": "kissi-kama-sl010103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010103",
+        "level": 3,
+        "name": {
+          "local": "Kissi Kama",
+          "en": "Kissi Kama",
+          "slug": "kissi-kama-sl010103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.465",
+      "lon": "-10.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kama Teng",
+      "en": "Kama Teng",
+      "slug": "kama-teng"
+    },
+    "code": {
+      "id": "SL01010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010103",
+      "level": 3,
+      "name": {
+        "local": "Kissi Kama",
+        "en": "Kissi Kama",
+        "slug": "kissi-kama-sl010103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010103",
+        "level": 3,
+        "name": {
+          "local": "Kissi Kama",
+          "en": "Kissi Kama",
+          "slug": "kissi-kama-sl010103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.41",
+      "lon": "-10.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01010303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kama Toh",
+      "en": "Kama Toh",
+      "slug": "kama-toh"
+    },
+    "code": {
+      "id": "SL01010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010103",
+      "level": 3,
+      "name": {
+        "local": "Kissi Kama",
+        "en": "Kissi Kama",
+        "slug": "kissi-kama-sl010103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0101",
+        "level": 2,
+        "name": {
+          "local": "Kailahun",
+          "en": "Kailahun",
+          "slug": "kailahun-sl0101"
+        }
+      },
+      {
+        "id": "SL010103",
+        "level": 3,
+        "name": {
+          "local": "Kissi Kama",
+          "en": "Kissi Kama",
+          "slug": "kissi-kama-sl010103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.369",
+      "lon": "-10.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

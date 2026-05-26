@@ -1,0 +1,194 @@
+[
+  {
+    "id": "SL0201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bombali",
+      "en": "Bombali",
+      "slug": "bombali-sl0201"
+    },
+    "code": {
+      "id": "SL0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 9,
+      "section": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.103",
+      "lon": "-12.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fabala",
+      "en": "Fabala",
+      "slug": "fabala-sl0206"
+    },
+    "code": {
+      "id": "SL0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 5,
+      "section": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.466",
+      "lon": "-11.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koinadugu",
+      "en": "Koinadugu",
+      "slug": "koinadugu-sl0203"
+    },
+    "code": {
+      "id": "SL0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 6,
+      "section": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.33",
+      "lon": "-11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tonkolili",
+      "en": "Tonkolili",
+      "slug": "tonkolili-sl0205"
+    },
+    "code": {
+      "id": "SL0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 11,
+      "section": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.762",
+      "lon": "-11.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

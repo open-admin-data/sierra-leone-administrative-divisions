@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL03030301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bambuibu Tommy",
+      "en": "Bambuibu Tommy",
+      "slug": "bambuibu-tommy"
+    },
+    "code": {
+      "id": "SL03030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.978",
+      "lon": "-12.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bongoya",
+      "en": "Bongoya",
+      "slug": "bongoya"
+    },
+    "code": {
+      "id": "SL03030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.035",
+      "lon": "-12.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Domboma",
+      "en": "Domboma",
+      "slug": "domboma"
+    },
+    "code": {
+      "id": "SL03030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.06",
+      "lon": "-12.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foya Tewei",
+      "en": "Foya Tewei",
+      "slug": "foya-tewei"
+    },
+    "code": {
+      "id": "SL03030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.981",
+      "lon": "-12.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jayahun",
+      "en": "Jayahun",
+      "slug": "jayahun"
+    },
+    "code": {
+      "id": "SL03030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "-12.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kenema",
+      "en": "Kenema",
+      "slug": "kenema"
+    },
+    "code": {
+      "id": "SL03030306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.067",
+      "lon": "-12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mano",
+      "en": "Mano",
+      "slug": "mano"
+    },
+    "code": {
+      "id": "SL03030307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.034",
+      "lon": "-12.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Niti Korley",
+      "en": "Niti Korley",
+      "slug": "niti-korley"
+    },
+    "code": {
+      "id": "SL03030308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.066",
+      "lon": "-12.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Semabu",
+      "en": "Semabu",
+      "slug": "semabu"
+    },
+    "code": {
+      "id": "SL03030309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.005",
+      "lon": "-12.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030310",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taninahun Gomoh",
+      "en": "Taninahun Gomoh",
+      "slug": "taninahun-gomoh"
+    },
+    "code": {
+      "id": "SL03030310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.058",
+      "lon": "-12.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030311",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Taninahun Kapuima",
+      "en": "Taninahun Kapuima",
+      "slug": "taninahun-kapuima"
+    },
+    "code": {
+      "id": "SL03030311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.008",
+      "lon": "-12.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030312",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Timindi",
+      "en": "Timindi",
+      "slug": "timindi"
+    },
+    "code": {
+      "id": "SL03030312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.01",
+      "lon": "-12.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030313",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Wonkifore",
+      "en": "Wonkifore",
+      "slug": "wonkifore"
+    },
+    "code": {
+      "id": "SL03030313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030303",
+      "level": 3,
+      "name": {
+        "local": "Dasse",
+        "en": "Dasse",
+        "slug": "dasse-sl030303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030303",
+        "level": 3,
+        "name": {
+          "local": "Dasse",
+          "en": "Dasse",
+          "slug": "dasse-sl030303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.929",
+      "lon": "-12.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

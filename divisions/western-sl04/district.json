@@ -1,0 +1,98 @@
+[
+  {
+    "id": "SL0401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Area Rural",
+      "en": "Western Area Rural",
+      "slug": "western-area-rural-sl0401"
+    },
+    "code": {
+      "id": "SL0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 4,
+      "section": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.326",
+      "lon": "-13.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL0402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Western Area Urban",
+      "en": "Western Area Urban",
+      "slug": "western-area-urban-sl0402"
+    },
+    "code": {
+      "id": "SL0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      }
+    ],
+    "children_count": {
+      "chiefdom": 9,
+      "section": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.449",
+      "lon": "-13.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

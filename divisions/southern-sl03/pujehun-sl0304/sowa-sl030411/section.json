@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03041101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Geoma",
+      "en": "Lower Geoma",
+      "slug": "lower-geoma"
+    },
+    "code": {
+      "id": "SL03041101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030411",
+      "level": 3,
+      "name": {
+        "local": "Sowa",
+        "en": "Sowa",
+        "slug": "sowa-sl030411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030411",
+        "level": 3,
+        "name": {
+          "local": "Sowa",
+          "en": "Sowa",
+          "slug": "sowa-sl030411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.513",
+      "lon": "-11.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sabba I",
+      "en": "Sabba I",
+      "slug": "sabba-i"
+    },
+    "code": {
+      "id": "SL03041102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030411",
+      "level": 3,
+      "name": {
+        "local": "Sowa",
+        "en": "Sowa",
+        "slug": "sowa-sl030411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030411",
+        "level": 3,
+        "name": {
+          "local": "Sowa",
+          "en": "Sowa",
+          "slug": "sowa-sl030411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.597",
+      "lon": "-11.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sabba II",
+      "en": "Sabba II",
+      "slug": "sabba-ii"
+    },
+    "code": {
+      "id": "SL03041103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030411",
+      "level": 3,
+      "name": {
+        "local": "Sowa",
+        "en": "Sowa",
+        "slug": "sowa-sl030411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030411",
+        "level": 3,
+        "name": {
+          "local": "Sowa",
+          "en": "Sowa",
+          "slug": "sowa-sl030411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.634",
+      "lon": "-11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03041104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Geoma",
+      "en": "Upper Geoma",
+      "slug": "upper-geoma"
+    },
+    "code": {
+      "id": "SL03041104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030411",
+      "level": 3,
+      "name": {
+        "local": "Sowa",
+        "en": "Sowa",
+        "slug": "sowa-sl030411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0304",
+        "level": 2,
+        "name": {
+          "local": "Pujehun",
+          "en": "Pujehun",
+          "slug": "pujehun-sl0304"
+        }
+      },
+      {
+        "id": "SL030411",
+        "level": 3,
+        "name": {
+          "local": "Sowa",
+          "en": "Sowa",
+          "slug": "sowa-sl030411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.53",
+      "lon": "-11.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

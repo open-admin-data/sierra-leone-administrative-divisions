@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL04010201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bathurst",
+      "en": "Bathurst",
+      "slug": "bathurst"
+    },
+    "code": {
+      "id": "SL04010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040102",
+      "level": 3,
+      "name": {
+        "local": "Mountain Rural",
+        "en": "Mountain Rural",
+        "slug": "mountain-rural-sl040102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040102",
+        "level": 3,
+        "name": {
+          "local": "Mountain Rural",
+          "en": "Mountain Rural",
+          "slug": "mountain-rural-sl040102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.43",
+      "lon": "-13.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Charlotte",
+      "en": "Charlotte",
+      "slug": "charlotte"
+    },
+    "code": {
+      "id": "SL04010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040102",
+      "level": 3,
+      "name": {
+        "local": "Mountain Rural",
+        "en": "Mountain Rural",
+        "slug": "mountain-rural-sl040102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040102",
+        "level": 3,
+        "name": {
+          "local": "Mountain Rural",
+          "en": "Mountain Rural",
+          "slug": "mountain-rural-sl040102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "-13.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gloucester",
+      "en": "Gloucester",
+      "slug": "gloucester"
+    },
+    "code": {
+      "id": "SL04010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040102",
+      "level": 3,
+      "name": {
+        "local": "Mountain Rural",
+        "en": "Mountain Rural",
+        "slug": "mountain-rural-sl040102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040102",
+        "level": 3,
+        "name": {
+          "local": "Mountain Rural",
+          "en": "Mountain Rural",
+          "slug": "mountain-rural-sl040102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.453",
+      "lon": "-13.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Leicester",
+      "en": "Leicester",
+      "slug": "leicester"
+    },
+    "code": {
+      "id": "SL04010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040102",
+      "level": 3,
+      "name": {
+        "local": "Mountain Rural",
+        "en": "Mountain Rural",
+        "slug": "mountain-rural-sl040102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040102",
+        "level": 3,
+        "name": {
+          "local": "Mountain Rural",
+          "en": "Mountain Rural",
+          "slug": "mountain-rural-sl040102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.464",
+      "lon": "-13.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04010205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Regent",
+      "en": "Regent",
+      "slug": "regent"
+    },
+    "code": {
+      "id": "SL04010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040102",
+      "level": 3,
+      "name": {
+        "local": "Mountain Rural",
+        "en": "Mountain Rural",
+        "slug": "mountain-rural-sl040102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0401",
+        "level": 2,
+        "name": {
+          "local": "Western Area Rural",
+          "en": "Western Area Rural",
+          "slug": "western-area-rural-sl0401"
+        }
+      },
+      {
+        "id": "SL040102",
+        "level": 3,
+        "name": {
+          "local": "Mountain Rural",
+          "en": "Mountain Rural",
+          "slug": "mountain-rural-sl040102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.442",
+      "lon": "-13.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

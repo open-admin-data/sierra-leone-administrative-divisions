@@ -1,0 +1,56 @@
+{
+  "id": "SL040103",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Waterloo Rural",
+    "en": "Waterloo Rural",
+    "slug": "waterloo-rural-sl040103"
+  },
+  "code": {
+    "id": "SL040103",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0401",
+    "level": 2,
+    "name": {
+      "local": "Western Area Rural",
+      "en": "Western Area Rural",
+      "slug": "western-area-rural-sl0401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.338",
+    "lon": "-13.103"
+  },
+  "metadata": {},
+  "source": {}
+}

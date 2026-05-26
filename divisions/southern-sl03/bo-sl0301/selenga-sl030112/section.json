@@ -1,0 +1,191 @@
+[
+  {
+    "id": "SL03011201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kaduawo",
+      "en": "Kaduawo",
+      "slug": "kaduawo"
+    },
+    "code": {
+      "id": "SL03011201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030112",
+      "level": 3,
+      "name": {
+        "local": "Selenga",
+        "en": "Selenga",
+        "slug": "selenga-sl030112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030112",
+        "level": 3,
+        "name": {
+          "local": "Selenga",
+          "en": "Selenga",
+          "slug": "selenga-sl030112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.105",
+      "lon": "-11.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mokpendeh",
+      "en": "Mokpendeh",
+      "slug": "mokpendeh"
+    },
+    "code": {
+      "id": "SL03011202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030112",
+      "level": 3,
+      "name": {
+        "local": "Selenga",
+        "en": "Selenga",
+        "slug": "selenga-sl030112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030112",
+        "level": 3,
+        "name": {
+          "local": "Selenga",
+          "en": "Selenga",
+          "slug": "selenga-sl030112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.129",
+      "lon": "-11.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Old Town",
+      "en": "Old Town",
+      "slug": "old-town"
+    },
+    "code": {
+      "id": "SL03011203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030112",
+      "level": 3,
+      "name": {
+        "local": "Selenga",
+        "en": "Selenga",
+        "slug": "selenga-sl030112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030112",
+        "level": 3,
+        "name": {
+          "local": "Selenga",
+          "en": "Selenga",
+          "slug": "selenga-sl030112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "-11.734"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

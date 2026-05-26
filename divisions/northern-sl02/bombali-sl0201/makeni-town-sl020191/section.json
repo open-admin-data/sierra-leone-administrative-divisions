@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL02019101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - B",
+      "en": "Bombali Sebora - B",
+      "slug": "bombali-sebora---b"
+    },
+    "code": {
+      "id": "SL02019101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "-12.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - K",
+      "en": "Bombali Sebora - K",
+      "slug": "bombali-sebora---k"
+    },
+    "code": {
+      "id": "SL02019102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.87",
+      "lon": "-12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - Makeni",
+      "en": "Bombali Sebora - Makeni",
+      "slug": "bombali-sebora---makeni"
+    },
+    "code": {
+      "id": "SL02019103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.881",
+      "lon": "-12.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - R",
+      "en": "Bombali Sebora - R",
+      "slug": "bombali-sebora---r"
+    },
+    "code": {
+      "id": "SL02019107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.898",
+      "lon": "-12.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - T",
+      "en": "Bombali Sebora - T",
+      "slug": "bombali-sebora---t"
+    },
+    "code": {
+      "id": "SL02019108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.884",
+      "lon": "-12.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombali Sebora - W",
+      "en": "Bombali Sebora - W",
+      "slug": "bombali-sebora---w"
+    },
+    "code": {
+      "id": "SL02019109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "-12.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makari Gbanti - Mi",
+      "en": "Makari Gbanti - Mi",
+      "slug": "makari-gbanti---mi"
+    },
+    "code": {
+      "id": "SL02019110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.891",
+      "lon": "-12.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02019111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makari Gbanti -Mas",
+      "en": "Makari Gbanti -Mas",
+      "slug": "makari-gbanti--mas"
+    },
+    "code": {
+      "id": "SL02019111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020191",
+      "level": 3,
+      "name": {
+        "local": "Makeni Town",
+        "en": "Makeni Town",
+        "slug": "makeni-town-sl020191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020191",
+        "level": 3,
+        "name": {
+          "local": "Makeni Town",
+          "en": "Makeni Town",
+          "slug": "makeni-town-sl020191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.895",
+      "lon": "-12.032"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

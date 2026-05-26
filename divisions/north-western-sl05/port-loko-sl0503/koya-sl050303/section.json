@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "SL05030301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benkia",
+      "en": "Benkia",
+      "slug": "benkia"
+    },
+    "code": {
+      "id": "SL05030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.526",
+      "lon": "-12.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fondu",
+      "en": "Fondu",
+      "slug": "fondu"
+    },
+    "code": {
+      "id": "SL05030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.455",
+      "lon": "-12.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foredugu",
+      "en": "Foredugu",
+      "slug": "foredugu"
+    },
+    "code": {
+      "id": "SL05030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.451",
+      "lon": "-12.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Futa",
+      "en": "Futa",
+      "slug": "futa"
+    },
+    "code": {
+      "id": "SL05030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.493",
+      "lon": "-12.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbabai",
+      "en": "Gbabai",
+      "slug": "gbabai"
+    },
+    "code": {
+      "id": "SL05030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.425",
+      "lon": "-12.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbala A",
+      "en": "Kagbala A",
+      "slug": "kagbala-a"
+    },
+    "code": {
+      "id": "SL05030306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.321",
+      "lon": "-12.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kagbala B",
+      "en": "Kagbala B",
+      "slug": "kagbala-b"
+    },
+    "code": {
+      "id": "SL05030307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.386",
+      "lon": "-12.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbandoma",
+      "en": "Magbandoma",
+      "slug": "magbandoma"
+    },
+    "code": {
+      "id": "SL05030308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.42",
+      "lon": "-12.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbeni",
+      "en": "Magbeni",
+      "slug": "magbeni"
+    },
+    "code": {
+      "id": "SL05030309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.503",
+      "lon": "-12.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030310",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mahera",
+      "en": "Mahera",
+      "slug": "mahera"
+    },
+    "code": {
+      "id": "SL05030310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.542",
+      "lon": "-12.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030311",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marefa",
+      "en": "Marefa",
+      "slug": "marefa"
+    },
+    "code": {
+      "id": "SL05030311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.473",
+      "lon": "-13.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030312",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matene",
+      "en": "Matene",
+      "slug": "matene"
+    },
+    "code": {
+      "id": "SL05030312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.479",
+      "lon": "-12.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030313",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mathirie",
+      "en": "Mathirie",
+      "slug": "mathirie"
+    },
+    "code": {
+      "id": "SL05030313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.4",
+      "lon": "-12.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030314",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mawoma",
+      "en": "Mawoma",
+      "slug": "mawoma"
+    },
+    "code": {
+      "id": "SL05030314",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.441",
+      "lon": "-12.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030315",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robia",
+      "en": "Robia",
+      "slug": "robia"
+    },
+    "code": {
+      "id": "SL05030315",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.401",
+      "lon": "-13.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030316",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokel",
+      "en": "Rokel",
+      "slug": "rokel"
+    },
+    "code": {
+      "id": "SL05030316",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.55",
+      "lon": "-12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030317",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Roponka",
+      "en": "Roponka",
+      "slug": "roponka"
+    },
+    "code": {
+      "id": "SL05030317",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.526",
+      "lon": "-12.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030318",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rosarr",
+      "en": "Rosarr",
+      "slug": "rosarr"
+    },
+    "code": {
+      "id": "SL05030318",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.558",
+      "lon": "-12.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030319",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "SL05030319",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.409",
+      "lon": "-12.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030320",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tumba",
+      "en": "Tumba",
+      "slug": "tumba"
+    },
+    "code": {
+      "id": "SL05030320",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050303",
+      "level": 3,
+      "name": {
+        "local": "Koya",
+        "en": "Koya",
+        "slug": "koya-sl050303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050303",
+        "level": 3,
+        "name": {
+          "local": "Koya",
+          "en": "Koya",
+          "slug": "koya-sl050303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.506",
+      "lon": "-13.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

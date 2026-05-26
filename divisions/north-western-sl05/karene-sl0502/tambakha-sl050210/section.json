@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL05021001",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dugutha",
+      "en": "Dugutha",
+      "slug": "dugutha"
+    },
+    "code": {
+      "id": "SL05021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050210",
+      "level": 3,
+      "name": {
+        "local": "Tambakha",
+        "en": "Tambakha",
+        "slug": "tambakha-sl050210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050210",
+        "level": 3,
+        "name": {
+          "local": "Tambakha",
+          "en": "Tambakha",
+          "slug": "tambakha-sl050210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.753",
+      "lon": "-12.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05021002",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Moria",
+      "en": "Moria",
+      "slug": "moria"
+    },
+    "code": {
+      "id": "SL05021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050210",
+      "level": 3,
+      "name": {
+        "local": "Tambakha",
+        "en": "Tambakha",
+        "slug": "tambakha-sl050210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050210",
+        "level": 3,
+        "name": {
+          "local": "Tambakha",
+          "en": "Tambakha",
+          "slug": "tambakha-sl050210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.857",
+      "lon": "-12.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05021003",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Paramount Chief Se",
+      "en": "Paramount Chief Se",
+      "slug": "paramount-chief-se"
+    },
+    "code": {
+      "id": "SL05021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050210",
+      "level": 3,
+      "name": {
+        "local": "Tambakha",
+        "en": "Tambakha",
+        "slug": "tambakha-sl050210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050210",
+        "level": 3,
+        "name": {
+          "local": "Tambakha",
+          "en": "Tambakha",
+          "slug": "tambakha-sl050210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.723",
+      "lon": "-12.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05021004",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Simibue",
+      "en": "Simibue",
+      "slug": "simibue"
+    },
+    "code": {
+      "id": "SL05021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050210",
+      "level": 3,
+      "name": {
+        "local": "Tambakha",
+        "en": "Tambakha",
+        "slug": "tambakha-sl050210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050210",
+        "level": 3,
+        "name": {
+          "local": "Tambakha",
+          "en": "Tambakha",
+          "slug": "tambakha-sl050210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.605",
+      "lon": "-12.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05021005",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thalla",
+      "en": "Thalla",
+      "slug": "thalla"
+    },
+    "code": {
+      "id": "SL05021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050210",
+      "level": 3,
+      "name": {
+        "local": "Tambakha",
+        "en": "Tambakha",
+        "slug": "tambakha-sl050210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050210",
+        "level": 3,
+        "name": {
+          "local": "Tambakha",
+          "en": "Tambakha",
+          "slug": "tambakha-sl050210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.824",
+      "lon": "-12.392"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

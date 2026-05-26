@@ -1,0 +1,884 @@
+[
+  {
+    "id": "SL05020301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bankro",
+      "en": "Bankro",
+      "slug": "bankro"
+    },
+    "code": {
+      "id": "SL05020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.021",
+      "lon": "-12.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbaneh-Loko",
+      "en": "Gbaneh-Loko",
+      "slug": "gbaneh-loko"
+    },
+    "code": {
+      "id": "SL05020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.106",
+      "lon": "-12.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbogbodo",
+      "en": "Gbogbodo",
+      "slug": "gbogbodo"
+    },
+    "code": {
+      "id": "SL05020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.196",
+      "lon": "-12.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbonko",
+      "en": "Gbonko",
+      "slug": "gbonko"
+    },
+    "code": {
+      "id": "SL05020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.169",
+      "lon": "-12.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kantia",
+      "en": "Kantia",
+      "slug": "kantia"
+    },
+    "code": {
+      "id": "SL05020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.22",
+      "lon": "-12.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Layamantmetank",
+      "en": "Layamantmetank",
+      "slug": "layamantmetank"
+    },
+    "code": {
+      "id": "SL05020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.159",
+      "lon": "-12.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbolontor",
+      "en": "Magbolontor",
+      "slug": "magbolontor"
+    },
+    "code": {
+      "id": "SL05020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.04",
+      "lon": "-12.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malkiya",
+      "en": "Malkiya",
+      "slug": "malkiya"
+    },
+    "code": {
+      "id": "SL05020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.08",
+      "lon": "-12.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mankneh",
+      "en": "Mankneh",
+      "slug": "mankneh"
+    },
+    "code": {
+      "id": "SL05020309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.095",
+      "lon": "-12.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020310",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masien",
+      "en": "Masien",
+      "slug": "masien"
+    },
+    "code": {
+      "id": "SL05020310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.042",
+      "lon": "-12.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020311",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Menthen",
+      "en": "Menthen",
+      "slug": "menthen"
+    },
+    "code": {
+      "id": "SL05020311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.111",
+      "lon": "-12.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020312",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robis",
+      "en": "Robis",
+      "slug": "robis"
+    },
+    "code": {
+      "id": "SL05020312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.145",
+      "lon": "-12.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020313",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rotigbonko",
+      "en": "Rotigbonko",
+      "slug": "rotigbonko"
+    },
+    "code": {
+      "id": "SL05020313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "-12.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05020314",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendugu",
+      "en": "Sendugu",
+      "slug": "sendugu"
+    },
+    "code": {
+      "id": "SL05020314",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050203",
+      "level": 3,
+      "name": {
+        "local": "Sanda Magbolont",
+        "en": "Sanda Magbolont",
+        "slug": "sanda-magbolont-sl050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0502",
+        "level": 2,
+        "name": {
+          "local": "Karene",
+          "en": "Karene",
+          "slug": "karene-sl0502"
+        }
+      },
+      {
+        "id": "SL050203",
+        "level": 3,
+        "name": {
+          "local": "Sanda Magbolont",
+          "en": "Sanda Magbolont",
+          "slug": "sanda-magbolont-sl050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.069",
+      "lon": "-12.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

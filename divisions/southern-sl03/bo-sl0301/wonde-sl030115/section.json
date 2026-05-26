@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03011501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Central Kargoi",
+      "en": "Central Kargoi",
+      "slug": "central-kargoi"
+    },
+    "code": {
+      "id": "SL03011501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030115",
+      "level": 3,
+      "name": {
+        "local": "Wonde",
+        "en": "Wonde",
+        "slug": "wonde-sl030115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030115",
+        "level": 3,
+        "name": {
+          "local": "Wonde",
+          "en": "Wonde",
+          "slug": "wonde-sl030115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.737",
+      "lon": "-11.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kargoi",
+      "en": "Lower Kargoi",
+      "slug": "lower-kargoi"
+    },
+    "code": {
+      "id": "SL03011502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030115",
+      "level": 3,
+      "name": {
+        "local": "Wonde",
+        "en": "Wonde",
+        "slug": "wonde-sl030115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030115",
+        "level": 3,
+        "name": {
+          "local": "Wonde",
+          "en": "Wonde",
+          "slug": "wonde-sl030115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.611",
+      "lon": "-11.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manyeh",
+      "en": "Manyeh",
+      "slug": "manyeh"
+    },
+    "code": {
+      "id": "SL03011503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030115",
+      "level": 3,
+      "name": {
+        "local": "Wonde",
+        "en": "Wonde",
+        "slug": "wonde-sl030115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030115",
+        "level": 3,
+        "name": {
+          "local": "Wonde",
+          "en": "Wonde",
+          "slug": "wonde-sl030115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.698",
+      "lon": "-11.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kargoi",
+      "en": "Upper Kargoi",
+      "slug": "upper-kargoi"
+    },
+    "code": {
+      "id": "SL03011504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030115",
+      "level": 3,
+      "name": {
+        "local": "Wonde",
+        "en": "Wonde",
+        "slug": "wonde-sl030115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030115",
+        "level": 3,
+        "name": {
+          "local": "Wonde",
+          "en": "Wonde",
+          "slug": "wonde-sl030115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.782",
+      "lon": "-11.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

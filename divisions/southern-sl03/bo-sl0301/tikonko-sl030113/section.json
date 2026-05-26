@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03011301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bainyawa",
+      "en": "Bainyawa",
+      "slug": "bainyawa"
+    },
+    "code": {
+      "id": "SL03011301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.708",
+      "lon": "-11.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mambawa",
+      "en": "Mambawa",
+      "slug": "mambawa"
+    },
+    "code": {
+      "id": "SL03011302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.785",
+      "lon": "-11.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Morku",
+      "en": "Morku",
+      "slug": "morku"
+    },
+    "code": {
+      "id": "SL03011303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.775",
+      "lon": "-11.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ngolamajie",
+      "en": "Ngolamajie",
+      "slug": "ngolamajie"
+    },
+    "code": {
+      "id": "SL03011304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.99",
+      "lon": "-11.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbla I",
+      "en": "Njagbla I",
+      "slug": "njagbla-i"
+    },
+    "code": {
+      "id": "SL03011305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "-11.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njagbla II",
+      "en": "Njagbla II",
+      "slug": "njagbla-ii"
+    },
+    "code": {
+      "id": "SL03011306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.813",
+      "lon": "-11.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Seiwa",
+      "en": "Seiwa",
+      "slug": "seiwa"
+    },
+    "code": {
+      "id": "SL03011307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "-11.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03011308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendeh",
+      "en": "Sendeh",
+      "slug": "sendeh"
+    },
+    "code": {
+      "id": "SL03011308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030113",
+      "level": 3,
+      "name": {
+        "local": "Tikonko",
+        "en": "Tikonko",
+        "slug": "tikonko-sl030113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030113",
+        "level": 3,
+        "name": {
+          "local": "Tikonko",
+          "en": "Tikonko",
+          "slug": "tikonko-sl030113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.776",
+      "lon": "-11.731"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

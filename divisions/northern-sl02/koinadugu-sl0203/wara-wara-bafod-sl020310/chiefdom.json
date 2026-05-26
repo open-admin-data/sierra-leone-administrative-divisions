@@ -1,0 +1,56 @@
+{
+  "id": "SL020310",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Wara Wara Bafod",
+    "en": "Wara Wara Bafod",
+    "slug": "wara-wara-bafod-sl020310"
+  },
+  "code": {
+    "id": "SL020310",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0203",
+    "level": 2,
+    "name": {
+      "local": "Koinadugu",
+      "en": "Koinadugu",
+      "slug": "koinadugu-sl0203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL02",
+      "level": 1,
+      "name": {
+        "local": "Northern",
+        "en": "Northern",
+        "slug": "northern-sl02"
+      }
+    },
+    {
+      "id": "SL0203",
+      "level": 2,
+      "name": {
+        "local": "Koinadugu",
+        "en": "Koinadugu",
+        "slug": "koinadugu-sl0203"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.775",
+    "lon": "-11.779"
+  },
+  "metadata": {},
+  "source": {}
+}

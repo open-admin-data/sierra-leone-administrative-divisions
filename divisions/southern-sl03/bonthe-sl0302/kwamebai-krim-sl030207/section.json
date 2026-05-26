@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL03020701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kpanga Koimato",
+      "en": "Kpanga Koimato",
+      "slug": "kpanga-koimato"
+    },
+    "code": {
+      "id": "SL03020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.253",
+      "lon": "-11.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kwako Lanten",
+      "en": "Kwako Lanten",
+      "slug": "kwako-lanten"
+    },
+    "code": {
+      "id": "SL03020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.318",
+      "lon": "-11.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Massa Settie",
+      "en": "Massa Settie",
+      "slug": "massa-settie"
+    },
+    "code": {
+      "id": "SL03020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.223",
+      "lon": "-11.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mosenten Sahen II",
+      "en": "Mosenten Sahen II",
+      "slug": "mosenten-sahen-ii"
+    },
+    "code": {
+      "id": "SL03020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.313",
+      "lon": "-12.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tubla",
+      "en": "Tubla",
+      "slug": "tubla"
+    },
+    "code": {
+      "id": "SL03020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.307",
+      "lon": "-11.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tun-Tun Sullay",
+      "en": "Tun-Tun Sullay",
+      "slug": "tun-tun-sullay"
+    },
+    "code": {
+      "id": "SL03020706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.271",
+      "lon": "-12.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yikie Karbay",
+      "en": "Yikie Karbay",
+      "slug": "yikie-karbay"
+    },
+    "code": {
+      "id": "SL03020707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030207",
+      "level": 3,
+      "name": {
+        "local": "Kwamebai Krim",
+        "en": "Kwamebai Krim",
+        "slug": "kwamebai-krim-sl030207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030207",
+        "level": 3,
+        "name": {
+          "local": "Kwamebai Krim",
+          "en": "Kwamebai Krim",
+          "slug": "kwamebai-krim-sl030207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.264",
+      "lon": "-11.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

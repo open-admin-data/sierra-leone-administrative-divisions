@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL03030901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 1",
+      "en": "Zone - 1",
+      "slug": "zone---1"
+    },
+    "code": {
+      "id": "SL03030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.321",
+      "lon": "-12.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 2",
+      "en": "Zone - 2",
+      "slug": "zone---2"
+    },
+    "code": {
+      "id": "SL03030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.238",
+      "lon": "-11.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 3",
+      "en": "Zone - 3",
+      "slug": "zone---3"
+    },
+    "code": {
+      "id": "SL03030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.275",
+      "lon": "-12.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 4",
+      "en": "Zone - 4",
+      "slug": "zone---4"
+    },
+    "code": {
+      "id": "SL03030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.203",
+      "lon": "-12.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 5",
+      "en": "Zone - 5",
+      "slug": "zone---5"
+    },
+    "code": {
+      "id": "SL03030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.145",
+      "lon": "-12.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030906",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 6",
+      "en": "Zone - 6",
+      "slug": "zone---6"
+    },
+    "code": {
+      "id": "SL03030906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.096",
+      "lon": "-12.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03030907",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Zone - 7",
+      "en": "Zone - 7",
+      "slug": "zone---7"
+    },
+    "code": {
+      "id": "SL03030907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030309",
+      "level": 3,
+      "name": {
+        "local": "Kori",
+        "en": "Kori",
+        "slug": "kori-sl030309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0303",
+        "level": 2,
+        "name": {
+          "local": "Moyamba",
+          "en": "Moyamba",
+          "slug": "moyamba-sl0303"
+        }
+      },
+      {
+        "id": "SL030309",
+        "level": 3,
+        "name": {
+          "local": "Kori",
+          "en": "Kori",
+          "slug": "kori-sl030309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.149",
+      "lon": "-12.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

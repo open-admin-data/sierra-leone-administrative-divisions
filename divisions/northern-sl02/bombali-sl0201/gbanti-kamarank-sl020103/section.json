@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "SL02010301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbenkfay",
+      "en": "Gbenkfay",
+      "slug": "gbenkfay"
+    },
+    "code": {
+      "id": "SL02010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.304",
+      "lon": "-12.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbonkobana",
+      "en": "Gbonkobana",
+      "slug": "gbonkobana"
+    },
+    "code": {
+      "id": "SL02010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.25",
+      "lon": "-12.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamaranka",
+      "en": "Kamaranka",
+      "slug": "kamaranka"
+    },
+    "code": {
+      "id": "SL02010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.289",
+      "lon": "-12.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia"
+    },
+    "code": {
+      "id": "SL02010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.341",
+      "lon": "-12.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayourgbor",
+      "en": "Kayourgbor",
+      "slug": "kayourgbor"
+    },
+    "code": {
+      "id": "SL02010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.248",
+      "lon": "-12.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Laminaya",
+      "en": "Laminaya",
+      "slug": "laminaya"
+    },
+    "code": {
+      "id": "SL02010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.32",
+      "lon": "-12.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makulon",
+      "en": "Makulon",
+      "slug": "makulon"
+    },
+    "code": {
+      "id": "SL02010307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.31",
+      "lon": "-12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010308",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makumray A",
+      "en": "Makumray A",
+      "slug": "makumray-a"
+    },
+    "code": {
+      "id": "SL02010308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.247",
+      "lon": "-12.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010309",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makumray B",
+      "en": "Makumray B",
+      "slug": "makumray-b"
+    },
+    "code": {
+      "id": "SL02010309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.248",
+      "lon": "-12.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010310",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogberay",
+      "en": "Rogberay",
+      "slug": "rogberay"
+    },
+    "code": {
+      "id": "SL02010310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.277",
+      "lon": "-12.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010311",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Romaneh",
+      "en": "Romaneh",
+      "slug": "romaneh"
+    },
+    "code": {
+      "id": "SL02010311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.309",
+      "lon": "-12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010312",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Royeama A",
+      "en": "Royeama A",
+      "slug": "royeama-a"
+    },
+    "code": {
+      "id": "SL02010312",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.258",
+      "lon": "-12.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010313",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Royeama B",
+      "en": "Royeama B",
+      "slug": "royeama-b"
+    },
+    "code": {
+      "id": "SL02010313",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.288",
+      "lon": "-12.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010314",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sakuma A",
+      "en": "Sakuma A",
+      "slug": "sakuma-a"
+    },
+    "code": {
+      "id": "SL02010314",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.269",
+      "lon": "-12.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010315",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sakuma B",
+      "en": "Sakuma B",
+      "slug": "sakuma-b"
+    },
+    "code": {
+      "id": "SL02010315",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.266",
+      "lon": "-12.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010316",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendugu A",
+      "en": "Sendugu A",
+      "slug": "sendugu-a"
+    },
+    "code": {
+      "id": "SL02010316",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.345",
+      "lon": "-12.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02010317",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sendugu B",
+      "en": "Sendugu B",
+      "slug": "sendugu-b"
+    },
+    "code": {
+      "id": "SL02010317",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020103",
+      "level": 3,
+      "name": {
+        "local": "Gbanti Kamarank",
+        "en": "Gbanti Kamarank",
+        "slug": "gbanti-kamarank-sl020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0201",
+        "level": 2,
+        "name": {
+          "local": "Bombali",
+          "en": "Bombali",
+          "slug": "bombali-sl0201"
+        }
+      },
+      {
+        "id": "SL020103",
+        "level": 3,
+        "name": {
+          "local": "Gbanti Kamarank",
+          "en": "Gbanti Kamarank",
+          "slug": "gbanti-kamarank-sl020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.331",
+      "lon": "-12.243"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

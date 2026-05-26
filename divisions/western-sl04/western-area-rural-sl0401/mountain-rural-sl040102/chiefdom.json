@@ -1,0 +1,56 @@
+{
+  "id": "SL040102",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Mountain Rural",
+    "en": "Mountain Rural",
+    "slug": "mountain-rural-sl040102"
+  },
+  "code": {
+    "id": "SL040102",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0401",
+    "level": 2,
+    "name": {
+      "local": "Western Area Rural",
+      "en": "Western Area Rural",
+      "slug": "western-area-rural-sl0401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    },
+    {
+      "id": "SL0401",
+      "level": 2,
+      "name": {
+        "local": "Western Area Rural",
+        "en": "Western Area Rural",
+        "slug": "western-area-rural-sl0401"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.434",
+    "lon": "-13.21"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "SL03029101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bonthe Town",
+      "en": "Bonthe Town",
+      "slug": "bonthe-town"
+    },
+    "code": {
+      "id": "SL03029101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030291",
+      "level": 3,
+      "name": {
+        "local": "Bonthe Urban",
+        "en": "Bonthe Urban",
+        "slug": "bonthe-urban-sl030291"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030291",
+        "level": 3,
+        "name": {
+          "local": "Bonthe Urban",
+          "en": "Bonthe Urban",
+          "slug": "bonthe-urban-sl030291"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.534",
+      "lon": "-12.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

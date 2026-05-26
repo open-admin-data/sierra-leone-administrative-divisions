@@ -1,0 +1,56 @@
+{
+  "id": "SL010108",
+  "level": 3,
+  "level_name": {
+    "local": "Chiefdom",
+    "en": "Chiefdom"
+  },
+  "name": {
+    "local": "Luawa",
+    "en": "Luawa",
+    "slug": "luawa-sl010108"
+  },
+  "code": {
+    "id": "SL010108",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL0101",
+    "level": 2,
+    "name": {
+      "local": "Kailahun",
+      "en": "Kailahun",
+      "slug": "kailahun-sl0101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL01",
+      "level": 1,
+      "name": {
+        "local": "Eastern",
+        "en": "Eastern",
+        "slug": "eastern-sl01"
+      }
+    },
+    {
+      "id": "SL0101",
+      "level": 2,
+      "name": {
+        "local": "Kailahun",
+        "en": "Kailahun",
+        "slug": "kailahun-sl0101"
+      }
+    }
+  ],
+  "children_count": {
+    "section": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.207",
+    "lon": "-10.56"
+  },
+  "metadata": {},
+  "source": {}
+}

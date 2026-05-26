@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03010401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bambawo",
+      "en": "Bambawo",
+      "slug": "bambawo"
+    },
+    "code": {
+      "id": "SL03010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.929",
+      "lon": "-11.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fallay",
+      "en": "Fallay",
+      "slug": "fallay"
+    },
+    "code": {
+      "id": "SL03010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.944",
+      "lon": "-11.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kimaya",
+      "en": "Kimaya",
+      "slug": "kimaya"
+    },
+    "code": {
+      "id": "SL03010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.975",
+      "lon": "-11.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Pataloo",
+      "en": "Lower Pataloo",
+      "slug": "lower-pataloo"
+    },
+    "code": {
+      "id": "SL03010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.925",
+      "lon": "-11.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mawojeh",
+      "en": "Mawojeh",
+      "slug": "mawojeh"
+    },
+    "code": {
+      "id": "SL03010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "-11.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Njeima",
+      "en": "Njeima",
+      "slug": "njeima"
+    },
+    "code": {
+      "id": "SL03010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.952",
+      "lon": "-11.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sonnah",
+      "en": "Sonnah",
+      "slug": "sonnah"
+    },
+    "code": {
+      "id": "SL03010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "-11.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Pataloo",
+      "en": "Upper Pataloo",
+      "slug": "upper-pataloo"
+    },
+    "code": {
+      "id": "SL03010408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030104",
+      "level": 3,
+      "name": {
+        "local": "Boama",
+        "en": "Boama",
+        "slug": "boama-sl030104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030104",
+        "level": 3,
+        "name": {
+          "local": "Boama",
+          "en": "Boama",
+          "slug": "boama-sl030104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.014",
+      "lon": "-11.421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

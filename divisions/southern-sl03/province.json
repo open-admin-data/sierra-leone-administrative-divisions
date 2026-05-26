@@ -1,0 +1,31 @@
+{
+  "id": "SL03",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Southern",
+    "en": "Southern",
+    "slug": "southern-sl03"
+  },
+  "code": {
+    "id": "SL03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "section": 422,
+    "chiefdom": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.706",
+    "lon": "-12"
+  },
+  "metadata": {},
+  "source": {}
+}

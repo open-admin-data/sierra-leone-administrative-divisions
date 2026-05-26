@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "SL05030601",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Baipolon",
+      "en": "Lunsar-Baipolon",
+      "slug": "lunsar-baipolon"
+    },
+    "code": {
+      "id": "SL05030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.683",
+      "lon": "-12.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030602",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Four Road -",
+      "en": "Lunsar-Four Road -",
+      "slug": "lunsar-four-road"
+    },
+    "code": {
+      "id": "SL05030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.68",
+      "lon": "-12.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030603",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Kenneday",
+      "en": "Lunsar-Kenneday",
+      "slug": "lunsar-kenneday"
+    },
+    "code": {
+      "id": "SL05030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.683",
+      "lon": "-12.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030604",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Mabai",
+      "en": "Lunsar-Mabai",
+      "slug": "lunsar-mabai"
+    },
+    "code": {
+      "id": "SL05030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.674",
+      "lon": "-12.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030605",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Madigbo",
+      "en": "Lunsar-Madigbo",
+      "slug": "lunsar-madigbo"
+    },
+    "code": {
+      "id": "SL05030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.697",
+      "lon": "-12.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030606",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Mamanso",
+      "en": "Lunsar-Mamanso",
+      "slug": "lunsar-mamanso"
+    },
+    "code": {
+      "id": "SL05030606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "-12.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030607",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Mines",
+      "en": "Lunsar-Mines",
+      "slug": "lunsar-mines"
+    },
+    "code": {
+      "id": "SL05030607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.675",
+      "lon": "-12.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030608",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Old Town",
+      "en": "Lunsar-Old Town",
+      "slug": "lunsar-old-town"
+    },
+    "code": {
+      "id": "SL05030608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.668",
+      "lon": "-12.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030609",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Path Bana",
+      "en": "Lunsar-Path Bana",
+      "slug": "lunsar-path-bana"
+    },
+    "code": {
+      "id": "SL05030609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.687",
+      "lon": "-12.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030610",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Robis",
+      "en": "Lunsar-Robis",
+      "slug": "lunsar-robis"
+    },
+    "code": {
+      "id": "SL05030610",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.672",
+      "lon": "-12.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030611",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lunsar-Technical",
+      "en": "Lunsar-Technical",
+      "slug": "lunsar-technical"
+    },
+    "code": {
+      "id": "SL05030611",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.694",
+      "lon": "-12.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030612",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magbele",
+      "en": "Magbele",
+      "slug": "magbele"
+    },
+    "code": {
+      "id": "SL05030612",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.635",
+      "lon": "-12.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030613",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mange",
+      "en": "Mange",
+      "slug": "mange"
+    },
+    "code": {
+      "id": "SL05030613",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.709",
+      "lon": "-12.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030614",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marampa",
+      "en": "Marampa",
+      "slug": "marampa"
+    },
+    "code": {
+      "id": "SL05030614",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.702",
+      "lon": "-12.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030615",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mawullay",
+      "en": "Mawullay",
+      "slug": "mawullay"
+    },
+    "code": {
+      "id": "SL05030615",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.654",
+      "lon": "-12.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030616",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Madina",
+      "en": "Petifu Madina",
+      "slug": "petifu-madina"
+    },
+    "code": {
+      "id": "SL05030616",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.639",
+      "lon": "-12.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030617",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rogballan",
+      "en": "Rogballan",
+      "slug": "rogballan"
+    },
+    "code": {
+      "id": "SL05030617",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "-12.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05030618",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rolankonoh",
+      "en": "Rolankonoh",
+      "slug": "rolankonoh"
+    },
+    "code": {
+      "id": "SL05030618",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050306",
+      "level": 3,
+      "name": {
+        "local": "Marampa",
+        "en": "Marampa",
+        "slug": "marampa-sl050306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0503",
+        "level": 2,
+        "name": {
+          "local": "Port Loko",
+          "en": "Port Loko",
+          "slug": "port-loko-sl0503"
+        }
+      },
+      {
+        "id": "SL050306",
+        "level": 3,
+        "name": {
+          "local": "Marampa",
+          "en": "Marampa",
+          "slug": "marampa-sl050306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.665",
+      "lon": "-12.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

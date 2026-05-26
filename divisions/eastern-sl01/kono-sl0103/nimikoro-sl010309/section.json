@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01030901",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bafinfeh",
+      "en": "Bafinfeh",
+      "slug": "bafinfeh"
+    },
+    "code": {
+      "id": "SL01030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010309",
+      "level": 3,
+      "name": {
+        "local": "Nimikoro",
+        "en": "Nimikoro",
+        "slug": "nimikoro-sl010309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010309",
+        "level": 3,
+        "name": {
+          "local": "Nimikoro",
+          "en": "Nimikoro",
+          "slug": "nimikoro-sl010309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.689",
+      "lon": "-11.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030902",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bandafafeh",
+      "en": "Bandafafeh",
+      "slug": "bandafafeh"
+    },
+    "code": {
+      "id": "SL01030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010309",
+      "level": 3,
+      "name": {
+        "local": "Nimikoro",
+        "en": "Nimikoro",
+        "slug": "nimikoro-sl010309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010309",
+        "level": 3,
+        "name": {
+          "local": "Nimikoro",
+          "en": "Nimikoro",
+          "slug": "nimikoro-sl010309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.593",
+      "lon": "-11.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030903",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbogboafeh",
+      "en": "Gbogboafeh",
+      "slug": "gbogboafeh"
+    },
+    "code": {
+      "id": "SL01030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010309",
+      "level": 3,
+      "name": {
+        "local": "Nimikoro",
+        "en": "Nimikoro",
+        "slug": "nimikoro-sl010309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010309",
+        "level": 3,
+        "name": {
+          "local": "Nimikoro",
+          "en": "Nimikoro",
+          "slug": "nimikoro-sl010309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.632",
+      "lon": "-11.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030904",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Jaiama",
+      "en": "Jaiama",
+      "slug": "jaiama"
+    },
+    "code": {
+      "id": "SL01030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010309",
+      "level": 3,
+      "name": {
+        "local": "Nimikoro",
+        "en": "Nimikoro",
+        "slug": "nimikoro-sl010309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010309",
+        "level": 3,
+        "name": {
+          "local": "Nimikoro",
+          "en": "Nimikoro",
+          "slug": "nimikoro-sl010309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.536",
+      "lon": "-11.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030905",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masayiefeh",
+      "en": "Masayiefeh",
+      "slug": "masayiefeh"
+    },
+    "code": {
+      "id": "SL01030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010309",
+      "level": 3,
+      "name": {
+        "local": "Nimikoro",
+        "en": "Nimikoro",
+        "slug": "nimikoro-sl010309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010309",
+        "level": 3,
+        "name": {
+          "local": "Nimikoro",
+          "en": "Nimikoro",
+          "slug": "nimikoro-sl010309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.453",
+      "lon": "-11.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

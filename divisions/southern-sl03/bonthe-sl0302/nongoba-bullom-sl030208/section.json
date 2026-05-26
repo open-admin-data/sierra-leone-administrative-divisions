@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL03020801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Baoma",
+      "en": "Baoma",
+      "slug": "baoma"
+    },
+    "code": {
+      "id": "SL03020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.453",
+      "lon": "-12.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bohol",
+      "en": "Bohol",
+      "slug": "bohol"
+    },
+    "code": {
+      "id": "SL03020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.391",
+      "lon": "-12.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bullom",
+      "en": "Bullom",
+      "slug": "bullom"
+    },
+    "code": {
+      "id": "SL03020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.406",
+      "lon": "-12.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Garinga",
+      "en": "Garinga",
+      "slug": "garinga"
+    },
+    "code": {
+      "id": "SL03020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.372",
+      "lon": "-12.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbangbassa",
+      "en": "Gbangbassa",
+      "slug": "gbangbassa"
+    },
+    "code": {
+      "id": "SL03020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.354",
+      "lon": "-12.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbap",
+      "en": "Gbap",
+      "slug": "gbap"
+    },
+    "code": {
+      "id": "SL03020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.392",
+      "lon": "-12.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Hahun",
+      "en": "Hahun",
+      "slug": "hahun"
+    },
+    "code": {
+      "id": "SL03020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.354",
+      "lon": "-12.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kessie",
+      "en": "Kessie",
+      "slug": "kessie"
+    },
+    "code": {
+      "id": "SL03020808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.293",
+      "lon": "-12.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020809",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manyime",
+      "en": "Manyime",
+      "slug": "manyime"
+    },
+    "code": {
+      "id": "SL03020809",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.399",
+      "lon": "-12.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020810",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Pelewahun",
+      "en": "Pelewahun",
+      "slug": "pelewahun"
+    },
+    "code": {
+      "id": "SL03020810",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.446",
+      "lon": "-12.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020811",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Salma",
+      "en": "Salma",
+      "slug": "salma"
+    },
+    "code": {
+      "id": "SL03020811",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "-12.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020812",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Solon",
+      "en": "Solon",
+      "slug": "solon"
+    },
+    "code": {
+      "id": "SL03020812",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.35",
+      "lon": "-12.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020813",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Torma Subu",
+      "en": "Torma Subu",
+      "slug": "torma-subu"
+    },
+    "code": {
+      "id": "SL03020813",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030208",
+      "level": 3,
+      "name": {
+        "local": "Nongoba Bullom",
+        "en": "Nongoba Bullom",
+        "slug": "nongoba-bullom-sl030208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030208",
+        "level": 3,
+        "name": {
+          "local": "Nongoba Bullom",
+          "en": "Nongoba Bullom",
+          "slug": "nongoba-bullom-sl030208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.319",
+      "lon": "-12.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

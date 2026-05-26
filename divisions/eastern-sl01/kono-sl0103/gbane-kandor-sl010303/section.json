@@ -1,0 +1,317 @@
+[
+  {
+    "id": "SL01030301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbane Kandor",
+      "en": "Gbane Kandor",
+      "slug": "gbane-kandor"
+    },
+    "code": {
+      "id": "SL01030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010303",
+      "level": 3,
+      "name": {
+        "local": "Gbane Kandor",
+        "en": "Gbane Kandor",
+        "slug": "gbane-kandor-sl010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010303",
+        "level": 3,
+        "name": {
+          "local": "Gbane Kandor",
+          "en": "Gbane Kandor",
+          "slug": "gbane-kandor-sl010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.672",
+      "lon": "-10.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbane Kour",
+      "en": "Gbane Kour",
+      "slug": "gbane-kour"
+    },
+    "code": {
+      "id": "SL01030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010303",
+      "level": 3,
+      "name": {
+        "local": "Gbane Kandor",
+        "en": "Gbane Kandor",
+        "slug": "gbane-kandor-sl010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010303",
+        "level": 3,
+        "name": {
+          "local": "Gbane Kandor",
+          "en": "Gbane Kandor",
+          "slug": "gbane-kandor-sl010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.571",
+      "lon": "-10.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbane Tetema",
+      "en": "Gbane Tetema",
+      "slug": "gbane-tetema"
+    },
+    "code": {
+      "id": "SL01030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010303",
+      "level": 3,
+      "name": {
+        "local": "Gbane Kandor",
+        "en": "Gbane Kandor",
+        "slug": "gbane-kandor-sl010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010303",
+        "level": 3,
+        "name": {
+          "local": "Gbane Kandor",
+          "en": "Gbane Kandor",
+          "slug": "gbane-kandor-sl010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.612",
+      "lon": "-10.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbendekor",
+      "en": "Gbendekor",
+      "slug": "gbendekor"
+    },
+    "code": {
+      "id": "SL01030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010303",
+      "level": 3,
+      "name": {
+        "local": "Gbane Kandor",
+        "en": "Gbane Kandor",
+        "slug": "gbane-kandor-sl010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010303",
+        "level": 3,
+        "name": {
+          "local": "Gbane Kandor",
+          "en": "Gbane Kandor",
+          "slug": "gbane-kandor-sl010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.613",
+      "lon": "-10.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL01030305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yanbidu",
+      "en": "Yanbidu",
+      "slug": "yanbidu"
+    },
+    "code": {
+      "id": "SL01030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL010303",
+      "level": 3,
+      "name": {
+        "local": "Gbane Kandor",
+        "en": "Gbane Kandor",
+        "slug": "gbane-kandor-sl010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL01",
+        "level": 1,
+        "name": {
+          "local": "Eastern",
+          "en": "Eastern",
+          "slug": "eastern-sl01"
+        }
+      },
+      {
+        "id": "SL0103",
+        "level": 2,
+        "name": {
+          "local": "Kono",
+          "en": "Kono",
+          "slug": "kono-sl0103"
+        }
+      },
+      {
+        "id": "SL010303",
+        "level": 3,
+        "name": {
+          "local": "Gbane Kandor",
+          "en": "Gbane Kandor",
+          "slug": "gbane-kandor-sl010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.622",
+      "lon": "-10.534"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

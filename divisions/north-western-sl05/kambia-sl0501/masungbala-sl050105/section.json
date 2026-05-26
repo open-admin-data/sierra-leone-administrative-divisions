@@ -1,0 +1,758 @@
+[
+  {
+    "id": "SL05010501",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bamoi",
+      "en": "Bamoi",
+      "slug": "bamoi"
+    },
+    "code": {
+      "id": "SL05010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.078",
+      "lon": "-12.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010502",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Benna",
+      "en": "Benna",
+      "slug": "benna"
+    },
+    "code": {
+      "id": "SL05010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.081",
+      "lon": "-12.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010503",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kawula",
+      "en": "Kawula",
+      "slug": "kawula"
+    },
+    "code": {
+      "id": "SL05010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.142",
+      "lon": "-12.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010504",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kayenkassa",
+      "en": "Kayenkassa",
+      "slug": "kayenkassa"
+    },
+    "code": {
+      "id": "SL05010504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.05",
+      "lon": "-12.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010505",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mapolon",
+      "en": "Mapolon",
+      "slug": "mapolon"
+    },
+    "code": {
+      "id": "SL05010505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.141",
+      "lon": "-12.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010506",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Maserie",
+      "en": "Maserie",
+      "slug": "maserie"
+    },
+    "code": {
+      "id": "SL05010506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.091",
+      "lon": "-12.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010507",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matengha",
+      "en": "Matengha",
+      "slug": "matengha"
+    },
+    "code": {
+      "id": "SL05010507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.116",
+      "lon": "-12.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010508",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matilba",
+      "en": "Matilba",
+      "slug": "matilba"
+    },
+    "code": {
+      "id": "SL05010508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.144",
+      "lon": "-12.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010509",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nonko",
+      "en": "Nonko",
+      "slug": "nonko"
+    },
+    "code": {
+      "id": "SL05010509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.156",
+      "lon": "-12.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010510",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Samu",
+      "en": "Samu",
+      "slug": "samu"
+    },
+    "code": {
+      "id": "SL05010510",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.176",
+      "lon": "-12.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010511",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sumbuya",
+      "en": "Sumbuya",
+      "slug": "sumbuya"
+    },
+    "code": {
+      "id": "SL05010511",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.099",
+      "lon": "-12.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010512",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thalla",
+      "en": "Thalla",
+      "slug": "thalla"
+    },
+    "code": {
+      "id": "SL05010512",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050105",
+      "level": 3,
+      "name": {
+        "local": "Masungbala",
+        "en": "Masungbala",
+        "slug": "masungbala-sl050105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050105",
+        "level": 3,
+        "name": {
+          "local": "Masungbala",
+          "en": "Masungbala",
+          "slug": "masungbala-sl050105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.024",
+      "lon": "-12.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

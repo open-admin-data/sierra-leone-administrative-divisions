@@ -1,0 +1,443 @@
+[
+  {
+    "id": "SL05010301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombe",
+      "en": "Bombe",
+      "slug": "bombe"
+    },
+    "code": {
+      "id": "SL05010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.976",
+      "lon": "-12.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kamba",
+      "en": "Kamba",
+      "slug": "kamba"
+    },
+    "code": {
+      "id": "SL05010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.045",
+      "lon": "-12.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kambia",
+      "en": "Kambia",
+      "slug": "kambia"
+    },
+    "code": {
+      "id": "SL05010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.099",
+      "lon": "-12.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kargbulor",
+      "en": "Kargbulor",
+      "slug": "kargbulor"
+    },
+    "code": {
+      "id": "SL05010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.946",
+      "lon": "-12.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010305",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Robat",
+      "en": "Robat",
+      "slug": "robat"
+    },
+    "code": {
+      "id": "SL05010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.058",
+      "lon": "-12.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010306",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rokupr",
+      "en": "Rokupr",
+      "slug": "rokupr"
+    },
+    "code": {
+      "id": "SL05010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.008",
+      "lon": "-12.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL05010307",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tormina",
+      "en": "Tormina",
+      "slug": "tormina"
+    },
+    "code": {
+      "id": "SL05010307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL050103",
+      "level": 3,
+      "name": {
+        "local": "Magbema",
+        "en": "Magbema",
+        "slug": "magbema-sl050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL05",
+        "level": 1,
+        "name": {
+          "local": "North Western",
+          "en": "North Western",
+          "slug": "north-western-sl05"
+        }
+      },
+      {
+        "id": "SL0501",
+        "level": 2,
+        "name": {
+          "local": "Kambia",
+          "en": "Kambia",
+          "slug": "kambia-sl0501"
+        }
+      },
+      {
+        "id": "SL050103",
+        "level": 3,
+        "name": {
+          "local": "Magbema",
+          "en": "Magbema",
+          "slug": "magbema-sl050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.175",
+      "lon": "-12.884"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

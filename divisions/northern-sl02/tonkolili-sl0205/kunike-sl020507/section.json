@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL02050701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masingbi",
+      "en": "Masingbi",
+      "slug": "masingbi"
+    },
+    "code": {
+      "id": "SL02050701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.637",
+      "lon": "-11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rolal",
+      "en": "Rolal",
+      "slug": "rolal"
+    },
+    "code": {
+      "id": "SL02050702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.718",
+      "lon": "-11.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "SL02050703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.597",
+      "lon": "-11.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Semorkanie",
+      "en": "Semorkanie",
+      "slug": "semorkanie"
+    },
+    "code": {
+      "id": "SL02050704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.697",
+      "lon": "-11.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thamah",
+      "en": "Thamah",
+      "slug": "thamah"
+    },
+    "code": {
+      "id": "SL02050705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.594",
+      "lon": "-11.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Thambaya",
+      "en": "Thambaya",
+      "slug": "thambaya"
+    },
+    "code": {
+      "id": "SL02050706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.775",
+      "lon": "-11.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Wana",
+      "en": "Wana",
+      "slug": "wana"
+    },
+    "code": {
+      "id": "SL02050707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.805",
+      "lon": "-11.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yenkeh",
+      "en": "Yenkeh",
+      "slug": "yenkeh"
+    },
+    "code": {
+      "id": "SL02050708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020507",
+      "level": 3,
+      "name": {
+        "local": "Kunike",
+        "en": "Kunike",
+        "slug": "kunike-sl020507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020507",
+        "level": 3,
+        "name": {
+          "local": "Kunike",
+          "en": "Kunike",
+          "slug": "kunike-sl020507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.686",
+      "lon": "-11.452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

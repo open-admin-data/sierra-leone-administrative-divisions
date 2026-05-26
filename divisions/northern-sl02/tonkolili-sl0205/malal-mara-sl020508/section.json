@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL02050801",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kiamp Kakolo",
+      "en": "Kiamp Kakolo",
+      "slug": "kiamp-kakolo"
+    },
+    "code": {
+      "id": "SL02050801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "-12.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050802",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabilafu",
+      "en": "Mabilafu",
+      "slug": "mabilafu"
+    },
+    "code": {
+      "id": "SL02050802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.714",
+      "lon": "-12.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050803",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makoba",
+      "en": "Makoba",
+      "slug": "makoba"
+    },
+    "code": {
+      "id": "SL02050803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.617",
+      "lon": "-12.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050804",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malal",
+      "en": "Malal",
+      "slug": "malal"
+    },
+    "code": {
+      "id": "SL02050804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.713",
+      "lon": "-12.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050805",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Manewa",
+      "en": "Manewa",
+      "slug": "manewa"
+    },
+    "code": {
+      "id": "SL02050805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.678",
+      "lon": "-12.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050806",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mara",
+      "en": "Mara",
+      "slug": "mara"
+    },
+    "code": {
+      "id": "SL02050806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.669",
+      "lon": "-12.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050807",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Matanka",
+      "en": "Matanka",
+      "slug": "matanka"
+    },
+    "code": {
+      "id": "SL02050807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.675",
+      "lon": "-12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050808",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Rochen",
+      "en": "Rochen",
+      "slug": "rochen"
+    },
+    "code": {
+      "id": "SL02050808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020508",
+      "level": 3,
+      "name": {
+        "local": "Malal Mara",
+        "en": "Malal Mara",
+        "slug": "malal-mara-sl020508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020508",
+        "level": 3,
+        "name": {
+          "local": "Malal Mara",
+          "en": "Malal Mara",
+          "slug": "malal-mara-sl020508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.655",
+      "lon": "-12.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

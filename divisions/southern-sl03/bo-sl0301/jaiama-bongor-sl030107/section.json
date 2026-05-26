@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL03010701",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Baimba",
+      "en": "Lower Baimba",
+      "slug": "lower-baimba"
+    },
+    "code": {
+      "id": "SL03010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.736",
+      "lon": "-11.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010702",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Kama",
+      "en": "Lower Kama",
+      "slug": "lower-kama"
+    },
+    "code": {
+      "id": "SL03010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.72",
+      "lon": "-11.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010703",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lower Niawa",
+      "en": "Lower Niawa",
+      "slug": "lower-niawa"
+    },
+    "code": {
+      "id": "SL03010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.695",
+      "lon": "-11.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010704",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Nekpondo",
+      "en": "Nekpondo",
+      "slug": "nekpondo"
+    },
+    "code": {
+      "id": "SL03010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "-11.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010705",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tongowa",
+      "en": "Tongowa",
+      "slug": "tongowa"
+    },
+    "code": {
+      "id": "SL03010705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.83",
+      "lon": "-11.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010706",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Baimba",
+      "en": "Upper Baimba",
+      "slug": "upper-baimba"
+    },
+    "code": {
+      "id": "SL03010706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.79",
+      "lon": "-11.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010707",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Kama",
+      "en": "Upper Kama",
+      "slug": "upper-kama"
+    },
+    "code": {
+      "id": "SL03010707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.795",
+      "lon": "-11.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03010708",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Upper Niawa",
+      "en": "Upper Niawa",
+      "slug": "upper-niawa"
+    },
+    "code": {
+      "id": "SL03010708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030107",
+      "level": 3,
+      "name": {
+        "local": "Jaiama Bongor",
+        "en": "Jaiama Bongor",
+        "slug": "jaiama-bongor-sl030107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0301",
+        "level": 2,
+        "name": {
+          "local": "Bo",
+          "en": "Bo",
+          "slug": "bo-sl0301"
+        }
+      },
+      {
+        "id": "SL030107",
+        "level": 3,
+        "name": {
+          "local": "Jaiama Bongor",
+          "en": "Jaiama Bongor",
+          "slug": "jaiama-bongor-sl030107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "-11.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

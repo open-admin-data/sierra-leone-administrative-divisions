@@ -1,0 +1,48 @@
+{
+  "id": "SL0401",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Western Area Rural",
+    "en": "Western Area Rural",
+    "slug": "western-area-rural-sl0401"
+  },
+  "code": {
+    "id": "SL0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "SL04",
+    "level": 1,
+    "name": {
+      "local": "Western",
+      "en": "Western",
+      "slug": "western-sl04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SL04",
+      "level": 1,
+      "name": {
+        "local": "Western",
+        "en": "Western",
+        "slug": "western-sl04"
+      }
+    }
+  ],
+  "children_count": {
+    "chiefdom": 4,
+    "section": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.326",
+    "lon": "-13.061"
+  },
+  "metadata": {},
+  "source": {}
+}

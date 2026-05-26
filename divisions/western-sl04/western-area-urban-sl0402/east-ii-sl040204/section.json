@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SL04020401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Bombay",
+      "en": "Bombay",
+      "slug": "bombay"
+    },
+    "code": {
+      "id": "SL04020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.485",
+      "lon": "-13.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Coconut Farm/ Asho",
+      "en": "Coconut Farm/ Asho",
+      "slug": "coconut-farm-asho"
+    },
+    "code": {
+      "id": "SL04020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.478",
+      "lon": "-13.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foulah Town",
+      "en": "Foulah Town",
+      "slug": "foulah-town"
+    },
+    "code": {
+      "id": "SL04020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-13.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ginger Hall",
+      "en": "Ginger Hall",
+      "slug": "ginger-hall"
+    },
+    "code": {
+      "id": "SL04020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.484",
+      "lon": "-13.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020405",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kissy Brook",
+      "en": "Kissy Brook",
+      "slug": "kissy-brook"
+    },
+    "code": {
+      "id": "SL04020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.475",
+      "lon": "-13.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020406",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Magazine",
+      "en": "Magazine",
+      "slug": "magazine"
+    },
+    "code": {
+      "id": "SL04020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.489",
+      "lon": "-13.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020407",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mount Aureol",
+      "en": "Mount Aureol",
+      "slug": "mount-aureol"
+    },
+    "code": {
+      "id": "SL04020407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "-13.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL04020408",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Quarry",
+      "en": "Quarry",
+      "slug": "quarry"
+    },
+    "code": {
+      "id": "SL04020408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL040204",
+      "level": 3,
+      "name": {
+        "local": "East II",
+        "en": "East II",
+        "slug": "east-ii-sl040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL04",
+        "level": 1,
+        "name": {
+          "local": "Western",
+          "en": "Western",
+          "slug": "western-sl04"
+        }
+      },
+      {
+        "id": "SL0402",
+        "level": 2,
+        "name": {
+          "local": "Western Area Urban",
+          "en": "Western Area Urban",
+          "slug": "western-area-urban-sl0402"
+        }
+      },
+      {
+        "id": "SL040204",
+        "level": 3,
+        "name": {
+          "local": "East II",
+          "en": "East II",
+          "slug": "east-ii-sl040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.481",
+      "lon": "-13.215"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

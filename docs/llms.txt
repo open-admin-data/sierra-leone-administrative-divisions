@@ -1,0 +1,64 @@
+# Sierra Leone Administrative Divisions
+
+> Open dataset of Sierra Leone's administrative hierarchy:
+> 5 provinces, 16 districts, 167 chiefdoms, 1,316 sections.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 5
+- Total districts: 16
+- Total chiefdoms: 167
+- Total sections: 1,316
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/all-district.json)
+- [All chiefdoms (JSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/all-chiefdom.json)
+- [All sections (JSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/all-section.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Eastern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/tree/main/divisions/eastern-sl01/) — 3 districts, 46 chiefdoms, 265 sections
+- [North Western](https://github.com/open-admin-data/sierra-leone-administrative-divisions/tree/main/divisions/north-western-sl05/) — 3 districts, 23 chiefdoms, 284 sections
+- [Northern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/tree/main/divisions/northern-sl02/) — 4 districts, 31 chiefdoms, 258 sections
+- [Southern](https://github.com/open-admin-data/sierra-leone-administrative-divisions/tree/main/divisions/southern-sl03/) — 4 districts, 54 chiefdoms, 422 sections
+- [Western](https://github.com/open-admin-data/sierra-leone-administrative-divisions/tree/main/divisions/western-sl04/) — 2 districts, 13 chiefdoms, 87 sections
+
+## Per-Province Full Data
+
+- [Eastern](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/docs/llms-full/eastern-sl01.txt)
+- [North Western](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/docs/llms-full/north-western-sl05.txt)
+- [Northern](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/docs/llms-full/northern-sl02.txt)
+- [Southern](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/docs/llms-full/southern-sl03.txt)
+- [Western](https://raw.githubusercontent.com/open-admin-data/sierra-leone-administrative-divisions/main/docs/llms-full/western-sl04.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district), 3 (chiefdom), 4 (section)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Sierra Leone Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/sierra-leone-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

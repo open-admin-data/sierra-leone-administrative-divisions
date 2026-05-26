@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL02050401",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Kumrabai",
+      "en": "Kumrabai",
+      "slug": "kumrabai"
+    },
+    "code": {
+      "id": "SL02050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020504",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Mabang",
+        "en": "Kholifa Mabang",
+        "slug": "kholifa-mabang-sl020504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020504",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Mabang",
+          "en": "Kholifa Mabang",
+          "slug": "kholifa-mabang-sl020504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.524",
+      "lon": "-12.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050402",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mabang",
+      "en": "Mabang",
+      "slug": "mabang"
+    },
+    "code": {
+      "id": "SL02050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020504",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Mabang",
+        "en": "Kholifa Mabang",
+        "slug": "kholifa-mabang-sl020504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020504",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Mabang",
+          "en": "Kholifa Mabang",
+          "slug": "kholifa-mabang-sl020504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.55",
+      "lon": "-12.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050403",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marunia Koray",
+      "en": "Marunia Koray",
+      "slug": "marunia-koray"
+    },
+    "code": {
+      "id": "SL02050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020504",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Mabang",
+        "en": "Kholifa Mabang",
+        "slug": "kholifa-mabang-sl020504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020504",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Mabang",
+          "en": "Kholifa Mabang",
+          "slug": "kholifa-mabang-sl020504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.585",
+      "lon": "-12.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02050404",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Marunia Sakie",
+      "en": "Marunia Sakie",
+      "slug": "marunia-sakie"
+    },
+    "code": {
+      "id": "SL02050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020504",
+      "level": 3,
+      "name": {
+        "local": "Kholifa Mabang",
+        "en": "Kholifa Mabang",
+        "slug": "kholifa-mabang-sl020504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020504",
+        "level": 3,
+        "name": {
+          "local": "Kholifa Mabang",
+          "en": "Kholifa Mabang",
+          "slug": "kholifa-mabang-sl020504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.529",
+      "lon": "-12.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

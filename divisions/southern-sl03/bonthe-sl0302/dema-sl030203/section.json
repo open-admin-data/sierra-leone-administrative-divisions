@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03020301",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Chepo",
+      "en": "Chepo",
+      "slug": "chepo"
+    },
+    "code": {
+      "id": "SL03020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030203",
+      "level": 3,
+      "name": {
+        "local": "Dema",
+        "en": "Dema",
+        "slug": "dema-sl030203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030203",
+        "level": 3,
+        "name": {
+          "local": "Dema",
+          "en": "Dema",
+          "slug": "dema-sl030203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.569",
+      "lon": "-12.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020302",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Dema",
+      "en": "Dema",
+      "slug": "dema"
+    },
+    "code": {
+      "id": "SL03020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030203",
+      "level": 3,
+      "name": {
+        "local": "Dema",
+        "en": "Dema",
+        "slug": "dema-sl030203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030203",
+        "level": 3,
+        "name": {
+          "local": "Dema",
+          "en": "Dema",
+          "slug": "dema-sl030203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.594",
+      "lon": "-12.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020303",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Turtle Islands",
+      "en": "Turtle Islands",
+      "slug": "turtle-islands"
+    },
+    "code": {
+      "id": "SL03020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030203",
+      "level": 3,
+      "name": {
+        "local": "Dema",
+        "en": "Dema",
+        "slug": "dema-sl030203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030203",
+        "level": 3,
+        "name": {
+          "local": "Dema",
+          "en": "Dema",
+          "slug": "dema-sl030203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.579",
+      "lon": "-12.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020304",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yoh",
+      "en": "Yoh",
+      "slug": "yoh"
+    },
+    "code": {
+      "id": "SL03020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030203",
+      "level": 3,
+      "name": {
+        "local": "Dema",
+        "en": "Dema",
+        "slug": "dema-sl030203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030203",
+        "level": 3,
+        "name": {
+          "local": "Dema",
+          "en": "Dema",
+          "slug": "dema-sl030203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.588",
+      "lon": "-12.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

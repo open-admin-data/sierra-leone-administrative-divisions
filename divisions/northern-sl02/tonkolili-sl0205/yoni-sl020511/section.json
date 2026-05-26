@@ -1,0 +1,821 @@
+[
+  {
+    "id": "SL02051101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Foindu",
+      "en": "Foindu",
+      "slug": "foindu"
+    },
+    "code": {
+      "id": "SL02051101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.357",
+      "lon": "-12.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gaindema",
+      "en": "Gaindema",
+      "slug": "gaindema"
+    },
+    "code": {
+      "id": "SL02051102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.413",
+      "lon": "-12.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Macrogba",
+      "en": "Macrogba",
+      "slug": "macrogba"
+    },
+    "code": {
+      "id": "SL02051103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.401",
+      "lon": "-12.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Makeni Rokefula",
+      "en": "Makeni Rokefula",
+      "slug": "makeni-rokefula"
+    },
+    "code": {
+      "id": "SL02051104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "-12.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051105",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malanchor",
+      "en": "Malanchor",
+      "slug": "malanchor"
+    },
+    "code": {
+      "id": "SL02051105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.352",
+      "lon": "-12.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051106",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Malompor",
+      "en": "Malompor",
+      "slug": "malompor"
+    },
+    "code": {
+      "id": "SL02051106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.426",
+      "lon": "-12.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051107",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mamaka",
+      "en": "Mamaka",
+      "slug": "mamaka"
+    },
+    "code": {
+      "id": "SL02051107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.511",
+      "lon": "-12.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051108",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Masengbe",
+      "en": "Masengbe",
+      "slug": "masengbe"
+    },
+    "code": {
+      "id": "SL02051108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.315",
+      "lon": "-12.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051109",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Mayira",
+      "en": "Mayira",
+      "slug": "mayira"
+    },
+    "code": {
+      "id": "SL02051109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.413",
+      "lon": "-12.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051110",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu Upper",
+      "en": "Petifu Upper",
+      "slug": "petifu-upper"
+    },
+    "code": {
+      "id": "SL02051110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.394",
+      "lon": "-12.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051111",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Petifu-Lower",
+      "en": "Petifu-Lower",
+      "slug": "petifu-lower"
+    },
+    "code": {
+      "id": "SL02051111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.36",
+      "lon": "-12.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051112",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Ronietta",
+      "en": "Ronietta",
+      "slug": "ronietta"
+    },
+    "code": {
+      "id": "SL02051112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "-12.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL02051113",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yoni",
+      "en": "Yoni",
+      "slug": "yoni"
+    },
+    "code": {
+      "id": "SL02051113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL020511",
+      "level": 3,
+      "name": {
+        "local": "Yoni",
+        "en": "Yoni",
+        "slug": "yoni-sl020511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL02",
+        "level": 1,
+        "name": {
+          "local": "Northern",
+          "en": "Northern",
+          "slug": "northern-sl02"
+        }
+      },
+      {
+        "id": "SL0205",
+        "level": 2,
+        "name": {
+          "local": "Tonkolili",
+          "en": "Tonkolili",
+          "slug": "tonkolili-sl0205"
+        }
+      },
+      {
+        "id": "SL020511",
+        "level": 3,
+        "name": {
+          "local": "Yoni",
+          "en": "Yoni",
+          "slug": "yoni-sl020511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.433",
+      "lon": "-12.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

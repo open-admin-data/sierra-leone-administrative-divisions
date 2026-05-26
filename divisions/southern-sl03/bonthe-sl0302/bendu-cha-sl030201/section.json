@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SL03020101",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gba-Cha",
+      "en": "Gba-Cha",
+      "slug": "gba-cha"
+    },
+    "code": {
+      "id": "SL03020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030201",
+      "level": 3,
+      "name": {
+        "local": "Bendu-Cha",
+        "en": "Bendu-Cha",
+        "slug": "bendu-cha-sl030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030201",
+        "level": 3,
+        "name": {
+          "local": "Bendu-Cha",
+          "en": "Bendu-Cha",
+          "slug": "bendu-cha-sl030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.443",
+      "lon": "-12.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020102",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Sokenteh",
+      "en": "Sokenteh",
+      "slug": "sokenteh"
+    },
+    "code": {
+      "id": "SL03020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030201",
+      "level": 3,
+      "name": {
+        "local": "Bendu-Cha",
+        "en": "Bendu-Cha",
+        "slug": "bendu-cha-sl030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030201",
+        "level": 3,
+        "name": {
+          "local": "Bendu-Cha",
+          "en": "Bendu-Cha",
+          "slug": "bendu-cha-sl030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.469",
+      "lon": "-12.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020103",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tissagbe",
+      "en": "Tissagbe",
+      "slug": "tissagbe"
+    },
+    "code": {
+      "id": "SL03020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030201",
+      "level": 3,
+      "name": {
+        "local": "Bendu-Cha",
+        "en": "Bendu-Cha",
+        "slug": "bendu-cha-sl030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030201",
+        "level": 3,
+        "name": {
+          "local": "Bendu-Cha",
+          "en": "Bendu-Cha",
+          "slug": "bendu-cha-sl030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.425",
+      "lon": "-12.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020104",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yallan-gbokie",
+      "en": "Yallan-gbokie",
+      "slug": "yallan-gbokie"
+    },
+    "code": {
+      "id": "SL03020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030201",
+      "level": 3,
+      "name": {
+        "local": "Bendu-Cha",
+        "en": "Bendu-Cha",
+        "slug": "bendu-cha-sl030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030201",
+        "level": 3,
+        "name": {
+          "local": "Bendu-Cha",
+          "en": "Bendu-Cha",
+          "slug": "bendu-cha-sl030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.497",
+      "lon": "-12.354"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

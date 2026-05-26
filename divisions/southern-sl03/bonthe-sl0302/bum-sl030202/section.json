@@ -1,0 +1,569 @@
+[
+  {
+    "id": "SL03020201",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Fikie",
+      "en": "Fikie",
+      "slug": "fikie"
+    },
+    "code": {
+      "id": "SL03020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.412",
+      "lon": "-11.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020202",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbengain",
+      "en": "Gbengain",
+      "slug": "gbengain"
+    },
+    "code": {
+      "id": "SL03020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.393",
+      "lon": "-11.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020203",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Gbondubum",
+      "en": "Gbondubum",
+      "slug": "gbondubum"
+    },
+    "code": {
+      "id": "SL03020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.448",
+      "lon": "-11.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020204",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Koimato",
+      "en": "Koimato",
+      "slug": "koimato"
+    },
+    "code": {
+      "id": "SL03020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.488",
+      "lon": "-12.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020205",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Lanje",
+      "en": "Lanje",
+      "slug": "lanje"
+    },
+    "code": {
+      "id": "SL03020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.504",
+      "lon": "-11.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020206",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Tamba",
+      "en": "Tamba",
+      "slug": "tamba"
+    },
+    "code": {
+      "id": "SL03020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.363",
+      "lon": "-11.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020207",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Torma",
+      "en": "Torma",
+      "slug": "torma"
+    },
+    "code": {
+      "id": "SL03020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.417",
+      "lon": "-12.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020208",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yargbe",
+      "en": "Yargbe",
+      "slug": "yargbe"
+    },
+    "code": {
+      "id": "SL03020208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.372",
+      "lon": "-11.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SL03020209",
+    "level": 4,
+    "level_name": {
+      "local": "Section",
+      "en": "Section"
+    },
+    "name": {
+      "local": "Yawma",
+      "en": "Yawma",
+      "slug": "yawma"
+    },
+    "code": {
+      "id": "SL03020209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SL030202",
+      "level": 3,
+      "name": {
+        "local": "Bum",
+        "en": "Bum",
+        "slug": "bum-sl030202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SL03",
+        "level": 1,
+        "name": {
+          "local": "Southern",
+          "en": "Southern",
+          "slug": "southern-sl03"
+        }
+      },
+      {
+        "id": "SL0302",
+        "level": 2,
+        "name": {
+          "local": "Bonthe",
+          "en": "Bonthe",
+          "slug": "bonthe-sl0302"
+        }
+      },
+      {
+        "id": "SL030202",
+        "level": 3,
+        "name": {
+          "local": "Bum",
+          "en": "Bum",
+          "slug": "bum-sl030202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.476",
+      "lon": "-11.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
