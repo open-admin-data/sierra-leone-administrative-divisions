@@ -11,7 +11,7 @@
 - Total chiefdoms: 167
 - Total sections: 1,316
 - Coordinates: included (all levels)
-- Last updated: 2026-05-26
+- Last updated: 2026-05-27
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

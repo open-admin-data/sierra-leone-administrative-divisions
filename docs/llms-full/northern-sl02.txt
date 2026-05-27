@@ -3,7 +3,7 @@
 > 4 districts, 31 chiefdoms, 258 sections
 > Code: SL02
 > Coordinates: 9.118, -11.478
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 
