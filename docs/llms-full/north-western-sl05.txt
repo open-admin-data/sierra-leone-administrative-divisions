@@ -3,7 +3,7 @@
 > 3 districts, 23 chiefdoms, 284 sections
 > Code: SL05
 > Coordinates: 9.101, -12.64
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

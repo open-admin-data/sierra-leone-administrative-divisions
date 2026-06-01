@@ -1,189 +1,190 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.chiefdom,children_count.section,zip_codes,geo.lat,geo.lon
-SL01,1,Province,Province,Eastern,Eastern,eastern-sl01,SL01,,,,,,3,46,265,,8.209,-10.845
-SL0101,2,District,District,Kailahun,Kailahun,kailahun-sl0101,SL0101,,SL01,Eastern,Eastern,,,14,81,,8.059,-10.765
-SL010101,3,Chiefdom,Chiefdom,Dea,Dea,dea-sl010101,SL010101,,SL0101,Kailahun,Kailahun,,,,4,,7.953,-10.649
-SL010102,3,Chiefdom,Chiefdom,Jawie,Jawie,jawie-sl010102,SL010102,,SL0101,Kailahun,Kailahun,,,,8,,7.894,-10.895
-SL010103,3,Chiefdom,Chiefdom,Kissi Kama,Kissi Kama,kissi-kama-sl010103,SL010103,,SL0101,Kailahun,Kailahun,,,,3,,8.411,-10.403
-SL010104,3,Chiefdom,Chiefdom,Kissi Teng,Kissi Teng,kissi-teng-sl010104,SL010104,,SL0101,Kailahun,Kailahun,,,,5,,8.388,-10.353
-SL010105,3,Chiefdom,Chiefdom,Kissi Tongi,Kissi Tongi,kissi-tongi-sl010105,SL010105,,SL0101,Kailahun,Kailahun,,,,4,,8.307,-10.338
-SL010106,3,Chiefdom,Chiefdom,Kpeje Bongre,Kpeje Bongre,kpeje-bongre-sl010106,SL010106,,SL0101,Kailahun,Kailahun,,,,7,,8.145,-10.779
-SL010107,3,Chiefdom,Chiefdom,Kpeje West,Kpeje West,kpeje-west-sl010107,SL010107,,SL0101,Kailahun,Kailahun,,,,4,,8.192,-10.838
-SL010108,3,Chiefdom,Chiefdom,Luawa,Luawa,luawa-sl010108,SL010108,,SL0101,Kailahun,Kailahun,,,,10,,8.207,-10.56
-SL010109,3,Chiefdom,Chiefdom,Malema,Malema,malema-sl010109,SL010109,,SL0101,Kailahun,Kailahun,,,,5,,7.777,-10.752
-SL010110,3,Chiefdom,Chiefdom,Mandu,Mandu,mandu-sl010110,SL010110,,SL0101,Kailahun,Kailahun,,,,4,,7.986,-10.748
-SL010111,3,Chiefdom,Chiefdom,Njaluahun,Njaluahun,njaluahun-sl010111,SL010111,,SL0101,Kailahun,Kailahun,,,,12,,8.008,-10.907
-SL010112,3,Chiefdom,Chiefdom,Penguia,Penguia,penguia-sl010112,SL010112,,SL0101,Kailahun,Kailahun,,,,5,,8.358,-10.729
-SL010113,3,Chiefdom,Chiefdom,Upper Bambara,Upper Bambara,upper-bambara-sl010113,SL010113,,SL0101,Kailahun,Kailahun,,,,6,,8.073,-10.674
-SL010114,3,Chiefdom,Chiefdom,Yawei,Yawei,yawei-sl010114,SL010114,,SL0101,Kailahun,Kailahun,,,,4,,8.327,-10.821
-SL0102,2,District,District,Kenema,Kenema,kenema-sl0102,SL0102,,SL01,Eastern,Eastern,,,17,104,,7.946,-11.191
-SL010201,3,Chiefdom,Chiefdom,Dama,Dama,dama-sl010201,SL010201,,SL0102,Kenema,Kenema,,,,7,,7.757,-11.146
-SL010202,3,Chiefdom,Chiefdom,Dodo,Dodo,dodo-sl010202,SL010202,,SL0102,Kenema,Kenema,,,,7,,8.205,-11.209
-SL010203,3,Chiefdom,Chiefdom,Gaura,Gaura,gaura-sl010203,SL010203,,SL0102,Kenema,Kenema,,,,6,,7.71,-10.999
-SL010204,3,Chiefdom,Chiefdom,Gorama Mende,Gorama Mende,gorama-mende-sl010204,SL010204,,SL0102,Kenema,Kenema,,,,4,,8.44,-11.4
-SL010205,3,Chiefdom,Chiefdom,Kandu Leppiama,Kandu Leppiama,kandu-leppiama-sl010205,SL010205,,SL0102,Kenema,Kenema,,,,4,,8.039,-11.274
-SL010206,3,Chiefdom,Chiefdom,Koya,Koya,koya-sl010206,SL010206,,SL0102,Kenema,Kenema,,,,5,,7.632,-11.292
-SL010207,3,Chiefdom,Chiefdom,Langrama,Langrama,langrama-sl010207,SL010207,,SL0102,Kenema,Kenema,,,,2,,7.667,-11.477
-SL010208,3,Chiefdom,Chiefdom,Lower Bambara,Lower Bambara,lower-bambara-sl010208,SL010208,,SL0102,Kenema,Kenema,,,,7,,8.222,-11.043
-SL010209,3,Chiefdom,Chiefdom,Malegohun,Malegohun,malegohun-sl010209,SL010209,,SL0102,Kenema,Kenema,,,,7,,8.232,-10.901
-SL010210,3,Chiefdom,Chiefdom,Niawa,Niawa,niawa-sl010210,SL010210,,SL0102,Kenema,Kenema,,,,5,,7.667,-11.401
-SL010211,3,Chiefdom,Chiefdom,Nomo,Nomo,nomo-sl010211,SL010211,,SL0102,Kenema,Kenema,,,,3,,7.554,-10.944
-SL010212,3,Chiefdom,Chiefdom,Nongowa,Nongowa,nongowa-sl010212,SL010212,,SL0102,Kenema,Kenema,,,,8,,7.94,-11.141
-SL010213,3,Chiefdom,Chiefdom,Simbaru,Simbaru,simbaru-sl010213,SL010213,,SL0102,Kenema,Kenema,,,,4,,8.2,-11.32
-SL010214,3,Chiefdom,Chiefdom,Small Bo,Small Bo,small-bo-sl010214,SL010214,,SL0102,Kenema,Kenema,,,,5,,7.86,-11.349
-SL010215,3,Chiefdom,Chiefdom,Tunkia,Tunkia,tunkia-sl010215,SL010215,,SL0102,Kenema,Kenema,,,,7,,7.498,-11.161
-SL010216,3,Chiefdom,Chiefdom,Wandor,Wandor,wandor-sl010216,SL010216,,SL0102,Kenema,Kenema,,,,6,,8.305,-11.357
-SL010291,3,Chiefdom,Chiefdom,Kenema Town,Kenema Town,kenema-town-sl010291,SL010291,,SL0102,Kenema,Kenema,,,,17,,7.881,-11.185
-SL0103,2,District,District,Kono,Kono,kono-sl0103,SL0103,,SL01,Eastern,Eastern,,,15,80,,8.706,-10.922
-SL010301,3,Chiefdom,Chiefdom,Fiama,Fiama,fiama-sl010301,SL010301,,SL0103,Kono,Kono,,,,5,,8.656,-10.825
-SL010302,3,Chiefdom,Chiefdom,Gbane,Gbane,gbane-sl010302,SL010302,,SL0103,Kono,Kono,,,,5,,8.475,-10.854
-SL010303,3,Chiefdom,Chiefdom,Gbane Kandor,Gbane Kandor,gbane-kandor-sl010303,SL010303,,SL0103,Kono,Kono,,,,5,,8.64,-10.566
-SL010304,3,Chiefdom,Chiefdom,Gbense,Gbense,gbense-sl010304,SL010304,,SL0103,Kono,Kono,,,,5,,8.722,-10.917
-SL010305,3,Chiefdom,Chiefdom,Gorama Kono,Gorama Kono,gorama-kono-sl010305,SL010305,,SL0103,Kono,Kono,,,,3,,8.394,-11.087
-SL010306,3,Chiefdom,Chiefdom,Kamara,Kamara,kamara-sl010306,SL010306,,SL0103,Kono,Kono,,,,4,,8.714,-11.034
-SL010307,3,Chiefdom,Chiefdom,Lei,Lei,lei-sl010307,SL010307,,SL0103,Kono,Kono,,,,9,,8.833,-10.687
-SL010308,3,Chiefdom,Chiefdom,Mafindor,Mafindor,mafindor-sl010308,SL010308,,SL0103,Kono,Kono,,,,3,,8.687,-10.51
-SL010309,3,Chiefdom,Chiefdom,Nimikoro,Nimikoro,nimikoro-sl010309,SL010309,,SL0103,Kono,Kono,,,,5,,8.581,-11.101
-SL010310,3,Chiefdom,Chiefdom,Nimiyama,Nimiyama,nimiyama-sl010310,SL010310,,SL0103,Kono,Kono,,,,5,,8.576,-11.272
-SL010311,3,Chiefdom,Chiefdom,Sandor,Sandor,sandor-sl010311,SL010311,,SL0103,Kono,Kono,,,,10,,8.87,-11.035
-SL010312,3,Chiefdom,Chiefdom,Soa,Soa,soa-sl010312,SL010312,,SL0103,Kono,Kono,,,,8,,8.591,-10.692
-SL010313,3,Chiefdom,Chiefdom,Tankoro,Tankoro,tankoro-sl010313,SL010313,,SL0103,Kono,Kono,,,,3,,8.54,-10.961
-SL010314,3,Chiefdom,Chiefdom,Toli,Toli,toli-sl010314,SL010314,,SL0103,Kono,Kono,,,,3,,8.994,-10.636
-SL010391,3,Chiefdom,Chiefdom,Koidu Town,Koidu Town,koidu-town-sl010391,SL010391,,SL0103,Kono,Kono,,,,7,,8.636,-10.981
-SL02,1,Province,Province,Northern,Northern,northern-sl02,SL02,,,,,,4,31,258,,9.118,-11.478
-SL0201,2,District,District,Bombali,Bombali,bombali-sl0201,SL0201,,SL02,Northern,Northern,,,9,89,,9.103,-12.038
-SL020101,3,Chiefdom,Chiefdom,Biriwa,Biriwa,biriwa-sl020101,SL020101,,SL0201,Bombali,Bombali,,,,8,,9.271,-11.918
-SL020102,3,Chiefdom,Chiefdom,Bombali Sebora,Bombali Sebora,bombali-sebora-sl020102,SL020102,,SL0201,Bombali,Bombali,,,,4,,8.779,-12.062
-SL020103,3,Chiefdom,Chiefdom,Gbanti Kamarank,Gbanti Kamarank,gbanti-kamarank-sl020103,SL020103,,SL0201,Bombali,Bombali,,,,17,,9.278,-12.293
-SL020104,3,Chiefdom,Chiefdom,Gbendembu Ngowa,Gbendembu Ngowa,gbendembu-ngowa-sl020104,SL020104,,SL0201,Bombali,Bombali,,,,19,,9.081,-12.2
-SL020106,3,Chiefdom,Chiefdom,Magbaimba Ndorh,Magbaimba Ndorh,magbaimba-ndorh-sl020106,SL020106,,SL0201,Bombali,Bombali,,,,9,,9.274,-12.075
-SL020107,3,Chiefdom,Chiefdom,Makari Gbanti,Makari Gbanti,makari-gbanti-sl020107,SL020107,,SL0201,Bombali,Bombali,,,,11,,8.85,-12.206
-SL020108,3,Chiefdom,Chiefdom,Paki Masabong,Paki Masabong,paki-masabong-sl020108,SL020108,,SL0201,Bombali,Bombali,,,,6,,8.802,-11.943
-SL020109,3,Chiefdom,Chiefdom,Safroko Limba,Safroko Limba,safroko-limba-sl020109,SL020109,,SL0201,Bombali,Bombali,,,,7,,9.011,-11.997
-SL020191,3,Chiefdom,Chiefdom,Makeni Town,Makeni Town,makeni-town-sl020191,SL020191,,SL0201,Bombali,Bombali,,,,8,,8.883,-12.046
-SL0203,2,District,District,Koinadugu,Koinadugu,koinadugu-sl0203,SL0203,,SL02,Northern,Northern,,,6,40,,9.33,-11.533
-SL020302,3,Chiefdom,Chiefdom,Diang,Diang,diang-sl020302,SL020302,,SL0203,Koinadugu,Koinadugu,,,,6,,9.271,-11.555
-SL020304,3,Chiefdom,Chiefdom,Kasunko,Kasunko,kasunko-sl020304,SL020304,,SL0203,Koinadugu,Koinadugu,,,,6,,9.465,-11.787
-SL020307,3,Chiefdom,Chiefdom,Nieni,Nieni,nieni-sl020307,SL020307,,SL0203,Koinadugu,Koinadugu,,,,5,,9.055,-11.299
-SL020308,3,Chiefdom,Chiefdom,Sengbe,Sengbe,sengbe-sl020308,SL020308,,SL0203,Koinadugu,Koinadugu,,,,5,,9.564,-11.452
-SL020310,3,Chiefdom,Chiefdom,Wara Wara Bafod,Wara Wara Bafod,wara-wara-bafod-sl020310,SL020310,,SL0203,Koinadugu,Koinadugu,,,,11,,9.775,-11.779
-SL020311,3,Chiefdom,Chiefdom,Wara Wara Yagal,Wara Wara Yagal,wara-wara-yagal-sl020311,SL020311,,SL0203,Koinadugu,Koinadugu,,,,7,,9.55,-11.627
-SL0205,2,District,District,Tonkolili,Tonkolili,tonkolili-sl0205,SL0205,,SL02,Northern,Northern,,,11,80,,8.762,-11.646
-SL020501,3,Chiefdom,Chiefdom,Gbonkolenken,Gbonkolenken,gbonkolenken-sl020501,SL020501,,SL0205,Tonkolili,Tonkolili,,,,10,,8.482,-11.898
-SL020502,3,Chiefdom,Chiefdom,Kafe Simiria,Kafe Simiria,kafe-simiria-sl020502,SL020502,,SL0205,Tonkolili,Tonkolili,,,,7,,8.87,-11.774
-SL020503,3,Chiefdom,Chiefdom,Kalansogoia,Kalansogoia,kalansogoia-sl020503,SL020503,,SL0205,Tonkolili,Tonkolili,,,,7,,9.103,-11.752
-SL020504,3,Chiefdom,Chiefdom,Kholifa Mabang,Kholifa Mabang,kholifa-mabang-sl020504,SL020504,,SL0205,Tonkolili,Tonkolili,,,,4,,8.534,-12.173
-SL020505,3,Chiefdom,Chiefdom,Kholifa Rowala,Kholifa Rowala,kholifa-rowala-sl020505,SL020505,,SL0205,Tonkolili,Tonkolili,,,,7,,8.663,-12.014
-SL020506,3,Chiefdom,Chiefdom,Kunike Barina,Kunike Barina,kunike-barina-sl020506,SL020506,,SL0205,Tonkolili,Tonkolili,,,,6,,8.588,-11.642
-SL020507,3,Chiefdom,Chiefdom,Kunike,Kunike,kunike-sl020507,SL020507,,SL0205,Tonkolili,Tonkolili,,,,8,,8.696,-11.519
-SL020508,3,Chiefdom,Chiefdom,Malal Mara,Malal Mara,malal-mara-sl020508,SL020508,,SL0205,Tonkolili,Tonkolili,,,,8,,8.666,-12.258
-SL020509,3,Chiefdom,Chiefdom,Sambaya,Sambaya,sambaya-sl020509,SL020509,,SL0205,Tonkolili,Tonkolili,,,,4,,9.013,-11.544
-SL020510,3,Chiefdom,Chiefdom,Tane,Tane,tane-sl020510,SL020510,,SL0205,Tonkolili,Tonkolili,,,,6,,8.672,-11.812
-SL020511,3,Chiefdom,Chiefdom,Yoni,Yoni,yoni-sl020511,SL020511,,SL0205,Tonkolili,Tonkolili,,,,13,,8.406,-12.319
-SL0206,2,District,District,Fabala,Fabala,fabala-sl0206,SL0206,,SL02,Northern,Northern,,,5,49,,9.466,-11.204
-SL020601,3,Chiefdom,Chiefdom,Dembelia - Sink,Dembelia - Sink,dembelia-sink-sl020601,SL020601,,SL0206,Fabala,Fabala,,,,10,,9.834,-11.448
-SL020602,3,Chiefdom,Chiefdom,Folosaba Dembel,Folosaba Dembel,folosaba-dembel-sl020602,SL020602,,SL0206,Fabala,Fabala,,,,12,,9.819,-11.609
-SL020603,3,Chiefdom,Chiefdom,Mongo,Mongo,mongo-sl020603,SL020603,,SL0206,Fabala,Fabala,,,,9,,9.442,-11.062
-SL020604,3,Chiefdom,Chiefdom,Neya,Neya,neya-sl020604,SL020604,,SL0206,Fabala,Fabala,,,,5,,9.125,-10.913
-SL020606,3,Chiefdom,Chiefdom,Sulima,Sulima,sulima-sl020606,SL020606,,SL0206,Fabala,Fabala,,,,13,,9.819,-11.22
-SL03,1,Province,Province,Southern,Southern,southern-sl03,SL03,,,,,,4,54,422,,7.706,-12
-SL0301,2,District,District,Bo,Bo,bo-sl0301,SL0301,,SL03,Southern,Southern,,,16,108,,7.984,-11.702
-SL030101,3,Chiefdom,Chiefdom,Badjia,Badjia,badjia-sl030101,SL030101,,SL0301,Bo,Bo,,,,5,,8.092,-11.4
-SL030102,3,Chiefdom,Chiefdom,Bagbo,Bagbo,bagbo-sl030102,SL030102,,SL0301,Bo,Bo,,,,7,,7.598,-11.866
-SL030103,3,Chiefdom,Chiefdom,Bagbwe(Bagbe),Bagbwe(Bagbe),bagbwebagbe-sl030103,SL030103,,SL0301,Bo,Bo,,,,5,,8.085,-11.539
-SL030104,3,Chiefdom,Chiefdom,Boama,Boama,boama-sl030104,SL030104,,SL0301,Bo,Bo,,,,8,,7.939,-11.479
-SL030105,3,Chiefdom,Chiefdom,Bumpe Ngao,Bumpe Ngao,bumpe-ngao-sl030105,SL030105,,SL0301,Bo,Bo,,,,10,,7.832,-12.008
-SL030106,3,Chiefdom,Chiefdom,Gbo,Gbo,gbo-sl030106,SL030106,,SL0301,Bo,Bo,,,,3,,8.068,-11.847
-SL030107,3,Chiefdom,Chiefdom,Jaiama Bongor,Jaiama Bongor,jaiama-bongor-sl030107,SL030107,,SL0301,Bo,Bo,,,,8,,7.759,-11.615
-SL030108,3,Chiefdom,Chiefdom,Kakua,Kakua,kakua-sl030108,SL030108,,SL0301,Bo,Bo,,,,8,,7.965,-11.634
-SL030109,3,Chiefdom,Chiefdom,Komboya,Komboya,komboya-sl030109,SL030109,,SL0301,Bo,Bo,,,,5,,8.254,-11.508
-SL030110,3,Chiefdom,Chiefdom,Lugbu,Lugbu,lugbu-sl030110,SL030110,,SL0301,Bo,Bo,,,,6,,7.69,-11.875
-SL030111,3,Chiefdom,Chiefdom,Niawa Lenga,Niawa Lenga,niawa-lenga-sl030111,SL030111,,SL0301,Bo,Bo,,,,4,,8.147,-11.614
-SL030112,3,Chiefdom,Chiefdom,Selenga,Selenga,selenga-sl030112,SL030112,,SL0301,Bo,Bo,,,,3,,8.108,-11.723
-SL030113,3,Chiefdom,Chiefdom,Tikonko,Tikonko,tikonko-sl030113,SL030113,,SL0301,Bo,Bo,,,,8,,7.857,-11.758
-SL030114,3,Chiefdom,Chiefdom,Valunia,Valunia,valunia-sl030114,SL030114,,SL0301,Bo,Bo,,,,7,,8.313,-11.67
-SL030115,3,Chiefdom,Chiefdom,Wonde,Wonde,wonde-sl030115,SL030115,,SL0301,Bo,Bo,,,,4,,7.685,-11.549
-SL030191,3,Chiefdom,Chiefdom,Bo Town,Bo Town,bo-town-sl030191,SL030191,,SL0301,Bo,Bo,,,,17,,7.96,-11.733
-SL0302,2,District,District,Bonthe,Bonthe,bonthe-sl0302,SL0302,,SL03,Southern,Southern,,,12,78,,7.5,-12.149
-SL030201,3,Chiefdom,Chiefdom,Bendu-Cha,Bendu-Cha,bendu-cha-sl030201,SL030201,,SL0302,Bonthe,Bonthe,,,,4,,7.47,-12.386
-SL030202,3,Chiefdom,Chiefdom,Bum,Bum,bum-sl030202,SL030202,,SL0302,Bonthe,Bonthe,,,,9,,7.432,-11.971
-SL030203,3,Chiefdom,Chiefdom,Dema,Dema,dema-sl030203,SL030203,,SL0302,Bonthe,Bonthe,,,,4,,7.589,-12.863
-SL030204,3,Chiefdom,Chiefdom,Imperri,Imperri,imperri-sl030204,SL030204,,SL0302,Bonthe,Bonthe,,,,6,,7.667,-12.36
-SL030205,3,Chiefdom,Chiefdom,Jong,Jong,jong-sl030205,SL030205,,SL0302,Bonthe,Bonthe,,,,8,,7.573,-12.191
-SL030206,3,Chiefdom,Chiefdom,Kpanda Kemo,Kpanda Kemo,kpanda-kemo-sl030206,SL030206,,SL0302,Bonthe,Bonthe,,,,6,,7.597,-12.028
-SL030207,3,Chiefdom,Chiefdom,Kwamebai Krim,Kwamebai Krim,kwamebai-krim-sl030207,SL030207,,SL0302,Bonthe,Bonthe,,,,7,,7.27,-11.987
-SL030208,3,Chiefdom,Chiefdom,Nongoba Bullom,Nongoba Bullom,nongoba-bullom-sl030208,SL030208,,SL0302,Bonthe,Bonthe,,,,13,,7.367,-12.262
-SL030209,3,Chiefdom,Chiefdom,Sittia,Sittia,sittia-sl030209,SL030209,,SL0302,Bonthe,Bonthe,,,,11,,7.514,-12.616
-SL030210,3,Chiefdom,Chiefdom,Sogbeni,Sogbeni,sogbeni-sl030210,SL030210,,SL0302,Bonthe,Bonthe,,,,4,,7.54,-12.095
-SL030211,3,Chiefdom,Chiefdom,Yawbeko,Yawbeko,yawbeko-sl030211,SL030211,,SL0302,Bonthe,Bonthe,,,,5,,7.445,-12.127
-SL030291,3,Chiefdom,Chiefdom,Bonthe Urban,Bonthe Urban,bonthe-urban-sl030291,SL030291,,SL0302,Bonthe,Bonthe,,,,1,,7.534,-12.519
-SL0303,2,District,District,Moyamba,Moyamba,moyamba-sl0303,SL0303,,SL03,Southern,Southern,,,14,142,,8.03,-12.391
-SL030301,3,Chiefdom,Chiefdom,Bagruwa,Bagruwa,bagruwa-sl030301,SL030301,,SL0303,Moyamba,Moyamba,,,,9,,7.865,-12.518
-SL030302,3,Chiefdom,Chiefdom,Bumpeh,Bumpeh,bumpeh-sl030302,SL030302,,SL0303,Moyamba,Moyamba,,,,13,,8.148,-12.734
-SL030303,3,Chiefdom,Chiefdom,Dasse,Dasse,dasse-sl030303,SL030303,,SL0303,Moyamba,Moyamba,,,,13,,8.004,-12.151
-SL030304,3,Chiefdom,Chiefdom,Fakunya,Fakunya,fakunya-sl030304,SL030304,,SL0303,Moyamba,Moyamba,,,,11,,8.235,-12.307
-SL030305,3,Chiefdom,Chiefdom,Kagboro,Kagboro,kagboro-sl030305,SL030305,,SL0303,Moyamba,Moyamba,,,,21,,7.916,-12.753
-SL030306,3,Chiefdom,Chiefdom,Kaiyamba,Kaiyamba,kaiyamba-sl030306,SL030306,,SL0303,Moyamba,Moyamba,,,,7,,8.118,-12.368
-SL030307,3,Chiefdom,Chiefdom,Kamajei,Kamajei,kamajei-sl030307,SL030307,,SL0303,Moyamba,Moyamba,,,,7,,8.215,-11.883
-SL030308,3,Chiefdom,Chiefdom,Kongbora,Kongbora,kongbora-sl030308,SL030308,,SL0303,Moyamba,Moyamba,,,,10,,8.161,-12.555
-SL030309,3,Chiefdom,Chiefdom,Kori,Kori,kori-sl030309,SL030309,,SL0303,Moyamba,Moyamba,,,,7,,8.225,-12.088
-SL030310,3,Chiefdom,Chiefdom,Kowa,Kowa,kowa-sl030310,SL030310,,SL0303,Moyamba,Moyamba,,,,8,,8.079,-11.974
-SL030311,3,Chiefdom,Chiefdom,Lower Banta,Lower Banta,lower-banta-sl030311,SL030311,,SL0303,Moyamba,Moyamba,,,,9,,7.865,-12.28
-SL030312,3,Chiefdom,Chiefdom,Ribbi,Ribbi,ribbi-sl030312,SL030312,,SL0303,Moyamba,Moyamba,,,,10,,8.244,-12.865
-SL030313,3,Chiefdom,Chiefdom,Timdale,Timdale,timdale-sl030313,SL030313,,SL0303,Moyamba,Moyamba,,,,12,,7.803,-12.678
-SL030314,3,Chiefdom,Chiefdom,Upper Banta,Upper Banta,upper-banta-sl030314,SL030314,,SL0303,Moyamba,Moyamba,,,,5,,7.737,-12.199
-SL0304,2,District,District,Pujehun,Pujehun,pujehun-sl0304,SL0304,,SL03,Southern,Southern,,,12,94,,7.301,-11.535
-SL030401,3,Chiefdom,Chiefdom,Barri,Barri,barri-sl030401,SL030401,,SL0304,Pujehun,Pujehun,,,,9,,7.479,-11.439
-SL030402,3,Chiefdom,Chiefdom,Galliness Perri,Galliness Perri,galliness-perri-sl030402,SL030402,,SL0304,Pujehun,Pujehun,,,,13,,7.267,-11.56
-SL030403,3,Chiefdom,Chiefdom,Kpaka,Kpaka,kpaka-sl030403,SL030403,,SL0304,Pujehun,Pujehun,,,,8,,7.187,-11.645
-SL030404,3,Chiefdom,Chiefdom,Panga Kabonde,Panga Kabonde,panga-kabonde-sl030404,SL030404,,SL0304,Pujehun,Pujehun,,,,10,,7.402,-11.783
-SL030405,3,Chiefdom,Chiefdom,Makpele,Makpele,makpele-sl030405,SL030405,,SL0304,Pujehun,Pujehun,,,,4,,7.306,-11.285
-SL030406,3,Chiefdom,Chiefdom,Malen,Malen,malen-sl030406,SL030406,,SL0304,Pujehun,Pujehun,,,,9,,7.509,-11.808
-SL030407,3,Chiefdom,Chiefdom,Mono Sakrim,Mono Sakrim,mono-sakrim-sl030407,SL030407,,SL0304,Pujehun,Pujehun,,,,8,,7.139,-11.774
-SL030408,3,Chiefdom,Chiefdom,Panga krim,Panga krim,panga-krim-sl030408,SL030408,,SL0304,Pujehun,Pujehun,,,,4,,7.284,-11.801
-SL030409,3,Chiefdom,Chiefdom,Pejeh(Futa peje,Pejeh(Futa peje,pejehfuta-peje-sl030409,SL030409,,SL0304,Pujehun,Pujehun,,,,3,,7.553,-11.543
-SL030410,3,Chiefdom,Chiefdom,Soro Gbema,Soro Gbema,soro-gbema-sl030410,SL030410,,SL0304,Pujehun,Pujehun,,,,10,,7.115,-11.434
-SL030411,3,Chiefdom,Chiefdom,Sowa,Sowa,sowa-sl030411,SL030411,,SL0304,Pujehun,Pujehun,,,,4,,7.575,-11.658
-SL030412,3,Chiefdom,Chiefdom,Yakemu Kpukumu,Yakemu Kpukumu,yakemu-kpukumu-sl030412,SL030412,,SL0304,Pujehun,Pujehun,,,,12,,7.232,-11.809
-SL04,1,Province,Province,Western,Western,western-sl04,SL04,,,,,,2,13,87,,8.335,-13.066
-SL0401,2,District,District,Western Area Rural,Western Area Rural,western-area-rural-sl0401,SL0401,,SL04,Western,Western,,,4,22,,8.326,-13.061
-SL040101,3,Chiefdom,Chiefdom,Koya Rural,Koya Rural,koya-rural-sl040101,SL040101,,SL0401,Western Area Rural,Western Area Rural,,,,6,,8.308,-12.981
-SL040102,3,Chiefdom,Chiefdom,Mountain Rural,Mountain Rural,mountain-rural-sl040102,SL040102,,SL0401,Western Area Rural,Western Area Rural,,,,5,,8.434,-13.21
-SL040103,3,Chiefdom,Chiefdom,Waterloo Rural,Waterloo Rural,waterloo-rural-sl040103,SL040103,,SL0401,Western Area Rural,Western Area Rural,,,,4,,8.338,-13.103
-SL040104,3,Chiefdom,Chiefdom,York Rural,York Rural,york-rural-sl040104,SL040104,,SL0401,Western Area Rural,Western Area Rural,,,,7,,8.306,-13.159
-SL0402,2,District,District,Western Area Urban,Western Area Urban,western-area-urban-sl0402,SL0402,,SL04,Western,Western,,,9,65,,8.449,-13.176
-SL040201,3,Chiefdom,Chiefdom,Central I,Central I,central-i-sl040201,SL040201,,SL0402,Western Area Urban,Western Area Urban,,,,5,,8.48,-13.231
-SL040202,3,Chiefdom,Chiefdom,Central II,Central II,central-ii-sl040202,SL040202,,SL0402,Western Area Urban,Western Area Urban,,,,2,,8.485,-13.238
-SL040203,3,Chiefdom,Chiefdom,East I,East I,east-i-sl040203,SL040203,,SL0402,Western Area Urban,Western Area Urban,,,,3,,8.488,-13.215
-SL040204,3,Chiefdom,Chiefdom,East II,East II,east-ii-sl040204,SL040204,,SL0402,Western Area Urban,Western Area Urban,,,,8,,8.48,-13.216
-SL040205,3,Chiefdom,Chiefdom,East III,East III,east-iii-sl040205,SL040205,,SL0402,Western Area Urban,Western Area Urban,,,,25,,8.442,-13.172
-SL040206,3,Chiefdom,Chiefdom,West I,West I,west-i-sl040206,SL040206,,SL0402,Western Area Urban,Western Area Urban,,,,4,,8.482,-13.246
-SL040207,3,Chiefdom,Chiefdom,West II,West II,west-ii-sl040207,SL040207,,SL0402,Western Area Urban,Western Area Urban,,,,7,,8.471,-13.244
-SL040208,3,Chiefdom,Chiefdom,West III,West III,west-iii-sl040208,SL040208,,SL0402,Western Area Urban,Western Area Urban,,,,10,,8.469,-13.266
-SL040209,3,Chiefdom,Chiefdom,Tasso Island,Tasso Island,tasso-island-sl040209,SL040209,,SL0402,Western Area Urban,Western Area Urban,,,,1,,8.553,-13.074
-SL05,1,Province,Province,North Western,North Western,north-western-sl05,SL05,,,,,,3,23,284,,9.101,-12.64
-SL0501,2,District,District,Kambia,Kambia,kambia-sl0501,SL0501,,SL05,North Western,North Western,,,7,73,,9.22,-12.79
-SL050101,3,Chiefdom,Chiefdom,Bramaia,Bramaia,bramaia-sl050101,SL050101,,SL0501,Kambia,Kambia,,,,21,,9.41,-12.634
-SL050102,3,Chiefdom,Chiefdom,Gbinle Dixing,Gbinle Dixing,gbinle-dixing-sl050102,SL050102,,SL0501,Kambia,Kambia,,,,8,,9.172,-12.933
-SL050103,3,Chiefdom,Chiefdom,Magbema,Magbema,magbema-sl050103,SL050103,,SL0501,Kambia,Kambia,,,,7,,9.067,-12.896
-SL050104,3,Chiefdom,Chiefdom,Mambolo,Mambolo,mambolo-sl050104,SL050104,,SL0501,Kambia,Kambia,,,,7,,8.892,-13.031
-SL050105,3,Chiefdom,Chiefdom,Masungbala,Masungbala,masungbala-sl050105,SL050105,,SL0501,Kambia,Kambia,,,,12,,9.096,-12.779
-SL050106,3,Chiefdom,Chiefdom,Samu,Samu,samu-sl050106,SL050106,,SL0501,Kambia,Kambia,,,,12,,9.009,-13.138
-SL050107,3,Chiefdom,Chiefdom,Tonko Limba,Tonko Limba,tonko-limba-sl050107,SL050107,,SL0501,Kambia,Kambia,,,,6,,9.304,-12.59
-SL0502,2,District,District,Karene,Karene,karene-sl0502,SL0502,,SL05,North Western,North Western,,,8,87,,9.634,-12.341
-SL050201,3,Chiefdom,Chiefdom,Buya Romende,Buya Romende,buya-romende-sl050201,SL050201,,SL0502,Karene,Karene,,,,12,,8.819,-12.433
-SL050202,3,Chiefdom,Chiefdom,Dibia,Dibia,dibia-sl050202,SL050202,,SL0502,Karene,Karene,,,,7,,8.938,-12.617
-SL050203,3,Chiefdom,Chiefdom,Sanda Magbolont,Sanda Magbolont,sanda-magbolont-sl050203,SL050203,,SL0502,Karene,Karene,,,,14,,9.135,-12.569
-SL050206,3,Chiefdom,Chiefdom,Libeisaygahun,Libeisaygahun,libeisaygahun-sl050206,SL050206,,SL0502,Karene,Karene,,,,17,,8.999,-12.443
-SL050207,3,Chiefdom,Chiefdom,Sanda Loko,Sanda Loko,sanda-loko-sl050207,SL050207,,SL0502,Karene,Karene,,,,15,,9.437,-12.116
-SL050208,3,Chiefdom,Chiefdom,Sanda Tendaran,Sanda Tendaran,sanda-tendaran-sl050208,SL050208,,SL0502,Karene,Karene,,,,10,,9.158,-12.324
-SL050209,3,Chiefdom,Chiefdom,Sella Limba,Sella Limba,sella-limba-sl050209,SL050209,,SL0502,Karene,Karene,,,,7,,9.5,-12.286
-SL050210,3,Chiefdom,Chiefdom,Tambakha,Tambakha,tambakha-sl050210,SL050210,,SL0502,Karene,Karene,,,,5,,9.708,-12.2
-SL0503,2,District,District,Port Loko,Port Loko,port-loko-sl0503,SL0503,,SL05,North Western,North Western,,,8,124,,8.646,-12.691
-SL050301,3,Chiefdom,Chiefdom,Bureh Kasseh Ma,Bureh Kasseh Ma,bureh-kasseh-ma-sl050301,SL050301,,SL0503,Port Loko,Port Loko,,,,16,,8.933,-12.799
-SL050302,3,Chiefdom,Chiefdom,Kaffu Bullom,Kaffu Bullom,kaffu-bullom-sl050302,SL050302,,SL0503,Port Loko,Port Loko,,,,8,,8.617,-13.167
-SL050303,3,Chiefdom,Chiefdom,Koya,Koya,koya-sl050303,SL050303,,SL0503,Port Loko,Port Loko,,,,20,,8.43,-12.864
-SL050304,3,Chiefdom,Chiefdom,Lokomasama,Lokomasama,lokomasama-sl050304,SL050304,,SL0503,Port Loko,Port Loko,,,,14,,8.717,-13.036
-SL050305,3,Chiefdom,Chiefdom,Maforki,Maforki,maforki-sl050305,SL050305,,SL0503,Port Loko,Port Loko,,,,30,,8.725,-12.719
-SL050306,3,Chiefdom,Chiefdom,Marampa,Marampa,marampa-sl050306,SL050306,,SL0503,Port Loko,Port Loko,,,,18,,8.676,-12.564
-SL050307,3,Chiefdom,Chiefdom,Masimera,Masimera,masimera-sl050307,SL050307,,SL0503,Port Loko,Port Loko,,,,12,,8.553,-12.504
-SL050308,3,Chiefdom,Chiefdom,TMS,TMS,tms-sl050308,SL050308,,SL0503,Port Loko,Port Loko,,,,6,,8.825,-12.619
+# Data from Open Admin Data (https://openadmindata.org/sl/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/sierra-leone-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.chiefdom,children_count.section,zip_codes,geo.lat,geo.lon,source_url
+SL01,1,Province,Province,Eastern,Eastern,eastern-sl01,SL01,,,,,,3,46,265,,8.209,-10.845,https://openadmindata.org/sl/provinces/eastern-sl01/
+SL0101,2,District,District,Kailahun,Kailahun,kailahun-sl0101,SL0101,,SL01,Eastern,Eastern,,,14,81,,8.059,-10.765,
+SL010101,3,Chiefdom,Chiefdom,Dea,Dea,dea-sl010101,SL010101,,SL0101,Kailahun,Kailahun,,,,4,,7.953,-10.649,
+SL010102,3,Chiefdom,Chiefdom,Jawie,Jawie,jawie-sl010102,SL010102,,SL0101,Kailahun,Kailahun,,,,8,,7.894,-10.895,
+SL010103,3,Chiefdom,Chiefdom,Kissi Kama,Kissi Kama,kissi-kama-sl010103,SL010103,,SL0101,Kailahun,Kailahun,,,,3,,8.411,-10.403,
+SL010104,3,Chiefdom,Chiefdom,Kissi Teng,Kissi Teng,kissi-teng-sl010104,SL010104,,SL0101,Kailahun,Kailahun,,,,5,,8.388,-10.353,
+SL010105,3,Chiefdom,Chiefdom,Kissi Tongi,Kissi Tongi,kissi-tongi-sl010105,SL010105,,SL0101,Kailahun,Kailahun,,,,4,,8.307,-10.338,
+SL010106,3,Chiefdom,Chiefdom,Kpeje Bongre,Kpeje Bongre,kpeje-bongre-sl010106,SL010106,,SL0101,Kailahun,Kailahun,,,,7,,8.145,-10.779,
+SL010107,3,Chiefdom,Chiefdom,Kpeje West,Kpeje West,kpeje-west-sl010107,SL010107,,SL0101,Kailahun,Kailahun,,,,4,,8.192,-10.838,
+SL010108,3,Chiefdom,Chiefdom,Luawa,Luawa,luawa-sl010108,SL010108,,SL0101,Kailahun,Kailahun,,,,10,,8.207,-10.56,
+SL010109,3,Chiefdom,Chiefdom,Malema,Malema,malema-sl010109,SL010109,,SL0101,Kailahun,Kailahun,,,,5,,7.777,-10.752,
+SL010110,3,Chiefdom,Chiefdom,Mandu,Mandu,mandu-sl010110,SL010110,,SL0101,Kailahun,Kailahun,,,,4,,7.986,-10.748,
+SL010111,3,Chiefdom,Chiefdom,Njaluahun,Njaluahun,njaluahun-sl010111,SL010111,,SL0101,Kailahun,Kailahun,,,,12,,8.008,-10.907,
+SL010112,3,Chiefdom,Chiefdom,Penguia,Penguia,penguia-sl010112,SL010112,,SL0101,Kailahun,Kailahun,,,,5,,8.358,-10.729,
+SL010113,3,Chiefdom,Chiefdom,Upper Bambara,Upper Bambara,upper-bambara-sl010113,SL010113,,SL0101,Kailahun,Kailahun,,,,6,,8.073,-10.674,
+SL010114,3,Chiefdom,Chiefdom,Yawei,Yawei,yawei-sl010114,SL010114,,SL0101,Kailahun,Kailahun,,,,4,,8.327,-10.821,
+SL0102,2,District,District,Kenema,Kenema,kenema-sl0102,SL0102,,SL01,Eastern,Eastern,,,17,104,,7.946,-11.191,
+SL010201,3,Chiefdom,Chiefdom,Dama,Dama,dama-sl010201,SL010201,,SL0102,Kenema,Kenema,,,,7,,7.757,-11.146,
+SL010202,3,Chiefdom,Chiefdom,Dodo,Dodo,dodo-sl010202,SL010202,,SL0102,Kenema,Kenema,,,,7,,8.205,-11.209,
+SL010203,3,Chiefdom,Chiefdom,Gaura,Gaura,gaura-sl010203,SL010203,,SL0102,Kenema,Kenema,,,,6,,7.71,-10.999,
+SL010204,3,Chiefdom,Chiefdom,Gorama Mende,Gorama Mende,gorama-mende-sl010204,SL010204,,SL0102,Kenema,Kenema,,,,4,,8.44,-11.4,
+SL010205,3,Chiefdom,Chiefdom,Kandu Leppiama,Kandu Leppiama,kandu-leppiama-sl010205,SL010205,,SL0102,Kenema,Kenema,,,,4,,8.039,-11.274,
+SL010206,3,Chiefdom,Chiefdom,Koya,Koya,koya-sl010206,SL010206,,SL0102,Kenema,Kenema,,,,5,,7.632,-11.292,
+SL010207,3,Chiefdom,Chiefdom,Langrama,Langrama,langrama-sl010207,SL010207,,SL0102,Kenema,Kenema,,,,2,,7.667,-11.477,
+SL010208,3,Chiefdom,Chiefdom,Lower Bambara,Lower Bambara,lower-bambara-sl010208,SL010208,,SL0102,Kenema,Kenema,,,,7,,8.222,-11.043,
+SL010209,3,Chiefdom,Chiefdom,Malegohun,Malegohun,malegohun-sl010209,SL010209,,SL0102,Kenema,Kenema,,,,7,,8.232,-10.901,
+SL010210,3,Chiefdom,Chiefdom,Niawa,Niawa,niawa-sl010210,SL010210,,SL0102,Kenema,Kenema,,,,5,,7.667,-11.401,
+SL010211,3,Chiefdom,Chiefdom,Nomo,Nomo,nomo-sl010211,SL010211,,SL0102,Kenema,Kenema,,,,3,,7.554,-10.944,
+SL010212,3,Chiefdom,Chiefdom,Nongowa,Nongowa,nongowa-sl010212,SL010212,,SL0102,Kenema,Kenema,,,,8,,7.94,-11.141,
+SL010213,3,Chiefdom,Chiefdom,Simbaru,Simbaru,simbaru-sl010213,SL010213,,SL0102,Kenema,Kenema,,,,4,,8.2,-11.32,
+SL010214,3,Chiefdom,Chiefdom,Small Bo,Small Bo,small-bo-sl010214,SL010214,,SL0102,Kenema,Kenema,,,,5,,7.86,-11.349,
+SL010215,3,Chiefdom,Chiefdom,Tunkia,Tunkia,tunkia-sl010215,SL010215,,SL0102,Kenema,Kenema,,,,7,,7.498,-11.161,
+SL010216,3,Chiefdom,Chiefdom,Wandor,Wandor,wandor-sl010216,SL010216,,SL0102,Kenema,Kenema,,,,6,,8.305,-11.357,
+SL010291,3,Chiefdom,Chiefdom,Kenema Town,Kenema Town,kenema-town-sl010291,SL010291,,SL0102,Kenema,Kenema,,,,17,,7.881,-11.185,
+SL0103,2,District,District,Kono,Kono,kono-sl0103,SL0103,,SL01,Eastern,Eastern,,,15,80,,8.706,-10.922,
+SL010301,3,Chiefdom,Chiefdom,Fiama,Fiama,fiama-sl010301,SL010301,,SL0103,Kono,Kono,,,,5,,8.656,-10.825,
+SL010302,3,Chiefdom,Chiefdom,Gbane,Gbane,gbane-sl010302,SL010302,,SL0103,Kono,Kono,,,,5,,8.475,-10.854,
+SL010303,3,Chiefdom,Chiefdom,Gbane Kandor,Gbane Kandor,gbane-kandor-sl010303,SL010303,,SL0103,Kono,Kono,,,,5,,8.64,-10.566,
+SL010304,3,Chiefdom,Chiefdom,Gbense,Gbense,gbense-sl010304,SL010304,,SL0103,Kono,Kono,,,,5,,8.722,-10.917,
+SL010305,3,Chiefdom,Chiefdom,Gorama Kono,Gorama Kono,gorama-kono-sl010305,SL010305,,SL0103,Kono,Kono,,,,3,,8.394,-11.087,
+SL010306,3,Chiefdom,Chiefdom,Kamara,Kamara,kamara-sl010306,SL010306,,SL0103,Kono,Kono,,,,4,,8.714,-11.034,
+SL010307,3,Chiefdom,Chiefdom,Lei,Lei,lei-sl010307,SL010307,,SL0103,Kono,Kono,,,,9,,8.833,-10.687,
+SL010308,3,Chiefdom,Chiefdom,Mafindor,Mafindor,mafindor-sl010308,SL010308,,SL0103,Kono,Kono,,,,3,,8.687,-10.51,
+SL010309,3,Chiefdom,Chiefdom,Nimikoro,Nimikoro,nimikoro-sl010309,SL010309,,SL0103,Kono,Kono,,,,5,,8.581,-11.101,
+SL010310,3,Chiefdom,Chiefdom,Nimiyama,Nimiyama,nimiyama-sl010310,SL010310,,SL0103,Kono,Kono,,,,5,,8.576,-11.272,
+SL010311,3,Chiefdom,Chiefdom,Sandor,Sandor,sandor-sl010311,SL010311,,SL0103,Kono,Kono,,,,10,,8.87,-11.035,
+SL010312,3,Chiefdom,Chiefdom,Soa,Soa,soa-sl010312,SL010312,,SL0103,Kono,Kono,,,,8,,8.591,-10.692,
+SL010313,3,Chiefdom,Chiefdom,Tankoro,Tankoro,tankoro-sl010313,SL010313,,SL0103,Kono,Kono,,,,3,,8.54,-10.961,
+SL010314,3,Chiefdom,Chiefdom,Toli,Toli,toli-sl010314,SL010314,,SL0103,Kono,Kono,,,,3,,8.994,-10.636,
+SL010391,3,Chiefdom,Chiefdom,Koidu Town,Koidu Town,koidu-town-sl010391,SL010391,,SL0103,Kono,Kono,,,,7,,8.636,-10.981,
+SL02,1,Province,Province,Northern,Northern,northern-sl02,SL02,,,,,,4,31,258,,9.118,-11.478,https://openadmindata.org/sl/provinces/northern-sl02/
+SL0201,2,District,District,Bombali,Bombali,bombali-sl0201,SL0201,,SL02,Northern,Northern,,,9,89,,9.103,-12.038,
+SL020101,3,Chiefdom,Chiefdom,Biriwa,Biriwa,biriwa-sl020101,SL020101,,SL0201,Bombali,Bombali,,,,8,,9.271,-11.918,
+SL020102,3,Chiefdom,Chiefdom,Bombali Sebora,Bombali Sebora,bombali-sebora-sl020102,SL020102,,SL0201,Bombali,Bombali,,,,4,,8.779,-12.062,
+SL020103,3,Chiefdom,Chiefdom,Gbanti Kamarank,Gbanti Kamarank,gbanti-kamarank-sl020103,SL020103,,SL0201,Bombali,Bombali,,,,17,,9.278,-12.293,
+SL020104,3,Chiefdom,Chiefdom,Gbendembu Ngowa,Gbendembu Ngowa,gbendembu-ngowa-sl020104,SL020104,,SL0201,Bombali,Bombali,,,,19,,9.081,-12.2,
+SL020106,3,Chiefdom,Chiefdom,Magbaimba Ndorh,Magbaimba Ndorh,magbaimba-ndorh-sl020106,SL020106,,SL0201,Bombali,Bombali,,,,9,,9.274,-12.075,
+SL020107,3,Chiefdom,Chiefdom,Makari Gbanti,Makari Gbanti,makari-gbanti-sl020107,SL020107,,SL0201,Bombali,Bombali,,,,11,,8.85,-12.206,
+SL020108,3,Chiefdom,Chiefdom,Paki Masabong,Paki Masabong,paki-masabong-sl020108,SL020108,,SL0201,Bombali,Bombali,,,,6,,8.802,-11.943,
+SL020109,3,Chiefdom,Chiefdom,Safroko Limba,Safroko Limba,safroko-limba-sl020109,SL020109,,SL0201,Bombali,Bombali,,,,7,,9.011,-11.997,
+SL020191,3,Chiefdom,Chiefdom,Makeni Town,Makeni Town,makeni-town-sl020191,SL020191,,SL0201,Bombali,Bombali,,,,8,,8.883,-12.046,
+SL0203,2,District,District,Koinadugu,Koinadugu,koinadugu-sl0203,SL0203,,SL02,Northern,Northern,,,6,40,,9.33,-11.533,
+SL020302,3,Chiefdom,Chiefdom,Diang,Diang,diang-sl020302,SL020302,,SL0203,Koinadugu,Koinadugu,,,,6,,9.271,-11.555,
+SL020304,3,Chiefdom,Chiefdom,Kasunko,Kasunko,kasunko-sl020304,SL020304,,SL0203,Koinadugu,Koinadugu,,,,6,,9.465,-11.787,
+SL020307,3,Chiefdom,Chiefdom,Nieni,Nieni,nieni-sl020307,SL020307,,SL0203,Koinadugu,Koinadugu,,,,5,,9.055,-11.299,
+SL020308,3,Chiefdom,Chiefdom,Sengbe,Sengbe,sengbe-sl020308,SL020308,,SL0203,Koinadugu,Koinadugu,,,,5,,9.564,-11.452,
+SL020310,3,Chiefdom,Chiefdom,Wara Wara Bafod,Wara Wara Bafod,wara-wara-bafod-sl020310,SL020310,,SL0203,Koinadugu,Koinadugu,,,,11,,9.775,-11.779,
+SL020311,3,Chiefdom,Chiefdom,Wara Wara Yagal,Wara Wara Yagal,wara-wara-yagal-sl020311,SL020311,,SL0203,Koinadugu,Koinadugu,,,,7,,9.55,-11.627,
+SL0205,2,District,District,Tonkolili,Tonkolili,tonkolili-sl0205,SL0205,,SL02,Northern,Northern,,,11,80,,8.762,-11.646,
+SL020501,3,Chiefdom,Chiefdom,Gbonkolenken,Gbonkolenken,gbonkolenken-sl020501,SL020501,,SL0205,Tonkolili,Tonkolili,,,,10,,8.482,-11.898,
+SL020502,3,Chiefdom,Chiefdom,Kafe Simiria,Kafe Simiria,kafe-simiria-sl020502,SL020502,,SL0205,Tonkolili,Tonkolili,,,,7,,8.87,-11.774,
+SL020503,3,Chiefdom,Chiefdom,Kalansogoia,Kalansogoia,kalansogoia-sl020503,SL020503,,SL0205,Tonkolili,Tonkolili,,,,7,,9.103,-11.752,
+SL020504,3,Chiefdom,Chiefdom,Kholifa Mabang,Kholifa Mabang,kholifa-mabang-sl020504,SL020504,,SL0205,Tonkolili,Tonkolili,,,,4,,8.534,-12.173,
+SL020505,3,Chiefdom,Chiefdom,Kholifa Rowala,Kholifa Rowala,kholifa-rowala-sl020505,SL020505,,SL0205,Tonkolili,Tonkolili,,,,7,,8.663,-12.014,
+SL020506,3,Chiefdom,Chiefdom,Kunike Barina,Kunike Barina,kunike-barina-sl020506,SL020506,,SL0205,Tonkolili,Tonkolili,,,,6,,8.588,-11.642,
+SL020507,3,Chiefdom,Chiefdom,Kunike,Kunike,kunike-sl020507,SL020507,,SL0205,Tonkolili,Tonkolili,,,,8,,8.696,-11.519,
+SL020508,3,Chiefdom,Chiefdom,Malal Mara,Malal Mara,malal-mara-sl020508,SL020508,,SL0205,Tonkolili,Tonkolili,,,,8,,8.666,-12.258,
+SL020509,3,Chiefdom,Chiefdom,Sambaya,Sambaya,sambaya-sl020509,SL020509,,SL0205,Tonkolili,Tonkolili,,,,4,,9.013,-11.544,
+SL020510,3,Chiefdom,Chiefdom,Tane,Tane,tane-sl020510,SL020510,,SL0205,Tonkolili,Tonkolili,,,,6,,8.672,-11.812,
+SL020511,3,Chiefdom,Chiefdom,Yoni,Yoni,yoni-sl020511,SL020511,,SL0205,Tonkolili,Tonkolili,,,,13,,8.406,-12.319,
+SL0206,2,District,District,Fabala,Fabala,fabala-sl0206,SL0206,,SL02,Northern,Northern,,,5,49,,9.466,-11.204,
+SL020601,3,Chiefdom,Chiefdom,Dembelia - Sink,Dembelia - Sink,dembelia-sink-sl020601,SL020601,,SL0206,Fabala,Fabala,,,,10,,9.834,-11.448,
+SL020602,3,Chiefdom,Chiefdom,Folosaba Dembel,Folosaba Dembel,folosaba-dembel-sl020602,SL020602,,SL0206,Fabala,Fabala,,,,12,,9.819,-11.609,
+SL020603,3,Chiefdom,Chiefdom,Mongo,Mongo,mongo-sl020603,SL020603,,SL0206,Fabala,Fabala,,,,9,,9.442,-11.062,
+SL020604,3,Chiefdom,Chiefdom,Neya,Neya,neya-sl020604,SL020604,,SL0206,Fabala,Fabala,,,,5,,9.125,-10.913,
+SL020606,3,Chiefdom,Chiefdom,Sulima,Sulima,sulima-sl020606,SL020606,,SL0206,Fabala,Fabala,,,,13,,9.819,-11.22,
+SL03,1,Province,Province,Southern,Southern,southern-sl03,SL03,,,,,,4,54,422,,7.706,-12,https://openadmindata.org/sl/provinces/southern-sl03/
+SL0301,2,District,District,Bo,Bo,bo-sl0301,SL0301,,SL03,Southern,Southern,,,16,108,,7.984,-11.702,
+SL030101,3,Chiefdom,Chiefdom,Badjia,Badjia,badjia-sl030101,SL030101,,SL0301,Bo,Bo,,,,5,,8.092,-11.4,
+SL030102,3,Chiefdom,Chiefdom,Bagbo,Bagbo,bagbo-sl030102,SL030102,,SL0301,Bo,Bo,,,,7,,7.598,-11.866,
+SL030103,3,Chiefdom,Chiefdom,Bagbwe(Bagbe),Bagbwe(Bagbe),bagbwebagbe-sl030103,SL030103,,SL0301,Bo,Bo,,,,5,,8.085,-11.539,
+SL030104,3,Chiefdom,Chiefdom,Boama,Boama,boama-sl030104,SL030104,,SL0301,Bo,Bo,,,,8,,7.939,-11.479,
+SL030105,3,Chiefdom,Chiefdom,Bumpe Ngao,Bumpe Ngao,bumpe-ngao-sl030105,SL030105,,SL0301,Bo,Bo,,,,10,,7.832,-12.008,
+SL030106,3,Chiefdom,Chiefdom,Gbo,Gbo,gbo-sl030106,SL030106,,SL0301,Bo,Bo,,,,3,,8.068,-11.847,
+SL030107,3,Chiefdom,Chiefdom,Jaiama Bongor,Jaiama Bongor,jaiama-bongor-sl030107,SL030107,,SL0301,Bo,Bo,,,,8,,7.759,-11.615,
+SL030108,3,Chiefdom,Chiefdom,Kakua,Kakua,kakua-sl030108,SL030108,,SL0301,Bo,Bo,,,,8,,7.965,-11.634,
+SL030109,3,Chiefdom,Chiefdom,Komboya,Komboya,komboya-sl030109,SL030109,,SL0301,Bo,Bo,,,,5,,8.254,-11.508,
+SL030110,3,Chiefdom,Chiefdom,Lugbu,Lugbu,lugbu-sl030110,SL030110,,SL0301,Bo,Bo,,,,6,,7.69,-11.875,
+SL030111,3,Chiefdom,Chiefdom,Niawa Lenga,Niawa Lenga,niawa-lenga-sl030111,SL030111,,SL0301,Bo,Bo,,,,4,,8.147,-11.614,
+SL030112,3,Chiefdom,Chiefdom,Selenga,Selenga,selenga-sl030112,SL030112,,SL0301,Bo,Bo,,,,3,,8.108,-11.723,
+SL030113,3,Chiefdom,Chiefdom,Tikonko,Tikonko,tikonko-sl030113,SL030113,,SL0301,Bo,Bo,,,,8,,7.857,-11.758,
+SL030114,3,Chiefdom,Chiefdom,Valunia,Valunia,valunia-sl030114,SL030114,,SL0301,Bo,Bo,,,,7,,8.313,-11.67,
+SL030115,3,Chiefdom,Chiefdom,Wonde,Wonde,wonde-sl030115,SL030115,,SL0301,Bo,Bo,,,,4,,7.685,-11.549,
+SL030191,3,Chiefdom,Chiefdom,Bo Town,Bo Town,bo-town-sl030191,SL030191,,SL0301,Bo,Bo,,,,17,,7.96,-11.733,
+SL0302,2,District,District,Bonthe,Bonthe,bonthe-sl0302,SL0302,,SL03,Southern,Southern,,,12,78,,7.5,-12.149,
+SL030201,3,Chiefdom,Chiefdom,Bendu-Cha,Bendu-Cha,bendu-cha-sl030201,SL030201,,SL0302,Bonthe,Bonthe,,,,4,,7.47,-12.386,
+SL030202,3,Chiefdom,Chiefdom,Bum,Bum,bum-sl030202,SL030202,,SL0302,Bonthe,Bonthe,,,,9,,7.432,-11.971,
+SL030203,3,Chiefdom,Chiefdom,Dema,Dema,dema-sl030203,SL030203,,SL0302,Bonthe,Bonthe,,,,4,,7.589,-12.863,
+SL030204,3,Chiefdom,Chiefdom,Imperri,Imperri,imperri-sl030204,SL030204,,SL0302,Bonthe,Bonthe,,,,6,,7.667,-12.36,
+SL030205,3,Chiefdom,Chiefdom,Jong,Jong,jong-sl030205,SL030205,,SL0302,Bonthe,Bonthe,,,,8,,7.573,-12.191,
+SL030206,3,Chiefdom,Chiefdom,Kpanda Kemo,Kpanda Kemo,kpanda-kemo-sl030206,SL030206,,SL0302,Bonthe,Bonthe,,,,6,,7.597,-12.028,
+SL030207,3,Chiefdom,Chiefdom,Kwamebai Krim,Kwamebai Krim,kwamebai-krim-sl030207,SL030207,,SL0302,Bonthe,Bonthe,,,,7,,7.27,-11.987,
+SL030208,3,Chiefdom,Chiefdom,Nongoba Bullom,Nongoba Bullom,nongoba-bullom-sl030208,SL030208,,SL0302,Bonthe,Bonthe,,,,13,,7.367,-12.262,
+SL030209,3,Chiefdom,Chiefdom,Sittia,Sittia,sittia-sl030209,SL030209,,SL0302,Bonthe,Bonthe,,,,11,,7.514,-12.616,
+SL030210,3,Chiefdom,Chiefdom,Sogbeni,Sogbeni,sogbeni-sl030210,SL030210,,SL0302,Bonthe,Bonthe,,,,4,,7.54,-12.095,
+SL030211,3,Chiefdom,Chiefdom,Yawbeko,Yawbeko,yawbeko-sl030211,SL030211,,SL0302,Bonthe,Bonthe,,,,5,,7.445,-12.127,
+SL030291,3,Chiefdom,Chiefdom,Bonthe Urban,Bonthe Urban,bonthe-urban-sl030291,SL030291,,SL0302,Bonthe,Bonthe,,,,1,,7.534,-12.519,
+SL0303,2,District,District,Moyamba,Moyamba,moyamba-sl0303,SL0303,,SL03,Southern,Southern,,,14,142,,8.03,-12.391,
+SL030301,3,Chiefdom,Chiefdom,Bagruwa,Bagruwa,bagruwa-sl030301,SL030301,,SL0303,Moyamba,Moyamba,,,,9,,7.865,-12.518,
+SL030302,3,Chiefdom,Chiefdom,Bumpeh,Bumpeh,bumpeh-sl030302,SL030302,,SL0303,Moyamba,Moyamba,,,,13,,8.148,-12.734,
+SL030303,3,Chiefdom,Chiefdom,Dasse,Dasse,dasse-sl030303,SL030303,,SL0303,Moyamba,Moyamba,,,,13,,8.004,-12.151,
+SL030304,3,Chiefdom,Chiefdom,Fakunya,Fakunya,fakunya-sl030304,SL030304,,SL0303,Moyamba,Moyamba,,,,11,,8.235,-12.307,
+SL030305,3,Chiefdom,Chiefdom,Kagboro,Kagboro,kagboro-sl030305,SL030305,,SL0303,Moyamba,Moyamba,,,,21,,7.916,-12.753,
+SL030306,3,Chiefdom,Chiefdom,Kaiyamba,Kaiyamba,kaiyamba-sl030306,SL030306,,SL0303,Moyamba,Moyamba,,,,7,,8.118,-12.368,
+SL030307,3,Chiefdom,Chiefdom,Kamajei,Kamajei,kamajei-sl030307,SL030307,,SL0303,Moyamba,Moyamba,,,,7,,8.215,-11.883,
+SL030308,3,Chiefdom,Chiefdom,Kongbora,Kongbora,kongbora-sl030308,SL030308,,SL0303,Moyamba,Moyamba,,,,10,,8.161,-12.555,
+SL030309,3,Chiefdom,Chiefdom,Kori,Kori,kori-sl030309,SL030309,,SL0303,Moyamba,Moyamba,,,,7,,8.225,-12.088,
+SL030310,3,Chiefdom,Chiefdom,Kowa,Kowa,kowa-sl030310,SL030310,,SL0303,Moyamba,Moyamba,,,,8,,8.079,-11.974,
+SL030311,3,Chiefdom,Chiefdom,Lower Banta,Lower Banta,lower-banta-sl030311,SL030311,,SL0303,Moyamba,Moyamba,,,,9,,7.865,-12.28,
+SL030312,3,Chiefdom,Chiefdom,Ribbi,Ribbi,ribbi-sl030312,SL030312,,SL0303,Moyamba,Moyamba,,,,10,,8.244,-12.865,
+SL030313,3,Chiefdom,Chiefdom,Timdale,Timdale,timdale-sl030313,SL030313,,SL0303,Moyamba,Moyamba,,,,12,,7.803,-12.678,
+SL030314,3,Chiefdom,Chiefdom,Upper Banta,Upper Banta,upper-banta-sl030314,SL030314,,SL0303,Moyamba,Moyamba,,,,5,,7.737,-12.199,
+SL0304,2,District,District,Pujehun,Pujehun,pujehun-sl0304,SL0304,,SL03,Southern,Southern,,,12,94,,7.301,-11.535,
+SL030401,3,Chiefdom,Chiefdom,Barri,Barri,barri-sl030401,SL030401,,SL0304,Pujehun,Pujehun,,,,9,,7.479,-11.439,
+SL030402,3,Chiefdom,Chiefdom,Galliness Perri,Galliness Perri,galliness-perri-sl030402,SL030402,,SL0304,Pujehun,Pujehun,,,,13,,7.267,-11.56,
+SL030403,3,Chiefdom,Chiefdom,Kpaka,Kpaka,kpaka-sl030403,SL030403,,SL0304,Pujehun,Pujehun,,,,8,,7.187,-11.645,
+SL030404,3,Chiefdom,Chiefdom,Panga Kabonde,Panga Kabonde,panga-kabonde-sl030404,SL030404,,SL0304,Pujehun,Pujehun,,,,10,,7.402,-11.783,
+SL030405,3,Chiefdom,Chiefdom,Makpele,Makpele,makpele-sl030405,SL030405,,SL0304,Pujehun,Pujehun,,,,4,,7.306,-11.285,
+SL030406,3,Chiefdom,Chiefdom,Malen,Malen,malen-sl030406,SL030406,,SL0304,Pujehun,Pujehun,,,,9,,7.509,-11.808,
+SL030407,3,Chiefdom,Chiefdom,Mono Sakrim,Mono Sakrim,mono-sakrim-sl030407,SL030407,,SL0304,Pujehun,Pujehun,,,,8,,7.139,-11.774,
+SL030408,3,Chiefdom,Chiefdom,Panga krim,Panga krim,panga-krim-sl030408,SL030408,,SL0304,Pujehun,Pujehun,,,,4,,7.284,-11.801,
+SL030409,3,Chiefdom,Chiefdom,Pejeh(Futa peje,Pejeh(Futa peje,pejehfuta-peje-sl030409,SL030409,,SL0304,Pujehun,Pujehun,,,,3,,7.553,-11.543,
+SL030410,3,Chiefdom,Chiefdom,Soro Gbema,Soro Gbema,soro-gbema-sl030410,SL030410,,SL0304,Pujehun,Pujehun,,,,10,,7.115,-11.434,
+SL030411,3,Chiefdom,Chiefdom,Sowa,Sowa,sowa-sl030411,SL030411,,SL0304,Pujehun,Pujehun,,,,4,,7.575,-11.658,
+SL030412,3,Chiefdom,Chiefdom,Yakemu Kpukumu,Yakemu Kpukumu,yakemu-kpukumu-sl030412,SL030412,,SL0304,Pujehun,Pujehun,,,,12,,7.232,-11.809,
+SL04,1,Province,Province,Western,Western,western-sl04,SL04,,,,,,2,13,87,,8.335,-13.066,https://openadmindata.org/sl/provinces/western-sl04/
+SL0401,2,District,District,Western Area Rural,Western Area Rural,western-area-rural-sl0401,SL0401,,SL04,Western,Western,,,4,22,,8.326,-13.061,
+SL040101,3,Chiefdom,Chiefdom,Koya Rural,Koya Rural,koya-rural-sl040101,SL040101,,SL0401,Western Area Rural,Western Area Rural,,,,6,,8.308,-12.981,
+SL040102,3,Chiefdom,Chiefdom,Mountain Rural,Mountain Rural,mountain-rural-sl040102,SL040102,,SL0401,Western Area Rural,Western Area Rural,,,,5,,8.434,-13.21,
+SL040103,3,Chiefdom,Chiefdom,Waterloo Rural,Waterloo Rural,waterloo-rural-sl040103,SL040103,,SL0401,Western Area Rural,Western Area Rural,,,,4,,8.338,-13.103,
+SL040104,3,Chiefdom,Chiefdom,York Rural,York Rural,york-rural-sl040104,SL040104,,SL0401,Western Area Rural,Western Area Rural,,,,7,,8.306,-13.159,
+SL0402,2,District,District,Western Area Urban,Western Area Urban,western-area-urban-sl0402,SL0402,,SL04,Western,Western,,,9,65,,8.449,-13.176,
+SL040201,3,Chiefdom,Chiefdom,Central I,Central I,central-i-sl040201,SL040201,,SL0402,Western Area Urban,Western Area Urban,,,,5,,8.48,-13.231,
+SL040202,3,Chiefdom,Chiefdom,Central II,Central II,central-ii-sl040202,SL040202,,SL0402,Western Area Urban,Western Area Urban,,,,2,,8.485,-13.238,
+SL040203,3,Chiefdom,Chiefdom,East I,East I,east-i-sl040203,SL040203,,SL0402,Western Area Urban,Western Area Urban,,,,3,,8.488,-13.215,
+SL040204,3,Chiefdom,Chiefdom,East II,East II,east-ii-sl040204,SL040204,,SL0402,Western Area Urban,Western Area Urban,,,,8,,8.48,-13.216,
+SL040205,3,Chiefdom,Chiefdom,East III,East III,east-iii-sl040205,SL040205,,SL0402,Western Area Urban,Western Area Urban,,,,25,,8.442,-13.172,
+SL040206,3,Chiefdom,Chiefdom,West I,West I,west-i-sl040206,SL040206,,SL0402,Western Area Urban,Western Area Urban,,,,4,,8.482,-13.246,
+SL040207,3,Chiefdom,Chiefdom,West II,West II,west-ii-sl040207,SL040207,,SL0402,Western Area Urban,Western Area Urban,,,,7,,8.471,-13.244,
+SL040208,3,Chiefdom,Chiefdom,West III,West III,west-iii-sl040208,SL040208,,SL0402,Western Area Urban,Western Area Urban,,,,10,,8.469,-13.266,
+SL040209,3,Chiefdom,Chiefdom,Tasso Island,Tasso Island,tasso-island-sl040209,SL040209,,SL0402,Western Area Urban,Western Area Urban,,,,1,,8.553,-13.074,
+SL05,1,Province,Province,North Western,North Western,north-western-sl05,SL05,,,,,,3,23,284,,9.101,-12.64,https://openadmindata.org/sl/provinces/north-western-sl05/
+SL0501,2,District,District,Kambia,Kambia,kambia-sl0501,SL0501,,SL05,North Western,North Western,,,7,73,,9.22,-12.79,
+SL050101,3,Chiefdom,Chiefdom,Bramaia,Bramaia,bramaia-sl050101,SL050101,,SL0501,Kambia,Kambia,,,,21,,9.41,-12.634,
+SL050102,3,Chiefdom,Chiefdom,Gbinle Dixing,Gbinle Dixing,gbinle-dixing-sl050102,SL050102,,SL0501,Kambia,Kambia,,,,8,,9.172,-12.933,
+SL050103,3,Chiefdom,Chiefdom,Magbema,Magbema,magbema-sl050103,SL050103,,SL0501,Kambia,Kambia,,,,7,,9.067,-12.896,
+SL050104,3,Chiefdom,Chiefdom,Mambolo,Mambolo,mambolo-sl050104,SL050104,,SL0501,Kambia,Kambia,,,,7,,8.892,-13.031,
+SL050105,3,Chiefdom,Chiefdom,Masungbala,Masungbala,masungbala-sl050105,SL050105,,SL0501,Kambia,Kambia,,,,12,,9.096,-12.779,
+SL050106,3,Chiefdom,Chiefdom,Samu,Samu,samu-sl050106,SL050106,,SL0501,Kambia,Kambia,,,,12,,9.009,-13.138,
+SL050107,3,Chiefdom,Chiefdom,Tonko Limba,Tonko Limba,tonko-limba-sl050107,SL050107,,SL0501,Kambia,Kambia,,,,6,,9.304,-12.59,
+SL0502,2,District,District,Karene,Karene,karene-sl0502,SL0502,,SL05,North Western,North Western,,,8,87,,9.634,-12.341,
+SL050201,3,Chiefdom,Chiefdom,Buya Romende,Buya Romende,buya-romende-sl050201,SL050201,,SL0502,Karene,Karene,,,,12,,8.819,-12.433,
+SL050202,3,Chiefdom,Chiefdom,Dibia,Dibia,dibia-sl050202,SL050202,,SL0502,Karene,Karene,,,,7,,8.938,-12.617,
+SL050203,3,Chiefdom,Chiefdom,Sanda Magbolont,Sanda Magbolont,sanda-magbolont-sl050203,SL050203,,SL0502,Karene,Karene,,,,14,,9.135,-12.569,
+SL050206,3,Chiefdom,Chiefdom,Libeisaygahun,Libeisaygahun,libeisaygahun-sl050206,SL050206,,SL0502,Karene,Karene,,,,17,,8.999,-12.443,
+SL050207,3,Chiefdom,Chiefdom,Sanda Loko,Sanda Loko,sanda-loko-sl050207,SL050207,,SL0502,Karene,Karene,,,,15,,9.437,-12.116,
+SL050208,3,Chiefdom,Chiefdom,Sanda Tendaran,Sanda Tendaran,sanda-tendaran-sl050208,SL050208,,SL0502,Karene,Karene,,,,10,,9.158,-12.324,
+SL050209,3,Chiefdom,Chiefdom,Sella Limba,Sella Limba,sella-limba-sl050209,SL050209,,SL0502,Karene,Karene,,,,7,,9.5,-12.286,
+SL050210,3,Chiefdom,Chiefdom,Tambakha,Tambakha,tambakha-sl050210,SL050210,,SL0502,Karene,Karene,,,,5,,9.708,-12.2,
+SL0503,2,District,District,Port Loko,Port Loko,port-loko-sl0503,SL0503,,SL05,North Western,North Western,,,8,124,,8.646,-12.691,
+SL050301,3,Chiefdom,Chiefdom,Bureh Kasseh Ma,Bureh Kasseh Ma,bureh-kasseh-ma-sl050301,SL050301,,SL0503,Port Loko,Port Loko,,,,16,,8.933,-12.799,
+SL050302,3,Chiefdom,Chiefdom,Kaffu Bullom,Kaffu Bullom,kaffu-bullom-sl050302,SL050302,,SL0503,Port Loko,Port Loko,,,,8,,8.617,-13.167,
+SL050303,3,Chiefdom,Chiefdom,Koya,Koya,koya-sl050303,SL050303,,SL0503,Port Loko,Port Loko,,,,20,,8.43,-12.864,
+SL050304,3,Chiefdom,Chiefdom,Lokomasama,Lokomasama,lokomasama-sl050304,SL050304,,SL0503,Port Loko,Port Loko,,,,14,,8.717,-13.036,
+SL050305,3,Chiefdom,Chiefdom,Maforki,Maforki,maforki-sl050305,SL050305,,SL0503,Port Loko,Port Loko,,,,30,,8.725,-12.719,
+SL050306,3,Chiefdom,Chiefdom,Marampa,Marampa,marampa-sl050306,SL050306,,SL0503,Port Loko,Port Loko,,,,18,,8.676,-12.564,
+SL050307,3,Chiefdom,Chiefdom,Masimera,Masimera,masimera-sl050307,SL050307,,SL0503,Port Loko,Port Loko,,,,12,,8.553,-12.504,
+SL050308,3,Chiefdom,Chiefdom,TMS,TMS,tms-sl050308,SL050308,,SL0503,Port Loko,Port Loko,,,,6,,8.825,-12.619,

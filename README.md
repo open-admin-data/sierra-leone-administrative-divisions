@@ -13,7 +13,7 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/sl](https://openadmindata.org/sl/) |
 | API | [openadmindata.org/api/sl](https://openadmindata.org/api/sl/) |
 

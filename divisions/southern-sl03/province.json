@@ -27,5 +27,9 @@
     "lon": "-12"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sl/provinces/southern-sl03/",
+    "api": "https://openadmindata.org/api/sl/"
+  }
 }

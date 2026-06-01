@@ -27,5 +27,9 @@
     "lon": "-12.64"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sl/provinces/north-western-sl05/",
+    "api": "https://openadmindata.org/api/sl/"
+  }
 }

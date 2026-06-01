@@ -28,7 +28,11 @@
       "lon": "-10.845"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sl/provinces/eastern-sl01/",
+      "api": "https://openadmindata.org/api/sl/"
+    }
   },
   {
     "id": "SL05",
@@ -59,7 +63,11 @@
       "lon": "-12.64"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sl/provinces/north-western-sl05/",
+      "api": "https://openadmindata.org/api/sl/"
+    }
   },
   {
     "id": "SL02",
@@ -90,7 +98,11 @@
       "lon": "-11.478"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sl/provinces/northern-sl02/",
+      "api": "https://openadmindata.org/api/sl/"
+    }
   },
   {
     "id": "SL03",
@@ -121,7 +133,11 @@
       "lon": "-12"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sl/provinces/southern-sl03/",
+      "api": "https://openadmindata.org/api/sl/"
+    }
   },
   {
     "id": "SL04",
@@ -152,6 +168,10 @@
       "lon": "-13.066"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sl/provinces/western-sl04/",
+      "api": "https://openadmindata.org/api/sl/"
+    }
   }
 ]
